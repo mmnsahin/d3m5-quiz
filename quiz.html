@@ -94,7 +94,7 @@
     z-index: 100;
   }
 
-  /* Mobile overlay */
+  /* Mobile overlay — pointer-events:none when hidden so it never blocks taps */
   #sidebar-overlay {
     display: none;
     position: fixed;
@@ -102,9 +102,13 @@
     background: rgba(0,0,0,0.45);
     z-index: 90;
     opacity: 0;
+    pointer-events: none;
     transition: opacity 0.25s;
   }
-  #sidebar-overlay.visible { opacity: 1; }
+  #sidebar-overlay.visible {
+    opacity: 1;
+    pointer-events: auto;
+  }
 
   #search-wrap {
     padding: 12px 14px;
@@ -465,8 +469,6 @@
     }
     aside.open { transform: translateX(0); }
 
-    #sidebar-overlay { display: block; }
-
     main { padding: 16px; }
 
     header { padding: 12px 16px; }
@@ -529,14 +531,23 @@ const overlay  = document.getElementById('sidebar-overlay');
 const toggleBtn = document.getElementById('sidebar-toggle');
 
 function openSidebar() {
-  sidebar.classList.add('open');
-  overlay.classList.add('visible');
+  overlay.style.display = 'block';
+  // Allow display:block to paint before starting opacity transition
+  requestAnimationFrame(() => {
+    sidebar.classList.add('open');
+    overlay.classList.add('visible');
+  });
   document.body.style.overflow = 'hidden';
 }
 function closeSidebar() {
   sidebar.classList.remove('open');
   overlay.classList.remove('visible');
   document.body.style.overflow = '';
+  // Hide overlay after fade-out so pointer-events are truly gone
+  overlay.addEventListener('transitionend', function hide() {
+    overlay.style.display = 'none';
+    overlay.removeEventListener('transitionend', hide);
+  });
 }
 function isMobile() { return window.innerWidth <= 768; }
 
