@@ -503,7 +503,13 @@ function buildSidebar() {
     groups[cat].push(q);
   });
 
-  CATEGORIES.forEach(cat => {
+  // Render known categories + any extra ('Diğer') at the end
+  const allCats = [...CATEGORIES];
+  if (groups['Diğer'] && groups['Diğer'].length > 0) {
+    allCats.push({ label: 'Diğer' });
+  }
+
+  allCats.forEach(cat => {
     const qs = groups[cat.label];
     if (!qs || qs.length === 0) return;
 
