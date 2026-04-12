@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>D3 · M5 — Çıkmış Sorular</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg: #f0f4f8;
+    --surface: #ffffff;
+    --sidebar-bg: #1a2744;
+    --accent: #2e4a8a;
+    --accent-light: #e8eef8;
+    --correct: #1a7f4b;
+    --text: #1c2b3a;
+    --muted: #7a8fa6;
+    --border: #dde4ed;
+    --radius: 14px;
+    --shadow: 0 4px 20px rgba(0,0,0,0.10);
+  }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 20px;
+  }
+
+  header {
+    text-align: center;
+    margin-bottom: 48px;
+  }
+  .logo {
+    font-size: 2.8rem;
+    margin-bottom: 12px;
+  }
+  header h1 {
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: var(--sidebar-bg);
+    letter-spacing: -0.01em;
+  }
+  header p {
+    margin-top: 8px;
+    font-size: 0.95rem;
+    color: var(--muted);
+  }
+
+  .week-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 18px;
+    width: 100%;
+    max-width: 560px;
+  }
+
+  .week-card {
+    background: var(--surface);
+    border: 2px solid var(--border);
+    border-radius: var(--radius);
+    padding: 28px 24px;
+    text-decoration: none;
+    color: var(--text);
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    box-shadow: var(--shadow);
+    transition: border-color 0.2s, transform 0.15s, box-shadow 0.2s;
+    position: relative;
+    overflow: hidden;
+  }
+  .week-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 4px;
+    background: var(--card-color, var(--accent));
+  }
+  .week-card:hover {
+    border-color: var(--card-color, var(--accent));
+    transform: translateY(-3px);
+    box-shadow: 0 8px 28px rgba(0,0,0,0.13);
+  }
+  .week-card.disabled {
+    opacity: 0.45;
+    cursor: not-allowed;
+    pointer-events: none;
+  }
+
+  .week-label {
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--card-color, var(--accent));
+  }
+  .week-title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--sidebar-bg);
+  }
+  .week-subtitle {
+    font-size: 0.8rem;
+    color: var(--muted);
+    line-height: 1.4;
+  }
+  .week-badge {
+    margin-top: 6px;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 3px 10px;
+    border-radius: 20px;
+    width: fit-content;
+  }
+  .week-badge.available {
+    background: #eaf6ef;
+    color: var(--correct);
+    border: 1px solid #b0dfc4;
+  }
+  .week-badge.soon {
+    background: #fff8e6;
+    color: #a06000;
+    border: 1px solid #f0d080;
+  }
+
+  footer {
+    margin-top: 48px;
+    font-size: 0.78rem;
+    color: var(--muted);
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">📚</div>
+  <h1>D3 · Modül 5 — Çıkmış Sorular</h1>
+  <p>Çalışmak istediğin haftayı seç</p>
+</header>
+
+<div class="week-grid">
+
+  <a class="week-card disabled" style="--card-color:#6a9fd8"
+     href="quiz.html?file=d3m5h1_questions.json&hafta=H1">
+    <span class="week-label">Hafta 1</span>
+    <span class="week-title">H1</span>
+    <span class="week-subtitle">GIS Fizyopatoloji &amp; Patoloji</span>
+    <span class="week-badge soon">⏳ Yakında</span>
+  </a>
+
+  <a class="week-card disabled" style="--card-color:#e8854a"
+     href="quiz.html?file=d3m5h2_questions.json&hafta=H2">
+    <span class="week-label">Hafta 2</span>
+    <span class="week-title">H2</span>
+    <span class="week-subtitle">Renal &amp; Üroloji</span>
+    <span class="week-badge soon">⏳ Yakında</span>
+  </a>
+
+  <a class="week-card" style="--card-color:#2e4a8a"
+     href="quiz.html?file=questions.json&hafta=H3">
+    <span class="week-label">Hafta 3</span>
+    <span class="week-title">H3</span>
+    <span class="week-subtitle">GIS · Nefroloji · Farmakoloji · Enfeksiyon</span>
+    <span class="week-badge available">✓ 87 Soru Hazır</span>
+  </a>
+
+  <a class="week-card disabled" style="--card-color:#8b3db8"
+     href="quiz.html?file=d3m5h4_questions.json&hafta=H4">
+    <span class="week-label">Hafta 4</span>
+    <span class="week-title">H4</span>
+    <span class="week-subtitle">Sıvı-Elektrolit &amp; Asit-Baz</span>
+    <span class="week-badge soon">⏳ Yakında</span>
+  </a>
+
+</div>
+
+<footer>
+  Dönem 3 · Modül 5 — Kişisel çalışma aracı
+</footer>
+
+</body>
+</html>

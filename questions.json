@@ -1,0 +1,1916 @@
+[
+  {
+    "id": 1,
+    "question": "Aşağıdakilerden hangisinde öncelikle indirekt hiperbilirubinemi görülmez?",
+    "options": {
+      "a": "Gilbert sendromu",
+      "b": "Ekstravasküler hemoliz",
+      "c": "Kolelithiasis",
+      "d": "İntravasküler hemoliz",
+      "e": "Dubin-Johnson sendromu"
+    },
+    "correct_answer": "e",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "İncelediğimiz \"Hiperbilirubinemi, Sarılık ve Gastrointestinal/Renal Sistem Fizyopatolojisi\" konuları çerçevesinde, çıkmış sorular ve kaynak notları baz alındığında sınavlarda şu tip sorularla karşılaşabilirsiniz:\n1. Sarılığın Klinik Görünürlük Eşiği: Öğrencilerin bilirubin düzeylerinin klinik yansımasını bilip bilmediği test edilir. Örneğin, \"Total Bilirubin kaç mg/dl üzerine çıkınca sarılıktan bahsederiz?\" şeklinde doğrudan bir bilgi sorusu gelebilir. Bu sorunun cevabı kanda 2 mg/dl (genellikle 2-4 mg/dl) eşiğinin aşılmasıdır\n1\nmore_horiz\n.\n2. İndirekt/Prehepatik Hiperbilirubinemi Bulguları: İndirekt bilirubinin suda çözünmeme ve idrara geçememe özelliği üzerinden laboratuvar bulguları sıklıkla sorulur. \"Aşağıdakilerden hangisi indirekt hiperbilirubinemide veya prehepatik sarılıkta görülmez?\" tarzı sorularda doğru cevap genellikle \"İdrarda bilirubin vardır\" veya \"İdrarda bilirubin seviyesi artar\" şıkkı olur\n4\nmore_horiz\n. Çünkü indirekt hiperbilirubinemide idrarda bilirubin bulunmaz, ancak idrarda ürobilinojen artar\n5\n7\n.\n3. Hepatik ve Posthepatik Sarılık Nedenlerinin Ayrımı: Hastalıkların hangi tip sarılık yaptığı sıkça eşleştirilir.\n\"Hangisi posthepatik sarılık sebebi değildir?\" sorusunda seçeneklere pankreas başı kanseri, ampuller adenom, koledokolitiazis gibi safra yolunu tıkayan nedenler konur ve yanlış şık olarak her zaman bir prehepatik sarılık nedeni olan hemolitik anemi istenir\n8\n9\n.\n\"Hangisi hepatik sarılık sebeplerinden biri değildir?\" tarzı bir soruda ise Wilson Hastalığı, siroz, primer biliyer kolanjit gibi hastalıklar verilirken, doğrudan sarılık yapmayan (ancak ilerleyen dönemde siroza dönüşürse komplikasyon olarak yapabilen) Non alkolik steatohepatit (NASH) çeldirici olarak karşınıza çıkabilir\n10\n11\n.\n4. İshal (Diyare) Sınıflandırması ve Mekanizmaları: İshallerin fizyopatolojik mekanizmaları üzerinden doğrudan bilgi veya hastalık eşleştirme soruları sorulur.\n\"Fizyopatolojisine göre ishaller 4 sınıfa ayrılır. Aşağıdakilerden hangisi bu sınıflamaya dahil değildir?\" şeklinde bir soruda inflamatuvar, sekretuvar, osmotik ve motilite bozukluğuna bağlı ishal tipleri (temel fizyopatolojik mekanizmalar) verilir ve cevap olarak \"Diyet ilişkili ishal\" istenir\n12\nmore_horiz\n.\n\"Aşağıdakilerden hangisi osmotik diyareye neden olmaz?\" şeklindeki vaka-mekanizma sorularında laktoz intoleransı, sorbitol kullanımı gibi osmotik etkenler verilirken, bakteriyel toksinlere bağlı sekretuvar diyareye neden olan E. Coli enfeksiyonu doğru yanıt olarak sorulabilir\n16\nmore_horiz\n.\n5. Akut Böbrek Hasarı (ABH) Kriterleri ve Prerenal Bulgular: Böbrek hasarını tespit etmeye yönelik klinik formüller ve bulgular vaka tarzında test edilebilir.\n\"Hastanın bir hafta önceki serum kreatini 0,5 mg/dl ölçülmüş. Şu anki serum kreatinin düzeyinin kaç olması Evre 1 akut böbrek hastalığı tanısı koydurur?\" tarzında, kreatinin değerinde 48 saat içinde 0,3 mg/dl artış olması kriterini bilip bilmediğiniz sorgulanabilir\n19\n20\n.\n\"Aşağıdakilerden hangisi prerenal böbrek yetmezliğinde gözlenen üriner parametre değerlerinden biri değildir?\" tarzı bir soruda, prerenal ABH'de idrar dansitesinin ve ozmolalitesinin yüksek olduğu, FENa ve idrar sodyumunun düşük olduğu verilir; yanlış cevap olarak Renal yetmezlik indeksi > 1 (intrinsik renal hasarı gösteren bir bulgu) istenir\n21\n22\n."
+  },
+  {
+    "id": 2,
+    "question": "Kusma merkezine hangi noktadan sinyal gelmez?",
+    "options": {
+      "a": "Korteks",
+      "b": "Corpus collosum",
+      "c": "Kemoreseptör bölge",
+      "d": "Vestibüler merkez",
+      "e": "İntraabdominal organlar"
+    },
+    "correct_answer": "b",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Bulantı ve Kusma Fizyopatolojisi konusu, refleks arkı mekanizmaları, mide motilitesi ve reseptörler üzerinden sınavlarda farklı formatlarda karşımıza çıkabilir. Kaynaklar ve çıkmış sorular incelendiğinde bu konudan sorulabilecek potansiyel soru tipleri şunlardır:\n1. Kusma Eylemindeki Mekanik ve Kas Hareketleri: Kusma sırasındaki fiziksel basamaklar (öğürme, spazmodik inspiratuvar hareketler vb.) sıklıkla öncüllü veya doğrudan bilgi sorusu olarak gelir.\n\"Kusma oluşum sürecindeki basamaklardan hangisi yanlıştır?\" tarzı bir soruda, diyaframın gevşediği ifadesi sıklıkla yanlış cevap olarak istenir; çünkü kusma esnasında diyafram gevşemez, güçlü bir kontraksiyonla aşağı doğru inerek abdominal basıncı artırır\n1\n2\n.\nAyrıca mide içeriğinin solunum yollarına kaçmasını önlemek için glottisin kapanması ve yumuşak damağın yükselmesi; sindirim kanalında ise pilorun kasılmasına karşılık kardia bölgesinin açılması ve yükselmesi doğru mekanizmalar olup şıklarda çeldirici olarak değiştirilip sorulabilir\n2\n.\n2. Bulantı Sırasında Mide Motilitesi ve Elektriksel Aktivite: Bulantı hissi sırasındaki fizyolojik değişimler bilgi sorusu veya yanlış şık olarak sorulabilir.\n\"Bulantı ile ilgili hangisi yanlıştır?\" sorusunda \"gastrik motilitenin ve ince bağırsak tonusunun azaldığı\" ifadesi yanlış seçenek olarak belirlenir; çünkü bulantı sırasında motilite azalmaz, aksine artar ve antiperistaltizmin etkisiyle kusma eylemi gerçekleşir\n3\n4\n.\nAyrıca midenin normal bazal elektriksel aktivitesinin dakikada 3 olduğu; ancak bulantı sırasında bu aktivitenin taşigastri (artma), bradigastri (azalma) veya dalgalanmalar gösterebileceği spot bir bilgi sorusu olarak sorulabilir\n5\n.\n3. Kusmayı Uyaran Reseptörler ve Kaynakları (Fizyopatoloji-Farmakoloji Entegrasyonu): Bulantı-kusmanın kaynağına (GİS, vestibüler veya kemoterapi) göre rol oynayan reseptörler çaprazlanarak sorulur.\nGastrointestinal kaynaklı bulantı ve kusmalarda ana rolü 5-HT3 (serotonin) reseptörleri üstlenir\n6\n7\n.\nTaşıt tutması (hareket hastalığı) gibi vestibüler sistem kökenli kusmalarda süreçte öncelikle H1 (histamin) ve M1 (muskarinik) reseptörler rol oynar\n8\n.\n\"Kemoterapi ilaçlarının neden olduğu bulantı kusma patogenezinde öncelikle hangi aracılar yer alır?\" şeklinde bir soruda cevap yine Serotonin (5-HT3) veya Nörokinin (NK1, P maddesi) olur\n8\n9\n.\n4. Bulantı ve Kusmanın Organ/Sistem Bazlı Etiyolojisi: Kusmaya yol açan sistemik ve metabolik hastalıkların sınıflandırması eşleştirme olarak sorulabilir.\n\"Aşağıdakilerden hangisi kardiyopulmoner kaynaklı bulantı-kusma nedenidir?\" şeklindeki bir soruda doğru yanıt İnferior Miyokard İnfarktüsü veya Konjestif Kalp Yetmezliği olur\n10\n11\n.\nKusmaya sebep olan SSS bozuklukları arasında intrakraniyal basınç artışı (travma, menenjit, tümör); toksik-metabolik nedenler arasında ise üremi ve diyabetik ketoasidoz bulunduğu vaka sorularında ipucu olarak kullanılarak tanıyı bulmanız istenebilir\n12\n."
+  },
+  {
+    "id": 3,
+    "question": "Hangisi protein malabsorbsiyonu ana nedeni değildir?",
+    "options": {
+      "a": "Bağırsak epitel hasarı",
+      "b": "Hızlı barsak transportu",
+      "c": "Mide hidroklorik asit eksikliği",
+      "d": "İnsülin eksikliği",
+      "e": "Pankreas ekzokrin enzim eksikliği"
+    },
+    "correct_answer": "d",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "İncelediğimiz \"Gastrointestinal Sistem (GİS) Malabsorpsiyon, Diyare ve İnflamatuvar Hastalıkları\" konuları çerçevesinde, çıkmış sorular ve kaynak notları baz alındığında sınavlarda şu tip sorularla karşılaşabilirsiniz:\n1. Malabsorpsiyon Tanı Testleri ve Laboratuvar Bulguları: Sınavlarda hangi testin neyi gösterdiği veya sınır değerleri sıkça eşleştirme veya doğrudan bilgi sorusu olarak gelir.\n\"Yağ malabsorpsiyonunu (steatore) kesin olarak göstermek için dışkıda günlük yağ miktarının referans sınırı nedir?\" (Cevap: >6 gram/gün)\n1\n2\n.\n\"İnce bağırsak emilim fonksiyonunu ve karbonhidrat malabsorpsiyonunu değerlendirmek için hangi test kullanılır?\" (Cevap: D-Xyloz testi)\n3\n4\n.\n\"Ekzokrin pankreas yetmezliğini (örneğin protein malabsorpsiyonunun en sık nedeni) gösteren indirekt/non-invaziv dışkı (gaita) testi hangisidir?\" (Cevap: Fekal elastaz veya kemotripsin)\n5\nmore_horiz\n.\n2. İshal (Diyare) Tiplerinin Ayırıcı Tanısı: Fizyopatolojik mekanizmalar üzerinden ishalin karakteristiğini sorgulayan vaka soruları gelebilir.\n\"Dışkıda ozmotik gap'in yüksek (genellikle >100 mOsm/kg) olduğu, lümende emilemeyen maddelerin bulunduğu ve hastanın aç kalmasıyla ishalin azaldığı durum hangisidir?\" (Cevap: Ozmotik diyare; nedeni laktoz intoleransı veya sorbitol kullanımı olabilir)\n8\nmore_horiz\n.\n\"VİPoma, karsinoid tümör veya E. coli / Kolera gibi bakteriyel toksin enfeksiyonu olan bir hastada görülen, açlıkla geçmeyen ishal tipi hangisidir?\" (Cevap: Sekretuvar diyare)\n11\nmore_horiz\n.\n3. Çölyak Hastalığı (Gluten Sensitif Enteropati) Patolojisi ve Serolojisi: Çölyak hastalığının antikorları ve biyopsi bulguları patoloji ve fizyopatolojide çok önemli bir yer tutar.\n\"Çölyak şüphesi olan bir hastada tarama amacıyla ilk istenecek spesifik serolojik testler nelerdir?\" (Cevap: Anti-doku transglutaminaz (tTG) ve anti-endomisyum (EMA) antikorları)\n15\nmore_horiz\n.\n\"Çölyak hastalığının histopatolojik spektrumunda (Marsh sınıflaması) görülen karakteristik bulgular hangileridir?\" (Cevap: Villus kısalması/atrofisi, kript hiperplazisi ve intraepitelyal lenfosit (İEL) artışı)\n17\nmore_horiz\n.\n4. İnflamatuvar Bağırsak Hastalıklarının (İBH) Karşılaştırması: Crohn Hastalığı ve Ülseratif Kolit arasındaki makroskopik ve mikroskopik farklar vaka sorularının vazgeçilmezidir.\n\"Kolonoskopide 'kaldırım taşı' görünümü, transmural inflamasyon, atlamalı (yamasal) tutulum, lineer/fissüral ülserler ve non-kazeifiye granülom saptanan hastanın tanısı nedir?\" (Cevap: Crohn Hastalığı)\n20\nmore_horiz\n.\n\"Sadece mukozayı ve submukozayı tutan, rektumdan başlayıp proksimale doğru kesintisiz (diffüz) ilerleyen, geniş tabanlı ülserler ve psödopolip oluşumu görülen hastalık hangisidir?\" (Cevap: Ülseratif Kolit)\n22\n23\n.\n5. GİS Kanamaları ve Özofagus Patolojileri: Üst ve alt GİS kanama nedenleri ve ayırt edici bulguları sıklıkla sorgulanır.\n\"Üst gastrointestinal sistem kanamalarının (hematemez veya melena ile başvuran hastada) en sık nedeni nedir?\" (Cevap: Peptik ülser / Gastroduodenal ülser)\n24\nmore_horiz\n.\n\"Şiddetli öğürme ve kusma sonrasında gastroözofageal bileşkede oluşan mukozal yırtıkların yol açtığı kanama tablosu nedir?\" (Cevap: Mallory-Weiss Sendromu)\n26\n27\n."
+  },
+  {
+    "id": 4,
+    "question": "Konstipasyon oluşum mekanizmalarından hangileri doğrudur? (1.Açlık durumunda çekuma ulaşan miktar azalır 2.Lifli diyet çekuma ulaşan miktarı azaltır 3.Megakolonda kolonun propulsif hareketleri bozulmuştur 4.Hipopotasemi kolon hareketlerinin hızlanmasına neden olur 5.Rektoanal bölgede nörolojik bozukluklar defekasyon bozukluklarına neden olabilir)",
+    "options": {
+      "a": "1 2 3 4",
+      "b": "1 2 3 5",
+      "c": "1 2 3 4 5",
+      "d": "1 3 5",
+      "e": "1 3 4 5"
+    },
+    "correct_answer": "d",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": ""
+  },
+  {
+    "id": 5,
+    "question": "Kusma oluşum sürecindeki basamaklardan hangisi yanlıştır?",
+    "options": {
+      "a": "Spazmatik inspirasyonlar gerçekleşir",
+      "b": "Pilor kontrakte olur",
+      "c": "Diyafram kası gevşer",
+      "d": "Gastrik kardia açık ve yükselmiştir",
+      "e": "Abdominal kaslar kasılır"
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Bulantı, Kusma Fizyopatolojisi ve Antiemetik İlaçlar konusu, Dönem 3 Modül 5 sınavlarında hem fizyopatoloji mekanizmaları hem de farmakoloji entegrasyonu üzerinden sıklıkla test edilmektedir. Kaynaklardaki çıkmış sorular incelendiğinde, bu konudan sınavda şu tip sorularla karşılaşabilirsiniz:\n1. Bulantı ve Kusmada Rol Oynayan Reseptörler ve Tetikleyiciler (Fizyopatoloji): Kusmanın kaynağına göre hangi reseptörlerin aktif olduğu sınavlarda sıkça sorulur.\nGastrointestinal kaynaklı: \"Gastrointestinal kaynaklı bulantı ve kusmada ana rolü üstlenen reseptör hangisidir?\" (Cevap: 5-HT3 / Serotonin)\n1\n2\n.\nVestibüler kaynaklı: \"Vestibüler (iç kulak) kökenli bulantı-kusma sürecinde, taşıt tutması gibi durumlarda öncelikle rol alan reseptörler hangileridir?\" (Cevap: H1 ve M1)\n3\n4\n.\nKemoterapiye bağlı: \"Kemoterapi ilaçlarının neden olduğu bulantı kusma patogenezinde öncelikle yer alan aracı hangisidir?\" (Cevap: Serotonin)\n2\n5\n.\n2. Antiemetik İlaçların Etki Mekanizmaları (Farmakoloji): Hangi ilacın hangi reseptörü bloke ederek etki gösterdiği mutlaka bilinmelidir.\n\"Aşağıdaki ilaçlardan hangisinin antiemetik etkinliği NK1 reseptörlerinin blokajından kaynaklanır?\" (Cevap: Aprepitant)\n6\n7\n.\n\"Hareket hastalığında (taşıt tutması) antiemetik olarak kullanılan, H1 veya M1 reseptörlerini hedef alan ilaç hangisidir?\" (Cevap: Skopolamin)\n7\n8\n.\n\"Metoklopramid'in antiemetik etkinliğine aracılık eden reseptör etkileşimleri nelerdir?\" (Cevap: 5-HT3 reseptör blokajı ve Dopamin D2 reseptör blokajı)\n2\n5\n.\n3. Bulantı Sırasındaki Fizyolojik ve Elektriksel Değişimler: Midenin elektriksel aktivitesi ve bulantı hissi sırasındaki değişimler doğrudan sorulabilir.\n\"Midenin bazal elektrik aktivitesi dakikada kaçtır?\" şeklinde spot bir soru gelebilir (Cevap: 3)\n9\n10\n.\n\"Bulantı ile ilgili hangisi yanlıştır?\" sorusunda çeldirici olarak \"Gastrik motilite azalır\" şıkkı verilir. Aksine, bulantı sırasında midenin elektriksel aktivitesi artabilir (taşigastri), azalabilir (bradigastri) veya dalgalanmalar gösterebilir, ancak motilitede genel bir azalma olmaz; antiperistaltik hareketler ile kusmaya hazırlık başlar\n10\n11\n.\n4. Kusma Eyleminin Diğer Basamaklarındaki Çeldiriciler: Daha önce konuştuğumuz \"diyafram kası gevşer\" yanlış şıkkı\n12\n yerine, kusmanın diğer doğru adımları değiştirilerek yeni yanlış şıklar üretilebilir. Örneğin:\n\"Pilor gevşer\" diyebilirler (Yanlıştır, idrar yolu sfinkterleri gibi değil, pilor güçlü bir şekilde kasılır)\n12\n13\n.\n\"Glottis açılır\" diyebilirler (Yanlıştır, mide içeriğinin akciğere kaçmasını önlemek için glottis kapanır ve yumuşak damak yükselir)\n12\n13\n.\n5. Kusma Etiyolojisinin Sınıflandırılması: Kusmaya neden olan hastalıkların mekanizmalara göre sınıflandırılması eşleştirme şeklinde sorulabilir.\nToksik-metabolik nedenler: Üremi, diyabetik ketoasidoz, hiperkalsemi veya ilaçlar\n14\n15\n.\nSantral sinir sistemi nedenleri: İntrakraniyal basınç artışı (tümör, menenjit vb.)\n14\n15\n.\nKardiyopulmoner nedenler (refleks kusma): İnferior miyokard infarktüsü veya konjestif kalp yetmezliği\n15\n. Bu maddeler vaka sorularında ipucu olarak verilebilir."
+  },
+  {
+    "id": 6,
+    "question": "Aşağıdakilerden hangisi sekretuar diyareye neden olur?",
+    "options": {
+      "a": "Bağırsak motilitesinin azalması",
+      "b": "Sıvı alımının artması",
+      "c": "Laktoz intoleransı",
+      "d": "Katı gıda alımının azalması",
+      "e": "E.Coli enfeksiyonu"
+    },
+    "correct_answer": "e",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": ""
+  },
+  {
+    "id": 7,
+    "question": "Bir kadın yemek sonrası karın ağrısıyla geliyor. Ağrı sırta yansıyor ve yatınca artıyor. Hangilerinin yüksek olmasını beklersiniz?",
+    "options": {
+      "a": "Amilaz/lipaz",
+      "b": "ALT/AST",
+      "c": "GGT/ALP",
+      "d": "Troponin"
+    },
+    "correct_answer": "a",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "5. Bu konudan sınavda başka nasıl sorular sorulabilir?\nKarın ağrısına klinik yaklaşım ve gastrointestinal semptomlar konusunda; ağrının niteliği, lokalizasyonu, yansıdığı bölgeler ve ayırıcı tanıya yönelik görüntüleme/muayene bulguları üzerinden farklı sorular türetilebilir. Kaynaklardaki çıkmış sorulara ve ders notlarına göre şu soru tipleriyle karşılaşabilirsiniz:\nAğrının Karakteri ve Başlangıç Şekli:\n\"Epigastriumda hissedilen, dakikalar içinde başlayan keskin-yanıcı tarzda çok şiddetli ağrı deseninde düşünülebilecek klinik tablo hangisidir?\" şeklinde sorulup, cevap olarak Perfore peptik ülser istenebilir\n1\nmore_horiz\n.\n\"Ağrının gelişimi açısından hangi hastalık diğerlerinden farklıdır?\" sorusunda; inflamasyon ve kimyasal irritasyon kaynaklı ağrılar (apandisit, divertikülit, perfore peptik ülser vb.) ile gerilme ve iskemi kaynaklı olan İnce bağırsak obstrüksiyonu karşılaştırılabilir\n1\nmore_horiz\n.\nAğrının Lokalizasyonu ve Yansıması:\n\"Kesin olarak lateralize edilebilen bir abdominal ağrı, innervasyonları tek taraflı olan aşağıdaki hangi organdan köken alabilir?\" sorusu sıklıkla karşınıza çıkabilir. Karın organlarının çoğu bilateral simetrik innervasyona sahip olup ağrıları orta hatta hissedilirken; Böbrek, üreter ve overler tek taraflı innervasyona sahiptir ve ağrıları kesin olarak lateralize edilebilir (sağda veya solda olduğu net söylenebilir)\n6\nmore_horiz\n.\nYansıyan ağrılar üzerinden, \"Kehr belirtisi hangisidir?\" diye sorulup cevap olarak \"Bir tür yansıyan ağrıdır\" (splenik apse veya rüptürde sol omuza yansıyan ağrı) yanıtı istenebilir\n7\n11\n.\n\"Aşağıdakilerden hangisi alt abdomende lokalize ağrı nedenlerinden değildir?\" denilerek sistit, apandisit, divertikülit ve pelvik inflamatuvar hastalık gibi alt batın nedenlerinin arasına Portal ven trombozu gibi alakasız veya farklı lokalizasyonlu bir seçenek konulabilir\n2\n12\n.\nÖzel Fizik Muayene Bulguları:\nKarın muayenesine dair spesifik belirtiler yoklanabilir. Örneğin sağ üst kadranda Murphy belirtisi (akut kolesistit) veya sol alt kadrana derin palpasyon yapıp el çekildiğinde sağ alt kadranda ağrı hissedilmesi olan Rovsing belirtisi (akut apandisit) sorulabilir\n13\n.\nAlarm Semptomlarının Varlığı:\nKarın ağrısı veya dispepsi ile gelen hastada alarm semptomlarının bilinmesi çok önemlidir. \"Aşağıdakilerden hangisi dispepsi alarm semptomlarından değildir?\" sorusunda anemi, disfaji, odinofaji, GİS kanaması ve sebebi bilinmeyen kilo kaybı gibi şıkların arasına çeldirici olarak Obezite eklenebilir\n14\nmore_horiz\n.\nAyırıcı Tanıda Görüntüleme Yöntemleri Seçimi:\nHassas hasta gruplarına radyolojik yaklaşım sorgulanabilir. Örneğin, \"Akut apandisit düşünülen gebe kadında ilk uygulanacak görüntüleme yöntemi hangisi olmalıdır?\" sorusunun cevabı radyasyon içermeyen Ultrasonografi (USG) olacaktır\n18\n19\n."
+  },
+  {
+    "id": 8,
+    "question": "Hangisi akut ishal fizik muayene bulgularından değildir?",
+    "options": {
+      "a": "Bağırsak hareketlerinde azalma",
+      "b": "Karında palpasyon ile hassasiyet",
+      "c": "Ateş",
+      "d": "Taşikardi",
+      "e": "Deri turgorunda azalma"
+    },
+    "correct_answer": "a",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "5. Bu konudan sınavda başka nasıl sorular sorulabilir?\nGastrointestinal sistem muayenesi, ishal (diyare) ve kabızlık (konstipasyon) konuları üzerinden sınavlarda geçmiş yıllara bakıldığında şu soru tipleri ve alt başlıklar sıklıkla karşınıza çıkabilir:\nİshalin Fizyopatolojik Sınıflandırması: İshallerin mekanizmalarına göre ayrımı mutlaka sorgulanır. \"Fizyopatolojisine göre ishaller 4 sınıfa ayrılır. Aşağıdakilerden hangisi bu sınıflamaya dahil değildir?\" şeklinde sorulup (doğru sınıflar: Sekretuvar, Osmotik, İnflamatuvar, Motilite bozukluğuna bağlı ishal), çeldirici olarak şıklara \"Diyet ilişkili ishal\" veya \"Enfeksiyöz tip ishal\" konulabilir\n1\n,\n2\n,\n3\n,\n4\n,\n5\n.\nİshal Tiplerinin (Osmotik/Sekretuvar) Etyolojisi: Hangi ishal tipine hangi durumun yol açtığı vaka veya doğrudan bilgi sorusu olarak gelebilir. Örneğin, \"Aşağıdakilerden hangisi osmotik diyareye neden olmaz?\" sorusunda Laktoz intoleransı, sorbitol kullanımı ve lifli yiyecek tüketimi gibi osmotik ajanların arasına, sekretuvar ishale veya enfeksiyona yol açan \"S. Aureus enfeksiyonu\" ya da \"E. Coli enfeksiyonu\" eklenebilir\n6\n,\n7\n,\n8\n,\n9\n,\n10\n.\nKarın Muayenesi Sırası ve Kuralları: GİS fizik muayenesinin kendine has özellikleri sıkça test edilir. \"Karın muayenesinde hangi sıra doğrudur?\" sorusunun cevabı standart muayeneden farklı olarak İnspeksiyon - Oskültasyon - Palpasyon - Perküsyon şeklinde istenir\n11\n,\n12\n,\n13\n. Ayrıca \"Gastrointestinal muayene için hangisi yanlıştır?\" denilerek çeldirici şık olarak \"Hastanın mutlaka sol tarafında olunmalıdır\" verilir (doğrusu sağ tarafta olunmasıdır)\n14\n,\n15\n,\n16\n.\nAkut/Kronik İshal Tanımları ve Ayırıcı Tanı: Süreler ve temel ayırıcı laboratuvar bulguları sorulabilir. \"İshal ile ilgili aşağıdaki ifadelerden hangisi yanlıştır/doğrudur?\" tarzı sorularda, \"Süresi 4 haftadan uzun olan ishaller kronik diare olarak tanımlanır\" bilgisi veya dışkı analizinde Osmotik Gap değerinin yorumlanması sınanabilir (Örn: Osmotik ishallerde gap yüksektir, sekretuvar ishallerde ise <50 mOsm/kg'dır)\n17\n,\n18\n,\n19\n,\n20\n.\nKabızlık (Konstipasyon) Nedenleri ve Hücresel Temeli: İshalin tam zıttı olan kabızlık mekanizmaları sorulabilir. \"Barsak yavaş dalgalarının oluşması, düz kas eksitabilitesi, enterik nöral aktivitenin modülasyonunda rol alan ve konstipasyonlu hastalarda kolon duvarında azalmış olarak saptanan yapı hangisidir?\" sorusunun cevabı olarak Cajal'ın interstisyel hücreleri istenebilir\n21\n,\n22\n,\n23\n. Ayrıca kabızlığın kolorektal kaynaklı nedenleri (örn. Rektosel, tümör, volvulus) ile kolorektal dışı sistemik nedenleri (örn. Hipotiroidi, Parkinson, İlaçlar) arasında ayrım yapmanız istenebilir\n24\n,\n25\n,\n26\n."
+  },
+  {
+    "id": 9,
+    "question": "Aşağıdakilerden hangisi yanlıştır? (Malabsorbsiyon testleri)",
+    "options": {
+      "a": "Dışkıda yağ miktarı >6 gram/gün üstünde olması yağ malabsorbsiyonunu düşündürür",
+      "b": "Fekal elastaz ekzokrin pankreas yetmezliğini gösteren indirekt testlerden birisidir",
+      "c": "Gaitada gizli kan için en kolay ve pratik test guaiac testidir",
+      "d": "Çölyak Hastalığı için serolojik olarak anti Saccaromyces cerevisiae (ASCA) ve pANCA bakılır"
+    },
+    "correct_answer": "d",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "\"Alt Üriner Sistem Hastalıklarına Klinik Yaklaşım\" konusu ve ders notlarında vurgulanan (özellikle \"Hocamız vurguladı\", \"Mutlaka yapıyoruz/dışlıyoruz\" şeklinde belirtilen) noktalar göz önüne alındığında, sınavda şu soru tipleri ve konseptler karşınıza çıkabilir:\n1. Üroflowmetri ve İleri Ürodinamik Testlerin Ayrımı:\nSoru Örneği: \"Üroflowmetri testi ile idrar akım hızı düşük saptanan bir hastada, bu düşüklüğün kesin nedenini (çıkım obstrüksiyonu mu yoksa zayıf detrüsör kasılması mı olduğunu) ayırt etmek için hangi inceleme yapılmalıdır?\"\nBeklenen Cevap: Basınç-akım çalışması (veya İleri/İnvaziv Ürodinamik testler)\n1\n2\n.\nNeden Sorulur? Derste üroflowmetrinin idrar akım hızının düşük olduğunu gösterebildiği, ancak altta yatan nedeni (tıkanıklık veya kas zayıflığı) tek başına tespit edemediği özellikle vurgulanmıştır\n1\n.\n2. İdrar Kaçırma (İnkontinans) Tiplerinin Klinik Ayrımı:\nSoru Örneği: \"Öksürme, gülme, ağır kaldırma veya merdiven çıkma gibi karın içi basıncının arttığı durumlarda istemsiz idrar kaçıran bir kadın hastada en olası idrar kaçırma tipi nedir ve fizik muayenede hangi testle doğrulanır?\"\nBeklenen Cevap: Stres tipi idrar kaçırma / Stres testi (Mesane doluyken hastanın öksürtülerek üretradan idrar kaçağının gözlemlenmesi)\n3\nmore_horiz\n.\n3. Aşırı Aktif Mesane (AAM) Tanı Kriterleri:\nSoru Örneği: \"Aşırı aktif mesane (AAM) sendromu tanısı koyabilmek için, hastanın sıkışma (urgency), noktüri ve pollaküri gibi şikayetlerine hangi durumun eşlik etmemesi (dışlanması) şarttır?\"\nBeklenen Cevap: Üriner sistem enfeksiyonu (İYE) veya altta yatan başka belirgin bir nedenin olmaması\n6\n.\nNeden Sorulur? AAM'nin bir \"semptom tanısı\" olduğu ve enfeksiyon veya patoloji yokluğunda bu tanının konulduğu derste belirtilmiştir\n6\n.\n4. Alt Üriner Sistemin İnnervasyonu:\nSoru Örneği: \"Alt üriner sistemin depolama fazında, mesane gövdesindeki relaksasyonu (gevşemeyi) ve mesane çıkımının kasılarak idrarın tutulmasını sağlayan baskın otonomik sinir sistemi ve ilgili sinir hangisidir?\"\nBeklenen Cevap: Sempatik sinir sistemi / Hipogastrik sinir (T10-L2)\n7\n.\n5. Mesane Günlüğü (Miksiyon Çizelgesi) ve Nokturnal Poliüri:\nSoru Örneği: \"Gece sık idrara çıkma şikayeti olan bir hastada 'nokturnal poliüri' tanısı konabilmesi için, hastanın miksiyon çizelgesinde gece çıkardığı idrar hacmi 24 saatlik toplam idrarın en az yüzde kaçı olmalıdır?\"\nBeklenen Cevap: %33 veya daha fazlası\n8\n9\n. Bu tanının konması ve ADH (desmopressin) tedavisi planlanması için mesane günlüğü şarttır\n9\n.\n6. Depolama ve Boşaltma Semptomlarının Sınıflandırılması:\nSoru Örneği: \"Aşağıdakilerden hangisi alt üriner sistemin boşaltım (işeme) fazı ile ilgili belirtilerden biri değildir?\"\nA) Çatallı idrar akımı\nB) İdrara geç başlama\nC) Terminal damlama\nD) Sıkışma (Urgency)\nE) Kesintili idrar akımı\nBeklenen Cevap: D şıkkıdır. Sıkışma (urgency), noktüri ve pollaküri idrarın depolanması ile ilgili belirtilerken; diğer şıklar idrarın boşaltılması ile ilgili belirtilerdir\n3\n10\n."
+  },
+  {
+    "id": 10,
+    "question": "Aşağıdakilerden hangisinde öncelikle direkt hiperbilirubinemi görülür?",
+    "options": {
+      "a": "Pernisiyöz anemi",
+      "b": "Femur fraktürleri",
+      "c": "Kurşun zehirlenmesi",
+      "d": "Alfa-1 antitripsin eksikliği",
+      "e": "Uygunsuz kan transfüzyonu"
+    },
+    "correct_answer": "d",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sarılık, hiperbilirubinemi ve karaciğer fonksiyon testleri konusu bağlamında, çıkmış sorular ve ders notları incelendiğinde sınavda karşınıza çıkabilecek diğer potansiyel soru tipleri şunlardır:\nSoru Tipi 1: Sarılık Sınıflandırması (Prehepatik, Hepatik, Posthepatik):\nSınavda \"Aşağıdakilerden hangisi posthepatik (tıkanma) sarılık sebebi değildir?\" şeklinde bir soru gelip, çeldirici olarak Hemolitik anemi verilebilir (çünkü hemolitik anemi prehepatik sarılık nedenidir)\n1\nmore_horiz\n.\nAynı mantıkla, \"Aşağıdakilerden hangisi hepatik sarılık sebeplerinden biri değildir?\" denilerek şıklar arasından Safra taşı (posthepatik nedendir) yanıtı istenebilir\n4\n5\n.\nSoru Tipi 2: İndirekt Hiperbilirubinemi Yapan / Yapmayan Durumlar:\nSınavların en popüler sorularından biri \"Aşağıdakilerden hangisinde öncelikle indirekt hiperbilirubinemi görülmez?\" sorusudur\n6\n. Şıklara ekstravasküler hemoliz, Gilbert sendromu, kolelitiazis gibi durumlar konulurken, doğru cevap olarak direkt hiperbilirubinemi yapan Dubin-Johnson sendromu aranır\n6\n7\n.\nSoru Tipi 3: Sarılıkta İdrar ve Dışkı Bulguları:\nHem hepatosellüler hasar (direkt) hem de prehepatik (indirekt) sarılık tabloları üzerinden idrar bulguları test edilir. Örneğin \"Prehepatik sarılık için hangisi doğru değildir?\" sorusunun yanıtı \"İdrarda bilirubin seviyesi artar\" veya \"İdrarda ürobilinojen azalır\" ifadeleridir\n8\nmore_horiz\n. Doğrusu, prehepatik sarılıkta idrarda bilirubin bulunmazken, ürobilinojen düzeyinin artmasıdır\n9\n11\n.\nAyrıca \"Hepatosellüler hasar sonucu oluşan direkt hiperbilirubinemide hangisi saptanmaz?\" denilerek, yanlış bir bilgi olan \"İdrarda bilirubin saptanmaz\" şıkkı doğru cevap olarak verilebilir\n12\n13\n.\nSoru Tipi 4: Karaciğer Enzimleri ve Kolestaz Belirteçleri:\nLaboratuvar testleri üzerinden \"Aşağıdaki testlerden hangisi kolestazı göstermek için kullanılır?\" şeklinde sorulup cevap olarak Alkalen Fosfataz (ALP) ve GGT (Gama Glutamil Transferaz) ikilisi istenebilir\n14\nmore_horiz\n.\nSoru Tipi 5: Karaciğer Sentez Kapasitesini Gösteren Testler:\n\"Karaciğer sentez fonksiyonları bozukluğunda en doğru tanı hangisi ile konur?\" sorusu sıklıkla karşınıza çıkar; bunun cevabı Protrombin zamanı (PTZ) veya Serum Albümin düzeyidir\n17\nmore_horiz\n.\nAyrıca enzimlerle ilgili \"Karaciğer hastalıklarında AST'de yükselme ALT'ye göre daha spesifiktir\" cümlesi yanlış bir ifade olarak sıkça şıklara konulur, çünkü karaciğere daha spesifik olan enzim ALT'dir\n17\n20\n.\nSoru Tipi 6: Klinik Sarılık Sınırı:\nPratik bir bilgi olarak \"Total bilirubin kaç mg/dL üzerine çıkınca sarılıktan (gözle görülür ikter) bahsederiz?\" sorusu gelip, cevap olarak 2 mg/dL (veya klinik sınır olan 2-4 mg/dL) istenebilir\n21\nmore_horiz\n."
+  },
+  {
+    "id": 11,
+    "question": "Gastrointestinal kaynaklı bulantı ve kusmada ana rolü üstlenen reseptör aşağıdakilerden hangisidir?",
+    "options": {
+      "a": "5-HT3",
+      "b": "D2",
+      "c": "M1",
+      "d": "NK1",
+      "e": "H1"
+    },
+    "correct_answer": "a",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": ""
+  },
+  {
+    "id": 12,
+    "question": "Aşağıdakilerden hangisi sirozdaki asit patofizyolojisinde rol oynamaz?",
+    "options": {
+      "a": "Hipoalbuminemi",
+      "b": "Renin-anjiyotensin aktivasyonu",
+      "c": "Hiperbilirubinemi",
+      "d": "Su-tuz tutulumu",
+      "e": "Splanik vazodilatasyon"
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "5. Bu konudan sınavda başka nasıl sorular sorulabilir?\nSiroz, asit (assit) patofizyolojisi ve ödem mekanizmaları çıkmış sorularda sıkça test edilen bir alandır. Kaynaklardaki benzer sorular incelendiğinde bu konu etrafında sınavda şu şekilde sorular karşınıza çıkabilir:\nSoru Tipi 1: SAAG (Serum-Asit Albümin Gradiyenti) Değerlendirmesi: Sınavda asit sıvısının kaynağını ayırt etmek için sıklıkla SAAG değeri sorulur. Örneğin; \"Aşağıdakilerden hangisinde SAAG > 1.1'dir?\" şeklinde bir soru yöneltilip doğru cevap olarak Siroz (veya kalp yetmezliği gibi portal hipertansiyon yapan diğer nedenler) istenebilir\n1\n2\n.\nSoru Tipi 2: Asit ve Ödemin Klinik Birlikteliği: Hastanın fizik muayene bulguları üzerinden \"Belirgin assiti ve minimal periferik ödemi olan bir hastada aşağıdaki tanılardan hangisi en olasıdır?\" sorusu sorulup cevap olarak yine Karaciğer Sirozu şıkkı aranabilir\n3\n. Ayrıca \"En sık assit nedeni aşağıdakilerden hangisidir?\" sorusunun yanıtı da Dekompanse karaciğer hastalığı / Siroz olacaktır\n4\n5\n.\nSoru Tipi 3: Hipoalbüminemi ve Ödem Patofizyolojisi: Sirozda asit gelişiminin temel nedenlerinden olan onkotik basınç düşüklüğü farklı bir soru köküyle karşınıza çıkabilir: \"Kapiller içi onkotik basınç azalmasına bağlı gelişen yaygın ödem için aşağıdakilerden hangisi doğru değildir?\" sorusunun yanlış (ve dolayısıyla işaretlenmesi gereken) cevabı \"Etkin arteriyel kan volümü sıklıkla artmıştır\" şıkkıdır\n6\nmore_horiz\n. Çünkü albümin düşüklüğünde sıvı damar dışına kaçtığı için etkin arteriyel volüm artmaz, tam tersine azalır ve bu da RAAS aktivasyonunu tetikler\n7\n8\n. Buna ek olarak \"Yaygın ödemin ayırıcı tanısında ilk olarak bilinmesi gereken laboratuvar incelemesi nedir?\" diye sorulursa cevap Serum albümin düzeyi olmalıdır\n9\nmore_horiz\n.\nSoru Tipi 4: Sirozun Fizik Muayene Bulguları (Organomegali): Sirozun karaciğer ve dalak üzerindeki etkileri şaşırtmacalı olarak sorulabilir. \"Aşağıdakilerden hangisi masif splenomegali nedeni değildir?\" sorusunda çeldirici olarak Siroz verilir; çünkü siroz portal hipertansiyona bağlı splenomegali yapsa da \"masif\" (çok devasa) bir büyümeye neden olmaz\n12\n13\n. Benzer şekilde \"Aşağıdaki klinik tablolardan hangisi hepatomegaliye yol açmaz?\" sorusunun yanıtı da Siroz'dur, çünkü sirotik evrede karaciğer diffüz olarak büzüşür ve küçülür\n14\n15\n.\nSoru Tipi 5: Sirozun Patolojik Özellikleri: Patoloji bilgisiyle harmanlanarak \"Siroz ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?\" şeklinde bir soruda, \"Parankim hasarı ve fibrozis karaciğerde segmental tutulum gösterir\" ifadesi yanlış cevap olarak istenebilir\n16\n17\n. Sirozda tutulum segmental (bölgesel) değil, diffüzdür (tüm karaciğeri yaygın tutar)\n17\n18\n."
+  },
+  {
+    "id": 13,
+    "question": "Aşağıdakilerden hangisi osmotik diyareye neden olmaz?",
+    "options": {
+      "a": "Laktoz intoleransı",
+      "b": "Galaktoz malabsorsiyonu",
+      "c": "E. Coli enfeksiyonu",
+      "d": "Lifli yiyeceklerin tüketilmesi",
+      "e": "Sorbitol kullanımı"
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": ""
+  },
+  {
+    "id": 14,
+    "question": "Karın organlarının çoğunluğu bilateral simetrik innervasyona sahiptirler ve ağrıları çoğunlukla orta hatta hissedilir. Kesin olarak lateralize edilebilen bir abdominal ağrı, innervasyonları tek taraflı olan aşağıdaki hangi organdan köken alabilir?",
+    "options": {
+      "a": "Karaciğer",
+      "b": "Pankreas",
+      "c": "Dalak",
+      "d": "Böbrek",
+      "e": "Appendiks"
+    },
+    "correct_answer": "d",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "En son üzerinde konuştuğumuz \"Karın Ağrısı Lokalizasyonu, Visseral/Parietal Ağrılar ve İnnervasyon\" konusu, sınavlarda oldukça geniş bir yelpazede ve farklı vaka kurgularıyla test edilmektedir. Kaynaklarınızdaki çıkmış sorulara ve ders notlarına göre bu konudan şu soru tipleriyle karşılaşabilirsiniz:\n5. Bu konudan sınavda başka nasıl sorular sorulabilir?\nSoru Tipi 1: Yansıyan Ağrılar ve Belirtileri Visseral ağrıların uzak bir bölgede hissedilmesi (yansıyan ağrı) sınavlarda özel isimleriyle sorulur.\nÖrnek Soru: \"Kehr belirtisi hangisidir?\" (M5-2026-53, M5-2024-83)\nCevap: Bir tür yansıyan ağrıdır\n1\n2\n. (Not: Kehr belirtisi, dalak rüptürü veya apsesinde kanın diyaframı irrite etmesiyle sol omuzda hissedilen yansıyan ağrıdır\n3\n).\nSoru Tipi 2: Ağrının Gelişim Mekanizması (İskemik vs. İnflamatuvar) Karın ağrısına yol açan fizyopatolojik mekanizmanın (gerilme, iskemi, inflamasyon) farkı test edilebilir.\nÖrnek Soru: \"Ağrının gelişimi açısından hangi hastalık diğerlerinden farklıdır?\" (M5-2024-55)\nCevap: İnce bağırsak obstrüksiyonu\n4\n5\n. (Çünkü apandisit, kolesistit ve divertikülit gibi durumlarda inflamasyon ve kimyasal irritasyon varken; ince bağırsak obstrüksiyonunda gerilme ve iskemi tipinde bir ağrı söz konusudur\n6\n7\n).\nSoru Tipi 3: Ağrı Karakterine ve Lokalizasyona Göre Vaka Soruları Ağrının şiddeti, başlama süresi ve yayılımı üzerinden spesifik organ patolojileri istenir.\nÖrnek Soru 1: \"Aşağıdakilerden hangisi epigastriumda hissedilen dakikalar içinde başlayan keskin-yanıcı tarzda çok şiddetli ağrı deseninde düşünülebilecek klinik tablodur?\"\nCevap 1: Perfore peptik ülser\n8\n9\n.\nÖrnek Soru 2: \"31 yaşında kadın hasta yemekten sonra başlayan... sırta vuran epigastrik ağrı ile acile başvuruyor. Ağrısı sırt üstü uzanınca artıyor. Ayırıcı tanıya ulaşmak için neleri öncelikli istersiniz?\" (Akut pankreatit vakası)\nCevap 2: Serum Amilaz ve Lipaz\n10\nmore_horiz\n.\nSoru Tipi 4: Visseral Ağrının Fizyolojik Özellikleri ve Nöropeptitler Ağrının sinirsel iletimi ve özellikleri \"hangisi yanlıştır\" formatında sorulur.\nÖrnek Soru 1: \"Visseral ağrılarla ilgili aşağıdakilerden hangisi yanlıştır?\"\nCevap 1: İyi lokalize edilir çünkü reseptör yoğunluğu daha fazladır. (Tam tersine, visseral ağrı iyi lokalize edilemez, künttür ve derinde orta hatta hissedilir\n14\n15\n).\nÖrnek Soru 2: \"Aşağıdakilerden hangisi kronik açıklanamayan ağrı... rol oynayan stimülatör nöropeptitlerden değildir?\"\nCevap 2: Gama aminobütirik asit (GABA)\n16\n17\n. (P maddesi, glutamat ve nörokininler ağrıyı stimüle ederken GABA inhibitördür\n17\n18\n).\nSoru Tipi 5: Organik - Fonksiyonel Ağrı Ayrımı (Kırmızı Bayraklar) Karın ağrısının organik mi (ciddi bir patoloji) yoksa fonksiyonel mi (İrritabl bağırsak sendromu vb.) olduğunu ayırt ettiren özellikler test edilebilir.\nSoru Potansiyeli: Sınavda kronik karın ağrısında \"kırmızı bayrak\" (tehlike) işaretleri sorulabilir. Özellikle \"uykudan uyandıran ağrı\", ateş, sarılık, kilo kaybı ve gaita/idrarda kan olması organik karın ağrısı düşündüren çok önemli bulgulardır\n19\n20\n.\nSoru Tipi 6: Karın Muayene (Palpasyon) Bulguları Hastalıkların spesifik fizik muayene isimleri eşleştirme veya vaka sorusu olarak gelebilir\n21\n.\nSağ üst kadranda palpasyonla saptanan ve nefes almayı kesen pozitif bulgu tarif edilip Murphy belirtisi (Akut kolesistit) sorulabilir\n21\n.\nSol alt kadrana derin bası uygulandığında sağ alt kadranda ağrı hissedilmesi tarif edilip Rovsing belirtisi (Akut apandisit) sorulabilir\n21\n."
+  },
+  {
+    "id": 15,
+    "question": "Kehr belirtisi hangisidir?",
+    "options": {
+      "a": "Karnın yan tarafındaki morluktur",
+      "b": "Bir tür yansıyan ağrıdır",
+      "c": "Göbekteki sert nodüler yapıdır",
+      "d": "Göbek çevresinde duyulan üfürümdür",
+      "e": "Göbek çevresinde gözlenen genişlemiş damarsal yapılardır"
+    },
+    "correct_answer": "b",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Gönderdiğiniz güncel çıkmış sorular ve konu notları ışığında, \"Karın Ağrısı, Karın Muayenesi ve GİS Semptomları\" konusu sınavda oldukça zengin bir vaka ve bilgi havuzundan test edilmektedir. Bu konudan karşınıza çıkabilecek diğer soru tipleri şunlardır:\n5. Bu konudan sınavda başka nasıl sorular sorulabilir?\nSoru Tipi 1: Vaka Üzerinden Ağrı Karakteri ve Hastalık Eşleştirmesi Sınavlarda hastanın ağrısının başlama şekli, şiddeti ve yayılımı verilerek ön tanı veya istenecek tetkik sorulabilir.\nÖrnek Soru 1: \"Epigastriumda hissedilen, dakikalar içinde başlayan keskin-yanıcı tarzda çok şiddetli ağrı deseninde düşünülebilecek klinik tablo hangisidir?\"\n1\n2\n.\nCevap 1: Perfore peptik ülser\n1\n2\n.\nÖrnek Soru 2: \"Yemekten sonra başlayan, azalmayan, şiddetli bulantı ve kusma ile beraber sırta vuran epigastrik ağrı ile acile başvuran (ağrısı sırt üstü uzanınca artan) hastada ayırıcı tanı için öncelikli olarak ne istersiniz?\"\n3\n4\n.\nCevap 2: Serum Amilaz ve Lipaz (Akut pankreatit şüphesiyle)\n3\n4\n.\nSoru Tipi 2: Ağrının Gelişim Mekanizmasına Göre Sınıflandırma Ağrının inflamatuvar (kimyasal irritasyon) mu yoksa gerilme/iskemik mi olduğu kıyaslatılabilir.\nÖrnek Soru: \"Ağrının gelişimi açısından hangi hastalık diğerlerinden farklıdır? (Şıklar: Apandisit, Kolesistit, Divertikülit, Gastroenterit, İnce bağırsak obstrüksiyonu)\"\n5\n6\n.\nCevap: İnce bağırsak obstrüksiyonu\n5\n6\n. (Çünkü diğerleri inflamatuvar iken, bu iskemik ve gerilmeye bağlı bir ağrıdır\n7\n8\n).\nSoru Tipi 3: Visseral Ağrının Özellikleri Organların gerilmesiyle oluşan visseral ağrının iletimi ve özellikleri test edilebilir.\nÖrnek Soru: \"Visseral ağrılarla ilgili aşağıdakilerden hangisi yanlıştır?\"\n9\n.\nCevap: \"İyi lokalize edilir çünkü reseptör yoğunluğu daha fazladır.\"\n9\n. (Yanlıştır, çünkü visseral ağrılar orta hatta, derinde hissedilir ve hasta tarafından künt/batıcı olarak tarif edilip iyi lokalize edilemezler\n9\n10\n).\nSoru Tipi 4: Karın Muayene Sırası ve Görüntüleme Prensipleri Karın muayenesinin temel kuralı ve özel durum (gebelik vb.) yaklaşımları sorulabilir.\nÖrnek Soru 1: \"Karın muayenesinde hangi sıra doğrudur?\"\n11\n12\n.\nCevap 1: İnspeksiyon - Oskültasyon - Palpasyon - Perküsyon\n11\n12\n. (Oskültasyonun palpasyondan önce yapılması bağırsak seslerinin yanıltıcı olmaması için GİS muayenesine özel bir durumdur\n13\n).\nÖrnek Soru 2: \"Akut apandisit düşünülen gebe kadında ilk uygulanacak görüntüleme yöntemi hangisi olmalıdır?\"\n14\n15\n.\nCevap 2: Ultrasonografi (USG)\n14\n15\n.\nSoru Tipi 5: Karın Muayenesindeki Özel Belirtiler (Ekimozlar) Kehr belirtisi (yansıyan ağrı) gibi, karın bölgesindeki diğer özel fizik muayene bulguları da sorulabilir.\nÖrnek Soru: \"Cullen belirtisi hangisinde görülür?\"\n16\n.\nCevap: Akut pankreatit\n16\n.\nSoru Tipi 6: Kronik Karın Ağrısı Nöropeptitleri Kronik ağrıların iletiminde rol alan uyarıcı ve durdurucu moleküllerin ayrımı sorulabilir.\nÖrnek Soru: \"Aşağıdakilerden hangisi kronik açıklanamayan ağrı, tekrarlayan stimulusa cevapta rol oynayan stimülatör (uyarıcı) nöropeptitlerden değildir?\"\n17\n18\n.\nCevap: Gama aminobütirik asit (GABA)\n17\n18\n. (Çünkü GABA inhibitör bir nöropeptittir)."
+  },
+  {
+    "id": 16,
+    "question": "Aşağıdakilerden hangisi protein malabsorpsiyonunun en önemli nedenidir?",
+    "options": {
+      "a": "Hidroklorik asit eksikliği",
+      "b": "Pankreatik ekzokrin fonksiyon eksikliği",
+      "c": "İnsülin eksikliği",
+      "d": "Hızlı barsak transportu durumu",
+      "e": "Fitatlarla beslenme"
+    },
+    "correct_answer": "b",
+    "explanation": "Bu soru, malabsorbsiyon (emilim bozukluğu) fizyopatolojisinde protein sindiriminin en kritik basamağını sorgulayan, yıllarca tekrar tekrar sorulmuş çok klasik bir sorudur. Vücudumuzda proteinlerin sindirimi midede başlasa da, asıl majör ve sonlandırıcı sindirim ince bağırsakta gerçekleşir. İnce bağırsağa gelen proteinleri yıkmak için pankreastan salgılanan tripsin, kimotripsin, elastaz ve karboksipeptidaz gibi güçlü proteolitik enzimler görev yapar. Eğer bu enzimler bağırsağa ulaşılamazsa (pankreatik ekzokrin fonksiyon eksikliği), proteinler yeterince parçalanamaz ve bağırsaktan emilemeyerek malabsorpsiyona neden olur.",
+    "option_analysis": {
+      "a": "Midede hidroklorik asit eksikliği (aklorhidri) pepsinojenin pepsine dönüşmesini ve midedeki protein ön sindirimini bozar. Ancak bu tablo ciddi bir protein malabsorpsiyonuna yol açmaz, çünkü asıl yükü çeken ince bağırsaktaki pankreatik enzimler bu açığı rahatlıkla kapatabilir.",
+      "b": "Doğru cevap. İnce bağırsakta protein yıkımından sorumlu temel enzimlerin (tripsin, kimotripsin vb.) eksikliği telafi edilemez bir açık oluşturur ve protein malabsorpsiyonunun en önemli sebebidir.",
+      "c": "İnsülin, endokrin pankreas tarafından salgılanır ve glukoz (karbonhidrat) metabolizmasını düzenler. Ekzokrin sistemle veya proteinlerin luminal sindirimi ile birincil bir ilişkisi yoktur.",
+      "d": "Gıdaların mukoza ile temas süresini azalttığı için genel bir malabsorpsiyona yol açabilse de, sorunun aradığı \"en spesifik ve en önemli\" protein sindirim eksikliği sebebi pankreas kaynaklıdır.",
+      "e": "Bitkisel gıdalarda bulunan fitatlar genellikle demir, çinko, kalsiyum gibi minerallerin emilimini engeller. Protein malabsorpsiyonu ile doğrudan primer bir ilişkileri yoktur."
+    },
+    "terms": [
+      {
+        "term": "Malabsorpsiyon",
+        "definition": "Besin öğelerinin (protein, karbonhidrat, yağ, vitamin, mineral ve su) lümendeki sindirim, transepitelyal transport veya mukozal hasar gibi nedenlerle yetersiz emilmesi durumu."
+      },
+      {
+        "term": "Ekzokrin Pankreas",
+        "definition": "Pankreasın sindirim enzimleri (lipaz, amilaz, tripsinojen vb.) ve bikarbonat sentezleyerek bir kanal sistemiyle (Wirsung kanalı) duodenuma boşaltan kısmı."
+      },
+      {
+        "term": "Aklorhidri",
+        "definition": "Midede paryetal hücrelerden hidroklorik asit salınımının çeşitli nedenlerle olmaması durumu."
+      }
+    ],
+    "subtopics": [
+      {
+        "title": "Karbonhidrat Malabsorpsiyonu",
+        "content": "Laktaz enziminin eksikliğine bağlı laktoz intoleransı* en sık görülen tipidir ve hastalarda osmotik diyareye (şişkinlik, gaz, sulu ishal) neden olur.\n   Yağ Malabsorpsiyonu: Pankreas hastalıklarında (ör. kronik pankreatit) pankreatik lipazın* eksilmesiyle karşımıza çıkar ve en tipik bulgusu steatoredir (kötü kokulu, açık renkli, yağa bağlı su yüzeyinde yüzen dışkı)."
+      },
+      {
+        "title": "Emilim Fizyolojisi",
+        "content": "Sağlıklı bir insanda proksimal tübül fırçamsı kenarlarında da bazı dipeptidaz/tripeptidaz enzimleri bulunduğunu unutma; proteinler nihai olarak aminoasitler, dipeptidler ve tripeptidler halinde emilir."
+      }
+    ],
+    "exam_potential": "Bu sorunun sonundaki \"X4\" ibaresinden anlayacağın üzere Pankreatik ekzokrin fonksiyon eksikliği = Protein/Yağ Malabsorpsiyonunun en sık sebebi kuralı adeta sınavın değişmez bir yasasıdır; yine farklı bir senaryo veya formatla çıkma ihtimali çok yüksektir.\nMalabsorpsiyon Tanı Testleri sınavda favori eleyici sorudur. Sınavda sorarlarsa, yağ malabsorpsiyonunun kesin tanısının \"Dışkıda kantitatif yağ tayini >6 g/gün\" olmasıyla konulduğunu, pankreatik ekzokrin yetmezliği tespit etmek için de dışkıda \"Fekal elastaz\" enzim düzeyine bakıldığını mutlaka hatırla.\nKarbonhidrat Malabsorpsiyonu Testi olarak da laktaz eksikliği veya ince bağırsak bakteriyel aşırı çoğalması (SIBO) tanısında kullanılan Laktoz/Glukoz H2 Nefes Testini (nefeste hidrojen atılımı) şıklarda aramalısın.",
+    "_raw_response": "5. Bu konudan sınavda başka nasıl sorular sorulabilir?\nSon konuştuğumuz \"Protein Malabsorpsiyonu, Emilim Bozuklukları ve Diyare\" konusu ile bağlantılı olarak, sağladığınız güncel çıkmış soru havuzuna göre sınavda şu tarz sorularla karşılaşabilirsiniz:\nSoru Tipi 1: Malabsorpsiyon Tanı Testleri ve Yanlış Antikor Eşleştirmesi Hastalıkların spesifik tanı testleri sıkça \"hangisi yanlıştır\" formatında sorgulanır.\nÖrnek Soru: \"Aşağıdakilerden hangisi yanlıştır?\" (Şıklarda dışkıda >6g/gün yağın malabsorpsiyonu gösterdiği, fekal elastazın pankreas yetmezliği testi olduğu gibi doğru bilgiler yer alır)\n1\n.\nCevap: \"Çölyak Hastalığı için serolojik olarak anti Saccaromyces cerevisiae (ASCA) ve pANCA bakılır\" şıkkı yanlıştır\n1\n. Çünkü ASCA ve pANCA İnflamatuvar Bağırsak Hastalıklarının (Crohn ve Ülseratif Kolit) ayrımında kullanılır; Çölyak hastalığında ise anti-doku transglutaminaz (anti-tTG) ve anti-endomisyal (EMA) antikorları aranır\n2\n. Ayrıca, dışkıda yağ miktarının >6 g/gün üzerinde olmasının steatoreyi (yağ malabsorpsiyonu) gösterdiği ve fekal elastazın ekzokrin pankreas yetmezliğini işaret ettiği kesinlikle bilinmelidir\n3\n4\n.\nSoru Tipi 2: Hangi Durumun Malabsorpsiyon Yapıp Yapmadığı Organik emilim kusurları ile fonksiyonel bağırsak hastalıklarının ayrımı test edilir.\nÖrnek Soru: \"Hangisi malabsorbsiyon yapmaz?\"\n5\n.\nCevap: İrritabl Bağırsak Sendromu (İBS)\n5\n. İBS, anatomik veya inflamatuvar bir hasara yol açmayan fonksiyonel bir hastalıktır, bu nedenle organik bir emilim kusuru (malabsorpsiyon) yapmaz\n6\n. Ancak CVİD (Yaygın Değişken İmmün Yetmezlik) gibi immün sistem hastalıklarında malabsorpsiyon tabloları görülebilir\n6\n7\n.\nSoru Tipi 3: Ozmotik Diyare ve Karbonhidrat Malabsorpsiyonu Farklı diyare mekanizmaları (sekretuvar vs. ozmotik) spesifik hastalıklarla eşleştirilir.\nÖrnek Soru: \"Aşağıdakilerden hangisi osmotik diyareye neden olmaz?\" veya \"Aşağıdakilerden hangisi malabsorbsiyona bağlı diyareye neden olur?\"\n8\n9\n.\nCevap: Laktoz intoleransı ve disakkaridaz eksikliği, lümende emilemeyen maddelerin su tutmasına bağlı olarak gelişen ozmotik diyare ve karbonhidrat malabsorpsiyonu nedenleridir\n10\n11\n. Buna karşın, E. coli ve S. aureus gibi mikrobiyal ajanların neden olduğu enfeksiyonlar osmotik değil, sekretuvar diyare grubuna girer\n11\nmore_horiz\n.\nSoru Tipi 4: Çocukluk Çağı (Neonatal) Enteropatileri ve Gen Mutasyonları Erken yaşta malabsorpsiyona yol açan nadir hastalıkların genetik kökenleri eşleştirme sorusu olarak çok popülerdir.\nÖrnek Soru: \"Çocukluk çağı enteropatileri ile ilişkili gen ile ilgili aşağıda verilen eşleşmelerden hangisi yanlıştır?\"\n14\n.\nCevap: \"Abetalipoproteinemi - APO-B\" eşleştirmesi yanlıştır\n14\n. Abetalipoproteinemide asıl genetik defekt MTTP (Mikrozomal Trigliserit Transfer Proteini) genindedir\n15\n. Sınavda doğru eşleştirmeler olarak Tufting enteropatinin EPCAM geniyle, IPEX sendromunun FOXP3 geniyle ve Mikrovillus inklüzyon hastalığının MYO5B geniyle ilişkili olduğunu hatırlamak hayat kurtarır\n14\n15\n.\nSoru Tipi 5: Ana Konunun Negatif Kök İle Sorulması Sizin daha önce incelediğiniz \"protein malabsorpsiyonu ana nedeni\" sorusu, tersten kurgulanarak \"hangisi nedeni değildir\" şeklinde de sıkça sorulmuştur.\nÖrnek Soru: \"Hangisi protein malabsorbsiyonu ana nedeni değildir?\"\n16\n.\nCevap: İnsülin eksikliği\n16\n. İnsülin, pankreasın ekzokrin değil endokrin bir ürünüdür ve sindirim/emilim sürecinde doğrudan rol oynamaz\n16\n. Pankreasın ekzokrin enzim eksikliği, hızlı bağırsak transportu ve bağırsak epitel hasarı ise doğrudan malabsorpsiyon sebepleridir\n17\n.\nSoru Tipi 6: Çölyak Hastalığı İmmünopatogenezi Hastalığın sadece antikorları değil, hücresel bazdaki immün mekanizmaları da sorgulanır.\nÖrnek Soru: \"Çölyakta doğal bağışıklıkta (innate immünitede) sorumlu hücre hangisidir?\"\n18\n.\nCevap: İntraepitelyal lenfositler (İEL)\n18\n. Çölyak patogenezinde hem T hücre aracılı adaptif immünite hem de İEL ilişkili doğal (innate) immünite aktif rol oynar\n19\n."
+  },
+  {
+    "id": 17,
+    "question": "Bulantı ile ilgili hangisi yanlıştır?",
+    "options": {
+      "a": "Supra sternal çentikte veya epigastriumda rahatsızlık hissidir",
+      "b": "Kusma hissini ifade etmektedir",
+      "c": "Gastrik motilitenin azalması ve ince barsak tonusunda azalma mevcuttur",
+      "d": "Hasta tarafından tarifi zor bir semptomdur",
+      "e": "Öncesinde iştahsızlık gözlenir"
+    },
+    "correct_answer": "c",
+    "explanation": "Bu soru, bulantı ve kusma fizyopatolojisini kavramayı gerektiren, geçmiş yıllarda 3 kez sorulmuş (X3) önemli bir çıkmış sorudur. Bulantı, vücudun zararlı etkenlere karşı geliştirdiği bir savunma mekanizmasının öncül semptomudur. Bulantı esnasında mide ve bağırsakların motor aktivitesinde belirgin değişiklikler yaşanır. Midenin boşalma süresi uzarken (gastrik motilite azalırken), ince bağırsağın tonusunda azalma değil, aksine artış meydana gelir ve kusma eylemine hazırlık olarak antiperistaltik dalgalar başlar.",
+    "option_analysis": {
+      "a": "Doğru bir ifadedir. Bulantı; genellikle boğazda (suprasternal çentikte) veya midenin üst bölgesinde (epigastriumda) hissedilen, hoş olmayan bir rahatsızlık hissidir.",
+      "b": "Doğrudur. Yaklaşan kusma ihtiyacının verdiği hissi temsil eder.",
+      "c": "Yanlış ifadedir ve doğru cevaptır. Bulantı sırasında gastrik motilite azalır ancak ince bağırsak tonusu azalmaz, artar. Bu durum antiperistaltizm ile birlikte mide içeriğinin atılmasına zemin hazırlar.",
+      "d": "Doğrudur. Hastalar tarafından tam olarak ifade edilmesi güç, oldukça sübjektif bir semptomdur.",
+      "e": "Doğrudur. Bulantı öncesinde hastada mutlaka anoreksi (iştahsızlık) tablosu ortaya çıkar."
+    },
+    "terms": [
+      {
+        "term": "Bulantı (Nausea)",
+        "definition": "Kusma ihtiyacının verdiği, eninde sonunda kusma eylemine yol açabilen veya açmayan sübjektif ve rahatsız edici his."
+      },
+      {
+        "term": "Öğürme (Retching)",
+        "definition": "Kusma gerçekleşmeden önce kapalı bir gırtlakla (glottis) gerçekleştirilen, abdominal kasların ve diyaframın spazmodik kasılmalarını içeren solunum hareketleri."
+      },
+      {
+        "term": "Taşigastri / Bradigastri",
+        "definition": "Midenin normal bazal elektriksel aktivitesinin (dakikada 3 dalga) hızlanması veya yavaşlaması durumudur. Bulantı sırasında bu ritimlerde dalgalanmalar (disritmi) görülür."
+      },
+      {
+        "term": "Antiperistaltizm",
+        "definition": "Bağırsak içeriklerinin normal yönün aksine (aşağıdan yukarıya doğru) itilmesini sağlayan tersine kasılma dalgaları."
+      }
+    ],
+    "subtopics": [
+      {
+        "title": "Kusma Merkezi ve Uyarı Bölgeleri",
+        "content": "Beyin sapındaki medulla ve retiküler formasyonda bulunan kusma merkezi 4 ana bölgeden sinyal alır:\n    1.  Kemoreseptör Tetikleyici Zon (KTZ - Area Postrema): Dördüncü ventrikül tabanındadır. Kan-beyin bariyeri dışında olduğu için kandaki toksinlere, ilaçlara (örn. kemoterapi), üremiye ve hiperkalsemiye en duyarlı bölgedir.\n    2.  Vestibüler Merkez: İç kulaktan gelen denge uyarılarını işler (taşıt tutması, Meniere hastalığı).\n    3.  Serebral Korteks: Artmış kafa içi basıncı, migren, psikojenik faktörler, görsel ve işitsel uyaranlar buradan gelir.\n    4.  İntraabdominal Organlar: Vagal ve splanknik afferent lifler aracılığıyla GİS distansiyonu, peritonit, kolesistit, pankreatit gibi visseral ağrılar kusma merkezini uyarır."
+      }
+    ],
+    "exam_potential": "Daha önceki sınavlarda da çok sorulduğu üzere Kusma eylemi sırasındaki mekanik adımlar sınavın favori sorularındandır. Kusma sırasında pilor kasılır, gastrik kardiya ve alt özofagus sfinkteri açık ve yükselmiştir, karın (abdominal) kasları kasılır, diyafram ise GEVŞEMEZ, güçlü bir şekilde kasılarak aşağı iner. Sınavlarda genellikle \"Diyafram kası gevşer\" diyerek çok klasik bir tuzak kurulur.\nKusma merkezindeki reseptörler ve hedeflenen ilaçlar fizyopatoloji-farmakoloji ortak sorusu olarak sıklıkla gelir. Taşıt tutmasında (vestibüler kaynaklı) M1 ve H1 reseptör blokörleri; kemoterapi kaynaklı bulantılarda ise 5-HT3 (serotonin) ve NK1 (nörokinin) reseptör antagonistleri kullanıldığını ezbere bilmelisin.",
+    "_raw_response": "İncelememi istediğiniz yeni sorunun metnini eklemeyi unuttuğunuz için, göndermiş olduğunuz bu yeni ve çok kapsamlı çıkmış soru havuzunu (Dönem 3 Modül 5: Nefroloji, Gastroenteroloji, Üroloji, Patoloji, Farmakoloji ve Fizyopatoloji) genel olarak analiz ettim.\nEğer spesifik bir soruyu kastettiyseniz, lütfen o soruyu bana gönderin; hemen detaylıca inceleyeyim. Ancak genel olarak bu modüldeki kaynaklara baktığımızda, \"Bu konulardan sınavda başka nasıl sorular sorulabilir?\" sorunuzun cevabı olarak karşınıza en çok çıkacak klasikleşmiş soru tipleri şunlardır:\n1. Soru Tipi: Nefroloji - GFR Hesaplama ve KBH Evreleme (Matematiksel Formül Soruları) Sınavlarda size hastanın idrar ve kan değerleri verilerek Glomerüler Filtrasyon Hızı (GFH/GFR) hesaplamanız sıkça istenir\n1\n2\n.\nÖrnek Soru: \"24 saatte 1200 ml idrar çıkaran bir hastanın kan kreatinini 5 mg/dl, idrar kreatinini 144 mg/dl ölçülmüştür. GFR kaçtır?\"\n2\n3\n.\nNasıl Çözülür: Formül [İdrar Kreatinini x Günlük İdrar Volümü] / [Kan Kreatinini x 1440] şeklindedir. Yani (144 x 1200) / (5 x 1440) = 24 ml/dk olarak bulunur\n4\n.\nDiğer Varyasyon: GFH ve idrar albümin düzeyi verilerek KDIGO 2012'ye göre hastanın KBH evresi sorulabilir (Örn: GFR 35, Albümin 150 mg/gün ise Evre G3bA2'dir)\n5\n.\n2. Soru Tipi: Gastroenteroloji - Dispepsi Vaka Yönetimi ve Alarm Semptomları Hastanın yaşına ve semptomlarına göre ilk istenecek tetkik sorulur.\nÖrnek Soru: \"61 yaşında alarm semptomları olmayan bir kadın hasta dispepsi semptomları ile başvurduğunda hangi tetkik önceliklidir?\"\n6\n.\nBeklenen Cevap: Üst GİS Endoskopisi. Dispepsi hastalarında yaş > 50 ise (veya alarm semptomları varsa) H. Pylori testi vs. beklemeden direkt endoskopi yapılır\n7\n8\n.\nDiğer Varyasyon: Aşağıdakilerden hangisi dispepsi alarm semptomudur/değildir? (Kilo kaybı, disfaji, anemi, GİS kanaması alarm semptomuyken; obezite alarm semptomu değildir)\n8\n9\n.\n3. Soru Tipi: Patoloji - İnflamatuvar Bağırsak Hastalıkları (Crohn vs. Ülseratif Kolit) İki hastalığın makroskopik ve mikroskopik özellikleri eşleştirme olarak karşınıza çıkar.\nÖrnek Soru: \"Aftöz ülser, transmural inflamasyon, kaldırım taşı görünümü ve segmental tutulum hangi hastalığın tipik bulgusudur?\"\n10\n.\nBeklenen Cevap: Crohn Hastalığı\n11\n.\nDiğer Varyasyon: Rektumdan başlayıp kolona doğru diffüz (kesintisiz) yayılan, sadece mukozayı tutan hastalık sorulursa cevap Ülseratif Kolit olmalıdır\n11\n.\n4. Soru Tipi: Fizyopatoloji - Prerenal ve İntrinsik Akut Böbrek Hasarı (ABH) Ayrımı Laboratuvar parametreleri verilerek böbrek yetmezliğinin kökeni sorulur.\nÖrnek Soru: \"Renal ve ekstra-renal (prerenal) böbrek yetmezliklerinin ayrımında kullanılan en önemli parametre hangisidir?\"\n12\n13\n.\nBeklenen Cevap: Fraksiyone sodyum atılımı (FENa)\n12\n.\nDiğer Varyasyon: Prerenal azotemide (böbrek sağlam ama kan gitmiyor) idrarın konsantre edilebildiğini test etmek için \"İdrar ozmolalitesi > 500 mOsm/kg\" ve \"BUN/Kreatinin > 20\" bulguları doğru bilgi olarak istenir\n14\n15\n.\n5. Soru Tipi: Farmakoloji - Antiemetik İlaçlar ve Etki Ettikleri Reseptörler Bulantı kusma mekanizmalarında rol alan reseptör-ilaç eşleştirmeleri farmakolojinin vazgeçilmezidir.\nÖrnek Soru: \"Kemoterapi ilaçlarının neden olduğu bulantı/kusmada öncelikle rol alan madde nedir ve bunu bloke eden ilaç hangisidir?\"\n16\n.\nBeklenen Cevap: Madde Serotonin (5-HT3), ilaç ise Ondansetron veya Palonosetron'dur\n17\n18\n.\nDiğer Varyasyon: \"Vestibüler kökenli (taşıt tutması) bulantı kusmada hangi reseptörler hedeflenir?\" (Cevap: H1 ve M1 reseptörleri; İlaç: Skopolamin)\n19\n20\n. NK1 reseptör blokörü sorulursa cevap Aprepitant'tır\n21\n.\n6. Soru Tipi: Üroloji - İdrar Kaçırma (İnkontinans) Patofizyolojisi Hasta hikayesi verilip idrar kaçırmanın tipi sorulur.\nÖrnek Soru: \"Hangi tip idrar kaçırmada neden detrüsör (mesane kası) aktivitesinin artmış olmasıdır?\"\n22\n.\nBeklenen Cevap: Sıkışma (Urge) tipi idrar kaçırma\n23\n.\nDiğer Varyasyon: Karın içi basıncın arttığı durumlarda (öksürme, gülme, hapşırma vb.) istemsiz idrar kaçırma sorulursa cevap Stres Tipi İdrar Kaçırma olmalıdır\n24\n.\nDilerseniz spesifik bir sorununuzu (Örn: \"M5-2027-14 numaralı soruyu açıkla\") gönderin, onu önceki formatımızda 5 başlık altında detaylıca analiz edeyim!"
+  },
+  {
+    "id": 18,
+    "question": "Fizyopatolojisine göre ishaller 4 sınıfa ayrılır. Aşağıdakilerden hangisi bu sınıflamaya dahil değildir?",
+    "options": {
+      "a": "İnflamatuvar tip ishal",
+      "b": "Sekretuvar tip ishal",
+      "c": "Osmotik tip ishal",
+      "d": "Diyet ilişkili ishal",
+      "e": "Motilite bozukluğuna bağlı ishal"
+    },
+    "correct_answer": "d",
+    "explanation": "Bu soru, ishallerin (diyare) temel fizyopatolojik mekanizmalarının uluslararası standart sınıflandırmasını bilip bilmediğini test eden, geçmiş yıllarda 3 kez sorulmuş (X3) bir sorudur. Gastrointestinal sistemde diyare mekanizmaları temelde dörde ayrılır: Osmotik, Sekretuvar, İnflamatuvar ve Motilite bozukluğuna bağlı ishaller. Ders notlarında bazen \"emilim yüzeyinin azalması / mukozal morfolojik değişiklikler\" de 5. bir mekanizma olarak eklenir. Ancak \"diyet ilişkili ishal\" diye ayrı bir fizyopatolojik üst başlık yoktur; diyetle alınan maddeler genellikle osmotik veya sekretuvar bir mekanizmayı tetikleyerek ishale neden olurlar.",
+    "option_analysis": {
+      "a": "Bağırsak mukozasının hasarı ve inflamasyonu sonucu lümene kan, mukus ve eksüda atılmasıyla karakterizedir (örn: invaziv enfeksiyonlar, Crohn, Ülseratif Kolit). Sınıflandırmaya dahildir.",
+      "b": "Bağırsaktan su ve elektrolit (özellikle klor) sekresyonunun artması veya emilimin azalması sonucu oluşur. Sınıflandırmaya dahildir.",
+      "c": "Bağırsak lümeninde emilmeyen, osmotik olarak aktif moleküllerin lümende su tutmasıyla meydana gelir. Sınıflandırmaya dahildir.",
+      "d": "Doğru cevaptır. Besinler ishali tetikleyebilir (örn. laktoz intoleransında süt içmek) ancak fizyopatolojik mekanizma sınıflandırmasında \"diyet ilişkili\" diye bir ana başlık yer almaz; bu tablo \"osmotik ishal\" başlığında incelenir.",
+      "e": "İntestinal motilitenin çok hızlanması (emilime vakit kalmaması) veya çok yavaşlaması (bakteriyel aşırı çoğalmaya sekonder ishal) nedeniyle oluşan ishal tipidir. Sınıflandırmaya dahildir."
+    },
+    "terms": [
+      {
+        "term": "Diyare (İshal)",
+        "definition": "Dışkının sıvı içeriğinin normalin üzerine çıkması, günlük dışkı ağırlığının (>200 g/gün) ve dışkılama sıklığının artması."
+      },
+      {
+        "term": "Osmotik Gap",
+        "definition": "Dışkı osmolalitesi ile plazma osmolalitesi arasındaki farktır. İshalin osmotik mi (>100 mOsm/kg) yoksa sekretuvar mı (<50 mOsm/kg) olduğunu ayırt etmede çok önemli bir laboratuvar formülüdür."
+      },
+      {
+        "term": "Tenesmus",
+        "definition": "Tuvalete çıkılmasına rağmen rahatlayamama, sürekli, ağrılı ıkınma ve dışkılama hissinin devam etmesi durumu. Genellikle inflamatuvar ishallerde görülür."
+      }
+    ],
+    "subtopics": [
+      {
+        "title": "Osmotik İshal Nedenleri",
+        "content": "Laktoz intoleransı (disakkaridaz eksikliği), sorbitol/mannitol gibi lümende kalan emilemeyen şekerlerin alınması, magnezyum içeren antasitlerin/laksatiflerin kullanılması osmotik ishalin en klasik örnekleridir."
+      },
+      {
+        "title": "Sekretuvar İshal Nedenleri",
+        "content": "Bakteriyel toksinler (Kolera, ETEC vb.), nöroendokrin tümörler (Zollinger-Ellison sendromu, VIPoma, Karsinoid sendrom), safra asidi malabsorpsiyonu ve uyarıcı laksatif kullanımıdır."
+      }
+    ],
+    "exam_potential": "Açlık Testi Sorusuna Dikkat! Sınavda bir vaka verip hastanın ishal tipini sorarlarsa şu kuralı unutma: Hastayı aç bıraktığında ishal kesiliyorsa bu Osmotik İshaldir; hasta açken bile lümene su dökülmeye devam ediyor ve ishal azalmıyorsa bu Sekretuvar İshaldir.\nAyrıca diyarenin tanısını koyarken \"Dışkıda lökosit/kan görülmesi\" bulgusunun sana doğrudan İnflamatuvar (İnvaziv) tip ishal tablosunu (Shigella, Salmonella gibi enfeksiyonlar veya İBH) işaret ettiğini mutlaka aklında tut, hocalar vaka sorularında bu ipucunu kullanmayı çok sever.\n\nHangi çıkmış soru ile devam edelim? Numara söylemeniz yeterli!\n\nDevam edelim meslektaşım. İstediğin gibi soruyu ve şıkları orijinal haliyle alt alta yazarak analizimize başlıyorum:",
+    "_raw_response": "5. Bu konudan sınavda başka nasıl sorular sorulabilir?\n\"Diyare (İshal) Fizyopatolojisi ve Kliniği\" konusu modül sınavlarında oldukça ağırlıklı bir yer tutar. Sağladığınız çıkmış soru havuzuna göre bu konudan karşınıza çıkabilecek diğer klasikleşmiş soru tipleri şunlardır:\nSoru Tipi 1: Osmotik ve Sekretuvar Diyare Etiyolojisi (Nedenleri) Sınavda en sık sorulan soru tiplerinden biri, ishal yapan etkenlerin hangi mekanizmayla çalıştığıdır.\nÖrnek Soru 1: \"Aşağıdakilerden hangisi osmotik diyareye neden olmaz?\"\n1\n2\n.\nCevap: E. Coli enfeksiyonu veya S. Aureus enfeksiyonu\n1\n3\n. Bakteriyel toksinler ve enfeksiyonlar osmotik değil, intestinal sıvı sekresyonunu artırarak sekretuvar diyareye neden olurlar\n4\n. Laktoz intoleransı, sorbitol ve lifli gıdalar ise osmotik ishal nedenleridir\n1\n2\n.\nÖrnek Soru 2: \"Aşağıdakilerden hangisi sekretuar diyareye neden olur?\"\n5\n.\nCevap: E. Coli enfeksiyonu\n5\n.\nSoru Tipi 2: İshal Laboratuvar ve Tanı Testleri Özellikle dışkı analizi ve osmotik gap (açık) değerleri üzerinden sorular gelir.\nÖrnek Soru: \"İshal ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?\"\n6\n.\nCevap: \"Sekretuvar ishallerde gaytada ozmotik gap 100 mOsm/kg'dır.\" şıkkı yanlıştır\n6\n. Çünkü sekretuvar ishalde dışkı osmolalitesi ile plazma arasındaki fark küçüktür ve osmotik gap <50 mOsm/kg'dır. Osmotik gap >100 mOsm/kg ise osmotik diyareyi gösterir\n7\n.\nSoru Tipi 3: Vaka Üzerinden İnflamatuvar (Dizanterik) İshal Tespiti Hastanın dışkı özellikleri verilerek ishalin mekanizması sorulur.\nÖrnek Soru: \"Verilen dışkı ve klinik özellik bulgularından hangisi invaziv/inflamatuvar bakteriyel kolit ile uyumludur?\"\n8\n9\n.\nCevap: Dışkıda kan (+), pürülan mukus (+), tenesmus (+), mikroskopide lökosit (+), ateş (+)\n8\n10\n. İnflamatuvar ishallerde bağırsak mukozasında hasar olduğu için lümene kan ve iltihap (lökosit) sızması tipiktir\n4\n.\nSoru Tipi 4: Diare Fizik Muayene Bulguları İshali olan bir hastada görülen/görülmeyen fizik muayene bulguları test edilir.\nÖrnek Soru: \"Hangisi akut ishal fizik muayene bulgularından değildir?\"\n11\n12\n.\nCevap: Bağırsak hareketlerinde azalma\n11\n13\n. İshal tablosunda bağırsak motilitesi (hareketleri) genellikle azalmaz, aksine artar\n13\n14\n. Ateş, taşikardi, deri turgorunda azalma ve karında hassasiyet ise beklenen bulgulardır\n11\n15\n.\nSoru Tipi 5: Diare Tanı Algoritması ve Endoskopi Endikasyonu Hastaya yaklaşımda gereksiz tetkiklerin neler olduğu sorulur.\nÖrnek Soru: \"Diare için aşağıdaki ifadelerden hangisi yanlıştır?\"\n13\n16\n.\nCevap: \"Tanıda; ishal süresine ve tipine bakmaksızın tüm hastalara kolonoskopik değerlendirme yapılmalıdır.\" şıkkı yanlıştır\n17\n18\n. Çünkü akut sulu ishalli hastalarda endoskopik/kolonoskopik tetkik genellikle gerekmez; kolonoskopi daha çok kronik diyarelerin araştırılmasında kullanılır\n19\n20\n.\nSoru Tipi 6: Malabsorpsiyon ve Diyare İlişkisi Emilim bozukluklarının diyareye nasıl yol açtığı eşleştirme olarak karşınıza çıkabilir.\nÖrnek Soru: \"Aşağıdakilerden hangisi malabsorbsiyona bağlı diyareye neden olur?\"\n2\n21\n.\nCevap: Disakkaridaz eksikliği\n21\n. Örneğin laktaz gibi disakkaridaz enzimlerinin eksikliğinde (laktoz intoleransı), karbonhidratlar emilemez, bağırsak lümeninde kalıp su çeker ve osmotik diyareye neden olur\n22\n23\n."
+  },
+  {
+    "id": 19,
+    "question": "Hangisi kolestaz belirtecidir?",
+    "options": {
+      "a": "ALT",
+      "b": "AST",
+      "c": "Protrombin zamanı",
+      "d": "Albümin",
+      "e": "Bilirubin"
+    },
+    "correct_answer": "e",
+    "explanation": "Bu soru, karaciğer fonksiyon testlerini ve hasar belirteçlerini fizyopatolojik mekanizmalara göre sınıflandırabilme yeteneğini ölçmektedir. Klinik pratikte karaciğer testlerini temelde üç ana gruba ayırırız: Hepatoselüler hasar belirteçleri, sentez kapasitesi belirteçleri ve kolestaz (safra akımında yavaşlama veya durma) belirteçleri. Şıklarda kolestazı en spesifik şekilde gösteren klasik enzimlerden (ALP, GGT) hiçbiri bulunmadığı için, safra akımının tıkanmasıyla kan dolaşımına geçip yükselen ve kolestaz tablosuna da işaret eden \"bilirubin\" doğru cevap olarak karşımıza çıkmaktadır.",
+    "option_analysis": {
+      "a": "Karaciğere daha spesifik olan ve hepatositlerdeki inflamasyonu/hasarı gösteren temel bir hepatoselüler hasar belirtecidir.",
+      "b": "ALT gibi karaciğerdeki hepatoselüler hasarı gösterir. Ancak karaciğer dışında iskelet ve kalp kasında da bulunduğu için ALT kadar karaciğere spesifik değildir.",
+      "c": "Karaciğerin pıhtılaşma faktörlerini (K vitaminine bağımlı olanlar) üretme kapasitesini, yani doğrudan karaciğerin sentez fonksiyonunu gösterir.",
+      "d": "Tıpkı protrombin zamanı gibi, karaciğerin genel protein üretim rezervini gösteren çok önemli bir sentez kapasitesi belirtecidir.",
+      "e": "Doğru cevaptır. Hem hepatoselüler hasarda hem de kolestaz durumlarında kan seviyesi artış gösteren önemli bir parametredir. Seçeneklerde spesifik kolestaz enzimleri olmadığından kolestaz grubunu temsil eden tek laboratuvar bulgusudur."
+    },
+    "terms": [
+      {
+        "term": "Kolestaz",
+        "definition": "Safra yapımının veya safra akımının intrahepatik (karaciğer içi) ya da ekstrahepatik (karaciğer dışı safra yolları) nedenlerle yavaşlaması veya tamamen durması tablosudur."
+      },
+      {
+        "term": "Hepatoselüler Hasar",
+        "definition": "Karaciğer parankim hücrelerinin (hepatositlerin) toksinler, virüsler veya iskemi gibi nedenlerle yıkıma uğraması durumudur."
+      }
+    ],
+    "subtopics": [
+      {
+        "title": "Asıl Kolestaz Enzimleri",
+        "content": "Şıklarda olmamasına rağmen klinik pratikte \"kolestaz\" denilince aklına ilk gelmesi gereken temel enzimler Alkalen Fosfataz (ALP), Gama Glutamil Transferaz (GGT) ve 5' Nükleotidaz'dır."
+      },
+      {
+        "title": "ALP'nin Kaynağının Doğrulanması",
+        "content": "ALP enzimi karaciğer dışında kemik, bağırsak, lökosit ve plasentada da sentezlenebilir. Bu nedenle yüksek saptanan bir ALP'nin gerçekten karaciğer (kolestaz) kaynaklı olduğunu kanıtlamak için mutlaka GGT ve/veya 5' Nükleotidaz düzeyindeki artışla birlikte değerlendirilmesi gerekir."
+      }
+    ],
+    "exam_potential": "Sınavlarda \"Aşağıdakilerden hangisi karaciğer sentez fonksiyonu kapasitesini yansıtır?\" diye çok sık sorulur; bu durumda şıklarda Albümin ve Protrombin zamanını (PTZ) aramalısın.\nAlkolik karaciğer hastalığındaki labaratuvar paterni komitelerin favorisidir. Alkolik hepatitte alkolün mitokondrial aktiviteye etkisi ve B6 vitamini (piridoksin) eksikliğine bağlı olarak AST enzimi, ALT enziminden çok daha fazla yükselir. Vaka sorularında AST/ALT oranının yüksekliği sana hemen alkolik hasarı düşündürmelidir.\n\nKaraciğer fonksiyon testlerini laboratuvar bazında çok iyi gruplamanı tavsiye ederim. Başka hangi çıkmış soruyu analiz etmemi istersin?",
+    "_raw_response": "5. Bu konudan sınavda başka nasıl sorular sorulabilir?\nKaraciğer fonksiyon testleri (KFT) ve sarılık (kolestaz/hiperbilirubinemi) konusu, çıkmış sorular havuzunda en çok varyasyonu bulunan konulardan biridir. Sınavda bu temel bilgiler üzerinden karşınıza çıkabilecek diğer soru tipleri şunlardır:\nSoru Tipi 1: Karaciğer Enzimlerinin Spesifikliği AST ve ALT'nin klinik yorumu test edilir.\nÖrnek Soru: \"Aşağıdakilerden hangisi karaciğer testleri için yanlıştır?\"\n1\n.\nBeklenen Cevap: \"Karaciğer hastalıklarında AST'de yükselme ALT'ye göre daha spesifiktir\" şıkkı yanlıştır\n1\n2\n. Karaciğer hasarını göstermede ALT, AST'den daha hassas ve spesifiktir\n2\n.\nSoru Tipi 2: Karaciğerin Sentez Fonksiyonunun Ölçülmesi Karaciğerin üretim kapasitesini gösteren testler sorulur.\nÖrnek Soru: \"Karaciğer sentez fonksiyonları bozukluğunda en doğru tanı hangisi ile konur?\"\n3\n.\nBeklenen Cevap: Protrombin zamanı (PTZ) veya Albümin\n1\nmore_horiz\n. Enzimler (AST, ALT) hasarı gösterirken, PTZ ve albümin karaciğerin sentez kapasitesini yansıtır\n4\n5\n.\nSoru Tipi 3: Alkolik Karaciğer Hastalığı (AST/ALT Oranı) Normalde ALT daha spesifik olsa da, AST'nin istisnai olarak daha çok yükseldiği durum sorulur.\nÖrnek Soru: \"Aşağıdaki hastalıklardan hangisi AST düzeyinin daha ön planda yükseldiği karaciğer hastalığıdır?\"\n6\n.\nBeklenen Cevap: Alkole bağlı karaciğer hastalığı\n6\n7\n. Alkol, mitokondriyal AST aktivitesini artırıp, piridoksin eksikliğine bağlı ALT sentezini azalttığı için AST, ALT'den daha fazla yükselir\n2\n.\nSoru Tipi 4: Sarılık (İkter) Gelişim Sınırı Kanda bilirubinin hangi seviyeyi aşmasıyla sarılığın ortaya çıktığı sorulur.\nÖrnek Soru: \"Total Bilirubin kaç mg/dl üzerine çıkınca sarılıktan bahsederiz?\"\n8\n.\nBeklenen Cevap: 2 mg/dl\n8\n. Bilirubinin 2-4 mg/dl'den fazla olmasıyla dokularda sarı-yeşil renk değişikliği fark edilir\n9\n.\nSoru Tipi 5: Prehepatik, Hepatik ve Posthepatik Sarılık Ayrımı Verilen hastalığın sarılığın hangi fazına (karaciğer öncesi, karaciğer, karaciğer sonrası) ait olduğu eşleştirilir.\nÖrnek Soru: \"Hangisi posthepatik sarılık sebebi değildir?\"\n10\n.\nBeklenen Cevap: Hemolitik anemi\n10\n. Hemolitik anemi, bilirubin üretiminin artmasına bağlı prehepatik (karaciğer öncesi) sarılık nedenidir\n11\n. Pankreas başı kanseri, koledokolitiazis gibi durumlar posthepatiktir\n10\n.\nAlternatif Örnek: \"Hangisi hepatik sarılık sebeplerinden biri değildir?\"\n12\n sorusunun cevabı ise, tıkanıklık sonucu oluşan Safra taşı (posthepatik) olacaktır\n12\n13\n.\nSoru Tipi 6: Direkt ve İndirekt Bilirubin Laboratuvar Bulguları İdrarda veya dışkıda bilirubin/ürobilinojen varlığı test edilir.\nÖrnek Soru: \"Aşağıdakilerden hangisi indirekt hiperbilirubinemide görülmez?\"\n14\n.\nBeklenen Cevap: \"İdrarda bilirubin vardır\" şıkkı yanlıştır\n14\n. İndirekt bilirubin suda erimediği/yağda eridiği için kana ve böbreklere geçemez, bu nedenle idrarla atılamaz (idrarda bilirubin görülmez)\n15\n."
+  },
+  {
+    "id": 20,
+    "question": "Total Bilirubin kaç mg/dl üzerine çıkınca sarılıktan bahsederiz?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4",
+      "e": "5"
+    },
+    "correct_answer": "b",
+    "explanation": "Bu soru, klinik pratikte çok sık karşılaştığımız sarılık (ikter) bulgusunun temel laboratuvar sınırını sorguluyor. Sarılık, dolaşımdaki artmış bilirubin nedeni ile dokularda birikim olması ve deri/mukozalarda sarı-yeşil renk değişikliği görülmesi durumudur. Normal şartlarda kanda bilirubin belirli bir fizyolojik seviyede bulunur ve dokuları boyamaz. Ancak klinik olarak hastaya dışarıdan baktığımızda gözle görülür bir sarılıktan bahsedebilmemiz için, kan total bilirubin miktarının 2-4 mg/dL'den fazla olması gerekir. Bu yüzden klinik belirtilerin başladığı alt sınır olan 2 mg/dl doğru kabul edilir.",
+    "option_analysis": {
+      "a": "Sağlıklı bir insanda total bilirubinin normal kabul edilen seviyeleridir, bu seviyede dokularda sararma (ikter) görülmez.",
+      "b": "Doğru cevaptır. Dokularda sarı-yeşil renk değişikliğinin (sarılığın) gözle fark edilmeye başlandığı, kanda bilirubinin 2-4 mg/dL üzerine çıktığı tablonun alt sınırıdır.",
+      "c": "Bu değerlerde sarılık artık klinik olarak belirginleşmiş durumdadır.",
+      "e": "Bu değer erişkinler için belirgin bir sarılık seviyesidir. Ancak ders notlarınızdaki kırmızı ile belirtilen çok önemli bir detaya göre; yenidoğan bebeklerde sarılığın fark edilebilmesi için gereken alt sınır değeridir."
+    },
+    "terms": [
+      {
+        "term": "İkter (Sarılık)",
+        "definition": "Dolaşımdaki artmış bilirubin nedeniyle dokularda görülen sarı-yeşil renk değişikliği tablosudur."
+      },
+      {
+        "term": "Total Bilirubin",
+        "definition": "Kanda bulunan konjuge olmamış (indirekt) ve konjuge olmuş (direkt) bilirubinin toplam laboratuvar değeridir."
+      }
+    ],
+    "subtopics": [
+      {
+        "title": "Yenidoğan Sarılığı",
+        "content": "Yenidoğanlarda doku özellikleri ve kılcal damar yatağı erişkinlerden farklıdır. Erişkinde 2 mg/dl'yi geçtiğinde göz aklarında (sklera) ve mukozalarda fark edilmeye başlanan sarılık, yenidoğan bir bebekte ancak bilirubin 5 mg/dl'yi aştığında klinik olarak gözle fark edilebilir hale gelir."
+      }
+    ],
+    "exam_potential": "Sınav komisyonu erişkin ve yenidoğan arasındaki bu fizyolojik farkı şıklarda çeldirici olarak kullanmayı çok sever. Bu çıkmış soruda genel/erişkin sınırını sormuşlar. Ancak bir sonraki komitede karşına spesifik olarak \"Yenidoğan bir bebekte sarılığın gözle fark edilebilmesi için total bilirubin seviyesi en az kaç mg/dl'yi aşmalıdır?\" şeklinde bir vaka ya da bilgi sorusu gelebilir. Bu durumda hiç tereddüt etmeden cevabın 5 mg/dl olmalıdır.\n\nTebrikler, çok temel ve klinik stajlarda da işine çok yarayacak bir değeri cebine koydun! Devam etmek istediğin sıradaki çıkmış sorunun numarasını yazabilirsin.",
+    "_raw_response": "5. Bu konudan sınavda başka nasıl sorular sorulabilir?\nEn son üzerinde konuştuğumuz \"Total Bilirubin ve Sarılık (İkter)\" ile karaciğer fonksiyonları/kolestaz konuları, sağladığınız yeni çıkmış soru havuzuna göre sınavlarda çok farklı varyasyonlarla test edilmektedir. Bu konudan karşınıza çıkabilecek diğer klasikleşmiş soru tipleri şunlardır:\nSoru Tipi 1: İndirekt ve Direkt Hiperbilirubinemi Nedenleri (Hastalık Eşleştirme) Sınavda sıklıkla hangi hastalığın hangi tip bilirubin yüksekliği yaptığı sorulur.\nÖrnek Soru 1: \"Aşağıdakilerden hangisinde öncelikle indirekt hiperbilirubinemi görülmez?\"\n1\n2\n.\nBeklenen Cevap: Dubin-Johnson sendromu. Çünkü Gilbert sendromu, intravasküler/ekstravasküler hemoliz indirekt (unkonjuge) bilirubin yüksekliği yaparken; Dubin-Johnson sendromu konjuge (direkt) bilirubin yüksekliği yapar\n1\nmore_horiz\n.\nÖrnek Soru 2: \"Aşağıdakilerden hangisinde öncelikle direkt hiperbilirubinemi görülür?\"\n4\n.\nBeklenen Cevap: Alfa-1 antitripsin eksikliği\n4\n. (Pernisiyöz anemi ve kurşun zehirlenmesi gibi durumlar indirekt bilirubin artışı yapar).\nSoru Tipi 2: Prehepatik, Hepatik ve Posthepatik Sarılık Ayrımı Sarılığın kaynağının karaciğer öncesi (kan yıkımı), karaciğerin kendisi veya karaciğer sonrası (safra yolları tıkanıklığı) olup olmadığı test edilir.\nÖrnek Soru 1: \"Hangisi posthepatik sarılık sebebi değildir?\"\n5\n6\n.\nBeklenen Cevap: Hemolitik anemi. Pankreas başı kanseri, koledokolitiazis (safra taşı) ve ampuller adenoma posthepatik (tıkanma) sarılığı yaparken; hemolitik anemi prehepatik sarılık nedenidir\n5\nmore_horiz\n.\nÖrnek Soru 2: \"Hangisi hepatik sarılık sebeplerinden biri değildir?\"\n8\n9\n.\nBeklenen Cevap: Safra taşı. Wilson hastalığı, NASH ve siroz karaciğer parankimini bozarak hepatik sarılık yaparken, safra taşı tıkanıklık yaratarak posthepatik sarılığa neden olur\n8\nmore_horiz\n.\nSoru Tipi 3: Laboratuvar ve İdrar/Gaita Bulguları Direkt ve indirekt bilirubinin suda çözünürlük farklarına dayanarak idrar ve dışkı özellikleri üzerinden yorum soruları gelir.\nÖrnek Soru 1: \"Aşağıdakilerden hangisi indirekt hiperbilirubinemide görülmez?\"\n11\nmore_horiz\n.\nBeklenen Cevap: \"İdrarda bilirubin vardır.\" şıkkı görülmez. İndirekt bilirubin yağda eridiği için kana ve böbreklere geçemez, bu nedenle idrarda saptanamaz\n11\nmore_horiz\n.\nÖrnek Soru 2: \"Aşağıdakilerden hangisi hepatosellüler hasar sonucu oluşan direk hiperbilirubinemide saptanmaz?\"\n15\n16\n.\nBeklenen Cevap: \"İdrarda bilirubin saptanmaz.\" şıkkı yanlıştır. Direkt (konjuge) bilirubin suda erir, böbreklerden süzülerek idrara geçer ve idrar rengini koyulaştırır (kola/çay rengi idrar)\n15\nmore_horiz\n.\nÖrnek Soru 3: \"Prehepatik sarılık için aşağıdaki ifadelerden hangisi doğru değildir?\"\n18\n19\n.\nBeklenen Cevap: \"İdrarda ürobilinojen azalır, bilirubin seviyesi artar.\" şıkkı yanlıştır. Prehepatikte (örneğin hemoliz) idrarda bilirubin artmaz, aksine ürobilinojen artar\n18\nmore_horiz\n.\nSoru Tipi 4: Karaciğer Fonksiyon Testlerinin Yorumlanması Daha önce konuştuğumuz kolestaz belirteçleri ve transaminazların özellikleri yine çeldiricilerle karşınıza çıkar.\nÖrnek Soru: \"Aşağıdakilerden hangisi karaciğer testleri için yanlıştır?\"\n21\n.\nBeklenen Cevap: \"Karaciğer hastalıklarında AST'de yükselme ALT'ye göre daha spesifiktir.\" şıkkı yanlıştır. Karaciğer parankim hasarını göstermede ALT, AST'den daha hassas ve spesifiktir\n21\n22\n. (Sadece alkolik karaciğer hastalıklarında AST, ALT'den daha fazla yükselir\n23\n24\n)."
+  },
+  {
+    "id": 21,
+    "question": "Aşağıdakilerden hangisi kronik açıklanamayan ağrı, tekrarlayan stimulusa cevapta rol oynayan stimülatör nöropeptitlerden değildir?",
+    "options": {
+      "a": "P maddesi",
+      "b": "Nörokininler",
+      "c": "Kalsitonin geni ile bağlantılı peptit",
+      "d": "Glutamat",
+      "e": "Gama aminobütirik asit (GABA)"
+    },
+    "correct_answer": "e",
+    "explanation": "Bu soru, özellikle İrritabl Bağırsak Sendromu (İBS) gibi fonksiyonel gastrointestinal hastalıklarda görülen \"kronik açıklanamayan karın ağrısının\" fizyopatolojisini sorgulamaktadır. Tekrarlayan uyaranlar (enfeksiyonlar, sık endoskopik işlemler vb.) inen inhibitör ağrı yollarında probleme yol açar ve santral sinir sisteminde (limbik sistem) bir \"ağrı hafızası\" oluşur. Bu hafızanın oluşumunda uyarıcı (eksitatör/stimülatör) nöropeptitler ve aminoasitler görev alırken, inhibitör (baskılayıcı) olanlar bu grupta yer almaz. GABA, merkezi sinir sisteminin temel inhibitör nörotransmitteri olduğu için \"stimülatör\" nöropeptitler arasında sayılamaz.",
+    "option_analysis": {
+      "a": "Ağrı iletiminde rol oynayan en önemli eksitatör (uyarıcı) nöropeptitlerden biridir.",
+      "b": "P maddesi ile aynı aileden olan ve ağrı duyusunun iletiminde görev alan stimülatör nöropeptitlerdir.",
+      "c": "Visseral aşırı duyarlılıkta ve ağrı yollarının uyarılmasında görev alan eksitatör bir peptittir.",
+      "d": "Ağrı hafızasının oluşumunda rol oynayan çok önemli bir eksitatör (uyarıcı) aminoasittir. NMDA reseptörlerini uyararak ağrının şiddetli hissedilmesine yol açar.",
+      "e": "Doğru cevaptır. GABA uyarıcı (stimülatör) değil, aksine baskılayıcı (inhibitör) bir nörotransmitterdir. Bu nedenle ağrıyı tetikleyen maddeler arasında yer almaz."
+    },
+    "terms": [
+      {
+        "term": "Kronik Açıklanamayan Karın Ağrısı",
+        "definition": "Bağırsak travmaları (defalarca kolonoskopi) veya eredike edilemeyen enterik enfeksiyonlar sonrası, altta yatan organik bir lezyon olmamasına rağmen (travma sonlansa bile) devam eden ağrı tablosudur."
+      },
+      {
+        "term": "Ağrı Hafızası",
+        "definition": "Glutamerjik nöronlardan aşırı glutamat salınımı ve NMDA reseptörlerinin sayısının artmasıyla sinir sisteminin ağrıya karşı aşırı duyarlı hale gelmesi (sensitizasyon) durumudur."
+      },
+      {
+        "term": "Limbik Sistem (Anterior Cingulat Kompleks - ACC)",
+        "definition": "Kronik açıklanamayan ağrıda disfonksiyonel hale gelen ve ağrıya karşı sensitize olan beyin bölgesidir."
+      }
+    ],
+    "subtopics": [
+      {
+        "title": "İrritabl Bağırsak Sendromu (İBS) ve Serotonin",
+        "content": "Kronik açıklanamayan karın ağrısı İBS'de tipiktir. Mükemmeliyetçi, stresli ve depresyona yatkın bu hastalarda yemek sonrası serotonin salgısında artış saptanır. Bu aşırı serotonin artışı luminal distansiyona, visseral aşırı duyarlılığa ve diyareye neden olur.\n   Nitrik Oksit (NO) Rolü:* İkincil haberci olan NO sentaz, glutamatın sentezine ve sinir ucuna çıkışına yardımcı olarak ağrı hafızasının oluşumuna katkı sağlar."
+      }
+    ],
+    "exam_potential": "Geçmişte iki kez (X2) sorulan bu konudan, sorunun şekli değiştirilerek \"Kronik açıklanamayan karın ağrısında (ağrı hafızası oluşumunda) rol oynayan temel eksitatör aminoasit hangisidir?\" diye sorulabilir; cevabın Glutamat olacağını unutma.\nAyrıca bu ağrı hafızasının santral sinir sisteminde hangi bölgeyi sensitize ettiği (duyarlılaştırdığı) sorulabilir; bu durumda şıklarda \"Limbik sistem (Anterior Cingulat Kompleks)\" seçeneğini aramalısın.\nİBS hastalarında yemek sonrası salgısı artarak visseral aşırı duyarlılık ve diyare yapan maddenin Serotonin olduğu yine klinik fizyopatoloji soruları için çok güzel bir sınav sorusu adayıdır.\n\nSıradaki çıkmış sorumuzun numarasını bekliyorum!",
+    "_raw_response": "En son incelediğimiz \"kronik açıklanamayan karın ağrısı ve nöropeptitler\" konusu bağlamında, GİS Semptomları ve Karın Ağrısı Fizyopatolojisi başlığından sağladığınız güncel çıkmış sorular havuzuna göre karşınıza şu soru tipleri gelebilir:\n1. Visseral Ağrının Özellikleri ve Lokalizasyonu Organların kendi içinden kaynaklanan visseral ağrıların nitelikleri sıklıkla test edilir.\nÖrnek Soru: \"Visseral ağrılarla ilgili aşağıdakilerden hangisi yanlıştır?\"\n1\n.\nBeklenen Cevap: \"İyi lokalize edilir çünkü reseptör yoğunluğu daha fazladır\" ifadesi yanlıştır\n1\n. Visseral ağrılar karın içi organların rahatsız edici uyarılarla temasından sonra oluşur, otonom belirtiler (terleme, bulantı vb.) eşlik edebilir ancak reseptör yoğunluğu az olduğu için orta hatta derinde hissedilirler ve kesin olarak lokalize edilemezler\n1\n2\n.\n2. Kesin Lateralize Edilebilen Ağrılar (Unilateral İnnervasyon İstisnası) Karın organlarının çoğunun bilateral (çift taraflı) sinir donanımına sahip olması kuralının istisnaları klasik bir sınav sorusudur.\nÖrnek Soru: \"Karın organlarının çoğunluğu bilateral simetrik innervasyona sahiptirler ve ağrıları çoğunlukla orta hatta hissedilir. Kesin olarak lateralize edilebilen (tek taraflı hissedilen) abdominal ağrı hangi organdan köken alabilir?\"\n3\nmore_horiz\n.\nBeklenen Cevap: Böbrek\n4\nmore_horiz\n. İnnervasyonları tek taraflı olan böbrekler, üreterler ve overlerin ağrısı orta hat yerine doğrudan sağda veya solda hissedilebilir\n9\n10\n.\n3. Ağrının Gelişim Mekanizmasına Göre Hastalık Ayrımı Ağrıyı başlatan fizyolojik sürecin (iskemi, gerilme veya inflamasyon) ayrımı vaka/kıyaslama sorusu olarak gelir.\nÖrnek Soru: \"Ağrının gelişimi açısından hangi hastalık diğerlerinden farklıdır? (İnce bağırsak obstrüksiyonu, Apandisit, Divertikülit, Gastroenterit, Perfore peptik ülser)\"\n11\nmore_horiz\n.\nBeklenen Cevap: İnce bağırsak obstrüksiyonu\n12\nmore_horiz\n. Apandisit, divertikülit ve perfore peptik ülserde ağrının temel nedeni inflamasyon ve kimyasal irritasyon iken, bağırsak obstrüksiyonunda \"gerilme ve iskemi\" tipinde bir ağrı mekanizması işler\n15\n16\n.\n4. Yansıyan Ağrılar ve Özel Eponimler (Kehr Belirtisi) Karın içi patolojilerin uzak bölgelerde hissedilmesi (yansıyan ağrı) terminoloji olarak test edilir.\nÖrnek Soru: \"Kehr belirtisi hangisidir?\"\n4\nmore_horiz\n.\nBeklenen Cevap: Bir tür yansıyan ağrıdır\n4\nmore_horiz\n. Özellikle splenik apse veya rüptür gibi durumlarda diyafram irritasyonuna bağlı olarak sol omuza yansıyan ağrının klasik adıdır\n17\n.\n5. Ağrının Başlangıç Şekline, Süresine ve Şiddetine Göre Tanı Ağrının karakterinden yola çıkarak \"En olası tanı nedir?\" tarzı sorular sorulur.\nÖrnek Soru 1: \"Aşağıdakilerden hangisi epigastriumda hissedilen dakikalar içinde başlayan keskin-yanıcı tarzda çok şiddetli ağrı deseninde düşünülebilecek klinik tablodur?\"\n18\nmore_horiz\n.\nBeklenen Cevap: Perfore peptik ülser\n19\nmore_horiz\n.\nÖrnek Soru 2: \"Yemekten sonra başlayan, azalmayan şiddetli bulantı ve kusma ile beraber sırta vuran epigastrik ağrı ile gelen hastada öncelikle hangi test istenir?\"\n22\nmore_horiz\n.\nBeklenen Cevap: Serum Amilaz ve Lipaz\n22\n24\n. Epigastriuma ve sırta vuran şiddetli ağrılarda pankreatit ve perfore peptik ülser ilk akla gelmesi gereken durumlardır\n25\n26\n.\n6. Organik ve Fonksiyonel Karın Ağrısı Ayrımı (Kırmızı Bayraklar) Sınavlarda sıklıkla hastanın tarif ettiği ağrının organik mi (gerçek bir doku hasarı) yoksa fonksiyonel mi (İBS gibi psikosomatik) olduğu sorgulanır.\nSınav İpucu: Akut başlayan, şiddeti giderek artan, iyi lokalize edilen, uykudan uyandıran ve ateş, kilo kaybı, anemi gibi \"kırmızı bayrak\" semptomlarının eşlik ettiği ağrılar daima organik kökenlidir\n27\n28\n.\nSınav İpucu: Psikolojik stresle artan, yeri sürekli değişen, uykudan uyandırmayan ve muayenede \"kapalı göz testinin\" (hastanın muayene sırasında gözlerini kapatması) pozitif olduğu ağrılar ise fonksiyonel (örneğin İrritabl Bağırsak Sendromu) kaynaklıdır\n28\n."
+  },
+  {
+    "id": 22,
+    "question": "Hangisi malabsorbsiyon yapmaz?",
+    "options": {
+      "a": "CVİD",
+      "b": "İrritable bağırsak hastalığı"
+    },
+    "correct_answer": "b",
+    "explanation": "Bu soru, malabsorbsiyon (emilim bozukluğu) tablosuna yol açan \"organik\" hastalıklar ile anatomik/biyokimyasal bir hasar yaratmayan \"fonksiyonel\" hastalıkların ayrımını test etmektedir. Malabsorbsiyon; bağırsak mukozasında hasar, emilim yüzeyinde azalma, enzim eksikliği veya lenfatik obstrüksiyon gibi hücresel ve yapısal patolojiler nedeniyle besinlerin (protein, yağ, karbonhidrat, vitamin vb.) emilememesi durumudur. Soru bizden bu hücresel/organik hasara yol açmayan seçeneği bulmamızı istemektedir.",
+    "option_analysis": {
+      "a": "Primer immün yetmezliklerin en sık görülen formlarından biridir. Hastalarda hücresel düzeyde plazma hücre azlığı/yokluğu ve azalmış lenfoid doku görülür. İmmün yetmezlikler bağırsak mukozasını etkileyerek sıklıkla malabsorpsiyonla prezente olabilirler. Bu nedenle malabsorbsiyon yapar.    b) irritable bağırsak hastalığı: Doğru cevaptır. İrritabl Bağırsak Sendromu (İBS), altta yatan yapısal veya biyokimyasal bir anormalliğin (organik bir nedenin) bulunmadığı, tamamen fonksiyonel* bir gastrointestinal hastalıktır. Mukozal bir hasar, atrofi veya inflamasyon olmadığı için besin emilimi normaldir ve malabsorbsiyon tablosuna yol açmaz."
+    },
+    "terms": [
+      {
+        "term": "Malabsorpsiyon",
+        "definition": "Yağ, vitamin, protein, karbonhidrat, elektrolit ve suyun bağırsaklardan yetersiz emilmesi durumudur; intraluminal sindirim, terminal sindirim veya transepitelyal transport bozukluğu söz konusudur."
+      },
+      {
+        "term": "CVİD (Yaygın Değişken İmmün Yetmezlik)",
+        "definition": "B hücrelerinin plazma hücrelerine farklılaşmasında sorun olan, antikor (özellikle IgA ve IgG) üretiminin azaldığı, kronik gastrointestinal semptomlar ve enfeksiyonlarla seyreden immün yetmezlik tablosu."
+      },
+      {
+        "term": "İrritabl Bağırsak Sendromu (İBS)",
+        "definition": "Herhangi bir doku hasarı (organik patoloji) olmaksızın, karın ağrısı, şişkinlik ve değişen bağırsak alışkanlıklarıyla (ishal/kabızlık) karakterize edilen, bağırsak-beyin aksı etkileşim bozukluğu."
+      }
+    ],
+    "subtopics": [
+      {
+        "title": "Malabsorbsiyon Yapan Nedenlerin Sınıflandırılması",
+        "content": "Mukoza Hastalıkları (Emilim yüzeyi azalması):* Çölyak hastalığı (gluten sensitif enteropati), tropikal spru, Whipple hastalığı ve CVİD gibi immün yetmezliklere bağlı enteropatiler.\n       Sindirim ve Enzim Eksiklikleri:* Pankreatik ekzokrin yetmezlik (protein ve yağ malabsorbsiyonunun en önemli nedenidir), laktaz eksikliği (karbonhidrat malabsorbsiyonu).\n       Enfeksiyonlar ve Anatomik Bozukluklar:* İnce bağırsakta aşırı bakteri çoğalması (SIBO), kısa bağırsak sendromu, Giardiyozis.\n       Lenfatik Tıkanıklık:* İntestinal lenfanjiektazi gibi durumlar (protein kaybettiren enteropati tablosuyla gelir)."
+      }
+    ],
+    "exam_potential": "Komite veya final sınavlarında \"Aşağıdaki immün yetmezlik bulgularından hangisi yanlıştır?\" sorusu karşına çıkabilir. Bu durumda \"CVİD en sık görülen formdur\" ve \"İmmün yetmezlikler malabsorpsiyonla prezente olabilir\" ifadelerinin doğru bilgiler olduğunu bilmelisin.\nÇocukluk çağı (neonatal) enteropatileri ve histopatolojik bulgu eşleştirmeleri patolojinin en zorlayıcı ve eleyici sorularındandır. Şunları kesinlikle ezberlemelisin:\nCVİD $\\rightarrow$ Plazma hücre azlığı/yokluğu.\nMikrovillus İnklüzyon Hastalığı $\\rightarrow$ 'Brush border' (fırçamsı kenar) kaybı.\nTufting Enteropati $\\rightarrow$ Epitelyal tomurcuklar.\nAbetalipoproteinemi $\\rightarrow$ Enterositlerde lipid birikimi (vakuole enterositler).\n   Klinik yaklaşım derslerinden, İrritabl Bağırsak Sendromunun (İBS) bir fonksiyonel hastalık olduğunu ve alarm semptomları (kilo kaybı, anemi, GİS kanaması, uykudan uyandıran ağrı) bulundurmadığını* mutlaka aklında tutmalısın.",
+    "_raw_response": "Bana incelememi istediğiniz sorunun tam metnini göndermemiş olsanız da, önceki mesajlarınızdaki \"A) CVİD\" şıkkı ve \"Doğru cevap B'dir\" ipuçlarını birleştirerek sağladığınız güncel çıkmış sorular havuzunu taradım.\nAslında başından beri analiz etmemi istediğiniz sorunun \"Hangisi malabsorbsiyon yapmaz?\" (A) CVİD, B) İrritable bağırsak hastalığı) olduğunu anlıyorum! 😊\nİşte Malabsorpsiyon Sendromu ve İshal/Diyare Fizyopatolojisi konusu bağlamında, sağladığınız kaynaklara göre sınavlarda karşınıza çıkabilecek diğer önemli soru tipleri şunlardır:\n1. Protein ve Yağ Malabsorpsiyonu Nedenleri Sınavlarda hangi mekanizmanın hangi malabsorpsiyona yol açtığı sıklıkla test edilir.\nÖrnek Soru 1: \"Aşağıdakilerden hangisi protein malabsorpsiyonunun en önemli (ana) nedenidir?\"\n1\n2\n.\nBeklenen Cevap: Pankreatik ekzokrin fonksiyon (enzim) eksikliği\n1\nmore_horiz\n. Mide asit eksikliği veya bağırsak transportunun hızlanması da etkilidir, ancak en ciddi neden pankreas yetmezliğidir\n3\n.\nÖrnek Soru 2: \"Dışkıda yağ miktarının günde kaç gramın üstünde olması yağ malabsorpsiyonunu (steatore) düşündürür?\"\n4\n.\nBeklenen Cevap: >6 gram/gün\n4\n5\n.\n2. İshalin Fizyopatolojik Sınıflandırması İshallerin mekanizmalarına göre ayrımı banko soru tiplerindendir.\nÖrnek Soru: \"Fizyopatolojisine göre ishaller 4 sınıfa ayrılır. Aşağıdakilerden hangisi bu sınıflamaya dahil değildir?\"\n6\n7\n.\nBeklenen Cevap: Diyet ilişkili ishal veya şıklara göre Enfeksiyöz tip ishal\n6\nmore_horiz\n. (Çünkü fizyopatolojik olarak ishaller; osmotik, sekretuvar, inflamatuvar ve motilite bozukluğuna bağlı ishaller olmak üzere 4'e ayrılır\n8\n9\n).\n3. Osmotik ve Sekretuvar İshal Ayrımı Hangi etkenin hangi tip ishale neden olduğu klasik vaka veya eşleştirme sorusu olarak gelir.\nÖrnek Soru 1: \"Aşağıdakilerden hangisi osmotik diyareye neden olmaz?\"\n10\n11\n.\nBeklenen Cevap: E. Coli enfeksiyonu (veya S. Aureus enfeksiyonu)\n10\nmore_horiz\n. Laktoz intoleransı, sorbitol kullanımı ve galaktoz malabsorpsiyonu osmotik ishale neden olurken; E. Coli gibi bakteriyel patojenler ve toksinleri sıvı-elektrolit sekresyonunu artırarak sekretuvar diyareye neden olur\n11\nmore_horiz\n.\nÖrnek Soru 2: \"Aşağıdakilerden hangisi sekretuvar diyareye neden olur?\"\n15\n.\nBeklenen Cevap: E. Coli enfeksiyonu\n15\n.\n4. Malabsorpsiyon ve Çölyak Hastalığı Laboratuvar Testleri Tanı testlerindeki yanlış eşleştirmeler test edilir.\nÖrnek Soru: \"Aşağıdakilerden hangisi malabsorpsiyon testleri ile ilgili yanlıştır?\"\n4\n16\n.\nBeklenen Cevap: \"Çölyak Hastalığı için serolojik olarak anti Saccaromyces cerevisiae (ASCA) ve perinüklear antineutrofil sitoplazmik antikor (pANCA) bakılır.\"\n4\n16\n. Bu ifade yanlıştır çünkü ASCA ve pANCA Çölyak için değil, İnflamatuvar Bağırsak Hastalıklarında (Crohn ve Ülseratif Kolit) bakılır\n17\n18\n. Çölyak tanısı için doku transglutaminaz ve endomisyum antikorlarına bakılmalıdır\n5\n16\n.\n5. Çocukluk Çağı (Neonatal) Enteropatileri Yenidoğan döneminde şiddetli ishale yol açan genetik hastalıkların özellikleri sorulur.\nÖrnek Soru: \"Çocukluk çağı enteropatileri ve karakteristik histopatolojik bulgusu ile ilgili eşleşmelerden hangisi yanlıştır?\"\n19\n.\nBeklenen Cevap: \"Otoimmün enteropati - lenfatik dilatasyon\"\n19\n. (Lenfatik dilatasyon intestinal lenfanjiektazide görülür, otoimmün enteropatide değil). Bir diğer varyasyonunda ise \"Abetalipoproteinemi - APO-B geni\" eşleştirmesi yanlış cevap olarak istenir; çünkü Abetalipoproteinemi MTP geni mutasyonu ile oluşur\n20\n21\n."
+  },
+  {
+    "id": 23,
+    "question": "Aşağıdakilerden hangisi malabsorsiyona bağlı diyareye neden olur?",
+    "options": {
+      "a": "Laktoz intoleransı",
+      "b": "Barsak motilitesinin azalması",
+      "c": "Katı gıda alımının azalması",
+      "d": "Sıvı alımının artması",
+      "e": "İnterstinal elektrolit ve sıvı sekresyonunun artması"
+    },
+    "correct_answer": "a",
+    "explanation": "Bu soru, malabsorbsiyon (emilim bozukluğu) durumlarının ishal fizyopatolojisindeki yerini ve diyare mekanizmalarını ölçmektedir. Diyare (ishal) fizyopatolojisinde temelde 5 ana mekanizma bulunmaktadır: 1- Bağırsak lümeninde emilemeyen osmotik aktif moleküllerin varlığı (osmotik diyare), 2- İntestinal su ve elektrolit sekresyonunun artması veya emiliminin azalması (sekretuvar diyare), 3- Bağırsak mukozasında morfolojik değişiklikler ve emilim yüzeyinin azalması, 4- İnflamasyon, 5- Motilite bozuklukları. Malabsorbsiyon (örneğin karbonhidrat malabsorbsiyonu), bağırsakta emilemeyen besin maddelerinin lümende osmotik bir yük oluşturarak suyu lümene çekmesiyle \"osmotik diyareye\" yol açar. Laktoz intoleransı da bağırsaktaki laktaz enzimi eksikliği sonucu oluşan, en klasik karbonhidrat malabsorbsiyonu tablosudur ve diyare nedenidir.",
+    "option_analysis": {
+      "a": "Doğru cevaptır. Laktaz enziminin eksikliği nedeniyle laktozun bağırsakta sindirilip (glukoz ve galaktoza) parçalanamaması, yani emilememesi durumudur. Lümende kalan bu emilemeyen şeker, suyu kendine çekerek osmotik diyare (malabsorbsiyon kaynaklı ishal) tablosuna yol açar.",
+      "b": "İntestinal motilitenin azalması genellikle kabızlığa (konstipasyon) veya ince bağırsakta lümen içeriğinin stazına bağlı olarak SIBO (ince bağırsakta aşırı bakteri çoğalması) tablosuna neden olur. Primer malabsorbsiyona bağlı bir diyare nedeni değildir.",
+      "c": "Besin alımının kısıtlanması fizyolojik bir diyare veya malabsorbsiyon sebebi değildir.",
+      "d": "Normal fizyolojik koşullarda GİS lümenine günde 9-10 litre sıvı girse de, bunun çok büyük bir kısmı bağırsaklar tarafından başarılı bir şekilde reabsorbe edilir. Sadece su içmek sağlıklı bir insanda ishale yol açmaz.",
+      "e": "Bu şık, malabsorbsiyonu değil doğrudan \"sekretuvar diyare\" mekanizmasını tarif eder. Bakteriyel toksinler (Kolera, E. coli toksinleri), nöroendokrin tümörler (VİPoma, Zollinger-Ellison sendromu) ve laksatifler bu duruma sebep olan başlıca etkenlerdir."
+    },
+    "terms": [
+      {
+        "term": "Malabsorbsiyon",
+        "definition": "İntraluminal sindirim, terminal sindirim veya transepitelyal transport süreçlerindeki bozukluklar sebebiyle yağ, karbonhidrat, protein, vitamin ve elektrolitlerin bağırsaktan yeterince emilememesi durumu."
+      },
+      {
+        "term": "Osmotik Diyare",
+        "definition": "Bağırsak lümeninde emilmeyen veya sindirilemeyen, osmotik yönden aktif maddelerin (laktoz, sorbitol vb.) lümene su ve elektrolit çekmesiyle meydana gelen ishal türü."
+      },
+      {
+        "term": "Laktoz İntoleransı",
+        "definition": "Sütte bulunan laktoz şekerini sindiren ince bağırsak fırçamsı kenar (brush border) enzimi olan laktazın eksikliği sonucu gelişen, gaz, şişkinlik ve ishal ile karakterize karbonhidrat malabsorbsiyonu tablosu."
+      }
+    ],
+    "subtopics": [
+      {
+        "title": "Malabsorbsiyon Tanı Testleri",
+        "content": "Karbonhidrat malabsorbsiyonlarını (laktoz intoleransı, glukoz/galaktoz emilim bozukluğu veya SIBO) saptamak için klinikte en sık Laktoz/Glukoz $H_2$ Nefes Testi kullanılır. Kalın bağırsağa geçen sindirilmemiş şekerler bakteriler tarafından fermente edilir ve açığa çıkan hidrojen gazı nefeste ölçülür; nefesteki $H_2$ miktarında 20 ppm'den fazla artış görülmesi malabsorbsiyonu doğrular.\n   Yağ Malabsorbsiyonu:* Malabsorbsiyonun en belirgin klinik bulgularından biri yağlı dışkılamadır (steatore). Tanısı için hastaya 3 gün boyunca günde 100 gr yağlı diyet verilir ve 72 saatlik dışkıda yağ miktarının $>6~g/giin$ saptanması malabsorbsiyon varlığını kanıtlar."
+      }
+    ],
+    "exam_potential": "İshallerin fizyopatolojik mekanizmasını ayırt etmek çok değerlidir. \"Açlık durumunda ishal kesiliyorsa / azalıyorsa\" bunun Osmotik diyare olduğu; hasta aç kalsa bile lümene sıvı salgılanmaya devam ettiği için \"açlıkla kesilmeyen ishalin\" Sekretuvar diyare olduğu sıklıkla karşınıza çıkacaktır.\nLaboratuvar sorularında, Dışkı Osmotik Gap (Açığı) formülü önem taşır. Fekal osmotik gap $>100~mOsm/kg$ ise bu durum karbonhidrat malabsorbsiyonları gibi nedenlerle lümende osmotik yük olduğunu, yani Osmotik İshali işaret eder.\nAyrıca diyare etiyolojisinde yer alan nöroendokrin tümörler (özellikle VİPoma'nın yaptığı sekretuvar diyare) ve malabsorbsiyonda dışkıda yağ tayini testinin normal sınırları komitelerin ve finallerin diğer vazgeçilmezlerindendir.",
+    "_raw_response": "En son üzerinde durduğumuz Diyare (İshal) Mekanizmaları ve Malabsorpsiyon (örneğin laktoz intoleransı) konusuyla ilgili, paylaştığınız güncel çıkmış soru havuzunda şu soru kalıplarının sıklıkla test edildiği görülmektedir:\n1. Osmotik ve Sekretuvar Diyare Ayrımı Sınavlarda hangi etkenin hangi fizyolojik mekanizmayla ishale yol açtığı eşleştirme olarak sorulmaktadır.\nSoru: \"Aşağıdakilerden hangisi osmotik diyareye neden olmaz?\"\n1\n2\n.\nBeklenen Cevap: E. Coli enfeksiyonu veya S. Aureus enfeksiyonu\n1\n2\n. Laktoz intoleransı, galaktoz malabsorpsiyonu, sorbitol ve lifli yiyeceklerin tüketimi osmotik ishale neden olurken; bakteriyel enfeksiyonlar toksinleri aracılığıyla sekretuvar ishale neden olurlar\n1\n3\n.\nSoru: \"Aşağıdakilerden hangisi sekretuar diyareye neden olur?\"\n3\n.\nBeklenen Cevap: E. Coli enfeksiyonu\n3\n.\n2. Diyarelerin Fizyopatolojik Sınıflandırması İshallerin dört ana mekanizması sınavlarda temel bilgi olarak test edilir.\nSoru: \"Fizyopatolojisine göre ishaller 4 sınıfa ayrılır. Aşağıdakilerden hangisi bu sınıflamaya dahil değildir?\"\n4\n5\n.\nBeklenen Cevap: Diyet ilişkili ishal\n4\n5\n. İshaller fizyopatolojik olarak Osmotik tip, Sekretuvar tip, İnflamatuvar tip ve Motilite bozukluğuna bağlı ishal olmak üzere dört gruba ayrılır\n4\n5\n.\n3. Malabsorpsiyonun Nedenleri\nSoru: \"Aşağıdakilerden hangisi protein malabsorpsiyonunun en önemli nedenidir?\"\n6\n7\n.\nBeklenen Cevap: Pankreatik ekzokrin fonksiyon eksikliği\n6\n7\n.\nSoru: \"Hangisi malabsorbsiyon yapmaz?\"\n8\n.\nBeklenen Cevap: İrritable bağırsak hastalığı (İBS)\n8\n.\n4. İshal Tanı ve Laboratuvar Testleri\nSoru: \"İshal ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?\"\n9\n10\n.\nBeklenen Cevap: \"Sekretuvar ishallerde gaytada ozmotik gap 100 mOsm/kg'dır.\" ifadesi yanlıştır\n9\n10\n. Ozmotik gap'in yüksek (genellikle >50-100 mOsm/kg) olması sekretuvar değil, emilemeyen karbonhidratların su çektiği osmotik diyarenin bir göstergesidir\n11\n.\n5. Akut İshalde Fizik Muayene Bulguları ve Klinik Yaklaşım\nSoru: \"Hangisi akut ishal fizik muayene bulgularından değildir?\"\n12\n13\n.\nBeklenen Cevap: Bağırsak hareketlerinde azalma\n12\n13\n. İshalde bağırsak hareketleri genelde artar\n12\n. Ateş, taşikardi, karında palpasyon ile hassasiyet ve deri turgorunda azalma (dehidratasyon bulgusu) ise akut ishalde beklenen bulgulardır\n12\n.\nSoru: \"Diare için aşağıdaki ifadelerden hangisi yanlıştır?\"\n14\n.\nBeklenen Cevap: \"Tanıda; ishal süresine ve tipine bakmaksızın tüm hastalara kolonoskopik değerlendirme yapılmalıdır.\" ifadesi yanlıştır\n14\n. Özellikle akut sulu ishalli hastalarda endoskopik/kolonoskopik tetkik gerekmez\n15\n.\n6. Enfeksiyöz İshal Karakteristikleri\nSoru: \"Verilen dışkı ve klinik özellik bulgularından hangisi invaziv/inflamatuvar bakteriyel kolit ile uyumludur?\"\n16\n.\nBeklenen Cevap: Dışkıda kan (+), pürülan mukus (+), tenesmus (+), mikroskopide lökosit (+), ateş (+)\n16\n. Bu tablo, bakterilerin bağırsak duvarını invaze ettiği dizanteri benzeri (örn. Shigella) inflamatuvar enfeksiyonlar için son derece tipiktir\n16\n17\n."
+  },
+  {
+    "id": 24,
+    "question": "Aşağıdakilerden hangisi osmotik diyareye neden olmaz?",
+    "options": {
+      "a": "Galaktoz malabsorsiyonu",
+      "b": "Laktoz intoleransı",
+      "c": "Sorbital kullanımı",
+      "d": "Lifli yiyeceklerin tüketilmesi",
+      "e": "S. Aureus enfeksiyonu"
+    },
+    "correct_answer": "e",
+    "explanation": "Bu soru, diyare (ishal) fizyopatolojisinde yer alan mekanizmaları sorgulamaktadır. İshal mekanizmaları temelde osmotik, sekretuvar, inflamatuvar ve motilite bozuklukları olarak dört ana sınıfa ayrılır. Osmotik diyare, bağırsak lümeninde yeterince emilmeyen veya sindirilemeyen, osmotik olarak aktif moleküllerin bulunması ve bu maddelerin bağırsak lümenine su çekmesiyle oluşur. Soru bizden bu mekanizmayla örtüşmeyen, yani farklı bir mekanizmaya sahip olan etkeni bulmamızı istiyor.",
+    "option_analysis": {
+      "a": "Karbonhidrat emilim bozukluklarından biridir. Emilmeyen galaktoz (glikoz-galaktoz malabsorbsiyonu) bağırsak lümeninde osmotik yük oluşturarak su çeker ve osmotik diyareye neden olur.",
+      "b": "Laktaz enzim eksikliği nedeniyle sindirilemeyen laktoz lümende kalır, osmotik aktif molekül olarak suyu lümene çekerek osmotik diyare yapar.",
+      "c": "Sorbitol, bağırsaklardan çok az emilen bir şeker alkolüdür (suni tatlandırıcı ve ozmotik laksatif olarak kullanılır). Lümende kalarak suyu tutar ve osmotik diyareye neden olur.",
+      "d": "Lifler bağırsakta sindirilemeyen karbonhidratlardır. Lümende su tutma kapasiteleri yüksektir. Dışkı hacmini artırırlar ve lümende osmotik kütle etkisi yaratırlar. Doğrudan patolojik bir diyare sebebi olmasalar da etki mekanizmaları osmotik yöndedir.    e) S. Aureus enfeksiyonu: Doğru cevaptır. Staphylococcus aureus* gibi bakterilerin ürettiği enterotoksinler, bağırsak epitel hücrelerinden lümene aktif su ve elektrolit sekresyonunu artırır. Bu nedenle S. aureus enfeksiyonu osmotik diyareye değil, sekretuvar diyareye yol açar."
+    },
+    "terms": [
+      {
+        "term": "Osmotik Diyare",
+        "definition": "Bağırsak lümeninde emilmeyen osmotik aktif solütlerin varlığına bağlı olarak lümene su çekilmesiyle oluşan ishal türüdür.\n   Sekretuvar Diyare: İntestinal su ve elektrolit sekresyonunun artması veya absorbsiyonun azalması sonucu gelişen ishal tipidir. Genellikle bakteriyel toksinler (S. aureus, V. cholerae, E. coli* vb.) neden olur."
+      },
+      {
+        "term": "Fekal Osmotik Gap",
+        "definition": "Dışkı osmolalitesi ile plazma osmolalitesi arasındaki farktır. İshalin osmotik mi yoksa sekretuvar mı olduğunu ayırt etmede kullanılır."
+      }
+    ],
+    "subtopics": [
+      {
+        "title": "Sekretuvar İshal Yapan Diğer Nedenler",
+        "content": "Bakteriyel toksinlere (S. aureus, C. perfringens, V. cholerae* enfeksiyonları vb.) ek olarak uyarıcı laksatif ilaç kullanımı sekretuvar ishale neden olur. Ayrıca VİPoma, Zollinger-Ellison sendromu ve karsinoid sendrom gibi endokrin/nöroendokrin tümörler de güçlü sekretuvar ishal yaparlar.\n   Osmotik İshal Yapan Diğer Nedenler:* Magnezyum sülfat, sodyum fosfat gibi magnezyum içeren antasit/laksatif alımı ve laktuloz tedavisi."
+      }
+    ],
+    "exam_potential": "İki ishal tipini klinik olarak birbirinden ayıran en önemli özellik sınavlarda sıkça sorulur: Osmotik ishal, hastanın aç kalması durumunda azalır veya kesilirken, Sekretuvar ishal açlık durumunda bile kesilmeden devam eder.\nAyrıca diyare testleri ile ilgili sorularda, dışkıdaki ozmotik gap üzerinden sıklıkla tuzak kurulur. Daha önceki sınavlarda da çıkmış bir önerme olan \"Sekretuvar ishallerde gaytada ozmotik gap 100 mOsm/kg'dır\" ifadesi KESİNLİKLE YANLIŞTIR; yüksek ozmotik gap değeri sekretuvar değil, lümende biriken sindirilemeyen maddeleri, yani osmotik ishali işaret eder.\n\n(Not: Görünüşe göre bir önceki mesajınızda da 24. soruyu talep etmiştiniz, bu yüzden yepyeni notlardan eklediğim klinik ve laboratuvar detaylarıyla soruyu senin için bir kez daha zenginleştirerek analiz ettim. Dilersen 25. sorudan veya farklı bir numaradan devam edebiliriz. Numarayı söylemen yeterli!)",
+    "_raw_response": "1. İshalin Fizyopatolojik Sınıflandırması Sınavlarda ishalin temel mekanizmaları ve bu sınıflandırmanın dışında kalan çeldirici başlıklar sıkça sorulmaktadır\n1\n2\n.\nSoru: \"Fizyopatolojisine göre ishaller 4 sınıfa ayrılır. Aşağıdakilerden hangisi bu sınıflamaya dahil değildir?\"\n1\n3\n.\nBeklenen Cevap: Diyet ilişkili ishal veya bazı soru versiyonlarında Enfeksiyöz tip ishal\n1\nmore_horiz\n. Fizyopatolojik olarak ishaller temelde dört gruba ayrılır: Osmotik tip, Sekretuvar tip, İnflamatuvar tip ve Motilite bozukluğuna bağlı ishaller\n3\n6\n.\n2. Laboratuvar Bulguları ve Osmotik Açık (Gap) Osmotik ve sekretuvar ishallerin dışkı osmolalitesi üzerinden ayrımı çok popüler bir laboratuvar ve mekanizma sorusudur\n7\n8\n.\nSoru: \"İshal ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?\"\n7\nmore_horiz\n.\nBeklenen Cevap: \"Sekretuvar ishallerde gaytada ozmotik gap 100 mOsm/kg'dır.\"\n7\nmore_horiz\n. Bu ifade yanlıştır çünkü osmotik gap'in yüksek (genellikle >50-100 mOsm/kg) olması sekretuvar diyareyi değil, bağırsak lümeninde emilemeyen karbonhidratların su çektiği osmotik diyareyi gösterir\n7\n10\n. Sekretuvar ishallerde osmotik açık yoktur veya düşüktür\n7\n10\n.\n3. Akut İshalde Fizik Muayene ve Tanısal Yaklaşım Akut ishal tablosu ile gelen bir hastada beklenen fizik muayene bulguları ve hangi durumlarda hangi tetkiklerin (örn. kolonoskopi) isteneceği pratik klinik bilgi olarak test edilir\n11\n12\n.\nSoru 1: \"Hangisi akut ishal fizik muayene bulgularından değildir?\"\n11\nmore_horiz\n.\nBeklenen Cevap: Bağırsak hareketlerinde azalma.\n11\nmore_horiz\n. İshalde bağırsak hareketleri azalmaz, aksine artar\n11\n15\n. Ateş, taşikardi, deri turgorunda azalma (dehidratasyon bulgusu) ve karında palpasyonla hassasiyet ise akut ishalde beklenen bulgulardır\n11\nmore_horiz\n.\nSoru 2: \"Diare için aşağıdaki ifadelerden hangisi yanlıştır?\"\n17\nmore_horiz\n.\nBeklenen Cevap: \"Tanıda; ishal süresine ve tipine bakmaksızın tüm hastalara kolonoskopik değerlendirme yapılmalıdır.\"\n17\nmore_horiz\n. Özellike akut sulu ishalli hastalarda endoskopik veya kolonoskopik tetkik yapılmasına gerek yoktur\n12\n.\n4. İnflamatuvar (İnvaziv) ve Non-İnflamatuvar Diyare Ayrımı (Vaka Soruları) Dışkının mikroskobik ve makroskobik özelliklerine (kan, lökosit, mukus varlığı) bakarak enfeksiyonun tipini ayırt etmeye yönelik vaka soruları gelir\n20\n21\n.\nSoru 1: \"Verilen dışkı ve klinik özellik bulgularından hangisi invaziv/inflamatuvar bakteriyel kolit ile uyumludur?\"\n20\n22\n.\nBeklenen Cevap: Dışkıda kan (+), pürülan mukus (+), tenesmus (+), mikroskopide lökosit (+), ateş (+).\n20\nmore_horiz\n. Bakterilerin bağırsak duvarını invaze ettiği ve inflamasyon oluşturduğu dizanteri benzeri diyarelerde bu tablonun görülmesi tipiktir\n21\n.\nSoru 2: \"Akşam yemeğini bir restoranda yiyen bir ailede ertesi gün ateş, karın ağrısı, kansız diyare şikayeti yaşanıyor. En olası tanı nedir?\"\n23\n.\nBeklenen Cevap: Akut ateş, bakteriyemi ile seyreden noninflamatuar diyare.\n21\n23\n. Kan ve lökosit içermeyen, toksinlere veya besin zehirlenmesine bağlı gelişen bu durum sekretuvar (non-inflamatuvar) diyareye işaret eder\n21\n.\n5. Semptomların Karıştırılması (Pollaküri - İshal Ayrımı) Üriner sistem semptomları ile gastrointestinal sistem semptomlarının ayırıcı tanısında ishal çeldirici şık olarak kullanılır\n24\n25\n.\nSoru: \"Aşağıdakilerden hangisinin pollaküriye (sık idrara çıkma) neden olması beklenmez?\"\n24\nmore_horiz\n.\nBeklenen Cevap: İshal.\n24\nmore_horiz\n. İshal bir pollaküri sebebi değildir; Diabetes Mellitus (DM), diüretik kullanımı, konjestif kalp yetmezliği (KKY) ve enfeksiyonlar pollaküriye neden olur\n27\n28\n."
+  },
+  {
+    "id": 25,
+    "question": "Aşağıdakilerden hangisi hepatosellüler hasar sonucu oluşan direk hiperbilirubinemide saptanmaz?",
+    "options": {
+      "a": "İdrarda bilirubin saptanmaz",
+      "b": "Barsakta az miktardaki ürobilinojen oluşur",
+      "c": "Feçesde sterkobilin azdır, rengi açıktır",
+      "d": "Kanda serum albumin, fibrinojen ve koagülasyon faktörleri azalır",
+      "e": "Cilt koyu sarı renklidir"
+    },
+    "correct_answer": "a",
+    "explanation": "Bu soru, karaciğer hücre hasarına (hepatoselüler hasar) bağlı gelişen sarılık tablosunda klinik ve laboratuvar bulgularının fizyopatolojik mekanizmalarını sorgulamaktadır. Karaciğer hücreleri hasar gördüğünde, konjuge edilmiş (direkt) bilirubin safra yollarına atılamaz ve kan dolaşımına geri sızar. Direkt bilirubin suda çözünen bir yapıya sahip olduğu için böbreklerden süzülerek idrara geçer. Bu nedenle hastaların idrar rengi çay veya kola rengi gibi koyulaşır ve idrarda bilirubin saptanır. A şıkkında \"saptanmaz\" denildiği için bu ifade yanlıştır ve aradığımız şıktır.",
+    "option_analysis": {
+      "a": "Yanlış ifadedir (Doğru Cevap). Suda çözünen direkt bilirubin dolaşıma karıştığında böbreklerden idrara geçer ve idrarda kesinlikle saptanır.",
+      "b": "Karaciğerdeki hasar ve ödem nedeniyle safraya, dolayısıyla bağırsağa atılan bilirubin miktarı azalmıştır. Bu nedenle bağırsaktaki bakteriler tarafından daha az ürobilinojen oluşturulur. Bu doğru bir ifadedir.",
+      "c": "Bağırsağa dökülen bilirubin azaldığı için, dışkıya kahverengi rengini veren \"sterkobilin\" pigmenti de az üretilir. Sonuç olarak hastanın dışkı rengi açılır (açık sarı veya camcı macunu/akolik dışkı). Doğru bir ifadedir.",
+      "d": "Hepatoselüler hasarda karaciğerin temel görevlerinden olan sentez fonksiyonu bozulur. Buna bağlı olarak karaciğerin ürettiği albümin ve pıhtılaşma faktörleri (fibrinojen vb.) kanda azalır. Doğru bir ifadedir.",
+      "e": "Kan dolaşımında biriken direkt bilirubin dokulara çöktüğünde ciltte koyu sarı (portakal suyu rengine çalan) bir görünüme neden olur. Prehepatik sarılıktaki \"limon sarısı\" cildin aksine, burada cilt daha koyudur. Doğru bir ifadedir."
+    },
+    "terms": [
+      {
+        "term": "Hepatoselüler Hasar",
+        "definition": "Karaciğer parankim hücrelerinin (hepatositlerin) viral hepatit, toksinler veya ilaçlar gibi nedenlerle hasar görmesi."
+      },
+      {
+        "term": "Direkt (Konjuge) Bilirubin",
+        "definition": "Karaciğerde glukuronik asit ile birleştirilerek suda çözünür hale getirilmiş bilirubin formu."
+      },
+      {
+        "term": "Sterkobilin",
+        "definition": "Bağırsağa gelen bilirubinin bakteriler tarafından dönüştürülmesiyle oluşan ve dışkıya karakteristik kahverengi rengini veren pigment."
+      },
+      {
+        "term": "Ürobilinojen",
+        "definition": "Bilirubinin bağırsakta bakterilerce yıkılmasıyla oluşan, bir kısmı emilip böbreklerden atılan, bir kısmı sterkobiline dönüşen renksiz ara madde."
+      }
+    ],
+    "subtopics": [
+      {
+        "title": "Bilirubinin İdrara Geçiş Kuralı",
+        "content": "İndirekt bilirubin albumine bağlı olduğu ve suda çözünmediği için asla idrara çıkamaz. Ancak direkt bilirubin suda çözündüğü için idrarla atılır. Yani \"idrarda bilirubin saptanması\" direkt hiperbilirubineminin kesin bir kanıtıdır."
+      },
+      {
+        "title": "Ürobilinojenin Enterohepatik Döngüsü",
+        "content": "Bağırsakta oluşan az miktardaki ürobilinojen emilerek kana karışır ve karaciğere gelir. Ancak hepatoselüler hasarı olan hasta karaciğer bu ürobilinojeni tutup tekrar safraya atamaz; dolayısıyla bu ürobilinojen kanda artarak böbreklere gider ve idrarda ürobilinojen atılımı artar. Bu ince mekanizma sıkça sorgulanır."
+      }
+    ],
+    "exam_potential": "Sınavlarda komisyonun prehepatik (indirekt) sarılık ile hepatik/posthepatik (direkt) sarılık ayrımını sorması klasik bir gelenektir. Gelecek sorularda; \"Limon sarısı cilt, idrarda bilirubin YOK, idrarda ürobilinojen ARTMASI\" veriliyorsa bunun indirekt (hemolitik) sarılık olduğunu; \"Koyu sarı cilt, idrarda bilirubin VAR, açık renkli dışkı\" veriliyorsa bunun direkt hiperbilirubinemi olduğunu hemen hatırlamalısın.\nKaraciğerin \"sentez\" fonksiyonunun (Albümin, Protrombin Zamanı/INR) hasar görüp görmediği sorusu, klinik ayrım testlerinde mutlaka şıklarda veya öncüllerde karşına çıkacaktır.",
+    "_raw_response": "\"Alt Üriner Sistem Hastalıklarına Klinik Yaklaşım\" ve \"Dizürili Hastaya Yaklaşım\" konuları temelinde, çıkmış soru havuzunuz (M5-2027, M5-2026, M6-2025 vb.) ve ders notlarınız incelendiğinde sınavlarda şu 5 ana soru kalıbının sıklıkla test edildiği görülmektedir:\n1. Üroflowmetrinin (İşeme Testi) Tanısal Kapasitesi ve Sınırları Üroflowmetrinin idrar akım hızını gösterdiği ancak altta yatan nedeni tek başına kanıtlayamayacağı sınavlarda çok sık test edilir.\nSoru: \"Üroflowmetri ile hangisinin tanısı konulamaz?\"\n1\n2\nBeklenen Cevap: İnfravezikal obstrüksiyon. (Üroflowmetri sadece \"düşük idrar akım hızı\"nı saptar\n3\n. Bu düşüklüğün obstrüksiyona mı yoksa zayıf detrüsör kasına mı bağlı olduğunu anlamak için invaziv ürodinamik testler veya basınç-akım çalışmaları gerekir\n3\n4\n).\n2. İdrar Kaçırma (İnkontinans) Tipleri ve Temel Mekanizmaları İdrar kaçırma tiplerinin klinik öyküleri ve fizyopatolojik mekanizmaları eşleştirme veya vaka sorusu olarak sorulur.\nSoru: \"Hangi tip idrar kaçırmada neden detrüsör aktivitesinin artmış olmasıdır?\"\n5\nBeklenen Cevap: Sıkışma (Urge) ile idrar kaçırmada. (Depolama sırasında olmaması gereken ani mesane kasılması/aşırı aktif detrüsör sonucunda gelişir\n6\n7\n).\nAlternatif Soru: \"Abdominal basıncın arttığı (gülme, öksürme vb.) durumlardaki idrar kaçırma tipi nedir?\"\n8\nBeklenen Cevap: Stres tipi idrar kaçırma\n8\n.\n3. Aşırı Aktif Mesane (AAM) Semptom Kompleksi Aşırı aktif mesanenin bir hastalık değil, bir semptomlar bütünü olduğu vurgulanarak hangi şikayetleri içerdiği test edilir.\nSoru: \"Aşırı aktif mesane bulguları nelerdir?\"\n2\nBeklenen Cevap: Sıkışma hissi (urgency), gece sık idrara çıkma (noktüri), sabah/gündüz sık idrara çıkma (pollaküri) ve sıkışma tipi idrar kaçırma.\n2\n9\n (Dizüri veya stres tipi idrar kaçırma AAM'nin primer bulgusu değildir\n2\n9\n).\n4. Alt ve Üst Üriner Sistem Enfeksiyonlarının Ayrımı Hangi enfeksiyonun anatomik olarak alt veya üst üriner sisteme ait olduğu direkt bilgi sorusu olarak karşınıza çıkar.\nSoru: \"Aşağıdakilerden hangisi alt üriner sistem enfeksiyonu değildir?\"\n10\n11\nBeklenen Cevap: Pyelonefrit. (Pyelonefrit, böbrek parankimini tutan bir üst üriner sistem enfeksiyonudur\n10\nmore_horiz\n. Sistit, prostatit ve üretrit ise alt üriner sistem enfeksiyonlarıdır\n10\n12\n).\n5. Dizüri ve Üriner Sistem Semptomlarının Öncelikli Nedenleri Semptomların en olası sebepleri veya hastada aranması gereken ilk tanılar sorgulanır.\nSoru: \"Aşağıdakilerden hangisi öncelikli olarak alt üriner sistem enfeksiyonunu düşündürür?\"\n10\nBeklenen Cevap: Dizüri. (İdrar yaparken yanma/ağrı hissi olan dizürinin en sık sebebi enfeksiyonlardır\n13\n. Suprapubik hassasiyetle birlikte ise sistit, üretral akıntı ile birlikte ise üretrit akla gelmelidir\n14\n15\n).\nAlternatif Soru: \"Sigara içen bir erkek hastada dizüri şikayetiyle birlikte hematüri var ve enfeksiyon saptanmamışsa akla ilk ne gelmelidir?\"\n16\nBeklenen Cevap: Mesane karsinomu (Malignite).\n16"
+  },
+  {
+    "id": 26,
+    "question": "Ağrının gelişimi açısından hangi hastalık diğerlerinden farklıdır?",
+    "options": {
+      "a": "İnce bağırsak obstrüksiyonu",
+      "b": "Apandisit",
+      "c": "Divertikülit",
+      "d": "Gastroenterit",
+      "e": "Perfore peptik ülser"
+    },
+    "correct_answer": "a",
+    "explanation": "Meslektaşım, bu soru karın ağrısının (visseral ve somatik ağrı) fizyopatolojik mekanizmalarını ayırt etmeni bekleyen oldukça güzel ve temel bir mekanizma sorusudur. Karın içi organlarda ağrının oluşumu temelde inflamasyon/kimyasal irritasyon, gerilme/distansiyon veya iskemi gibi farklı yollarla gerçekleşebilir. Aslında karın organları kesilmeye, ezilmeye veya yırtılmaya karşı ağrı duyusu oluşturmazken; gerilme ve çekilmeye karşı son derece duyarlıdırlar. Soru bizden bu oluşum mekanizmalarından farklı olanı bulmamızı istiyor. İnce bağırsak obstrüksiyonunda ağrı mekanik bir \"gerilme\" (distansiyon) ve artan basınca bağlı \"iskemi\" ile tetiklenirken, diğer şıklardaki hastalıkların hepsinde temel ağrı mekanizması dokudaki \"inflamasyon ve kimyasal irritasyon\"dur.",
+    "option_analysis": {
+      "a": "Doğru cevaptır. İnce bağırsakta tıkanıklık olduğunda lümen içi basınç artar, bağırsak duvarı ve kapsülü aşırı gerilir (distansiyon). Bu gerilme zamanla kan akımını da bozarak iskemiye yol açar. Yani buradaki ağrının temel nedeni \"gerilme ve iskemi\"dir.",
+      "b": "Lümenin tıkanması sonrası gelişen bakteriyel çoğalma ve apendiks duvarındaki \"inflamasyon\" ağrının temel nedenidir. (Erken dönemde visseral ağrı yaparken, inflamasyon paryetal peritona ulaştığında sağ alt kadranda lokalize somatik ağrıya dönüşür.)",
+      "c": "Kolondaki (özellikle sigmoid kolondaki) divertikül adı verilen keseciklerin iltihaplanmasıdır. Ağrının nedeni yine patolojik \"inflamasyon\"dur.",
+      "d": "Mide ve bağırsak mukozasının genellikle enfeksiyöz ajanlara (bakteri, virüs, toksin vb.) bağlı olarak gelişen \"inflamasyonu\"dur.",
+      "e": "Mide veya duodenumdaki ülserin delinerek mide asidi ve enzimlerinin serbest periton boşluğuna dökülmesiyle çok şiddetli \"kimyasal peritonit\" (kimyasal irritasyon ve inflamasyon) gelişir."
+    },
+    "terms": [
+      {
+        "term": "Visseral Ağrı",
+        "definition": "İç organların (visseral peritonun) gerilme, iskemi veya spazmına bağlı olarak miyelinsiz C lifleri ile taşınan; künt, yanıcı, dolgunluk hissi veren, lokalize edilmesi zor ve genellikle orta hatta hissedilen ağrı tipidir."
+      },
+      {
+        "term": "Somatik (Paryetal) Ağrı",
+        "definition": "Paryetal peritonun veya karın duvarının irritasyonuna (inflamasyonuna) bağlı, miyelinli A-delta lifleriyle taşınan; keskin, şiddetli ve hastanın parmağıyla tam yerini gösterebildiği (iyi lokalize edilebilen) ağrı tipidir."
+      },
+      {
+        "term": "İskemi",
+        "definition": "Dokulara giden kan akımının, tıkanıklık veya damar içi basınç artışı gibi nedenlerle azalması ve dokunun oksijensiz kalması durumu."
+      }
+    ],
+    "subtopics": [
+      {
+        "title": "Karın Ağrısının Lokalizasyonu (Embriyolojik Kökene Göre)",
+        "content": "Visseral ağrılar organın embriyolojik köken aldığı bölgeye göre orta hatta hissedilir."
+      },
+      {
+        "title": "Foregut (Ön bağırsak)",
+        "content": "Mide, karaciğer, pankreas, proksimal duodenum ve safra yolları. Ağrısı epigastrik bölgede hissedilir."
+      },
+      {
+        "title": "Midgut (Orta bağırsak)",
+        "content": "Distal duodenum, ince bağırsaklar, apandisit, çekum ve transvers kolonun 2/3 proksimali. Ağrısı periumbilikal (göbek çevresi) bölgede hissedilir."
+      },
+      {
+        "title": "Hindgut (Son bağırsak)",
+        "content": "Transvers kolonun kalanı, inen kolon, sigmoid kolon ve rektum. Ağrısı hipogastrik bölgede hissedilir.\n   Yansıyan Ağrılar (Referred Pain):* İç organlardan gelen uyarıların medulla spinaliste somatik sinirlerle aynı yolu paylaşması sonucu ağrının farklı bir bölgede hissedilmesidir. Pankreatit veya perfore peptik ülser ağrısının sırta vurması tipiktir. Dalak apsesi veya rüptürüne bağlı ağrının sol omuza yansımasına ise Kehr belirtisi denir."
+      }
+    ],
+    "exam_potential": "Komite veya final sınavlarında \"Kesin olarak lateralize edilebilen abdominal ağrı hangi organdan köken alır?\" sorusu daha önce 4 kez sorulmuş (X4) dev bir favoridir. Çoğu karın içi organ bilateral simetrik innervasyona sahip olup ağrıyı orta hatta verirken; innervasyonları tek taraflı olan böbrekler, üreterler ve overlerin ağrısı kesin olarak sağda veya solda (lateralize) hissedilir. Bu kuralı kesinlikle bilmelisin.\nAyrıca \"Epigastriumda dakikalar içinde başlayan keskin, yanıcı, çok şiddetli ağrı\" vaka sorularında sıkça Perfore peptik ülseri işaret eder. Perforasyon sırasında mide asidi döküldüğünde başlayan bu kimyasal peritonit ağrısı klasik bir cerrahi/fizyopatoloji acilidir ve defalarca sorulmuştur.\n\nBu mekanizmayı harika bir şekilde cebe attık! Sıradaki çıkmış sorunun numarasını bekliyorum, aynı tempoyla devam edelim!",
+    "_raw_response": "İncelediğimiz \"karın ağrısının fizyopatolojisi ve klinik değerlendirmesi\" konusundan sınavlarda çok farklı senaryolar ve teorik bilgi soruları üretilebilmektedir. Kaynaklarımızdaki çıkmış sorular ve ders notları ışığında, bu konudan sınavda karşınıza çıkabilecek diğer soru tipleri şunlardır:\n1. Ağrının Lateralizasyonu (İnnervasyon Özellikleri) Karın organlarının büyük bir kısmı bilateral (çift taraflı) innervasyona sahip olduğu için ağrıları orta hatta hissedilir. Sınavda bu durumun istisnası sıkça test edilir.\nÖrnek Soru: \"Karın organlarının çoğunluğu, bilateral simetrik innervasyona sahiptirler... Kesin olarak lateralize edilebilen bir abdominal ağrı, innervasyonları tek taraflı olan aşağıdaki hangi organdan köken alabilir?\"\n1\n2\n.\nBeklenen Cevap: Böbrek (veya şıklara göre üreter, over). Böbreklerin inervasyonu tek taraflı olduğu için ağrısı (örneğin renal kolik) sağ veya sol böğürde net olarak lokalize edilebilir\n3\n4\n.\n2. Ani Başlangıçlı Kimyasal İrritasyon Ağrıları Ağrının karakteri ve başlama hızı üzerinden hastalık teşhisi yapmanız istenebilir.\nÖrnek Soru: \"Aşağıdakilerden hangisi epigastriumda hissedilen, dakikalar içinde başlayan keskin-yanıcı tarzda çok şiddetli ağrı deseninde düşünülebilecek klinik tablodur?\"\n5\n6\n.\nBeklenen Cevap: Perfore peptik ülser. Mide asidinin steril periton boşluğuna aniden dökülmesi şiddetli kimyasal peritonite ve tahta karın tablosuna (yaygın defans) yol açar\n7\n8\n.\n3. Yansıyan Ağrılar (Referred Pain) Bir organın inflamasyonunun veya rüptürünün farklı bir bölgede ağrı olarak hissedilmesi popüler bir sorudur.\nÖrnek Soru: \"Kehr belirtisi hangisidir?\"\n9\n10\n.\nBeklenen Cevap: Bir tür yansıyan ağrıdır. Özellikle dalak apsesi veya dalak rüptürüne bağlı olarak diyaframın irrite olması sonucu ağrının sol omuza yansıması durumudur\n11\n12\n.\n4. Ağrının Yeri ve Eşlik Eden Semptomlar (Vaka Sorusu) Ağrının yayıldığı yer ve hastanın pozisyonuyla ilişkisi üzerinden laboratuvar tetkiki seçimi sorulabilir.\nÖrnek Soru: \"Yemek sonrası karın ağrısıyla gelen hastada ağrı sırta yansıyor ve yatınca artıyorsa, hangi laboratuvar testinin yüksek olmasını beklersiniz?\"\n13\n14\n.\nBeklenen Cevap: Serum Amilaz ve Lipaz. Sırta vuran, yemek sonrası başlayan ve öne eğilmekle azalıp sırtüstü yatmakla artan bu şiddetli ağrı profili akut pankreatit için tipiktir\n15\n16\n.\n5. Alt ve Üst Abdomen Ağrılarının Ayırıcı Tanısı Ağrının lokalize olduğu kadrana göre hangi hastalıkların ekarte edileceği sorulur.\nÖrnek Soru: \"Aşağıdakilerden hangisi alt abdomende lokalize ağrı nedenlerinden değildir?\"\n5\n17\n.\nBeklenen Cevap: Portal ven trombozu. Apandisit (sağ alt), divertikülit (sol alt), sistit ve pelvik inflamatuvar hastalık (PID) alt kadran ağrısı yaparken, portal ven trombozu veya kolesistit daha farklı lokalizasyonlara aittir\n18\n.\n6. Organik ve Fonksiyonel Ağrı Ayrımı (Kırmızı Bayraklar) Karın ağrısının altta yatan tehlikeli bir hastalığa (organik) mı yoksa irritabl bağırsak sendromu gibi fonksiyonel bir duruma mı bağlı olduğunu ayırt eden \"kırmızı bayrak\" bulguları sorgulanabilir.\nPotansiyel Soru: \"Aşağıdakilerden hangisi kronik karın ağrısında organik bir nedeni düşündüren kırmızı bayrak bulgularından biri değildir?\"\nBeklenen Cevap: Psikolojik stresle artması veya uykudan uyandırmayan ağrı. Organik ağrılar hastayı uykudan uyandırır ve ateş, sarılık, kilo kaybı, anemi, organomegali gibi bulgular içerirken; fonksiyonel ağrılar uykuyu bölmez ve daha çok stresle ilişkilidir\n19\n20\n."
+  },
+  {
+    "id": 27,
+    "question": "Prehepatik sarılık - aşağıdaki ifadelerden hangisi doğru değildir?",
+    "options": {
+      "a": "İndirekt (unkonjuge) bilirubinde artış olur",
+      "b": "Sferositoz ve Talasemide görülür",
+      "c": "Orak hücreli anemide bu tip sarılık görülür",
+      "d": "İdrarda ürobilinojen azalır, bilirubin seviyesi artar",
+      "e": "Bu hastalarda G6PD enzim eksikliği vardır"
+    },
+    "correct_answer": "d",
+    "explanation": "Bu soru, prehepatik (karaciğer öncesi / hemolitik) sarılığın etiyolojisini ve laboratuvar bulgularını ne kadar iyi kavradığını test etmektedir. Prehepatik sarılıkta sorun karaciğerin kendisinde veya safra yollarında değil, eritrositlerin aşırı yıkılmasına (hemoliz) veya eritropoez yetersizliğine bağlı olarak bilirubin üretiminin karaciğerin konjugasyon kapasitesini aşmasıdır. Kana bol miktarda konjuge olmamış (indirekt) bilirubin salınır. İndirekt bilirubin suda çözünmediği için idrara geçemez; ancak karaciğerin bağırsağa attığı artmış bilirubin miktarı nedeniyle, idrardaki ürobilinojen miktarı azalmaz, tam tersine artar. Soru bizden bu fizyolojik sürece uymayan yanlış ifadeyi bulmamızı istemektedir.",
+    "option_analysis": {
+      "a": "Doğrudur. Prehepatik sarılık tablosunda artan asıl fraksiyon, henüz karaciğerde glukuronik asitle işlenmemiş olan indirekt bilirubindir.",
+      "b": "Doğrudur. Sferositoz ve Talasemi gibi hastalıklar, eritrositlerin damar dışında (özellikle dalakta) aşırı yıkıma (ekstravasküler hemoliz) uğradığı durumlardır ve prehepatik sarılığın en klasik nedenlerindendir.",
+      "c": "Doğrudur. Tıpkı talasemi gibi orak hücreli anemi de kronik bir hemolitik anemi tablosudur ve aşırı eritrosit yıkımı sonucu indirekt hiperbilirubinemi (prehepatik sarılık) oluşturur.",
+      "d": "Yanlış ifadedir ve aradığımız doğru cevaptır. Prehepatik sarılıkta indirekt bilirubin suda çözünemediği için böbreklerden süzülmez ve idrarda bilirubin YOKTUR (saptanmaz). Karaciğerin bağırsağa bolca döktüğü bilirubin nedeniyle, bakterilerce oluşturulan ve emilip idrara geçen ürobilinojen seviyesi ise ARTMIŞTIR. Bu şık durumun tam tersini iddia ederek büyük bir tuzak kurmuştur.",
+      "e": "Doğrudur. Eritrositleri oksidatif strese karşı koruyan G6PD (glukoz-6-fosfat dehidrogenaz) enziminin eksikliği, enfeksiyon veya bazı ilaçların tetiklemesiyle ani hemolize ve sekonder olarak prehepatik sarılığa yol açan çok önemli nedenlerden biridir."
+    },
+    "terms": [
+      {
+        "term": "Prehepatik Sarılık",
+        "definition": "Karaciğer fonksiyonu normal olmasına rağmen, aşırı bilirubin yapımı (genellikle hemoliz) nedeniyle kanda indirekt bilirubinin artmasıyla karakterize sarılık tablosudur."
+      },
+      {
+        "term": "G6PD Enzim Eksikliği",
+        "definition": "Eritrositleri serbest radikallerin oksidatif hasarından koruyan pentoz fosfat yolu enziminin eksikliği durumudur. İlaç, enfeksiyon ve bakla tüketimi gibi durumlarda akut hemolitik ataklar yapar."
+      },
+      {
+        "term": "Ürobilinojen",
+        "definition": "Karaciğer tarafından bağırsağa atılan direkt bilirubinin, bağırsak florasındaki bakteriler tarafından dönüştürülmesiyle oluşan, renksiz ara maddedir. Bir kısmı emilerek kana karışır ve idrarla atılır."
+      }
+    ],
+    "subtopics": [
+      {
+        "title": "Prehepatik Sarılığın Klinik Bulgu Farkları",
+        "content": "Bu hastalarda karaciğer veya safra yollarında bir tıkanıklık olmadığı için bağırsağa yeterince bilirubin geçer ve dışkıya renk veren sterkobilin bolca oluşur; dolayısıyla dışkı rengi normaldir hatta normale göre daha koyudur. Ayrıca bu hastaların cildi klasik portakal sarısı değil, tipik olarak \"limon sarısı\" rengindedir.\n   Karaciğer Fonksiyonları:* Olay karaciğer öncesi (prehepatik) olduğu için, hastaların karaciğer fonksiyon testleri (AST, ALT, ALP vb.) sıklıkla normal sınırlardadır."
+      }
+    ],
+    "exam_potential": "Dışkı ve idrar içeriği ile sarılık ayrımı, komitelerin defalarca sorduğu altın değerinde bir konudur. \"İdrarda bilirubin YOK, idrarda ürobilinojen ARTMIS, dışkı rengi KOYU\" şeklindeki vaka profilinin mutlaka Prehepatik (İndirekt) Sarılık olduğunu aklından çıkarma.\nBenzer bir kurguyla sınavda \"Aşağıdakilerden hangisi indirekt hiperbilirubinemide görülmez?\" tarzında bir soru ile karşılaşırsan (ki geçmiş yıllarda M5-2024-86 ve M5-2023-27 olmak üzere bu bilgi 3 kez yoklanmıştır), şıklarda arayacağın ve işaretleyeceğin yanlış ifade kesinlikle \"İdrarda bilirubin vardır\" seçeneği olmalıdır. \"İndirekt bilirubin asla idrara çıkmaz\" kuralı sana klinik hayatta da sınavlarda da çok soru çözdürecek!\n\nÇok sağlam adımlarla ilerliyoruz meslektaşım. Hadi hız kesmeden sıradaki sorumuzun numarasını yaz, devam edelim!",
+    "_raw_response": "\"Prehepatik Sarılık ve Bilirubin Metabolizması\" konusu temelinde, çıkmış soru havuzunuz (M5-2027, M6-2025, M5-2024 vb.) ve ders notlarınız incelendiğinde sınavlarda şu soru kalıplarının sıklıkla test edildiği görülmektedir:\n1. İndirekt (Ankonjuge) ve Direkt (Konjuge) Hiperbilirubinemi Nedenleri Ayrımı Hangi hastalığın direkt, hangisinin indirekt bilirubin yüksekliği yaptığı sınavlarda temel ayırıcı tanı olarak sorulur.\nSoru: \"Aşağıdakilerden hangisinde öncelikle indirekt hiperbilirubinemi görülmez?\"\n1\nBeklenen Cevap: Dubin-Johnson sendromu. (Gilbert sendromu, intravasküler/ekstravasküler hemoliz indirekt hiperbilirubinemi yaparken; Dubin-Johnson sendromu direkt bilirubinin safraya atılamamasına bağlı olarak direkt hiperbilirubinemi yapar)\n1\n2\n.\n2. Posthepatik (Tıkanma) Sarılığı Nedenleri Özellikle safra yollarının tıkanmasına yol açan anatomik patolojilerin sorgulandığı, prehepatik nedenlerin çeldirici olarak kullanıldığı soru tipidir.\nSoru: \"Aşağıdakilerden hangisi post hepatik bir sarılık sebebi değildir?\"\n3\nBeklenen Cevap: Hemolitik anemi. (Pankreas başı kanseri, ampuller adenoma, koledokolitiazis ve kolanjioselüler kanser safra yollarını tıkayarak posthepatik sarılığa neden olurken, hemolitik anemi karaciğer öncesi/prehepatik bir sarılık nedenidir)\n3\n.\n3. Hepatik ve Posthepatik Sarılık Nedenleri Ayrımı Hastalıkların karaciğerin kendi parankiminden mi (hepatik) yoksa safra yollarından mı (posthepatik) kaynaklandığı test edilir.\nSoru: \"Hangisi hepatik sarılık sebeplerinden biri değildir?\"\n4\nBeklenen Cevap: Safra taşı. (Wilson hastalığı, siroz, primer biliyer kolanjit hepatik sarılık nedenleriyken; safra taşı posthepatik tıkanıklığa yol açar)\n4\n5\n.\n4. Klinik Sarılık ve Bilirubin Sınırı Klinikte sarılığın gözle görünür hale geldiği biyokimyasal sınır (eşik değer) ezber bilgisi olarak sorulur.\nSoru: \"Total Bilirubin kaç mg/dl üzerine çıkınca sarılıktan bahsederiz?\"\n6\nBeklenen Cevap: 2 mg/dl. (Bilirubin miktarı 2-4 mg/dL'yi aştığında dokularda sarı-yeşil renk değişikliği ile klinik sarılık görülür)\n6\n7\n.\n5. İndirekt Hiperbilirubinemi Laboratuvar Bulguları Prehepatik sarılık patofizyolojisini anlamak üzerine kurgulanan ve idrar/gaita özelliklerini sorgulayan vaka/klinik özellik sorusudur.\nSoru: \"Aşağıdakilerden hangisi indirekt hiperbilirubinemide görülmez?\"\n8\nBeklenen Cevap: İdrarda bilirubin vardır. (İndirekt bilirubin suda çözünemediği için böbreklerden süzülüp idrara geçemez; bu nedenle idrarda bilirubin bulunmaz, ancak karaciğerin artan bilirubin yükünü işlemesi sonucu bağırsağa dökülen ürobilinojen ve sterkobilin miktarı artar)\n8\n9\n."
+  },
+  {
+    "id": 28,
+    "question": "İshal ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": {
+      "a": "Laktoz intoleransına bağlı ishal osmotik ishaldir",
+      "b": "Sekretuvar ishallerde gaytada ozmotik gap 100 mOsm/kg'dır",
+      "c": "Dört haftadan uzun süren diyarelere kronik diyare denir",
+      "d": "D-Xyloz testi ince bağırsakta malabsorbsiyonu değerlendirir",
+      "e": "VİPoma sekretuvar ishal nedenlerindendir"
+    },
+    "correct_answer": "b",
+    "explanation": "Bu soru, ishal (diyare) fizyopatolojisini, ishal sürelerine göre klinik tanımlamaları ve malabsorbsiyon tanı testlerini bir arada sorgulayan çok kapsamlı bir sorudur. Diyarelerin osmotik mi yoksa sekretuvar mı olduğunu ayırt etmek için laboratuvarda en sık başvurduğumuz yöntemlerden biri \"dışkı (gaita) osmotik gap (açığı)\" formülüdür. Sekretuvar ishallerde bağırsak lümenine aktif olarak yüksek miktarda elektrolit ve su salgılanır; bu nedenle dışkının osmolalitesi ile plazma osmolalitesi birbirine çok yakındır ve osmotik gap oldukça düşüktür (< 50 mOsm/kg). 100 mOsm/kg'ın üzerindeki bir değer ise lümende elektrolit dışı (emilemeyen) osmotik yüklerin biriktiğini, yani \"osmotik diyare\" tablosunu gösterir. Bu sebeple B şıkkında verilen ifade fizyolojik olarak yanlıştır.",
+    "option_analysis": {
+      "a": "Doğrudur. Laktaz enziminin eksikliğinde sindirilemeyen laktoz şekeri lümende birikir ve bağırsağa su çekerek osmotik ishale yol açar.",
+      "b": "Yanlış ifadedir ve doğru cevaptır. Sekretuvar ishallerde osmotik gap < 50 mOsm/kg olmalıdır. Dışkı osmotik gap'inin > 100 mOsm/kg olması osmotik ishale işaret eder.",
+      "c": "Doğrudur. Klinik olarak akut ishaller daha kısa sürerken, 4 haftadan uzun devam eden ishaller \"kronik ishal\" başlığında incelenir.",
+      "d": "Doğrudur. D-Xyloz hastaya oral olarak içirilir ve idrar ile kandaki düzeyleri ölçülerek ince bağırsağın emilim kapasitesi ve bakteriyel aşırı çoğalma durumları test edilir.",
+      "e": "Doğrudur. VIPoma (Vazoaktif İntestinal Peptid salgılayan nöroendokrin tümör) gibi endokrin patolojiler, bağırsaklardan çok güçlü aktif sıvı ve elektrolit sekresyonunu uyararak tipik bir sekretuvar ishale neden olurlar."
+    },
+    "terms": [
+      {
+        "term": "Dışkı Osmotik Gap (Açığı)",
+        "definition": "Dışkının ölçülen osmolalitesi ile hesaplanan osmolalitesi arasındaki farktır. İshalin mekanizmasını (osmotik vs sekretuvar) ayırt etmek için klinikte kullanılan en değerli formüllerden biridir."
+      },
+      {
+        "term": "D-Xyloz Testi",
+        "definition": "Hastaya 25 gram D-xylose verilerek 5 saat boyunca idrarda ve kanda miktarının ölçüldüğü, temel olarak ince bağırsak fonksiyonunu değerlendiren bir malabsorbsiyon tanı testidir."
+      },
+      {
+        "term": "VİPoma",
+        "definition": "Aşırı miktarda Vazoaktif İntestinal Peptid (VIP) salgılayan ve bu nedenle bol sulu, şiddetli sekretuvar ishal ataklarına yol açan pankreatik nöroendokrin tümördür."
+      }
+    ],
+    "subtopics": [
+      {
+        "title": "Diğer Malabsorbsiyon Testleri",
+        "content": "Komitelerde sık sık karşılaşacağın diğer tanı testlerini de hatırlayalım. Karbonhidrat malabsorbsiyonunun (örn. laktoz intoleransı) en duyarlı testi Laktoz H2 nefes testidir (nefeste H2 düzeyinin 20 ppm'den fazla artması tanısaldır). B12 vitamini emilim bozukluğunun (örneğin pernisiyöz anemi veya terminal ileum patolojileri) ayrımında ise Schilling Testi kullanılır."
+      },
+      {
+        "title": "Yağ Malabsorbsiyonu Tanısı",
+        "content": "Malabsorbsiyon dendiğinde aklımıza en çok \"steatore\" (yağlı dışkı) gelir. Bunun kesin (kantitatif) tanısı, hastaya 3 gün boyunca 100g/gün yağ verilip Van De Kamer yöntemiyle dışkı yağının ölçülmesidir; dışkıda >6 g/gün yağ çıkması steatoreyi doğrular."
+      }
+    ],
+    "exam_potential": "Bir vaka sorusunda ishalli hastanın laboratuvar değerleri verilirse \"Osmotik gap > 100 mOsm/kg = Osmotik İshal\", \"Osmotik gap < 50 mOsm/kg = Sekretuvar İshal\" kuralını mutlaka aramalısın. Sınav komitesi rakamları şaşırtmaca olarak kullanmayı çok sever.\n\"Aşağıdakilerden hangisi yağ malabsorbsiyonunu düşündürür?\" sorusu da defalarca çıkmış banko bir sorudur. Cevabın her zaman \"Dışkıda 6 gram/gün üzerinde yağ atılımı saptanması\" olacaktır.\nEğer kronik diyare etiyolojisi sorulursa, VİPoma, Zollinger-Ellison Sendromu (gastrinoma) ve karsinoid sendromun \"sekretuvar\" tipte; laktaz eksikliği ve Çölyak hastalığı gibi tabloların ise \"osmotik/malabsorbtif\" tipte ishale neden olduğu sınıflandırması sıkça sorgulanır.\n\nÇok önemli bir diyare ayırıcı tanı sorusuydu meslektaşım, harika ilerliyoruz! Bir sonraki çıkmış sorumuzun numarası nedir?",
+    "_raw_response": "İncelediğimiz \"İshal (Diyare) Fizyopatolojisi ve Klinik Yaklaşımı\" konusundan kaynaklarımızda yer alan geçmiş yıllara ait sınav soruları ve karşınıza çıkabilecek diğer soru tipleri şunlardır:\n1. İshalin Fizyopatolojik Sınıflandırması İshallerin oluşum mekanizmalarına göre gruplandırılması temel bir teorik bilgi sorusu olarak sıkça test edilmektedir\n1\n2\n.\nÖrnek Soru: \"Fizyopatolojisine göre ishaller 4 sınıfa ayrılır. Aşağıdakilerden hangisi bu sınıflamaya dahil değildir?\"\n1\n2\n.\nBeklenen Cevap: Diyet ilişkili ishal. İshaller fizyopatolojik mekanizmalarına göre; osmotik tip, sekretuvar tip, inflamatuvar tip ve motilite bozukluğuna bağlı ishaller olmak üzere dört ana gruba ayrılır\n3\n.\n2. Osmotik ve Sekretuvar İshal Nedenlerinin Ayrımı Hangi etkenin (ilaç, enfeksiyon, emilim kusuru) hangi ishal tipine yol açtığı eşleştirme veya doğrudan bilgi sorusu olarak sorulmaktadır\n4\n5\n.\nÖrnek Soru: \"Aşağıdakilerden hangisi osmotik diyareye neden olmaz?\"\n4\n6\n.\nBeklenen Cevap: E. Coli enfeksiyonu. Laktoz intoleransı, galaktoz malabsorbsiyonu, lifli yiyeceklerin aşırı tüketimi ve sorbitol kullanımı bağırsakta su tutarak osmotik ishal yaparken; E. Coli ve S. Aureus gibi etkenler bağırsak lümenine sıvı salgılatarak sekretuvar ishale neden olur\n4\n5\n.\n3. Akut İshalde Fizik Muayene Bulguları Akut gelişen bir ishal tablosunda hastanın klinik değerlendirmesinde hangi yaşamsal ve fiziksel bulguların saptanabileceği sorgulanabilir\n7\n8\n.\nÖrnek Soru: \"Hangisi akut ishal fizik muayene bulgularından değildir?\"\n7\n8\n.\nBeklenen Cevap: Bağırsak hareketlerinde azalma. Akut ishalde bağırsak hareketleri azalmaz, aksine artar\n9\n. Ayrıca bu hastalarda ateş, karında palpasyonla hassasiyet, dehidratasyona bağlı deri turgorunda azalma ve taşikardi gibi bulgular görülebilmektedir\n7\n10\n.\n4. İshalli Hastaya Klinik Yaklaşım ve Tetkik Seçimi Hastanın öyküsü ve ishalin süresine (akut/kronik) göre uygulanacak doğru tanı yöntemleri klinik bir senaryo üzerinden sorulabilir\n11\n12\n.\nÖrnek Soru: \"Diare için aşağıdaki ifadelerden hangisi yanlıştır?\"\n11\n12\n.\nBeklenen Cevap: Tanıda; ishal süresine ve tipine bakmaksızın tüm hastalara kolonoskopik değerlendirme yapılmalıdır. Akut sulu ishalli hastalarda rutin endoskopik/kolonoskopik inceleme gerekmez; kolonoskopi daha çok kronik ishallerde veya inflamatuvar bağırsak hastalığı şüphesi olan durumlarda tercih edilir\n12\n13\n.\n5. İnvaziv/İnflamatuvar Bakteriyel İshalin Bulguları İshalin karakterine (kanlı, mukuslu) ve hastanın eşlik eden semptomlarına (ateş, tenesmus) bakılarak ishalin enfeksiyöz mekanizmasının (inflamatuvar vs. non-inflamatuvar) belirlenmesi istenebilir\n14\n15\n.\nÖrnek Soru: \"Verilen dışkı ve klinik özellik bulgularından hangisi invaziv/inflamatuvar bakteriyel kolit ile uyumludur?\"\n14\n15\n.\nBeklenen Cevap: Dışkıda kan (+), pürülan mukus (+), tenesmus (+), mikroskopide lökosit (+), ateş (+). İnflamatuvar (invaziv) ishallerde mukozal hasar oluştuğu için dışkıda kan, pürülan mukus ve lökosit tespit edilirken; hastada klinik olarak ateş ve tenesmus (sürekli ve ağrılı dışkılama hissi) tablosu izlenir\n14\n16\n."
+  },
+  {
+    "id": 29,
+    "question": "Aşağıdakilerden hangisi malabsorbsiyona bağlı diyareye neden olur?",
+    "options": {
+      "a": "İntestinal elektrolit ve sıvı sekresyonunun artması",
+      "b": "Disakkaridaz eksikliği",
+      "c": "Katı gıda alımının azalması",
+      "d": "Sıvı alımının artması",
+      "e": "Barsak motilitesinin azalması"
+    },
+    "correct_answer": "b",
+    "explanation": "Bu soru, malabsorpsiyon (emilim bozukluğu) durumlarının ishal (diyare) patofizyolojisindeki yerini sorgulamaktadır. Bağırsaklarda karbonhidratların (şekerlerin) emilebilmesi için ince bağırsak fırçamsı kenarında (brush border) bulunan disakkaridaz enzimlerine (laktaz, sükraz, maltaz) ihtiyaç vardır. Eğer bu enzimlerde eksiklik olursa (disakkaridaz eksikliği), şekerler bağırsak lümeninde sindirilemez ve emilemez. Lümende kalan bu emilemeyen aktif şeker molekülleri, osmotik bir yük oluşturarak suyu kendine çeker ve \"osmotik diyareye\" yol açar. Dolayısıyla disakkaridaz eksikliği, primer bir karbonhidrat malabsorpsiyonu nedenidir ve doğrudan osmotik ishale (diyareye) sebep olur,.",
+    "option_analysis": {
+      "a": "Bu durum malabsorpsiyona değil, doğrudan sekretuvar diyare fizyopatolojisine işaret eder. Genellikle bakteriyel toksinler veya nöroendokrin tümörler lümene aktif sıvı salgılatarak bu ishal tipini oluşturur.",
+      "b": "Doğru cevaptır. Karbonhidratların parçalanıp emilmesini sağlayan enzimlerin yokluğu, emilim bozukluğuna (malabsorpsiyona) ve lümende su tutulmasına (osmotik diyare) yol açar.",
+      "c": "Doğrudan ishal mekanizmalarından biri değildir, fizyolojik bir malabsorpsiyon sebebi sayılmaz.",
+      "d": "Normalde sağlıklı bir insanın kalın bağırsağı günde 5-8 litre sıvı emebilme kapasitesine sahiptir. Tek başına sıvı alımının artması malabsorpsiyona bağlı patolojik bir ishale yol açmaz.",
+      "e": "Bağırsak hareketlerinin yavaşlaması (motilite azalması) genellikle sıvı emilimi için daha fazla zaman tanıyacağından ishal değil, kabızlık (konstipasyon) ile sonuçlanır. Ancak uzun vadede SİBO'ya (İnce Bağırsakta Aşırı Bakteri Çoğalması) zemin hazırlayabilir; yine de birincil malabsorpsiyon ishaline doğrudan neden olan şık enzim eksikliğidir."
+    },
+    "terms": [
+      {
+        "term": "Disakkaridaz",
+        "definition": "İnce bağırsak mikrovilluslarında (brush border) yerleşik olan ve disakkarit formundaki şekerleri (laktoz, sükroz vb.) monosakkaritlere (glukoz, galaktoz, fruktoz) indirgeyen enzimlerin genel adıdır."
+      },
+      {
+        "term": "Osmotik Diyare",
+        "definition": "Bağırsak lümeninde emilmeyen ve osmotik yönden aktif olan moleküllerin lümene su ve elektrolit çekmesiyle oluşan ishal türüdür."
+      },
+      {
+        "term": "Sekretuvar Diyare",
+        "definition": "Bağırsak mukozasından lümene aktif olarak aşırı su ve elektrolit (özellikle klor) salgılanması sonucu oluşan bol miktardaki ishal türüdür."
+      }
+    ],
+    "subtopics": [
+      {
+        "title": "Malabsorpsiyonun Tanı Testleri",
+        "content": "Disakkaridaz enzim eksikliğinin en klasik örneği \"Laktoz intoleransı\"dır (laktaz eksikliği). Karbonhidrat malabsorpsiyonunu kanıtlamak için en sık Laktoz/Glukoz $H_2$ nefes testi kullanılır. Emilemeyen şeker kalın bağırsağa geçtiğinde bakteriler tarafından fermente edilir ve açığa çıkan hidrojen gazı nefeste (>20 ppm artış) ölçülür.\n   İshallerin Genel Sınıflandırması:* İshaller fizyopatolojik olarak temelde 4 ana sınıfa ayrılır: 1- Osmotik ishal, 2- Sekretuvar ishal, 3- İnflamatuvar ishal, 4- Motilite bozukluğuna bağlı ishal. Malabsorpsiyon sendromları doğrudan osmotik ishal başlığında incelenir."
+      }
+    ],
+    "exam_potential": "Sınavlarda sıklıkla osmotik ve sekretuvar ishal ayrımı sorulmaktadır. \"Açlık durumunda azalan veya kesilen ishal\" tanımı görürsen, bunun lümen içine giren besine (osmotik yüke) bağlı olan Osmotik İshal (malabsorpsiyon ilişkili) olduğunu bilmelisin.\n   Dışkı laboratuvarı sonuçları vaka sorularında tuzak olarak verilir: Eğer formülde hesaplanan Fekal Osmotik Gap > 100 mOsm/kg çıkıyorsa, bu lümende emilemeyen maddelerin (şeker gibi) olduğunu gösterir ve bu Osmotik (Malabsorptif) İshali kanıtlar. Sekretuvar ishalde ise osmotik gap < 50 mOsm/kg'dır.* Bu değerleri iyi bilmen çokça soru çözdürecektir.\n\nPatoloji",
+    "_raw_response": "\"Malabsorbsiyon ve Diyare (İshal)\" konusuyla ilgili olarak çıkmış sınav soruları havuzunda (özellikle M5 komitelerinde) sıklıkla test edilen diğer soru kalıpları şunlardır:\n1. Osmotik ve Sekretuvar Diyare Nedenlerinin Birbirinden Ayrılması Mekanizmaların etkenlerle eşleştirilmesi en yaygın soru tiplerindendir.\nSoru Tipi: \"Aşağıdakilerden hangisi osmotik diyareye neden olmaz?\"\n1\n2\n.\nBeklenen Cevap: E. Coli enfeksiyonu veya S. Aureus enfeksiyonu. Çünkü laktoz intoleransı, galaktoz malabsorbsiyonu, sorbitol kullanımı ve lifli yiyeceklerin aşırı tüketimi bağırsak lümenine su çekerek osmotik ishale neden olurken; enfeksiyöz bakteri toksinleri bağırsaktan lümene sıvı salgılatarak sekretuvar ishal oluşturur\n1\nmore_horiz\n.\nBunun tam tersi olarak \"Aşağıdakilerden hangisi sekretuvar diyareye neden olur?\" şeklinde sorulduğunda ise cevap yine E. Coli enfeksiyonu olmaktadır\n4\n.\n2. Protein Malabsorpsiyonunun Temel Nedeni Karbonhidratların (disakkaridaz) emilim bozukluğundan farklı olarak, proteinlerin sindirim ve emilim bozukluğu da spesifik olarak sorgulanır.\nSoru Tipi: \"Aşağıdakilerden hangisi protein malabsorpsiyonunun en önemli nedenidir?\"\n5\n6\n.\nBeklenen Cevap: Pankreatik ekzokrin fonksiyon eksikliği. Mide asit eksikliği veya hızlı bağırsak transportu gibi durumlar da malabsorpsiyona katkıda bulunsa da, proteinlerin parçalanmasını sağlayan asıl enzimler (tripsin, kimotripsin vb.) pankreas kaynaklı olduğu için asıl neden pankreas yetmezliğidir\n5\nmore_horiz\n.\n3. İshallerin Fizyopatolojik Sınıflandırması Diyare mekanizmalarının ana başlıklarını bilip bilmediğinizi ölçen klasik bir teorik bilgidir.\nSoru Tipi: \"Fizyopatolojisine göre ishaller 4 sınıfa ayrılır. Aşağıdakilerden hangisi bu sınıflamaya dahil değildir?\"\n8\n9\n.\nBeklenen Cevap: Diyet ilişkili ishal. İshaller fizyopatolojik mekanizmalarına göre osmotik tip, sekretuvar tip, inflamatuvar tip ve motilite bozukluğuna bağlı ishaller olmak üzere dörde ayrılır\n8\n9\n.\n4. Akut İshalde Fizik Muayene ve Klinik Bulgular Vaka yaklaşımı temelinde, hastanın muayenesinde nelerin görülemeyeceği sorulur.\nSoru Tipi: \"Hangisi akut ishal fizik muayene bulgularından değildir?\"\n10\n11\n.\nBeklenen Cevap: Bağırsak hareketlerinde azalma. Akut ishal durumunda dehidratasyona bağlı deri turgorunda azalma, taşikardi, karında hassasiyet ve ateş gibi bulgular gözlenebilirken; bağırsak hareketleri azalmaz, tam aksine artar (hipermotilite)\n10\nmore_horiz\n.\n5. İnvaziv/İnflamatuvar Bakteriyel Kolit Bulguları Dışkı analizine (gaita mikroskopisine) ve hastanın kliniğine bakılarak ishalin patolojisinin bulunması istenir.\nSoru Tipi: \"Verilen dışkı ve klinik özellik bulgularından hangisi invaziv/inflamatuvar bakteriyel kolit ile uyumludur?\"\n13\n14\n.\nBeklenen Cevap: Dışkıda kan (+), pürülan mukus (+), tenesmus (+), mikroskopide lökosit (+), ateş (+). İnflamatuvar (invaziv) tablolarda mukoza hasara uğradığı için gaita kanlı ve mukusludur; klinik olarak da ateş ve sürekli ağrılı dışkılama hissi (tenesmus) tabloya eşlik eder\n13\nmore_horiz\n."
+  },
+  {
+    "id": 30,
+    "question": "Aşağıdakilerden hangisi ilaç ilişkili kolit paternleri arasında yer almaz?",
+    "options": {
+      "a": "Kollajenöz Kolit",
+      "b": "Psödomembranöz Kolit",
+      "c": "Lenfositik Kolit",
+      "d": "Kript distorsiyonu ile karakterize kolit",
+      "e": "Apoptotik Kolopati"
+    },
+    "correct_answer": "d",
+    "explanation": "Bu soru, gastrointestinal sistem patolojisinde ilaçların neden olduğu sekonder lezyonlar ile İdiyopatik İnflamatuvar Bağırsak Hastalıklarına (İİBH) özgü primer lezyonları ayırt etmeni bekleyen spesifik bir patoloji sorusudur. Çeşitli ilaçlar (NSAİİ'ler, antibiyotikler, kemoterapötikler vb.) bağırsak mukozasında farklı hasar paternleri (kolit) oluşturabilir. Ancak \"kript distorsiyonu\", ilaç kullanımından ziyade bağırsaktaki uzun süreli ve şiddetli kronik inflamasyonu temsil eden, özellikle Ülseratif Kolit (ÜK) gibi hastalıkların kronik evresine özgü yapısal bir bozulmadır.",
+    "option_analysis": {
+      "a": "NSAİİ'ler, SSRI'lar ve proton pompa inhibitörleri gibi ilaçların kullanımına bağlı olarak da tetiklenebilen bir mikroskobik kolit tipidir. İlaç ilişkili paternler arasındadır.    b) Psödomembranöz Kolit: Geniş spektrumlu antibiyotik (klindamisin, ampisilin, sefalosporin vb.) kullanımına sekonder olarak Clostridium difficile* toksinleri ile gelişen en klasik ve tipik ilaç ilişkili kolit tablosudur.",
+      "c": "Tıpkı kollajenöz kolit gibi mikroskobik kolit alt tipidir ve yine bazı ilaçların (özellikle NSAİİ'lerin) kronik kullanımıyla ilişkili olarak ortaya çıkabilir.",
+      "d": "Doğru cevaptır. Kriptlerin dallanması, şekil ve boyutlarının farklılaşması durumudur. İlaç ilişkili bir hasardan ziyade, Ülseratif Kolit'in kronikleşme bulgusu olarak karşımıza çıkar.",
+      "e": "Çeşitli ilaçlara (özellikle immünosüpresanlar ve onkolojik ilaçlara) sekonder olarak gelişen, epitel hücrelerinde artmış apoptoz ile karakterize bir ilaç ilişkili yaralanma paternidir."
+    },
+    "terms": [
+      {
+        "term": "Mikroskobik Kolit",
+        "definition": "Radyolojik ve endoskopik olarak kolon mukozasının normal göründüğü, ancak biyopsi ile mikroskobik düzeyde kronik inflamasyon (lenfositik veya kollajenöz) saptanan kolit tablosudur."
+      },
+      {
+        "term": "Kript Distorsiyonu",
+        "definition": "İnflamasyon atakları ve iyileşme süreçlerinin birbirini izlemesi sonucunda, kolonik kriptlerin normal paralel ve düzensiz tübüler yapısını kaybederek dallanması, çarpılması ve şekil değiştirmesi.\n   Psödomembranöz Kolit: Antibiyotik kullanımı sonrası normal bağırsak florasının bozularak C. difficile* bakterisinin aşırı çoğalması ve mukozada fibrin, lökosit ve nekrotik debridlerden oluşan \"yalancı zarlar\" (psödomembranlar) oluşturması durumu."
+      }
+    ],
+    "subtopics": [
+      {
+        "title": "Ülseratif Kolitte Histopatolojik Ayrım",
+        "content": "Sınavlarda en çok yoklanan konulardan biri budur. Ülseratif kolitte kriptlerde nötrofil birikimi (kriptit) ve lümene yansıyan inflamasyon (kript absesi) hastalığın aktif (akut) dönemine işaret eder. Kript distorsiyonu ve bazal plazmositoz ise hastalığın kronikleşme bulgusudur."
+      }
+    ],
+    "exam_potential": "Bir patoloji vaka sorusunda \"Geniş spektrumlu antibiyotik kullanan hastada gelişen kolit tablosu ve biyopside volkan şeklinde eksüda (psödomembran)\" tarifi doğrudan Psödomembranöz Koliti sormaktadır, bunu mutlaka aklında tutmalısın.\nYine sıklıkla mikroskobik kolit tipleri sorulur. \"Endoskopisi normal, kronik sulu ishali olan orta/ileri yaş kadın hasta\" senaryosunda biyopside >10 mikrometre subepitelyal kollajen bandı varsa Kollajenöz Kolit, yüzey epitelinde >20/100 intraepitelyal lenfosit varsa Lenfositik Kolit işaretlenmelidir.",
+    "_raw_response": "İncelediğimiz \"İnflamatuvar Bağırsak Hastalıkları ve Kolit Paternleri\" (Patoloji) konusuyla ilgili çıkmış soru havuzunda yer alan ve sınavda karşınıza çıkabilecek diğer önemli soru tipleri şunlardır:\n1. Mikroskobik Kolitlerin Tanısı (Klinik Vaka Sorusu)\nÖrnek Soru: \"55 yaşında bir kadın hastaya günde en az 10 kez sulu kıvamlı dışkılama yakınması nedeniyle yapılan kolonoskopide patoloji saptanmıyor. Çıkan kolon ve sigmoidden alınan biyopsilerde aşağıdaki bulgulardan hangisi/hangilerinin görülmesi durumunda 'mikroskopik kolit' tanısı verilebilir?\"\n1\nmore_horiz\n.\nBeklenen Cevap: Subepitelyal kollajen band ve İntraepitelyal lenfosit infiltrasyonu.\nAçıklama: Mikroskobik kolitlerin (kollajenöz ve lenfositik kolit) endoskopik (makroskobik) bulgusu yoktur, bağırsak normal izlenir. Kesin tanı sadece biyopsi ile konur\n2\n.\n2. Crohn Hastalığı ve Ülseratif Kolit Ayrımı\nÖrnek Soru: \"İdiopatik inflamatuar barsak hastalıkları ile ilgili aşağıda sıralanan makroskopik özelliklerden hangisi/hangileri Crohn hastalığı için tipiktir?\" veya \"Aşağıdakilerden hangisi Crohn hastalığının histopatolojik bulgularını içeren şıktır?\"\n5\nmore_horiz\n.\nBeklenen Cevap: Aftöz ülser, transmural inflamasyon, kaldırım taşı görünümü, segmental (yamasal) tutulum, striktür oluşumu.\nAçıklama: Ülseratif kolit sadece mukozayı tutan, rektumdan başlayıp diffüz ilerleyen bir hastalıkken; Crohn hastalığı tüm GİS'i atlamalı (segmental) tutabilen ve bağırsak duvarının tüm katmanlarını (transmural) etkileyebilen bir hastalıktır\n9\nmore_horiz\n.\n3. Ülseratif Kolitin Makroskopik Bulguları\nÖrnek Soru: \"Aşağıda verilen makroskopik bulgulardan hangileri ülseratif kolit ile ilişkilidir? (I. Segmenter striktür, II. Kaldırım taşı mukoza, III. Psödopolipler, IV. Diffüz kanamalı frajil mukoza)\"\n12\n13\n.\nBeklenen Cevap: III ve IV (Psödopolipler ve diffüz kanamalı frajil mukoza).\nAçıklama: Segmenter striktür ve kaldırım taşı mukoza Crohn hastalığına aittir. Ülseratif kolitte ise diffüz (kesintisiz) inflamasyon, duvar incelmesi, geniş tabanlı ülserler, frajil kanamalı mukoza ve psödopolipler görülür\n10\n11\n.\n4. İBH'de Kolorektal Kanser Riski\nÖrnek Soru: \"Aşağıdakilerden hangisi inflamatuvar bağırsak hastalıklarında kolorektal kanser gelişimi için risk faktörü değildir?\"\n1\nmore_horiz\n.\nBeklenen Cevap: 5-amino salisilik asit kullanımı.\nAçıklama: Ailede kolorektal kanser öyküsü, primer sklerozan kolanjit (PSK) varlığı, hastalığın bağırsakta yaygın tutulum göstermesi (pankolit), şiddetli aktif kolit ve uzun hastalık süresi İBH'de kanser riskini artırır. Ancak 5-ASA (Mesalazin vb.) bir tedavi ajanıdır ve risk faktörü değildir\n16\n17\n.\n5. GİS Hastalıkları ve İlişkili Maligniteler\nÖrnek Soru: \"GİS hastalıkları ve ilişkili malignitelerle ilgili aşağıda verilen eşleşmeler arasında yanlış olan hangisidir?\"\n18\n19\n.\nBeklenen Cevap: Lenfositik kolit - Büyük B hücreli lenfoma.\nAçıklama: Crohn hastalığı ince barsak adenokarsinomu ile, Çölyak hastalığı İntestinal T hücreli lenfoma ile, H. Pylori gastriti MALT lenfoma ile, Barrett özofagusu ise Özofagus adenokarsinomu ile karakterize prekürsör/ilişkili durumlardır. Lenfositik kolit ile büyük B hücreli lenfoma arasında böyle bir ilişki tanımlanmamıştır\n19\n20\n."
+  },
+  {
+    "id": 31,
+    "question": "Aşağıdakilerden hangisi neonatal diyare nedeni değildir?",
+    "options": {
+      "a": "Otoimmün enteropati",
+      "b": "MID (Mikrovillus inklüzyon hastalığı)",
+      "c": "Çölyak Hastalığı",
+      "d": "Tufting enteropatisi",
+      "e": "CVID"
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "\"Alt Üriner Sistem Hastalıklarına Klinik Yaklaşım\" (Üroloji) konusuyla ilgili çıkmış sınav soruları havuzunda sıklıkla test edilen soru kalıpları ve alt başlıklar şunlardır:\n1. Üroflowmetri ile Tanı Konulabilen ve Konulamayan Durumlar Klinik pratikte birinci basamakta kullanılan üroflowmetrinin sınırları sıklıkla sorgulanır.\nSoru Tipi: \"Üroflowmetri ile hangisinin tanısı konulamaz?\" veya \"Üroflowmetri ile hangisinin tanısı koyulabilir?\"\n1\nmore_horiz\n.\nBeklenen Cevap: Üroflowmetri ile düşük idrar akım hızı tespit edilebilir\n1\n; ancak bu düşüklüğün nedeninin infravezikal obstrüksiyon mu yoksa zayıf detrüsor kası mı olduğu saptanamaz\n2\n4\n. Kesin neden için invaziv ürodinamik testler gerekir\n4\n.\n2. İdrar Kaçırma (İnkontinans) Tiplerinin Mekanizmaları Farklı idrar kaçırma tiplerinin altta yatan fizyopatolojik nedenleri eşleştirme veya vaka sorusu olarak sorulur.\nSoru Tipi: \"Hangi tip idrar kaçırmada neden detrüsör aktivitesinin artmış olmasıdır?\"\n5\n6\n.\nBeklenen Cevap: Sıkışma tipi (urge) idrar kaçırma. Depolama sırasında olmaması gereken ani mesane (detrüsör) kasılmasıyla oluşur\n7\n.\nBuna karşılık, gülme, öksürme veya hapşırma gibi abdominal basıncın arttığı durumlarda görülen idrar kaçırma tipi ise stres tipi idrar kaçırma (STİK) olarak sorulur\n8\n.\n3. Aşırı Aktif Mesane (AAM) Semptomları Aşırı aktif mesanenin bir semptom tanısı olduğu ve hangi klinik bulguları içerdiği test edilir.\nSoru Tipi: \"Aşırı aktif mesane bulguları nelerdir?\" veya \"Aşağıdaki şıklardan hangisi aşırı aktif mesanenin karakteristik bulgularını içerir?\"\n2\n9\n.\nBeklenen Cevap: Sıkışma hissi (urgency), gece sık idrara çıkma (noktüri), sabah sık idrara çıkma (pollaküri) ve sıkışma tipi idrar kaçırma\n9\nmore_horiz\n. Dizüri veya stres tipi idrar kaçırma bu sendromun karakteristik bir bulgusu değildir\n9\n10\n.\n4. Alt ve Üst Üriner Sistem Enfeksiyonlarının Ayrımı Üriner sistem enfeksiyonlarının lokalizasyonlarına göre sınıflandırılması temel bir bilgi olarak sorulur.\nSoru Tipi: \"Aşağıdakilerden hangisi alt üriner sistem enfeksiyonu değildir?\"\n12\n13\n.\nBeklenen Cevap: Pyelonefrit. Pyelonefrit böbrek enfeksiyonudur ve üst üriner sistem enfeksiyonu olarak kabul edilir\n14\n15\n. Sistit (mesane), üretrit (üretra) ve prostatit (prostat) ise alt üriner sistem enfeksiyonlarıdır\n14\n15\n.\nAyrıca alt üriner sistem enfeksiyonunu öncelikli olarak düşündüren semptom sorulduğunda cevap dizüri olmaktadır\n16\n.\n5. Sık İdrara Çıkma (Pollaküri ve Noktüri) Nedenleri İdrar miktarının normal olduğu ancak sık çıkma ihtiyacının olduğu durumların (pollaküri) etyolojisi sorulur.\nSoru Tipi: \"Aşağıdakilerden hangisinin pollaküriye neden olması beklenmez?\"\n17\nmore_horiz\n.\nBeklenen Cevap: İshal. İshalde sıvı kaybı (dehidratasyon) olduğu için pollaküri görülmez\n21\n22\n. Enfeksiyon, konjestif kalp yetmezliği, diabetes mellitus ve diüretik kullanımı ise pollaküriye neden olan faktörler arasındadır\n19\n21\n. Ayrıca noktürinin (gece idrara çıkma) en sık poliüri (aşırı idrar üretimi) ile birliktelik gösterdiği de çıkmış sorular arasındadır\n23\n24\n."
+  },
+  {
+    "id": 32,
+    "question": "H. pylori gastritinde Sydney sınıflamasına göre yer almayan hangisidir?",
+    "options": {
+      "a": "Glandüler kayıp - atrofi",
+      "b": "PMN lökositleri - aktivite",
+      "c": "Kollajenizasyon - fibrozis",
+      "d": "Goblet/Paneth - intestinal metaplazi",
+      "e": "H. pylori - bakteriyel kolonizasyon"
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "\"Mide Patolojileri, Gastritler ve H. Pylori Enfeksiyonu\" konusuyla ilgili çıkmış sınav soruları havuzunda yer alan ve karşınıza çıkabilecek diğer soru tipleri şunlardır:\n1. H. Pylori ile İlişkili Olmayan Gastrit Tipleri\nÖrnek Soru: \"Aşağıdakilerden hangisi H. Pylori assosiye gastritleri arasında yer almaz?\"\n1\n2\n.\nBeklenen Cevap: Eozinofilik gastrit\n2\n3\n.\nAçıklama: Granülomatöz gastrit, kronik atrofik pangastrit, aktif non-atrofik antral gastrit ve lenfositik gastrit H. pylori ile ilişkili gastrit formları arasında yer alırken; eozinofilik gastritin etyolojisinde atopi (astım, besin alerjisi), paraziter enfeksiyonlar, konnektif doku hastalıkları ve ilaçlar (örn. ACE inhibitörleri) yer alır\n4\n5\n.\n2. Gastrit Tipleri ve Etyopatogenez Eşleştirmeleri\nÖrnek Soru: \"Gastrit ve patogenezleriyle ilgili aşağıdaki eşleşmelerden hangisi yanlıştır?\"\n6\nmore_horiz\n.\nBeklenen Cevap: Kollajenöz Gastrit - CMV Enfeksiyonu veya Reaktif gastropati - antibiyotik kullanımı\n3\nmore_horiz\n.\nAçıklama: Kollajenöz gastritin etkeni CMV enfeksiyonu değildir\n8\n. Reaktif (kimyasal) gastropati antibiyotik kullanımına değil; NSAİİ grubu ilaçların kullanımına veya safra reflüsüne bağlı olarak gelişir\n10\n. Otoimmün gastrit ise proton pompa otoantikorları ile ilişkilidir\n4\n10\n.\n3. H. Pylori Virülans Faktörleri ve Etki Mekanizmaları\nÖrnek Soru: \"H. Pylori'nin mukozal hasara neden olması?\"\n11\n12\n veya \"Aşağıda verilen Helicobacter pylori'ye ait virulans faktörü ve etki mekanizmaları eşleştirmesinden yanlış olanı işaretleyiniz.\"\n13\n.\nBeklenen Cevap/İpucu: Mukozal hasara neden olan temel toksin Proteaz-vacA'dır\n3\n14\n. BabA (Lipopolisakkarit / Outer proteins) bakterinin konak hücreye adhezyonunu (tutunmasını) sağlar\n14\n. CagA ise konak hücrenin iskelet yapısını bozarak IL-8 indüksiyonu ve apoptoz inhibisyonu yapar\n14\n.\n4. Mide Polipleri ve Sendrom İlişkileri\nÖrnek Soru: \"Mide polipleri ve patogenezleri ile ilgili aşağıda verilen sıralamalarından hangisi yanlıştır?\"\n15\n16\n.\nBeklenen Cevap: Adenoma - Juvenil polipozis\n15\n17\n.\nAçıklama: Fundik gland polipleri PPİ (proton pompa inhibitörü) kullanımıyla, pilorik gland adenomu otoimmün gastritle, inflamatuar polipler H. Pylori ile, hamartomatöz polipler ise Peutz-Jeghers sendromu ile doğrudan ilişkilidir\n15\nmore_horiz\n.\n5. Üst GİS Kanamaları ve Peptik Ülser Komplikasyonları\nÖrnek Soru: \"Üst gastrointestinal kanama nedenleri arasında en sık gözlenen, gastroduodenal arterin erozyonuna neden olan, hematemez ve/veya melenaya neden olabilen durum aşağıdakilerden hangisidir?\"\n19\nmore_horiz\n.\nBeklenen Cevap: Duodenal ülser\n22\nmore_horiz\n.\nAçıklama: Üst GİS kanamalarının en sık nedeni peptik ülserlerdir (en sık duodenumda görülür)\n25\n26\n. Duodenumun arka duvarındaki ülserin a. gastroduodenalis'i aşındırması (erozyonu), en sık karşılaşılan ve kanamaya yol açan peptik ülser komplikasyonudur\n25\n26\n."
+  },
+  {
+    "id": 33,
+    "question": "Hangisi konjenital diyare nedenleri arasında yer almaz?",
+    "options": {
+      "a": "Otoimmün enteropati",
+      "b": "Tufting enteropati",
+      "c": "Mikrovillus inklüzyon hastalığı",
+      "d": "Çölyak",
+      "e": "CVID"
+    },
+    "correct_answer": "d",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 34,
+    "question": "Hangisi ilaç assosiye kolitlerden değildir?",
+    "options": {
+      "a": "Kollajenöz kolit",
+      "b": "Lenfositik kolit",
+      "c": "Psödomembranöz kolit",
+      "d": "Kript distorsiyonu görülen kolit"
+    },
+    "correct_answer": "d",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 35,
+    "question": "Aşağıdakilerden hangisi Crohn hastalığının histopatolojik bulgularını içeren şıktır?",
+    "options": {
+      "a": "Aftöz ülser, transmural inflamasyon, kaldırım taşı görünümü, segmental tutulum",
+      "b": "Mukozal inflamasyon, geniş tabanlı ülser, diffüz tutulum, backwash ileit",
+      "c": "Striktür, psödopolip, diffüz tutulum, derin ülser, granülom"
+    },
+    "correct_answer": "d",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 36,
+    "question": "H. Pylori'nin mukozal hasara neden olması - eşleştirme",
+    "options": {
+      "a": "Lipopolisakkarit - babA",
+      "b": "Proteaz - vacA",
+      "c": "Flagella - cagA",
+      "d": "Üreaz - müsinaz"
+    },
+    "correct_answer": "a",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 37,
+    "question": "Hangisi çölyak'ın klinikopatolojik özelliği değildir?",
+    "options": {
+      "a": "HLA DQ2-8 mutasyonu",
+      "b": "Patogenezde T hücre aracılı adaptif immün ve İEL ilişkili innate immün rol oynar",
+      "c": "Ekstraintestinal semptomlar değişken ve malabsapsiyon daima görülür",
+      "d": "Serolojik tanı doku transglutaminaz ve endomisial antikor testleriyle yapılır",
+      "e": "Buğday proteini glutenin gliadin fraksiyonuna karşı hipersensitivite var"
+    },
+    "correct_answer": "b",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 38,
+    "question": "Aşağıdakilerden hangisi eozinofilik özofajitin özelliklerinden değildir?",
+    "options": {
+      "a": "Bazal hücre hiperplazisi",
+      "b": "Papillomatozis",
+      "c": "Eozinofil sayısı 15'ten fazla"
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 39,
+    "question": "GÖRH'de görülen histopatolojik bulgular ve oluş mekanizmalarıyla yapılan eşleştirmelerden hangisi yanlıştır?",
+    "options": {
+      "a": "Dilate intersellüler aralık ve desmozomlarda belirginleşme - intraepitelyal ödem",
+      "b": "Ülserasyon/erozyon - gastrik asite maruziyet",
+      "c": "Skuamoz epitelde balonlaşma - permeabilite artışı",
+      "d": "Özofajit - skuamoz epitele inflamatuvar hücre göçü",
+      "e": "Venüllerin dilatasyonu - ..."
+    },
+    "correct_answer": "b",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 40,
+    "question": "Gastrit tipleri ve nedenleri ile ilgili eşleşmelerden hangisi yanlıştır?",
+    "options": {
+      "a": "Eozinofilik gastrit - atopi",
+      "b": "Otoimmün gastrit - proton pompa otoantikorları",
+      "c": "Reaktif gastropati - antibiyotik kullanımı",
+      "d": "Lenfositik gastrit - çölyak hastalığı",
+      "e": "Granülomatöz gastrit - H. Pylori"
+    },
+    "correct_answer": "e",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 41,
+    "question": "Barsak yavaş dalgalarının oluşması, düz kas eksitabilitesi, enterik nöral aktivitenin modülasyonunda rol alan ve konstipasyonlu hastalarda kolon duvarında azalmış olarak saptanan yapı hangisidir?",
+    "options": {
+      "a": "Meissner pleksusu",
+      "b": "Kromaffin hücreler",
+      "c": "Goblet hücreleri",
+      "d": "Cajal'ın interstisyel hücreleri",
+      "e": "Auerbach pleksusu"
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 42,
+    "question": "Aşağıdakilerden hangisi özofagusta adenokanser gelişimi için risk faktörüdür?",
+    "options": {
+      "a": "HPV (Human Papilloma Virus)",
+      "b": "Akalazya",
+      "c": "Barrett özofagusu",
+      "d": "Plummer-Vinson sendromu",
+      "e": "Özofagusun kostik yaralanmaları sonrası gelişen darlıklar"
+    },
+    "correct_answer": "d",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 43,
+    "question": "Çocukluk çağı enteropatileri ile ilişkili gen eşleşmelerinden hangisi yanlıştır?",
+    "options": {
+      "a": "Tufting enteropati - EPCAM",
+      "b": "Abetalipoproteinemi - APO-B",
+      "c": "IPEX - FOXP3",
+      "d": "Mikrovillus inklüzyon hastalığı - MYO5B",
+      "e": "CVID - B hücre assosiye genler"
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 44,
+    "question": "Aşağıda verilen makroskopik bulgulardan hangileri ülseratif kolit ile ilişkilidir? (I.Segmenter striktür II.Kaldırım taşı mukoza III.Psödopolipler IV.Diffüz kanamalı frajil mukoza)",
+    "options": {
+      "a": "I ve III",
+      "b": "III ve IV",
+      "c": "II ve III",
+      "d": "I ve II",
+      "e": "II ve IV"
+    },
+    "correct_answer": "b",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 45,
+    "question": "GİS kanserleri ve en sık lokalizasyonları ile ilgili eşleşmelerden yanlış olan hangisidir?",
+    "options": {
+      "a": "Mide kanseri - antropilorik bölge",
+      "b": "Özofagus skuamöz hücreli kanser - proksimal özofagus",
+      "c": "Özofagus adenokanseri - distal özofagus",
+      "d": "İnce barsak kanseri - duodenal ampulla",
+      "e": "Kolon kanseri - rektosigmoid"
+    },
+    "correct_answer": "b",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 46,
+    "question": "Özofajit tipleri ve temel nedenleriyle ilgili eşleşmelerden hangisi yanlıştır?",
+    "options": {
+      "a": "Eozinofilik özofajit - atopi",
+      "b": "Reflü özofajiti - sfinkter yetmezliği",
+      "c": "Lenfositik özofajit - ilaç etkisi",
+      "d": "Pill özofajit - epitel hasarı",
+      "e": "CMV özofajiti - immünsüpresyon"
+    },
+    "correct_answer": "b",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 47,
+    "question": "GÖRH'de özofajit gelişimi sırasında skuamöz epiteldeki değişiklikleri doğru olarak sıralayan şık hangisidir?",
+    "options": {
+      "a": "Bazal hücre hiperplazisi - balonlaşma - erozyon - hücreler arası boşlukta dilatasyon - papillomatöz - inflamasyon",
+      "b": "Erozyon - inflamasyon - balonlaşma - papillomatöz - bazal hücre hiperplazisi - hücreler arası boşluklarda dilatasyon",
+      "c": "Ülser - bazal hücre hiperplazisi - papillomatöz - balonlaşma - hücreler arası boşluklarda dilatasyon - inflamasyon",
+      "d": "Papillomatöz - balonlaşma - ülser - inflamasyon - hücreler arası boşluklarda dilatasyon - bazal hücre hiperplazisi",
+      "e": "İnflamasyon - hücreler arası boşluklarda dilatasyon - balonlaşma - bazal hücre hiperplazisi - papillomatöz - ülser"
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": ""
+  },
+  {
+    "id": 48,
+    "question": "Ailesinde mide kanseri öyküsü bulunan 37 yaşında kadın hastada intestinal tip adenokarsinoma tanısı veriliyor. Hangi genetik aberasyon sonucu gelişmiş olabilir?",
+    "options": {
+      "a": "Germline MMR gen mutasyonu",
+      "b": "Germline APC mutasyonu",
+      "c": "TP53 mutasyonu",
+      "d": "Germline CDH1 mutasyonu",
+      "e": "PTEN mutasyonu"
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": ""
+  },
+  {
+    "id": 49,
+    "question": "Çocukluk çağı enteropatileri ve karakteristik histopatolojik bulgusu eşleşmelerinden hangisi yanlıştır?",
+    "options": {
+      "a": "Mikrovillus inklüzyon hastalığı - brush border kaybı",
+      "b": "CVID - plazma hücre azlığı/yokluğu",
+      "c": "Tufting enteropati - epitelyal tomurcuklar",
+      "d": "Abetalipoproteinemi - enterositlerde lipid birikimi",
+      "e": "Otoimmün enteropati - lenfatik dilatasyon"
+    },
+    "correct_answer": "b",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": ""
+  },
+  {
+    "id": 50,
+    "question": "İnflamatuvar bağırsak hastalıklarında kolorektal kanser gelişimi için risk faktörü değildir?",
+    "options": {
+      "a": "Ailede kolorektal kanser öyküsü olması",
+      "b": "Primer sklerozan kolanjit ile birlikte olması",
+      "c": "5-aminosalisilik asit kullanımı",
+      "d": "Hastalığın bağırsakta yaygın bulunması",
+      "e": "Hastalık süresinin uzun olması"
+    },
+    "correct_answer": "e",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 51,
+    "question": "55 yaşında günde en az 10 kez sulu dışkılama yakınması olan hastada kolonoskopi normal. Random biyopsilerde hangi bulgular beklenir? (I.Nonkazeifiye granülom II.Subepitelyal kollagen band III.Kript apseleri ve kript distorsiyonu IV.İntraepitelyal lenfosit infiltrasyonu)",
+    "options": {
+      "a": "II ve IV",
+      "b": "II ve III",
+      "c": "I ve II",
+      "d": "III ve IV",
+      "e": "I ve III"
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 52,
+    "question": "Kanser - prekürsör lezyon eşleştirmelerinden hangisi yanlıştır?",
+    "options": {
+      "a": "Mide ca - gastrik adenoma",
+      "b": "Kolon ca - villöz adenoma",
+      "c": "İleum ca - Crohn hastalığı",
+      "d": "Sigmoid ca - divertiküler hastalık",
+      "e": "Özofagus ca - Barrett"
+    },
+    "correct_answer": "a",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 53,
+    "question": "GİS nöroendokrin tümörleri ve lokalizasyonlarına ait eşleştirmelerden hangisi yanlıştır?",
+    "options": {
+      "a": "Serotonin salgılayan nöroendokrin tümör - ileum",
+      "b": "İnsidental nöroendokrin tümör - özofagus",
+      "c": "Somatostatinoma - duodenum",
+      "d": "Büyük hücreli nöroendokrin karsinom - kolon",
+      "e": "ECL hücreli nöroendokrin tümör - mide"
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 54,
+    "question": "GİS nöroendokrin tümörleriyle ilgili hangisi yanlıştır?",
+    "options": {
+      "a": "Özofagus ve kolonda NEK'ler daha sıktır",
+      "b": "Mide ve ileumda multifokal olabilirler",
+      "c": "Metastatik gelişim en sık duodenal NET'lerde görülür",
+      "d": "En sık appendikste görülürler",
+      "e": "Genel olarak NET'ler NEK'lerden daha sıktır"
+    },
+    "correct_answer": "b",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 55,
+    "question": "Çölyakta doğal bağışıklıkta sorumlu hücre hangisidir?",
+    "options": {
+      "a": "İntraepitelyal lenfositler",
+      "b": "Dendritik hücreler",
+      "c": "Makrofajlar",
+      "d": "NK hücreleri"
+    },
+    "correct_answer": null,
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 56,
+    "question": "GİST (Gastrointestinal stromal tümörler) ile ilgili doğru olanları içeren şık hangisidir? (I.Sıklıkla ince bağırsak>mide>özofagus>kolon II.Cajal hücrelerinden gelişir III.Tümör boyutu, mitotik aktivite ve lokalizasyon biyolojik davranışı belirler IV.Büyük kısmı c-kit mutasyonu gösterir)",
+    "options": {
+      "a": "I, II ve III",
+      "b": "II ve IV",
+      "c": "II, III ve IV",
+      "d": "I ve III",
+      "e": "Hepsi"
+    },
+    "correct_answer": "a",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 57,
+    "question": "GİS hastalıkları ve ilişkili malignitelerle ilgili eşleşmelerden yanlış olan hangisidir?",
+    "options": {
+      "a": "Lenfositik kolit - Büyük B hücreli lenfoma",
+      "b": "Barrett özofagusu - Özofagus adenokarsinomu",
+      "c": "Crohn hastalığı - İnce barsak adenokarsinomu",
+      "d": "Çölyak hastalığı - İntestinal T hücreli lenfoma",
+      "e": "H. Pylori gastriti - MALT lenfoma"
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 58,
+    "question": "Özofajit tipleri ve nedenlerine ilişkin eşleşmelerden hangisi yanlıştır?",
+    "options": {
+      "a": "Reflü özofajit - hiatal herni",
+      "b": "Lenfositik özofajit - çölyak hastalığı",
+      "c": "Eozinofilik özofajit - sfinkter disfonksiyonu",
+      "d": "İlaca bağlı özofajit - temas ilişkili mukozal hasar",
+      "e": "CMV özofajiti - immünsüpresyon"
+    },
+    "correct_answer": "d",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 59,
+    "question": "İdiopatik inflamatuar barsak hastalıkları makroskopik özelliklerinden hangileri Crohn hastalığı için tipiktir? (I.Rektumda başlar II.Tutulum segmentaldir III.Aftöz, lineer, fissüral ülserler yapar IV.İnflamasyon mukozada sınırlıdır V.Striktür oluşumu sıktır)",
+    "options": {
+      "a": "II, III ve IV",
+      "b": "III, IV ve V",
+      "c": "II, III ve V",
+      "d": "I, II ve IV",
+      "e": "Hepsi"
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": ""
+  },
+  {
+    "id": 60,
+    "question": "Neonatal enteropatiler ve neden olan gen mutasyonlarından yanlış olan hangisidir?",
+    "options": {
+      "a": "Mikrovillus inklüzyon hastalığı - MYO5B",
+      "b": "Abetalipoproteinemi - MTM",
+      "c": "IPEX sendromu - FOXP3",
+      "d": "Çölyak hastalığı - TTG",
+      "e": "Tufting enteropati - EPCAM"
+    },
+    "correct_answer": "a",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 61,
+    "question": "Hangisi H. Pylori assosiye gastritleri arasında yer almaz?",
+    "options": {
+      "a": "Granülomatöz gastrit",
+      "b": "Kronik atrofik pangastrit",
+      "c": "Eozinofil gastrit",
+      "d": "Aktif non-atrofik antral gastrit",
+      "e": "Lenfositik gastrit"
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 62,
+    "question": "Gastrit ve patogenezleriyle ilgili eşleşmelerden hangisi yanlıştır?",
+    "options": {
+      "a": "Kollajenöz gastrit - CMV enfeksiyonu",
+      "b": "Otoimmün gastrit - proton pompa antikorları",
+      "c": "Reaktif/kimyasal gastrit - safra reflüsü",
+      "d": "Antral lenfositik gastrit - çölyak hastalığı",
+      "e": "Granülomatöz gastrit - Crohn hastalığı"
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 63,
+    "question": "Çölyakta mukozal immün yanıtın basamaklarını doğru sıralayan şık hangisidir? (1.Lamina propriada CD4+ lenfositler aktive 2.Gluten rezidüleri transglutaminazla parçalanır 3.Epitel lenfositleri NK-benzeri karakter kazanır 4.Gluten DQ2/DQ8'li makrofajlar tarafından T hücrelerine prezente edilir 5.IL-15 CD8+ lenfositlerin epitele göçünü sağlar)",
+    "options": {
+      "a": "1-2-3-4-5",
+      "b": "5-4-3-2-1",
+      "c": "2-4-1-5-3",
+      "d": "4-1-2-5-3",
+      "e": "3-5-4-1-2"
+    },
+    "correct_answer": "d",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 64,
+    "question": "Çeşitli tümör tipleri ve GİS'te en sık görüldükleri bölge eşleştirmelerinden hangisi yanlıştır?",
+    "options": {
+      "a": "Leiomyoma - özofagus",
+      "b": "Nöroendokrin tümör - appendiks",
+      "c": "GİST - mide",
+      "d": "Peutz-Jeghers polibi - ince barsak",
+      "e": "Kolon adenokarsinomu - çekum"
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 65,
+    "question": "GİS tümörleri prekürsör hücre - tümör - immünhistokimyasal belirteç eşleşmelerinden hangisi yanlıştır?",
+    "options": {
+      "a": "İnterstisyel Cajal hücresi - GİST - CD117",
+      "b": "ECL hücre - NET - Kromogranin",
+      "c": "Barrett epiteli - Adenokarsinoma - Sitokeratin",
+      "d": "İEL - MALToma - CD3",
+      "e": "G hücresi - Gastrinoma - Gastrin"
+    },
+    "correct_answer": "a",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 66,
+    "question": "Hangisi masif splenomegali nedeni değildir?",
+    "options": {
+      "a": "KML",
+      "b": "Kalaazar",
+      "c": "Siroz",
+      "d": "Gaucher hastalığı"
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 67,
+    "question": "Aşağıdakilerden hangisi masif hepatomegali yapmaz?",
+    "options": {
+      "a": "Kala azar",
+      "b": "Siroz",
+      "c": "Kronik myeloid lösemi",
+      "d": "Gaucher hastalığı",
+      "e": "Mikobakterium avium"
+    },
+    "correct_answer": "e",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 68,
+    "question": "Aşağıdakilerden hangisi glikojen depo hastalıkları için yanlıştır?",
+    "options": {
+      "a": "Hepatomegali sık bir bulgudur",
+      "b": "Bazı olgularda karaciğer transplantasyonu enzim eksikliğini düzeltebilir",
+      "c": "Histolojik bulguları tanısaldır",
+      "d": "Histolojik olarak mozaik pattern görülür",
+      "e": "Hepatosellüler kanser görülme riski artar"
+    },
+    "correct_answer": "e",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 69,
+    "question": "Aşağıdakilerden hangisi karaciğer fonksiyonlarından biri değildir?",
+    "options": {
+      "a": "Depolama",
+      "b": "Sentez",
+      "c": "Ekskresyon",
+      "d": "Detoksifikasyon",
+      "e": "Dolaşımdaki yaşlı eritrositleri temizleme"
+    },
+    "correct_answer": "b",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 70,
+    "question": "Dalak fizik muayenesinde aşağıdakilerden hangisi yanlıştır?",
+    "options": {
+      "a": "Birden fazla farklı dalak muayene yöntemi bulunmaktadır",
+      "b": "Hastadan muayene için onam alınmalıdır",
+      "c": "Hastanın sağ tarafında durulmalıdır",
+      "d": "Hastanın supin pozisyonda gevşek olması sağlanmalıdır",
+      "e": "Dalağın palpe edilebilmesi için ani hareketlerle ve derin bastırılarak muayene yapılmalıdır"
+    },
+    "correct_answer": "d",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 71,
+    "question": "Traube aralığında mat sesi alınması aşağıdaki durumlardan hangisinde en sık görülür?",
+    "options": {
+      "a": "Splenomegali",
+      "b": "Yaygın asit varlığı",
+      "c": "Sol kolon yetmezliği",
+      "d": "Sol alt lob pnömoni",
+      "e": "Splenik fleksura sendromu"
+    },
+    "correct_answer": null,
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 72,
+    "question": "Aşağıdakilerden hangisi karaciğerde steatoz gelişimi ile direkt ilişkili değildir?",
+    "options": {
+      "a": "Tekrarlayan kolanjit atakları",
+      "b": "Obezite",
+      "c": "Total parenteral beslenme",
+      "d": "Tamoksifen",
+      "e": "Hepatit C enfeksiyonu"
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 73,
+    "question": "Traube aralığında mat sesi alınması aşağıdaki durumlardan hangisinde görülmez?",
+    "options": {
+      "a": "Sol üst lob pnömonisi",
+      "b": "Splenomegali",
+      "c": "Splenik fleksura kolon tümörleri",
+      "d": "Yaygın asit varlığı",
+      "e": "Sol renomegali"
+    },
+    "correct_answer": "b",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 74,
+    "question": "Midenin bazal elektrik aktivitesi dakikada kaçtır?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4",
+      "e": "5"
+    },
+    "correct_answer": "d",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 75,
+    "question": "Aşağıdaki klinik tablolardan hangisi hepatomegaliye yol açmaz?",
+    "options": {
+      "a": "Konjestif kalp yetmezliği",
+      "b": "Konstrüktif perikardit",
+      "c": "Siroz",
+      "d": "Yağlı karaciğer hastalığı",
+      "e": "Amiloidozis"
+    },
+    "correct_answer": "e",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 76,
+    "question": "Aşağıda sıralanan laksatif ilaçlar arasında hangisi/hangileri esas olarak ozmotik etkisiyle laksasyon oluşturur? (I.Magnezyum sülfat II.Polietilen glikol III.Sodyum dokuzat IV.Sorbitol)",
+    "options": {
+      "a": "II ve III",
+      "b": "Yalnız III",
+      "c": "II ve IV",
+      "d": "I ve IV",
+      "e": "I, II ve IV"
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 77,
+    "question": "H2-histamin reseptör blokerleri için aşağıda yazılanlardan hangisi yanlıştır?",
+    "options": {
+      "a": "Mide boşalma süresini uzatırlar",
+      "b": "Midenin uyarılmış asit salgısını azaltırlar",
+      "c": "Belirgin sedasyon yapmazlar",
+      "d": "Belirgin kardiyovasküler yan etki oluşturmazlar",
+      "e": "Midenin noktürnal asit salgısını azaltırlar"
+    },
+    "correct_answer": "e",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 78,
+    "question": "Aşağıda sıralanan laksatif ilaçlar arasında hangisi/hangileri esas olarak ozmotik etkiyle laksasyon oluşturur? (I.Kalsiyum polikarbofil II.Polietilen glikol III.Sodyum dokuzat IV.Sorbitol)",
+    "options": {
+      "a": "Yalnız I ve II",
+      "b": "Yalnız II ve IV",
+      "c": "Yalnız I",
+      "d": "Yalnız IV",
+      "e": "Yalnız III"
+    },
+    "correct_answer": "a",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 79,
+    "question": "Omeprazol için aşağıda yazılanlardan hangisi doğrudur?",
+    "options": {
+      "a": "Tedavi edici etkinliği gastroözofajiyel reflüye bağlı ülserlerde duodenal ülsere göre daha yüksektir",
+      "b": "Mide lümeninde aktive olur",
+      "c": "Midenin bazal asit salgısını azaltmaz",
+      "d": "Rebound gastrin salınımına neden olabilir",
+      "e": "Asit salgısını azaltıcı etkisi dozdan bağımsızdır"
+    },
+    "correct_answer": "a",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "",
+    "_raw_response": "Sistem yanıt veremedi."
+  },
+  {
+    "id": 80,
+    "question": "Pantoprazol için hangisi doğrudur?",
+    "options": {
+      "a": "Rebound gastrin salınımına neden olmaz",
+      "b": "Bir ön ilaçtır",
+      "c": "Plazma yarı ömrü 48 saattir",
+      "d": "Midede lokal etki gösterir",
+      "e": "Midenin bazal asit salgısını azaltmaz"
+    },
+    "correct_answer": "a",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": ""
+  },
+  {
+    "id": 81,
+    "question": "Aşağıda sıralanan laksatif ilaçlar arasında hangisi/hangileri esas olarak deterjan etkisiyle laksasyon oluşturur? (I.Magnezyum sülfat II.Karboksimetil sellüloz III.Sodyum dokuzat IV.Sorbitol)",
+    "options": {
+      "a": "II, III, IV",
+      "b": "Yalnız III",
+      "c": "Yalnız II",
+      "d": "Yalnız I",
+      "e": "I ve III"
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": ""
+  },
+  {
+    "id": 82,
+    "question": "Hangisinin laksatif etkisi daha uzun sürede ortaya çıkar?",
+    "options": {
+      "a": "Polietilen glikol çözeltisi",
+      "b": "Magnezyum sülfat",
+      "c": "Sorbitol çözeltisi",
+      "d": "Kalsiyum polikarbofil",
+      "e": "Bisakodil"
+    },
+    "correct_answer": "d",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": ""
+  },
+  {
+    "id": 83,
+    "question": "Aşağıdakilerden hangisi karaciğer hastalığının ilerlemesine ilişkin bir risk faktörü değildir?",
+    "options": {
+      "a": "Alkol bağımlılığı",
+      "b": "Metabolik karaciğer hastalığı",
+      "c": "HBV-DNA(-) olması",
+      "d": "HBeAg(+)",
+      "e": "Ailede karaciğer kanseri öyküsü olması"
+    },
+    "correct_answer": "e",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": ""
+  },
+  {
+    "id": 84,
+    "question": "Wilson hastalığında hepatositlerde histokimyasal Rodanin boyası ile pozitif boyanan birikim hangisidir?",
+    "options": {
+      "a": "Kollajen",
+      "b": "Keratin",
+      "c": "Safra",
+      "d": "Bakır",
+      "e": "Demir"
+    },
+    "correct_answer": "a",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": ""
+  },
+  {
+    "id": 85,
+    "question": "Aşağıdaki hastalıklardan hangisi AST düzeyinin daha ön planda yükseldiği karaciğer hastalığıdır?",
+    "options": {
+      "a": "Alkole bağlı karaciğer hastalığı",
+      "b": "Alfa-1 antitripsin eksikliği",
+      "c": "Hemokromatozis",
+      "d": "Otoimmün hepatit",
+      "e": "Wilson hastalığı"
+    },
+    "correct_answer": "b",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": ""
+  },
+  {
+    "id": 86,
+    "question": "Aşağıdakilerden hangisi akut hepatit B göstergesidir?",
+    "options": {
+      "a": "AntiHBe IgM",
+      "b": "AntiHBc IgG",
+      "c": "AntiHBs IgM",
+      "d": "AntiHBe IgG",
+      "e": "AntiHBc IgM"
+    },
+    "correct_answer": "d",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": ""
+  },
+  {
+    "id": 87,
+    "question": "Aşağıdaki laboratuar testlerinden hangisi kolestaz için kullanılır?",
+    "options": {
+      "a": "Alkalen fosfataz ve GGT",
+      "b": "ALT ve AST",
+      "c": "Albümin",
+      "d": "ANA",
+      "e": "İndirekt Bilirubin"
+    },
+    "correct_answer": "b",
+    "explanation": "",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": ""
+  }
+]
