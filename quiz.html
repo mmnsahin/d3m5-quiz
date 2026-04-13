@@ -816,8 +816,8 @@ function renderCard(q) {
 
   if (q.exam_potential) {
     sections.push({
-      icon: '🎯', title: 'Sınav İpuçları', open: false,
-      html: `<div class="exam-text">${escHtml(cleanText(q.exam_potential))}</div>`
+      icon: '🎯', title: 'Soru Potansiyeli', open: false,
+      html: `<div class="exam-text">${formatNumberedList(cleanText(q.exam_potential))}</div>`
     });
   }
 
@@ -951,6 +951,11 @@ function escHtmlBoldLabel(str) {
   const idx = str.indexOf(':');
   if (idx === -1) return escHtml(str);
   return `<strong>${escHtml(str.slice(0, idx))}:</strong>${escHtml(str.slice(idx + 1))}`;
+}
+function formatNumberedList(str) {
+  if (!str) return '';
+  const parts = str.split(/(?=\d+\.\s)/);
+  return parts.map(p => escHtml(p.trim())).filter(p => p).join('<br><br>');
 }
 function escHtmlWithBreaks(str) {
   if (!str) return '';
