@@ -1,0 +1,1470 @@
+[
+  {
+    "id": 1,
+    "question": "Aşağıdakilerden hangisinde öncelikle indirekt hiperbilirubinemi görülmez?",
+    "options": {
+      "a": "Gilbert sendromu",
+      "b": "Ekstravasküler hemoliz",
+      "c": "Kolelithiasis",
+      "d": "İntravasküler hemoliz",
+      "e": "Dubin-Johnson sendromu"
+    },
+    "correct_answer": "e",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 2,
+    "question": "Kusma merkezine hangi noktadan sinyal gelmez?",
+    "options": {
+      "a": "Korteks",
+      "b": "Corpus collosum",
+      "c": "Kemoreseptör bölge",
+      "d": "Vestibüler merkez",
+      "e": "İntraabdominal organlar"
+    },
+    "correct_answer": "b",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 3,
+    "question": "Hangisi protein malabsorbsiyonu ana nedeni değildir?",
+    "options": {
+      "a": "Bağırsak epitel hasarı",
+      "b": "Hızlı barsak transportu",
+      "c": "Mide hidroklorik asit eksikliği",
+      "d": "İnsülin eksikliği",
+      "e": "Pankreas ekzokrin enzim eksikliği"
+    },
+    "correct_answer": "d",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 4,
+    "question": "Konstipasyon oluşum mekanizmalarından hangileri doğrudur? (1.Açlık durumunda çekuma ulaşan miktar azalır 2.Lifli diyet çekuma ulaşan miktarı azaltır 3.Megakolonda kolonun propulsif hareketleri bozulmuştur 4.Hipopotasemi kolon hareketlerinin hızlanmasına neden olur 5.Rektoanal bölgede nörolojik bozukluklar defekasyon bozukluklarına neden olabilir)",
+    "options": {
+      "a": "1 2 3 4",
+      "b": "1 2 3 5",
+      "c": "1 2 3 4 5",
+      "d": "1 3 5",
+      "e": "1 3 4 5"
+    },
+    "correct_answer": "d",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 5,
+    "question": "Kusma oluşum sürecindeki basamaklardan hangisi yanlıştır?",
+    "options": {
+      "a": "Spazmatik inspirasyonlar gerçekleşir",
+      "b": "Pilor kontrakte olur",
+      "c": "Diyafram kası gevşer",
+      "d": "Gastrik kardia açık ve yükselmiştir",
+      "e": "Abdominal kaslar kasılır"
+    },
+    "correct_answer": "c",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 6,
+    "question": "Aşağıdakilerden hangisi sekretuar diyareye neden olur?",
+    "options": {
+      "a": "Bağırsak motilitesinin azalması",
+      "b": "Sıvı alımının artması",
+      "c": "Laktoz intoleransı",
+      "d": "Katı gıda alımının azalması",
+      "e": "E.Coli enfeksiyonu"
+    },
+    "correct_answer": "e",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 7,
+    "question": "Bir kadın yemek sonrası karın ağrısıyla geliyor. Ağrı sırta yansıyor ve yatınca artıyor. Hangilerinin yüksek olmasını beklersiniz?",
+    "options": {
+      "a": "Amilaz/lipaz",
+      "b": "ALT/AST",
+      "c": "GGT/ALP",
+      "d": "Troponin"
+    },
+    "correct_answer": "a",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 8,
+    "question": "Hangisi akut ishal fizik muayene bulgularından değildir?",
+    "options": {
+      "a": "Bağırsak hareketlerinde azalma",
+      "b": "Karında palpasyon ile hassasiyet",
+      "c": "Ateş",
+      "d": "Taşikardi",
+      "e": "Deri turgorunda azalma"
+    },
+    "correct_answer": "a",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 9,
+    "question": "Aşağıdakilerden hangisi yanlıştır? (Malabsorbsiyon testleri)",
+    "options": {
+      "a": "Dışkıda yağ miktarı >6 gram/gün üstünde olması yağ malabsorbsiyonunu düşündürür",
+      "b": "Fekal elastaz ekzokrin pankreas yetmezliğini gösteren indirekt testlerden birisidir",
+      "c": "Gaitada gizli kan için en kolay ve pratik test guaiac testidir",
+      "d": "Çölyak Hastalığı için serolojik olarak anti Saccaromyces cerevisiae (ASCA) ve pANCA bakılır"
+    },
+    "correct_answer": "d",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 10,
+    "question": "Aşağıdakilerden hangisinde öncelikle direkt hiperbilirubinemi görülür?",
+    "options": {
+      "a": "Pernisiyöz anemi",
+      "b": "Femur fraktürleri",
+      "c": "Kurşun zehirlenmesi",
+      "d": "Alfa-1 antitripsin eksikliği",
+      "e": "Uygunsuz kan transfüzyonu"
+    },
+    "correct_answer": "d",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 11,
+    "question": "Gastrointestinal kaynaklı bulantı ve kusmada ana rolü üstlenen reseptör aşağıdakilerden hangisidir?",
+    "options": {
+      "a": "5-HT3",
+      "b": "D2",
+      "c": "M1",
+      "d": "NK1",
+      "e": "H1"
+    },
+    "correct_answer": "a",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 12,
+    "question": "Aşağıdakilerden hangisi sirozdaki asit patofizyolojisinde rol oynamaz?",
+    "options": {
+      "a": "Hipoalbuminemi",
+      "b": "Renin-anjiyotensin aktivasyonu",
+      "c": "Hiperbilirubinemi",
+      "d": "Su-tuz tutulumu",
+      "e": "Splanik vazodilatasyon"
+    },
+    "correct_answer": "c",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 13,
+    "question": "Aşağıdakilerden hangisi osmotik diyareye neden olmaz?",
+    "options": {
+      "a": "Laktoz intoleransı",
+      "b": "Galaktoz malabsorsiyonu",
+      "c": "E. Coli enfeksiyonu",
+      "d": "Lifli yiyeceklerin tüketilmesi",
+      "e": "Sorbitol kullanımı"
+    },
+    "correct_answer": "c",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 14,
+    "question": "Karın organlarının çoğunluğu bilateral simetrik innervasyona sahiptirler ve ağrıları çoğunlukla orta hatta hissedilir. Kesin olarak lateralize edilebilen bir abdominal ağrı, innervasyonları tek taraflı olan aşağıdaki hangi organdan köken alabilir?",
+    "options": {
+      "a": "Karaciğer",
+      "b": "Pankreas",
+      "c": "Dalak",
+      "d": "Böbrek",
+      "e": "Appendiks"
+    },
+    "correct_answer": "d",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 15,
+    "question": "Kehr belirtisi hangisidir?",
+    "options": {
+      "a": "Karnın yan tarafındaki morluktur",
+      "b": "Bir tür yansıyan ağrıdır",
+      "c": "Göbekteki sert nodüler yapıdır",
+      "d": "Göbek çevresinde duyulan üfürümdür",
+      "e": "Göbek çevresinde gözlenen genişlemiş damarsal yapılardır"
+    },
+    "correct_answer": "b",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 16,
+    "question": "Aşağıdakilerden hangisi protein malabsorpsiyonunun en önemli nedenidir?",
+    "options": {
+      "a": "Hidroklorik asit eksikliği",
+      "b": "Pankreatik ekzokrin fonksiyon eksikliği",
+      "c": "İnsülin eksikliği",
+      "d": "Hızlı barsak transportu durumu",
+      "e": "Fitatlarla beslenme"
+    },
+    "correct_answer": "b",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 17,
+    "question": "Bulantı ile ilgili hangisi yanlıştır?",
+    "options": {
+      "a": "Supra sternal çentikte veya epigastriumda rahatsızlık hissidir",
+      "b": "Kusma hissini ifade etmektedir",
+      "c": "Gastrik motilitenin azalması ve ince barsak tonusunda azalma mevcuttur",
+      "d": "Hasta tarafından tarifi zor bir semptomdur",
+      "e": "Öncesinde iştahsızlık gözlenir"
+    },
+    "correct_answer": "c",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 18,
+    "question": "Fizyopatolojisine göre ishaller 4 sınıfa ayrılır. Aşağıdakilerden hangisi bu sınıflamaya dahil değildir?",
+    "options": {
+      "a": "İnflamatuvar tip ishal",
+      "b": "Sekretuvar tip ishal",
+      "c": "Osmotik tip ishal",
+      "d": "Diyet ilişkili ishal",
+      "e": "Motilite bozukluğuna bağlı ishal"
+    },
+    "correct_answer": "d",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 19,
+    "question": "Hangisi kolestaz belirtecidir?",
+    "options": {
+      "a": "ALT",
+      "b": "AST",
+      "c": "Protrombin zamanı",
+      "d": "Albümin",
+      "e": "Bilirubin"
+    },
+    "correct_answer": "e",
+    "explanation": "1. Prerenal ve İntrinsik (Renal) Akut Böbrek Hasarı (ABH) Ayrımı: Sınavlarda laboratuvar bulguları verilerek böbrek yetmezliğinin kökeni (böbrek öncesi mi yoksa doğrudan böbrek dokusu hasarı mı) sorulur.\nPrerenal ABH: Böbrek dokusu (tübüller) sağlam olduğu için böbrek su ve tuzu tutmaya çalışır. Bu nedenle İdrar dansitesi >1020, İdrar ozmolalitesi >500 mOsm/kg olur ve Fraksiyone Sodyum Atılımı (FENa) <%1 olarak bulunur\n1\nmore_horiz\n.\nİntrinsik ABH (Akut Tübüler Nekroz): Tübüller hasar gördüğü için idrar konsantre edilemez, bu nedenle idrar sodyumu artar (>40 mEq/L) ve FENa >%1 olur\n1\nmore_horiz\n. Ayrıca idrar sedimentinde görülen çamursu/kahverengi granüler silendirler Akut Tübüler Nekroz (ATN) için tipik bir ipucudur ve vaka sorularında belirleyici olarak kullanılır\n3\n.\n2. Glomerüler Filtrasyon Hızı (GFH) Tahmini ve Evreleme:\nFormül Değişkenleri: GFH tahmini için kullanılan Cockcroft-Gault, MDRD ve CKD-EPI formüllerinde hangi değişkenlerin kullanıldığı çok sık sorgulanır. Özellikle güncel kılavuzlara göre, CKD-EPI formülünün 2021 yılı revizyonunda \"Etnisite/Irk\" değişkeninin çıkarıldığı bilgisi popüler bir sınav sorusudur\n5\nmore_horiz\n.\nHesaplama Soruları: Hastanın idrar hacmi, idrar kreatinini ve serum kreatinini verilerek Kreatinin Klirensi (GFH) hesaplatılabilir. Formül: (İdrar Kreatinini x İdrar Hacmi) / (Serum Kreatinini x 1440) şeklindedir\n8\nmore_horiz\n.\n3. Nefrotik ve Nefritik Sendrom Vaka Ayırımı: Klinik vaka senaryolarında hastanın idrar bulguları üzerinden bu iki sendromun ayrımı istenir.\nNefrotik Sendrom: Bir hastada >3.5 gr/gün masif proteinüri, hipoalbüminemi (<3.5 g/dl), yaygın (kolay godet bırakan) ödem ve hiperlipidemi/lipidüri varsa cevap Nefrotik Sendrom'dur\n13\nmore_horiz\n.\nAkut Nefritik Sendrom: Hastada hipertansiyon, oligüri ve kola rengi idrar (makroskopik hematüri) varsa ve idrar sedimentinde dismorfik eritrositler ile eritrosit silendirleri görülüyorsa bu tablo Nefritik Sendrom'a (örneğin Akut Poststreptokoksik Glomerülonefrit) işaret eder\n16\nmore_horiz\n.\n4. Üroloji: Üroflowmetri'nin Sınırları ve İnkontinans Tipleri:\nÜroflowmetri: Alt üriner sistem semptomlarında kullanılan bu testin sadece \"düşük idrar akım hızını\" saptayabildiği; ancak bu düşüklüğün kesin nedenini (mesane çıkım tıkanıklığı mı yoksa mesane kasının/detrüsörün zayıflığı mı olduğunu) tek başına ekarte edemeyeceği (bunun için invaziv ürodinamik test gerektiği) çok sık sorulur\n21\nmore_horiz\n.\nİdrar Kaçırma (İnkontinans) Tipleri: Karın içi basıncının arttığı durumlarda (öksürme, gülme, merdiven çıkma) olan idrar kaçırma Stres tipi; aniden gelen şiddetli işeme hissi ve tuvalete yetişemeden kaçırma ise (detrüsör aşırı aktivitesine bağlı) Sıkışma (Urge) tipi idrar kaçırmadır\n26\nmore_horiz\n.\n5. Sıvı-Elektrolit Dengesi: Serum Osmolalitesi Hesaplama: Fizyopatoloji kapsamında laboratuvar değerleri verilerek serum osmolalitesinin hesaplanması istenebilir.\nFormül: (2 x Na) + (Glukoz/18) + (BUN/2.8) şeklindedir. Çıkmış sorularda genelde referans olarak Na: 137 mEq/L, Glukoz: 180 mg/dL ve BUN: 28 mg/dL değerleri verilir ve sonucun 294 mOsm/kg çıktığı test edilir\n14\nmore_horiz\n.\n6. Böbrek Tümörleri ve Genetik Mutasyon Eşleştirmeleri: Patoloji ve Genetik sorularında hastalıklar ve sorumlu gen mutasyonları çaprazlanarak sorulur:\nErişkin tip (Otozomal Dominant) Polikistik Böbrek Hastalığı → Polisistin 1 veya 2 (PKD1/PKD2) gen mutasyonu\n35\nmore_horiz\n.\nWilms Tümörü (Nefroblastoma) → WT1 gen mutasyonu\n35\nmore_horiz\n.\nRenal Anjiyomiyolipom (Tüberoz skleroz ile ilişkili) → TSC1 / TSC2 gen mutasyonu\n38\nmore_horiz\n.\nŞeffaf (Clear) Hücreli Renal Karsinom → VHL gen mutasyonu\n36\n41\n.",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "Gönderdiğiniz Dönem 3 Modül 5 (Nefroloji, Üroloji, Sıvı-Elektrolit ve Patoloji) kaynakları ve çıkmış sorular incelendiğinde, bu modül kapsamında sınavlarda sıklıkla test edilen ve farklı varyasyonlarla sorulma potansiyeli yüksek olan diğer önemli konu başlıkları şunlardır:\n1. Prerenal ve İntrinsik (Renal) Akut Böbrek Hasarı (ABH) Ayrımı: Sınavlarda laboratuvar bulguları verilerek böbrek yetmezliğinin kökeni (böbrek öncesi mi yoksa doğrudan böbrek dokusu hasarı mı) sorulur.\nPrerenal ABH: Böbrek dokusu (tübüller) sağlam olduğu için böbrek su ve tuzu tutmaya çalışır. Bu nedenle İdrar dansitesi >1020, İdrar ozmolalitesi >500 mOsm/kg olur ve Fraksiyone Sodyum Atılımı (FENa) <%1 olarak bulunur\n1\nmore_horiz\n.\nİntrinsik ABH (Akut Tübüler Nekroz): Tübüller hasar gördüğü için idrar konsantre edilemez, bu nedenle idrar sodyumu artar (>40 mEq/L) ve FENa >%1 olur\n1\nmore_horiz\n. Ayrıca idrar sedimentinde görülen çamursu/kahverengi granüler silendirler Akut Tübüler Nekroz (ATN) için tipik bir ipucudur ve vaka sorularında belirleyici olarak kullanılır\n3\n.\n2. Glomerüler Filtrasyon Hızı (GFH) Tahmini ve Evreleme:\nFormül Değişkenleri: GFH tahmini için kullanılan Cockcroft-Gault, MDRD ve CKD-EPI formüllerinde hangi değişkenlerin kullanıldığı çok sık sorgulanır. Özellikle güncel kılavuzlara göre, CKD-EPI formülünün 2021 yılı revizyonunda \"Etnisite/Irk\" değişkeninin çıkarıldığı bilgisi popüler bir sınav sorusudur\n5\nmore_horiz\n.\nHesaplama Soruları: Hastanın idrar hacmi, idrar kreatinini ve serum kreatinini verilerek Kreatinin Klirensi (GFH) hesaplatılabilir. Formül: (İdrar Kreatinini x İdrar Hacmi) / (Serum Kreatinini x 1440) şeklindedir\n8\nmore_horiz\n.\n3. Nefrotik ve Nefritik Sendrom Vaka Ayırımı: Klinik vaka senaryolarında hastanın idrar bulguları üzerinden bu iki sendromun ayrımı istenir.\nNefrotik Sendrom: Bir hastada >3.5 gr/gün masif proteinüri, hipoalbüminemi (<3.5 g/dl), yaygın (kolay godet bırakan) ödem ve hiperlipidemi/lipidüri varsa cevap Nefrotik Sendrom'dur\n13\nmore_horiz\n.\nAkut Nefritik Sendrom: Hastada hipertansiyon, oligüri ve kola rengi idrar (makroskopik hematüri) varsa ve idrar sedimentinde dismorfik eritrositler ile eritrosit silendirleri görülüyorsa bu tablo Nefritik Sendrom'a (örneğin Akut Poststreptokoksik Glomerülonefrit) işaret eder\n16\nmore_horiz\n.\n4. Üroloji: Üroflowmetri'nin Sınırları ve İnkontinans Tipleri:\nÜroflowmetri: Alt üriner sistem semptomlarında kullanılan bu testin sadece \"düşük idrar akım hızını\" saptayabildiği; ancak bu düşüklüğün kesin nedenini (mesane çıkım tıkanıklığı mı yoksa mesane kasının/detrüsörün zayıflığı mı olduğunu) tek başına ekarte edemeyeceği (bunun için invaziv ürodinamik test gerektiği) çok sık sorulur\n21\nmore_horiz\n.\nİdrar Kaçırma (İnkontinans) Tipleri: Karın içi basıncının arttığı durumlarda (öksürme, gülme, merdiven çıkma) olan idrar kaçırma Stres tipi; aniden gelen şiddetli işeme hissi ve tuvalete yetişemeden kaçırma ise (detrüsör aşırı aktivitesine bağlı) Sıkışma (Urge) tipi idrar kaçırmadır\n26\nmore_horiz\n.\n5. Sıvı-Elektrolit Dengesi: Serum Osmolalitesi Hesaplama: Fizyopatoloji kapsamında laboratuvar değerleri verilerek serum osmolalitesinin hesaplanması istenebilir.\nFormül: (2 x Na) + (Glukoz/18) + (BUN/2.8) şeklindedir. Çıkmış sorularda genelde referans olarak Na: 137 mEq/L, Glukoz: 180 mg/dL ve BUN: 28 mg/dL değerleri verilir ve sonucun 294 mOsm/kg çıktığı test edilir\n14\nmore_horiz\n.\n6. Böbrek Tümörleri ve Genetik Mutasyon Eşleştirmeleri: Patoloji ve Genetik sorularında hastalıklar ve sorumlu gen mutasyonları çaprazlanarak sorulur:\nErişkin tip (Otozomal Dominant) Polikistik Böbrek Hastalığı → Polisistin 1 veya 2 (PKD1/PKD2) gen mutasyonu\n35\nmore_horiz\n.\nWilms Tümörü (Nefroblastoma) → WT1 gen mutasyonu\n35\nmore_horiz\n.\nRenal Anjiyomiyolipom (Tüberoz skleroz ile ilişkili) → TSC1 / TSC2 gen mutasyonu\n38\nmore_horiz\n.\nŞeffaf (Clear) Hücreli Renal Karsinom → VHL gen mutasyonu\n36\n41\n.",
+    "_raw_response": "Gönderdiğiniz Dönem 3 Modül 5 (Nefroloji, Üroloji, Sıvı-Elektrolit ve Patoloji) kaynakları ve çıkmış sorular incelendiğinde, bu modül kapsamında sınavlarda sıklıkla test edilen ve farklı varyasyonlarla sorulma potansiyeli yüksek olan diğer önemli konu başlıkları şunlardır:\n1. Prerenal ve İntrinsik (Renal) Akut Böbrek Hasarı (ABH) Ayrımı: Sınavlarda laboratuvar bulguları verilerek böbrek yetmezliğinin kökeni (böbrek öncesi mi yoksa doğrudan böbrek dokusu hasarı mı) sorulur.\nPrerenal ABH: Böbrek dokusu (tübüller) sağlam olduğu için böbrek su ve tuzu tutmaya çalışır. Bu nedenle İdrar dansitesi >1020, İdrar ozmolalitesi >500 mOsm/kg olur ve Fraksiyone Sodyum Atılımı (FENa) <%1 olarak bulunur\n1\nmore_horiz\n.\nİntrinsik ABH (Akut Tübüler Nekroz): Tübüller hasar gördüğü için idrar konsantre edilemez, bu nedenle idrar sodyumu artar (>40 mEq/L) ve FENa >%1 olur\n1\nmore_horiz\n. Ayrıca idrar sedimentinde görülen çamursu/kahverengi granüler silendirler Akut Tübüler Nekroz (ATN) için tipik bir ipucudur ve vaka sorularında belirleyici olarak kullanılır\n3\n.\n2. Glomerüler Filtrasyon Hızı (GFH) Tahmini ve Evreleme:\nFormül Değişkenleri: GFH tahmini için kullanılan Cockcroft-Gault, MDRD ve CKD-EPI formüllerinde hangi değişkenlerin kullanıldığı çok sık sorgulanır. Özellikle güncel kılavuzlara göre, CKD-EPI formülünün 2021 yılı revizyonunda \"Etnisite/Irk\" değişkeninin çıkarıldığı bilgisi popüler bir sınav sorusudur\n5\nmore_horiz\n.\nHesaplama Soruları: Hastanın idrar hacmi, idrar kreatinini ve serum kreatinini verilerek Kreatinin Klirensi (GFH) hesaplatılabilir. Formül: (İdrar Kreatinini x İdrar Hacmi) / (Serum Kreatinini x 1440) şeklindedir\n8\nmore_horiz\n.\n3. Nefrotik ve Nefritik Sendrom Vaka Ayırımı: Klinik vaka senaryolarında hastanın idrar bulguları üzerinden bu iki sendromun ayrımı istenir.\nNefrotik Sendrom: Bir hastada >3.5 gr/gün masif proteinüri, hipoalbüminemi (<3.5 g/dl), yaygın (kolay godet bırakan) ödem ve hiperlipidemi/lipidüri varsa cevap Nefrotik Sendrom'dur\n13\nmore_horiz\n.\nAkut Nefritik Sendrom: Hastada hipertansiyon, oligüri ve kola rengi idrar (makroskopik hematüri) varsa ve idrar sedimentinde dismorfik eritrositler ile eritrosit silendirleri görülüyorsa bu tablo Nefritik Sendrom'a (örneğin Akut Poststreptokoksik Glomerülonefrit) işaret eder\n16\nmore_horiz\n.\n4. Üroloji: Üroflowmetri'nin Sınırları ve İnkontinans Tipleri:\nÜroflowmetri: Alt üriner sistem semptomlarında kullanılan bu testin sadece \"düşük idrar akım hızını\" saptayabildiği; ancak bu düşüklüğün kesin nedenini (mesane çıkım tıkanıklığı mı yoksa mesane kasının/detrüsörün zayıflığı mı olduğunu) tek başına ekarte edemeyeceği (bunun için invaziv ürodinamik test gerektiği) çok sık sorulur\n21\nmore_horiz\n.\nİdrar Kaçırma (İnkontinans) Tipleri: Karın içi basıncının arttığı durumlarda (öksürme, gülme, merdiven çıkma) olan idrar kaçırma Stres tipi; aniden gelen şiddetli işeme hissi ve tuvalete yetişemeden kaçırma ise (detrüsör aşırı aktivitesine bağlı) Sıkışma (Urge) tipi idrar kaçırmadır\n26\nmore_horiz\n.\n5. Sıvı-Elektrolit Dengesi: Serum Osmolalitesi Hesaplama: Fizyopatoloji kapsamında laboratuvar değerleri verilerek serum osmolalitesinin hesaplanması istenebilir.\nFormül: (2 x Na) + (Glukoz/18) + (BUN/2.8) şeklindedir. Çıkmış sorularda genelde referans olarak Na: 137 mEq/L, Glukoz: 180 mg/dL ve BUN: 28 mg/dL değerleri verilir ve sonucun 294 mOsm/kg çıktığı test edilir\n14\nmore_horiz\n.\n6. Böbrek Tümörleri ve Genetik Mutasyon Eşleştirmeleri: Patoloji ve Genetik sorularında hastalıklar ve sorumlu gen mutasyonları çaprazlanarak sorulur:\nErişkin tip (Otozomal Dominant) Polikistik Böbrek Hastalığı → Polisistin 1 veya 2 (PKD1/PKD2) gen mutasyonu\n35\nmore_horiz\n.\nWilms Tümörü (Nefroblastoma) → WT1 gen mutasyonu\n35\nmore_horiz\n.\nRenal Anjiyomiyolipom (Tüberoz skleroz ile ilişkili) → TSC1 / TSC2 gen mutasyonu\n38\nmore_horiz\n.\nŞeffaf (Clear) Hücreli Renal Karsinom → VHL gen mutasyonu\n36\n41\n."
+  },
+  {
+    "id": 20,
+    "question": "Total Bilirubin kaç mg/dl üzerine çıkınca sarılıktan bahsederiz?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4",
+      "e": "5"
+    },
+    "correct_answer": "b",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 21,
+    "question": "Aşağıdakilerden hangisi kronik açıklanamayan ağrı, tekrarlayan stimulusa cevapta rol oynayan stimülatör nöropeptitlerden değildir?",
+    "options": {
+      "a": "P maddesi",
+      "b": "Nörokininler",
+      "c": "Kalsitonin geni ile bağlantılı peptit",
+      "d": "Glutamat",
+      "e": "Gama aminobütirik asit (GABA)"
+    },
+    "correct_answer": "e",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 22,
+    "question": "Hangisi malabsorbsiyon yapmaz?",
+    "options": {
+      "a": "CVİD",
+      "b": "İrritable bağırsak hastalığı"
+    },
+    "correct_answer": "b",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 23,
+    "question": "Aşağıdakilerden hangisi malabsorsiyona bağlı diyareye neden olur?",
+    "options": {
+      "a": "Laktoz intoleransı",
+      "b": "Barsak motilitesinin azalması",
+      "c": "Katı gıda alımının azalması",
+      "d": "Sıvı alımının artması",
+      "e": "İnterstinal elektrolit ve sıvı sekresyonunun artması"
+    },
+    "correct_answer": "a",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 24,
+    "question": "Aşağıdakilerden hangisi osmotik diyareye neden olmaz?",
+    "options": {
+      "a": "Galaktoz malabsorsiyonu",
+      "b": "Laktoz intoleransı",
+      "c": "Sorbital kullanımı",
+      "d": "Lifli yiyeceklerin tüketilmesi",
+      "e": "S. Aureus enfeksiyonu"
+    },
+    "correct_answer": "e",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 25,
+    "question": "Aşağıdakilerden hangisi hepatosellüler hasar sonucu oluşan direk hiperbilirubinemide saptanmaz?",
+    "options": {
+      "a": "İdrarda bilirubin saptanmaz",
+      "b": "Barsakta az miktardaki ürobilinojen oluşur",
+      "c": "Feçesde sterkobilin azdır, rengi açıktır",
+      "d": "Kanda serum albumin, fibrinojen ve koagülasyon faktörleri azalır",
+      "e": "Cilt koyu sarı renklidir"
+    },
+    "correct_answer": "a",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 26,
+    "question": "Ağrının gelişimi açısından hangi hastalık diğerlerinden farklıdır?",
+    "options": {
+      "a": "İnce bağırsak obstrüksiyonu",
+      "b": "Apandisit",
+      "c": "Divertikülit",
+      "d": "Gastroenterit",
+      "e": "Perfore peptik ülser"
+    },
+    "correct_answer": "a",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 27,
+    "question": "Prehepatik sarılık - aşağıdaki ifadelerden hangisi doğru değildir?",
+    "options": {
+      "a": "İndirekt (unkonjuge) bilirubinde artış olur",
+      "b": "Sferositoz ve Talasemide görülür",
+      "c": "Orak hücreli anemide bu tip sarılık görülür",
+      "d": "İdrarda ürobilinojen azalır, bilirubin seviyesi artar",
+      "e": "Bu hastalarda G6PD enzim eksikliği vardır"
+    },
+    "correct_answer": "d",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 28,
+    "question": "İshal ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": {
+      "a": "Laktoz intoleransına bağlı ishal osmotik ishaldir",
+      "b": "Sekretuvar ishallerde gaytada ozmotik gap 100 mOsm/kg'dır",
+      "c": "Dört haftadan uzun süren diyarelere kronik diyare denir",
+      "d": "D-Xyloz testi ince bağırsakta malabsorbsiyonu değerlendirir",
+      "e": "VİPoma sekretuvar ishal nedenlerindendir"
+    },
+    "correct_answer": "b",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 29,
+    "question": "Aşağıdakilerden hangisi malabsorbsiyona bağlı diyareye neden olur?",
+    "options": {
+      "a": "İntestinal elektrolit ve sıvı sekresyonunun artması",
+      "b": "Disakkaridaz eksikliği",
+      "c": "Katı gıda alımının azalması",
+      "d": "Sıvı alımının artması",
+      "e": "Barsak motilitesinin azalması"
+    },
+    "correct_answer": "b",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 30,
+    "question": "Aşağıdakilerden hangisi ilaç ilişkili kolit paternleri arasında yer almaz?",
+    "options": {
+      "a": "Kollajenöz Kolit",
+      "b": "Psödomembranöz Kolit",
+      "c": "Lenfositik Kolit",
+      "d": "Kript distorsiyonu ile karakterize kolit",
+      "e": "Apoptotik Kolopati"
+    },
+    "correct_answer": "d",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 31,
+    "question": "Aşağıdakilerden hangisi neonatal diyare nedeni değildir?",
+    "options": {
+      "a": "Otoimmün enteropati",
+      "b": "MID (Mikrovillus inklüzyon hastalığı)",
+      "c": "Çölyak Hastalığı",
+      "d": "Tufting enteropatisi",
+      "e": "CVID"
+    },
+    "correct_answer": "c",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 32,
+    "question": "H. pylori gastritinde Sydney sınıflamasına göre yer almayan hangisidir?",
+    "options": {
+      "a": "Glandüler kayıp - atrofi",
+      "b": "PMN lökositleri - aktivite",
+      "c": "Kollajenizasyon - fibrozis",
+      "d": "Goblet/Paneth - intestinal metaplazi",
+      "e": "H. pylori - bakteriyel kolonizasyon"
+    },
+    "correct_answer": "c",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 33,
+    "question": "Hangisi konjenital diyare nedenleri arasında yer almaz?",
+    "options": {
+      "a": "Otoimmün enteropati",
+      "b": "Tufting enteropati",
+      "c": "Mikrovillus inklüzyon hastalığı",
+      "d": "Çölyak",
+      "e": "CVID"
+    },
+    "correct_answer": "d",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 34,
+    "question": "Hangisi ilaç assosiye kolitlerden değildir?",
+    "options": {
+      "a": "Kollajenöz kolit",
+      "b": "Lenfositik kolit",
+      "c": "Psödomembranöz kolit",
+      "d": "Kript distorsiyonu görülen kolit"
+    },
+    "correct_answer": "d",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 35,
+    "question": "Aşağıdakilerden hangisi Crohn hastalığının histopatolojik bulgularını içeren şıktır?",
+    "options": {
+      "a": "Aftöz ülser, transmural inflamasyon, kaldırım taşı görünümü, segmental tutulum",
+      "b": "Mukozal inflamasyon, geniş tabanlı ülser, diffüz tutulum, backwash ileit",
+      "c": "Striktür, psödopolip, diffüz tutulum, derin ülser, granülom"
+    },
+    "correct_answer": "d",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 36,
+    "question": "H. Pylori'nin mukozal hasara neden olması - eşleştirme",
+    "options": {
+      "a": "Lipopolisakkarit - babA",
+      "b": "Proteaz - vacA",
+      "c": "Flagella - cagA",
+      "d": "Üreaz - müsinaz"
+    },
+    "correct_answer": "a",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 37,
+    "question": "Hangisi çölyak'ın klinikopatolojik özelliği değildir?",
+    "options": {
+      "a": "HLA DQ2-8 mutasyonu",
+      "b": "Patogenezde T hücre aracılı adaptif immün ve İEL ilişkili innate immün rol oynar",
+      "c": "Ekstraintestinal semptomlar değişken ve malabsapsiyon daima görülür",
+      "d": "Serolojik tanı doku transglutaminaz ve endomisial antikor testleriyle yapılır",
+      "e": "Buğday proteini glutenin gliadin fraksiyonuna karşı hipersensitivite var"
+    },
+    "correct_answer": "b",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 38,
+    "question": "Aşağıdakilerden hangisi eozinofilik özofajitin özelliklerinden değildir?",
+    "options": {
+      "a": "Bazal hücre hiperplazisi",
+      "b": "Papillomatozis",
+      "c": "Eozinofil sayısı 15'ten fazla"
+    },
+    "correct_answer": "c",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 39,
+    "question": "GÖRH'de görülen histopatolojik bulgular ve oluş mekanizmalarıyla yapılan eşleştirmelerden hangisi yanlıştır?",
+    "options": {
+      "a": "Dilate intersellüler aralık ve desmozomlarda belirginleşme - intraepitelyal ödem",
+      "b": "Ülserasyon/erozyon - gastrik asite maruziyet",
+      "c": "Skuamoz epitelde balonlaşma - permeabilite artışı",
+      "d": "Özofajit - skuamoz epitele inflamatuvar hücre göçü",
+      "e": "Venüllerin dilatasyonu - ..."
+    },
+    "correct_answer": "b",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 40,
+    "question": "Gastrit tipleri ve nedenleri ile ilgili eşleşmelerden hangisi yanlıştır?",
+    "options": {
+      "a": "Eozinofilik gastrit - atopi",
+      "b": "Otoimmün gastrit - proton pompa otoantikorları",
+      "c": "Reaktif gastropati - antibiyotik kullanımı",
+      "d": "Lenfositik gastrit - çölyak hastalığı",
+      "e": "Granülomatöz gastrit - H. Pylori"
+    },
+    "correct_answer": "e",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 41,
+    "question": "Barsak yavaş dalgalarının oluşması, düz kas eksitabilitesi, enterik nöral aktivitenin modülasyonunda rol alan ve konstipasyonlu hastalarda kolon duvarında azalmış olarak saptanan yapı hangisidir?",
+    "options": {
+      "a": "Meissner pleksusu",
+      "b": "Kromaffin hücreler",
+      "c": "Goblet hücreleri",
+      "d": "Cajal'ın interstisyel hücreleri",
+      "e": "Auerbach pleksusu"
+    },
+    "correct_answer": "c",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 42,
+    "question": "Aşağıdakilerden hangisi özofagusta adenokanser gelişimi için risk faktörüdür?",
+    "options": {
+      "a": "HPV (Human Papilloma Virus)",
+      "b": "Akalazya",
+      "c": "Barrett özofagusu",
+      "d": "Plummer-Vinson sendromu",
+      "e": "Özofagusun kostik yaralanmaları sonrası gelişen darlıklar"
+    },
+    "correct_answer": "d",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 43,
+    "question": "Çocukluk çağı enteropatileri ile ilişkili gen eşleşmelerinden hangisi yanlıştır?",
+    "options": {
+      "a": "Tufting enteropati - EPCAM",
+      "b": "Abetalipoproteinemi - APO-B",
+      "c": "IPEX - FOXP3",
+      "d": "Mikrovillus inklüzyon hastalığı - MYO5B",
+      "e": "CVID - B hücre assosiye genler"
+    },
+    "correct_answer": "c",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 44,
+    "question": "Aşağıda verilen makroskopik bulgulardan hangileri ülseratif kolit ile ilişkilidir? (I.Segmenter striktür II.Kaldırım taşı mukoza III.Psödopolipler IV.Diffüz kanamalı frajil mukoza)",
+    "options": {
+      "a": "I ve III",
+      "b": "III ve IV",
+      "c": "II ve III",
+      "d": "I ve II",
+      "e": "II ve IV"
+    },
+    "correct_answer": "b",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 45,
+    "question": "GİS kanserleri ve en sık lokalizasyonları ile ilgili eşleşmelerden yanlış olan hangisidir?",
+    "options": {
+      "a": "Mide kanseri - antropilorik bölge",
+      "b": "Özofagus skuamöz hücreli kanser - proksimal özofagus",
+      "c": "Özofagus adenokanseri - distal özofagus",
+      "d": "İnce barsak kanseri - duodenal ampulla",
+      "e": "Kolon kanseri - rektosigmoid"
+    },
+    "correct_answer": "b",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 46,
+    "question": "Özofajit tipleri ve temel nedenleriyle ilgili eşleşmelerden hangisi yanlıştır?",
+    "options": {
+      "a": "Eozinofilik özofajit - atopi",
+      "b": "Reflü özofajiti - sfinkter yetmezliği",
+      "c": "Lenfositik özofajit - ilaç etkisi",
+      "d": "Pill özofajit - epitel hasarı",
+      "e": "CMV özofajiti - immünsüpresyon"
+    },
+    "correct_answer": "b",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 47,
+    "question": "GÖRH'de özofajit gelişimi sırasında skuamöz epiteldeki değişiklikleri doğru olarak sıralayan şık hangisidir?",
+    "options": {
+      "a": "Bazal hücre hiperplazisi - balonlaşma - erozyon - hücreler arası boşlukta dilatasyon - papillomatöz - inflamasyon",
+      "b": "Erozyon - inflamasyon - balonlaşma - papillomatöz - bazal hücre hiperplazisi - hücreler arası boşluklarda dilatasyon",
+      "c": "Ülser - bazal hücre hiperplazisi - papillomatöz - balonlaşma - hücreler arası boşluklarda dilatasyon - inflamasyon",
+      "d": "Papillomatöz - balonlaşma - ülser - inflamasyon - hücreler arası boşluklarda dilatasyon - bazal hücre hiperplazisi",
+      "e": "İnflamasyon - hücreler arası boşluklarda dilatasyon - balonlaşma - bazal hücre hiperplazisi - papillomatöz - ülser"
+    },
+    "correct_answer": "c",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 48,
+    "question": "Ailesinde mide kanseri öyküsü bulunan 37 yaşında kadın hastada intestinal tip adenokarsinoma tanısı veriliyor. Hangi genetik aberasyon sonucu gelişmiş olabilir?",
+    "options": {
+      "a": "Germline MMR gen mutasyonu",
+      "b": "Germline APC mutasyonu",
+      "c": "TP53 mutasyonu",
+      "d": "Germline CDH1 mutasyonu",
+      "e": "PTEN mutasyonu"
+    },
+    "correct_answer": "c",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 49,
+    "question": "Çocukluk çağı enteropatileri ve karakteristik histopatolojik bulgusu eşleşmelerinden hangisi yanlıştır?",
+    "options": {
+      "a": "Mikrovillus inklüzyon hastalığı - brush border kaybı",
+      "b": "CVID - plazma hücre azlığı/yokluğu",
+      "c": "Tufting enteropati - epitelyal tomurcuklar",
+      "d": "Abetalipoproteinemi - enterositlerde lipid birikimi",
+      "e": "Otoimmün enteropati - lenfatik dilatasyon"
+    },
+    "correct_answer": "b",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 50,
+    "question": "İnflamatuvar bağırsak hastalıklarında kolorektal kanser gelişimi için risk faktörü değildir?",
+    "options": {
+      "a": "Ailede kolorektal kanser öyküsü olması",
+      "b": "Primer sklerozan kolanjit ile birlikte olması",
+      "c": "5-aminosalisilik asit kullanımı",
+      "d": "Hastalığın bağırsakta yaygın bulunması",
+      "e": "Hastalık süresinin uzun olması"
+    },
+    "correct_answer": "e",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 51,
+    "question": "55 yaşında günde en az 10 kez sulu dışkılama yakınması olan hastada kolonoskopi normal. Random biyopsilerde hangi bulgular beklenir? (I.Nonkazeifiye granülom II.Subepitelyal kollagen band III.Kript apseleri ve kript distorsiyonu IV.İntraepitelyal lenfosit infiltrasyonu)",
+    "options": {
+      "a": "II ve IV",
+      "b": "II ve III",
+      "c": "I ve II",
+      "d": "III ve IV",
+      "e": "I ve III"
+    },
+    "correct_answer": "c",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 52,
+    "question": "Kanser - prekürsör lezyon eşleştirmelerinden hangisi yanlıştır?",
+    "options": {
+      "a": "Mide ca - gastrik adenoma",
+      "b": "Kolon ca - villöz adenoma",
+      "c": "İleum ca - Crohn hastalığı",
+      "d": "Sigmoid ca - divertiküler hastalık",
+      "e": "Özofagus ca - Barrett"
+    },
+    "correct_answer": "a",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 53,
+    "question": "GİS nöroendokrin tümörleri ve lokalizasyonlarına ait eşleştirmelerden hangisi yanlıştır?",
+    "options": {
+      "a": "Serotonin salgılayan nöroendokrin tümör - ileum",
+      "b": "İnsidental nöroendokrin tümör - özofagus",
+      "c": "Somatostatinoma - duodenum",
+      "d": "Büyük hücreli nöroendokrin karsinom - kolon",
+      "e": "ECL hücreli nöroendokrin tümör - mide"
+    },
+    "correct_answer": "c",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 54,
+    "question": "GİS nöroendokrin tümörleriyle ilgili hangisi yanlıştır?",
+    "options": {
+      "a": "Özofagus ve kolonda NEK'ler daha sıktır",
+      "b": "Mide ve ileumda multifokal olabilirler",
+      "c": "Metastatik gelişim en sık duodenal NET'lerde görülür",
+      "d": "En sık appendikste görülürler",
+      "e": "Genel olarak NET'ler NEK'lerden daha sıktır"
+    },
+    "correct_answer": "b",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 55,
+    "question": "Çölyakta doğal bağışıklıkta sorumlu hücre hangisidir?",
+    "options": {
+      "a": "İntraepitelyal lenfositler",
+      "b": "Dendritik hücreler",
+      "c": "Makrofajlar",
+      "d": "NK hücreleri"
+    },
+    "correct_answer": null,
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 56,
+    "question": "GİST (Gastrointestinal stromal tümörler) ile ilgili doğru olanları içeren şık hangisidir? (I.Sıklıkla ince bağırsak>mide>özofagus>kolon II.Cajal hücrelerinden gelişir III.Tümör boyutu, mitotik aktivite ve lokalizasyon biyolojik davranışı belirler IV.Büyük kısmı c-kit mutasyonu gösterir)",
+    "options": {
+      "a": "I, II ve III",
+      "b": "II ve IV",
+      "c": "II, III ve IV",
+      "d": "I ve III",
+      "e": "Hepsi"
+    },
+    "correct_answer": "a",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 57,
+    "question": "GİS hastalıkları ve ilişkili malignitelerle ilgili eşleşmelerden yanlış olan hangisidir?",
+    "options": {
+      "a": "Lenfositik kolit - Büyük B hücreli lenfoma",
+      "b": "Barrett özofagusu - Özofagus adenokarsinomu",
+      "c": "Crohn hastalığı - İnce barsak adenokarsinomu",
+      "d": "Çölyak hastalığı - İntestinal T hücreli lenfoma",
+      "e": "H. Pylori gastriti - MALT lenfoma"
+    },
+    "correct_answer": "c",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 58,
+    "question": "Özofajit tipleri ve nedenlerine ilişkin eşleşmelerden hangisi yanlıştır?",
+    "options": {
+      "a": "Reflü özofajit - hiatal herni",
+      "b": "Lenfositik özofajit - çölyak hastalığı",
+      "c": "Eozinofilik özofajit - sfinkter disfonksiyonu",
+      "d": "İlaca bağlı özofajit - temas ilişkili mukozal hasar",
+      "e": "CMV özofajiti - immünsüpresyon"
+    },
+    "correct_answer": "d",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 59,
+    "question": "İdiopatik inflamatuar barsak hastalıkları makroskopik özelliklerinden hangileri Crohn hastalığı için tipiktir? (I.Rektumda başlar II.Tutulum segmentaldir III.Aftöz, lineer, fissüral ülserler yapar IV.İnflamasyon mukozada sınırlıdır V.Striktür oluşumu sıktır)",
+    "options": {
+      "a": "II, III ve IV",
+      "b": "III, IV ve V",
+      "c": "II, III ve V",
+      "d": "I, II ve IV",
+      "e": "Hepsi"
+    },
+    "correct_answer": "c",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 60,
+    "question": "Neonatal enteropatiler ve neden olan gen mutasyonlarından yanlış olan hangisidir?",
+    "options": {
+      "a": "Mikrovillus inklüzyon hastalığı - MYO5B",
+      "b": "Abetalipoproteinemi - MTM",
+      "c": "IPEX sendromu - FOXP3",
+      "d": "Çölyak hastalığı - TTG",
+      "e": "Tufting enteropati - EPCAM"
+    },
+    "correct_answer": "a",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 61,
+    "question": "Hangisi H. Pylori assosiye gastritleri arasında yer almaz?",
+    "options": {
+      "a": "Granülomatöz gastrit",
+      "b": "Kronik atrofik pangastrit",
+      "c": "Eozinofil gastrit",
+      "d": "Aktif non-atrofik antral gastrit",
+      "e": "Lenfositik gastrit"
+    },
+    "correct_answer": "c",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 62,
+    "question": "Gastrit ve patogenezleriyle ilgili eşleşmelerden hangisi yanlıştır?",
+    "options": {
+      "a": "Kollajenöz gastrit - CMV enfeksiyonu",
+      "b": "Otoimmün gastrit - proton pompa antikorları",
+      "c": "Reaktif/kimyasal gastrit - safra reflüsü",
+      "d": "Antral lenfositik gastrit - çölyak hastalığı",
+      "e": "Granülomatöz gastrit - Crohn hastalığı"
+    },
+    "correct_answer": "c",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 63,
+    "question": "Çölyakta mukozal immün yanıtın basamaklarını doğru sıralayan şık hangisidir? (1.Lamina propriada CD4+ lenfositler aktive 2.Gluten rezidüleri transglutaminazla parçalanır 3.Epitel lenfositleri NK-benzeri karakter kazanır 4.Gluten DQ2/DQ8'li makrofajlar tarafından T hücrelerine prezente edilir 5.IL-15 CD8+ lenfositlerin epitele göçünü sağlar)",
+    "options": {
+      "a": "1-2-3-4-5",
+      "b": "5-4-3-2-1",
+      "c": "2-4-1-5-3",
+      "d": "4-1-2-5-3",
+      "e": "3-5-4-1-2"
+    },
+    "correct_answer": "d",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 64,
+    "question": "Çeşitli tümör tipleri ve GİS'te en sık görüldükleri bölge eşleştirmelerinden hangisi yanlıştır?",
+    "options": {
+      "a": "Leiomyoma - özofagus",
+      "b": "Nöroendokrin tümör - appendiks",
+      "c": "GİST - mide",
+      "d": "Peutz-Jeghers polibi - ince barsak",
+      "e": "Kolon adenokarsinomu - çekum"
+    },
+    "correct_answer": "c",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 65,
+    "question": "GİS tümörleri prekürsör hücre - tümör - immünhistokimyasal belirteç eşleşmelerinden hangisi yanlıştır?",
+    "options": {
+      "a": "İnterstisyel Cajal hücresi - GİST - CD117",
+      "b": "ECL hücre - NET - Kromogranin",
+      "c": "Barrett epiteli - Adenokarsinoma - Sitokeratin",
+      "d": "İEL - MALToma - CD3",
+      "e": "G hücresi - Gastrinoma - Gastrin"
+    },
+    "correct_answer": "a",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 66,
+    "question": "Hangisi masif splenomegali nedeni değildir?",
+    "options": {
+      "a": "KML",
+      "b": "Kalaazar",
+      "c": "Siroz",
+      "d": "Gaucher hastalığı"
+    },
+    "correct_answer": "c",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 67,
+    "question": "Aşağıdakilerden hangisi masif hepatomegali yapmaz?",
+    "options": {
+      "a": "Kala azar",
+      "b": "Siroz",
+      "c": "Kronik myeloid lösemi",
+      "d": "Gaucher hastalığı",
+      "e": "Mikobakterium avium"
+    },
+    "correct_answer": "e",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 68,
+    "question": "Aşağıdakilerden hangisi glikojen depo hastalıkları için yanlıştır?",
+    "options": {
+      "a": "Hepatomegali sık bir bulgudur",
+      "b": "Bazı olgularda karaciğer transplantasyonu enzim eksikliğini düzeltebilir",
+      "c": "Histolojik bulguları tanısaldır",
+      "d": "Histolojik olarak mozaik pattern görülür",
+      "e": "Hepatosellüler kanser görülme riski artar"
+    },
+    "correct_answer": "e",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 69,
+    "question": "Aşağıdakilerden hangisi karaciğer fonksiyonlarından biri değildir?",
+    "options": {
+      "a": "Depolama",
+      "b": "Sentez",
+      "c": "Ekskresyon",
+      "d": "Detoksifikasyon",
+      "e": "Dolaşımdaki yaşlı eritrositleri temizleme"
+    },
+    "correct_answer": "b",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 70,
+    "question": "Dalak fizik muayenesinde aşağıdakilerden hangisi yanlıştır?",
+    "options": {
+      "a": "Birden fazla farklı dalak muayene yöntemi bulunmaktadır",
+      "b": "Hastadan muayene için onam alınmalıdır",
+      "c": "Hastanın sağ tarafında durulmalıdır",
+      "d": "Hastanın supin pozisyonda gevşek olması sağlanmalıdır",
+      "e": "Dalağın palpe edilebilmesi için ani hareketlerle ve derin bastırılarak muayene yapılmalıdır"
+    },
+    "correct_answer": "d",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 71,
+    "question": "Traube aralığında mat sesi alınması aşağıdaki durumlardan hangisinde en sık görülür?",
+    "options": {
+      "a": "Splenomegali",
+      "b": "Yaygın asit varlığı",
+      "c": "Sol kolon yetmezliği",
+      "d": "Sol alt lob pnömoni",
+      "e": "Splenik fleksura sendromu"
+    },
+    "correct_answer": null,
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 72,
+    "question": "Aşağıdakilerden hangisi karaciğerde steatoz gelişimi ile direkt ilişkili değildir?",
+    "options": {
+      "a": "Tekrarlayan kolanjit atakları",
+      "b": "Obezite",
+      "c": "Total parenteral beslenme",
+      "d": "Tamoksifen",
+      "e": "Hepatit C enfeksiyonu"
+    },
+    "correct_answer": "c",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 73,
+    "question": "Traube aralığında mat sesi alınması aşağıdaki durumlardan hangisinde görülmez?",
+    "options": {
+      "a": "Sol üst lob pnömonisi",
+      "b": "Splenomegali",
+      "c": "Splenik fleksura kolon tümörleri",
+      "d": "Yaygın asit varlığı",
+      "e": "Sol renomegali"
+    },
+    "correct_answer": "b",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 74,
+    "question": "Midenin bazal elektrik aktivitesi dakikada kaçtır?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4",
+      "e": "5"
+    },
+    "correct_answer": "d",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 75,
+    "question": "Aşağıdaki klinik tablolardan hangisi hepatomegaliye yol açmaz?",
+    "options": {
+      "a": "Konjestif kalp yetmezliği",
+      "b": "Konstrüktif perikardit",
+      "c": "Siroz",
+      "d": "Yağlı karaciğer hastalığı",
+      "e": "Amiloidozis"
+    },
+    "correct_answer": "e",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 76,
+    "question": "Aşağıda sıralanan laksatif ilaçlar arasında hangisi/hangileri esas olarak ozmotik etkisiyle laksasyon oluşturur? (I.Magnezyum sülfat II.Polietilen glikol III.Sodyum dokuzat IV.Sorbitol)",
+    "options": {
+      "a": "II ve III",
+      "b": "Yalnız III",
+      "c": "II ve IV",
+      "d": "I ve IV",
+      "e": "I, II ve IV"
+    },
+    "correct_answer": "c",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 77,
+    "question": "H2-histamin reseptör blokerleri için aşağıda yazılanlardan hangisi yanlıştır?",
+    "options": {
+      "a": "Mide boşalma süresini uzatırlar",
+      "b": "Midenin uyarılmış asit salgısını azaltırlar",
+      "c": "Belirgin sedasyon yapmazlar",
+      "d": "Belirgin kardiyovasküler yan etki oluşturmazlar",
+      "e": "Midenin noktürnal asit salgısını azaltırlar"
+    },
+    "correct_answer": "e",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 78,
+    "question": "Aşağıda sıralanan laksatif ilaçlar arasında hangisi/hangileri esas olarak ozmotik etkiyle laksasyon oluşturur? (I.Kalsiyum polikarbofil II.Polietilen glikol III.Sodyum dokuzat IV.Sorbitol)",
+    "options": {
+      "a": "Yalnız I ve II",
+      "b": "Yalnız II ve IV",
+      "c": "Yalnız I",
+      "d": "Yalnız IV",
+      "e": "Yalnız III"
+    },
+    "correct_answer": "a",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 79,
+    "question": "Omeprazol için aşağıda yazılanlardan hangisi doğrudur?",
+    "options": {
+      "a": "Tedavi edici etkinliği gastroözofajiyel reflüye bağlı ülserlerde duodenal ülsere göre daha yüksektir",
+      "b": "Mide lümeninde aktive olur",
+      "c": "Midenin bazal asit salgısını azaltmaz",
+      "d": "Rebound gastrin salınımına neden olabilir",
+      "e": "Asit salgısını azaltıcı etkisi dozdan bağımsızdır"
+    },
+    "correct_answer": "a",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 80,
+    "question": "Pantoprazol için hangisi doğrudur?",
+    "options": {
+      "a": "Rebound gastrin salınımına neden olmaz",
+      "b": "Bir ön ilaçtır",
+      "c": "Plazma yarı ömrü 48 saattir",
+      "d": "Midede lokal etki gösterir",
+      "e": "Midenin bazal asit salgısını azaltmaz"
+    },
+    "correct_answer": "a",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 81,
+    "question": "Aşağıda sıralanan laksatif ilaçlar arasında hangisi/hangileri esas olarak deterjan etkisiyle laksasyon oluşturur? (I.Magnezyum sülfat II.Karboksimetil sellüloz III.Sodyum dokuzat IV.Sorbitol)",
+    "options": {
+      "a": "II, III, IV",
+      "b": "Yalnız III",
+      "c": "Yalnız II",
+      "d": "Yalnız I",
+      "e": "I ve III"
+    },
+    "correct_answer": "c",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 82,
+    "question": "Hangisinin laksatif etkisi daha uzun sürede ortaya çıkar?",
+    "options": {
+      "a": "Polietilen glikol çözeltisi",
+      "b": "Magnezyum sülfat",
+      "c": "Sorbitol çözeltisi",
+      "d": "Kalsiyum polikarbofil",
+      "e": "Bisakodil"
+    },
+    "correct_answer": "d",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 83,
+    "question": "Aşağıdakilerden hangisi karaciğer hastalığının ilerlemesine ilişkin bir risk faktörü değildir?",
+    "options": {
+      "a": "Alkol bağımlılığı",
+      "b": "Metabolik karaciğer hastalığı",
+      "c": "HBV-DNA(-) olması",
+      "d": "HBeAg(+)",
+      "e": "Ailede karaciğer kanseri öyküsü olması"
+    },
+    "correct_answer": "e",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 84,
+    "question": "Wilson hastalığında hepatositlerde histokimyasal Rodanin boyası ile pozitif boyanan birikim hangisidir?",
+    "options": {
+      "a": "Kollajen",
+      "b": "Keratin",
+      "c": "Safra",
+      "d": "Bakır",
+      "e": "Demir"
+    },
+    "correct_answer": "a",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 85,
+    "question": "Aşağıdaki hastalıklardan hangisi AST düzeyinin daha ön planda yükseldiği karaciğer hastalığıdır?",
+    "options": {
+      "a": "Alkole bağlı karaciğer hastalığı",
+      "b": "Alfa-1 antitripsin eksikliği",
+      "c": "Hemokromatozis",
+      "d": "Otoimmün hepatit",
+      "e": "Wilson hastalığı"
+    },
+    "correct_answer": "b",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 86,
+    "question": "Aşağıdakilerden hangisi akut hepatit B göstergesidir?",
+    "options": {
+      "a": "AntiHBe IgM",
+      "b": "AntiHBc IgG",
+      "c": "AntiHBs IgM",
+      "d": "AntiHBe IgG",
+      "e": "AntiHBc IgM"
+    },
+    "correct_answer": "d",
+    "explanation": null,
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": null
+  },
+  {
+    "id": 87,
+    "question": "Aşağıdaki laboratuar testlerinden hangisi kolestaz için kullanılır?",
+    "options": {
+      "a": "Alkalen fosfataz ve GGT",
+      "b": "ALT ve AST",
+      "c": "Albümin",
+      "d": "ANA",
+      "e": "İndirekt Bilirubin"
+    },
+    "correct_answer": "b",
+    "explanation": "1. Karaciğer Enzimlerinin (ALT, AST, ALP, GGT) Spesifikliği ve Yorumlanması:\nEnzimlerin Spesifikliği: \"Karaciğer testleri için hangisi yanlıştır?\" formatındaki sorularda, AST'nin karaciğere ALT'den daha spesifik olduğu ifadesi sıklıkla yanlış şık olarak verilir. Doğrusu, ALT'nin karaciğer hastalıklarına daha spesifik olmasıdır\n1\nmore_horiz\n.\nALP'nin Kaynağını Doğrulama: Alkalen Fosfataz (ALP) kemik, plasenta ve bağırsakta da sentezlendiği için, ALP yüksekliğinin karaciğer/safra (kolestaz) kaynaklı olduğunu kanıtlamak amacıyla GGT veya 5'-nükleotidaz enzimlerindeki yüksekliğe bakıldığı mutlaka sorgulanır\n1\nmore_horiz\n.\nSentez Fonksiyonları: \"Karaciğerin sentez (üretim) fonksiyonları bozukluğunda en doğru tanı hangisi ile konur?\" şeklinde bir soruda, enzimler (ALT, AST) çeldirici olarak verilir ancak doğru cevap Protrombin Zamanı (PTZ) veya Albümin olmalıdır\n5\n6\n.\n2. Sarılık (Hiperbilirubinemi) Fizyopatolojisi:\nSarılık Sınıflandırması: Sınavlarda \"Hangisi posthepatik sarılık sebebi değildir?\" sorusu çok klasiktir. Seçeneklere pankreas başı kanseri, ampuller adenom, koledokolitiazis gibi direkt atılımı engelleyen nedenler konulur ve yanlış cevap olarak her zaman prehepatik bir neden olan Hemolitik Anemi (veya orak hücreli anemi, sferositoz vb.) istenir\n7\nmore_horiz\n.\nİdrar ve Dışkı Bulguları: Klinik bulgular üzerinden \"Hangisi indirekt hiperbilirubinemide görülmez?\" diye sorulabilir. İndirekt bilirubin suda çözünmediği için idrara geçemez; dolayısıyla idrarda bilirubin bulunması indirekt hiperbilirubinemi için yanlış bir ifadedir\n8\nmore_horiz\n. Ayrıca hepatoselüler veya posthepatik (direkt) sarılıklarda safranın bağırsağa akamaması nedeniyle feçeste sterkobilin azalır ve dışkı açık renkli (akolik) olur\n13\n14\n.\nKlinik Eşik: Kanda Total Bilirubinin klinik olarak ciltte ve skleralarda sarılık yapma eşiğinin 2 mg/dl (2-4 mg/dl) üzerine çıkması olduğu sorulabilir\n15\n16\n.\n3. Otoimmün ve Metabolik Karaciğer Hastalıkları Eşleştirmeleri: Patoloji ve Biyokimya testleri çaprazlanarak tanı eşleştirmeleri istenir:\nWilson Hastalığı: Genç bir hastada nöropsikiyatrik bulgular, düşük seruloplazmin, idrarda artmış bakır atılımı ve karaciğer biyopsisinde Rodanin boyası ile bakır birikimi saptanması şeklinde vaka sorusu gelebilir\n17\n18\n.\nHerediter Hemokromatozis: Deride hiperpigmentasyon, diyabet ve karaciğer biyopsisinde Prusya mavisi boyası ile pozitif boyanan pigment (demir) birikimi sorulur\n19\n20\n.\nOtoimmün Karaciğer Belirteçleri: Primer biliyer kolanjit (PBK) tanısı için Anti-Mitokondriyal Antikor (AMA) pozitifliği\n21\n22\n; Otoimmün Hepatit tanısı için ise Anti-Nükleer Antikor (ANA) ve Anti-Düz Kas Antikoru (ASMA) pozitifliği sorulur\n21\nmore_horiz\n.\n4. Assit ve Organomegali Değerlendirmesi:\nSAAG (Serum-Assit Albümin Gradiyenti): \"SAAG > 1.1'den büyükse ne düşünürsünüz?\" sorusunda cevap portal hipertansiyona işaret eden Siroz veya kalp yetmezliği olmalıdır. Tüberküloz peritonit, periton karsinomatozisi ve biliyer asit gibi durumlarda SAAG < 1.1'dir\n25\nmore_horiz\n.\nMasif Splenomegali ve Hepatomegali: \"Hangisi masif splenomegali nedeni değildir?\" sorusunda sıklıkla KML, Kala-azar, Gaucher hastalığı verilir ve yanlış şık (masif yapmayan) olarak Siroz istenir\n28\n29\n. Aynı şekilde \"Hangisi hepatomegali yapmaz?\" sorusunda Viral hepatitlere bağlı siroz doğru cevap olur çünkü sirotik evrede karaciğer diffüz olarak küçülür\n30\n31\n.",
+    "option_analysis": {},
+    "terms": [],
+    "subtopics": [],
+    "exam_potential": "Modül 5 Gastroenteroloji ve Patoloji çıkmış soruları ile kaynak notları incelendiğinde, \"Karaciğer Fonksiyon Testleri, Kolestaz, Sarılık ve Gastrointestinal Tanı Yöntemleri\" ekseninde sınavlarda sıklıkla karşımıza çıkan ve farklı formatlarda sorulabilecek potansiyel soru tipleri şunlardır:\n1. Karaciğer Enzimlerinin (ALT, AST, ALP, GGT) Spesifikliği ve Yorumlanması:\nEnzimlerin Spesifikliği: \"Karaciğer testleri için hangisi yanlıştır?\" formatındaki sorularda, AST'nin karaciğere ALT'den daha spesifik olduğu ifadesi sıklıkla yanlış şık olarak verilir. Doğrusu, ALT'nin karaciğer hastalıklarına daha spesifik olmasıdır\n1\nmore_horiz\n.\nALP'nin Kaynağını Doğrulama: Alkalen Fosfataz (ALP) kemik, plasenta ve bağırsakta da sentezlendiği için, ALP yüksekliğinin karaciğer/safra (kolestaz) kaynaklı olduğunu kanıtlamak amacıyla GGT veya 5'-nükleotidaz enzimlerindeki yüksekliğe bakıldığı mutlaka sorgulanır\n1\nmore_horiz\n.\nSentez Fonksiyonları: \"Karaciğerin sentez (üretim) fonksiyonları bozukluğunda en doğru tanı hangisi ile konur?\" şeklinde bir soruda, enzimler (ALT, AST) çeldirici olarak verilir ancak doğru cevap Protrombin Zamanı (PTZ) veya Albümin olmalıdır\n5\n6\n.\n2. Sarılık (Hiperbilirubinemi) Fizyopatolojisi:\nSarılık Sınıflandırması: Sınavlarda \"Hangisi posthepatik sarılık sebebi değildir?\" sorusu çok klasiktir. Seçeneklere pankreas başı kanseri, ampuller adenom, koledokolitiazis gibi direkt atılımı engelleyen nedenler konulur ve yanlış cevap olarak her zaman prehepatik bir neden olan Hemolitik Anemi (veya orak hücreli anemi, sferositoz vb.) istenir\n7\nmore_horiz\n.\nİdrar ve Dışkı Bulguları: Klinik bulgular üzerinden \"Hangisi indirekt hiperbilirubinemide görülmez?\" diye sorulabilir. İndirekt bilirubin suda çözünmediği için idrara geçemez; dolayısıyla idrarda bilirubin bulunması indirekt hiperbilirubinemi için yanlış bir ifadedir\n8\nmore_horiz\n. Ayrıca hepatoselüler veya posthepatik (direkt) sarılıklarda safranın bağırsağa akamaması nedeniyle feçeste sterkobilin azalır ve dışkı açık renkli (akolik) olur\n13\n14\n.\nKlinik Eşik: Kanda Total Bilirubinin klinik olarak ciltte ve skleralarda sarılık yapma eşiğinin 2 mg/dl (2-4 mg/dl) üzerine çıkması olduğu sorulabilir\n15\n16\n.\n3. Otoimmün ve Metabolik Karaciğer Hastalıkları Eşleştirmeleri: Patoloji ve Biyokimya testleri çaprazlanarak tanı eşleştirmeleri istenir:\nWilson Hastalığı: Genç bir hastada nöropsikiyatrik bulgular, düşük seruloplazmin, idrarda artmış bakır atılımı ve karaciğer biyopsisinde Rodanin boyası ile bakır birikimi saptanması şeklinde vaka sorusu gelebilir\n17\n18\n.\nHerediter Hemokromatozis: Deride hiperpigmentasyon, diyabet ve karaciğer biyopsisinde Prusya mavisi boyası ile pozitif boyanan pigment (demir) birikimi sorulur\n19\n20\n.\nOtoimmün Karaciğer Belirteçleri: Primer biliyer kolanjit (PBK) tanısı için Anti-Mitokondriyal Antikor (AMA) pozitifliği\n21\n22\n; Otoimmün Hepatit tanısı için ise Anti-Nükleer Antikor (ANA) ve Anti-Düz Kas Antikoru (ASMA) pozitifliği sorulur\n21\nmore_horiz\n.\n4. Assit ve Organomegali Değerlendirmesi:\nSAAG (Serum-Assit Albümin Gradiyenti): \"SAAG > 1.1'den büyükse ne düşünürsünüz?\" sorusunda cevap portal hipertansiyona işaret eden Siroz veya kalp yetmezliği olmalıdır. Tüberküloz peritonit, periton karsinomatozisi ve biliyer asit gibi durumlarda SAAG < 1.1'dir\n25\nmore_horiz\n.\nMasif Splenomegali ve Hepatomegali: \"Hangisi masif splenomegali nedeni değildir?\" sorusunda sıklıkla KML, Kala-azar, Gaucher hastalığı verilir ve yanlış şık (masif yapmayan) olarak Siroz istenir\n28\n29\n. Aynı şekilde \"Hangisi hepatomegali yapmaz?\" sorusunda Viral hepatitlere bağlı siroz doğru cevap olur çünkü sirotik evrede karaciğer diffüz olarak küçülür\n30\n31\n.",
+    "_raw_response": "Modül 5 Gastroenteroloji ve Patoloji çıkmış soruları ile kaynak notları incelendiğinde, \"Karaciğer Fonksiyon Testleri, Kolestaz, Sarılık ve Gastrointestinal Tanı Yöntemleri\" ekseninde sınavlarda sıklıkla karşımıza çıkan ve farklı formatlarda sorulabilecek potansiyel soru tipleri şunlardır:\n1. Karaciğer Enzimlerinin (ALT, AST, ALP, GGT) Spesifikliği ve Yorumlanması:\nEnzimlerin Spesifikliği: \"Karaciğer testleri için hangisi yanlıştır?\" formatındaki sorularda, AST'nin karaciğere ALT'den daha spesifik olduğu ifadesi sıklıkla yanlış şık olarak verilir. Doğrusu, ALT'nin karaciğer hastalıklarına daha spesifik olmasıdır\n1\nmore_horiz\n.\nALP'nin Kaynağını Doğrulama: Alkalen Fosfataz (ALP) kemik, plasenta ve bağırsakta da sentezlendiği için, ALP yüksekliğinin karaciğer/safra (kolestaz) kaynaklı olduğunu kanıtlamak amacıyla GGT veya 5'-nükleotidaz enzimlerindeki yüksekliğe bakıldığı mutlaka sorgulanır\n1\nmore_horiz\n.\nSentez Fonksiyonları: \"Karaciğerin sentez (üretim) fonksiyonları bozukluğunda en doğru tanı hangisi ile konur?\" şeklinde bir soruda, enzimler (ALT, AST) çeldirici olarak verilir ancak doğru cevap Protrombin Zamanı (PTZ) veya Albümin olmalıdır\n5\n6\n.\n2. Sarılık (Hiperbilirubinemi) Fizyopatolojisi:\nSarılık Sınıflandırması: Sınavlarda \"Hangisi posthepatik sarılık sebebi değildir?\" sorusu çok klasiktir. Seçeneklere pankreas başı kanseri, ampuller adenom, koledokolitiazis gibi direkt atılımı engelleyen nedenler konulur ve yanlış cevap olarak her zaman prehepatik bir neden olan Hemolitik Anemi (veya orak hücreli anemi, sferositoz vb.) istenir\n7\nmore_horiz\n.\nİdrar ve Dışkı Bulguları: Klinik bulgular üzerinden \"Hangisi indirekt hiperbilirubinemide görülmez?\" diye sorulabilir. İndirekt bilirubin suda çözünmediği için idrara geçemez; dolayısıyla idrarda bilirubin bulunması indirekt hiperbilirubinemi için yanlış bir ifadedir\n8\nmore_horiz\n. Ayrıca hepatoselüler veya posthepatik (direkt) sarılıklarda safranın bağırsağa akamaması nedeniyle feçeste sterkobilin azalır ve dışkı açık renkli (akolik) olur\n13\n14\n.\nKlinik Eşik: Kanda Total Bilirubinin klinik olarak ciltte ve skleralarda sarılık yapma eşiğinin 2 mg/dl (2-4 mg/dl) üzerine çıkması olduğu sorulabilir\n15\n16\n.\n3. Otoimmün ve Metabolik Karaciğer Hastalıkları Eşleştirmeleri: Patoloji ve Biyokimya testleri çaprazlanarak tanı eşleştirmeleri istenir:\nWilson Hastalığı: Genç bir hastada nöropsikiyatrik bulgular, düşük seruloplazmin, idrarda artmış bakır atılımı ve karaciğer biyopsisinde Rodanin boyası ile bakır birikimi saptanması şeklinde vaka sorusu gelebilir\n17\n18\n.\nHerediter Hemokromatozis: Deride hiperpigmentasyon, diyabet ve karaciğer biyopsisinde Prusya mavisi boyası ile pozitif boyanan pigment (demir) birikimi sorulur\n19\n20\n.\nOtoimmün Karaciğer Belirteçleri: Primer biliyer kolanjit (PBK) tanısı için Anti-Mitokondriyal Antikor (AMA) pozitifliği\n21\n22\n; Otoimmün Hepatit tanısı için ise Anti-Nükleer Antikor (ANA) ve Anti-Düz Kas Antikoru (ASMA) pozitifliği sorulur\n21\nmore_horiz\n.\n4. Assit ve Organomegali Değerlendirmesi:\nSAAG (Serum-Assit Albümin Gradiyenti): \"SAAG > 1.1'den büyükse ne düşünürsünüz?\" sorusunda cevap portal hipertansiyona işaret eden Siroz veya kalp yetmezliği olmalıdır. Tüberküloz peritonit, periton karsinomatozisi ve biliyer asit gibi durumlarda SAAG < 1.1'dir\n25\nmore_horiz\n.\nMasif Splenomegali ve Hepatomegali: \"Hangisi masif splenomegali nedeni değildir?\" sorusunda sıklıkla KML, Kala-azar, Gaucher hastalığı verilir ve yanlış şık (masif yapmayan) olarak Siroz istenir\n28\n29\n. Aynı şekilde \"Hangisi hepatomegali yapmaz?\" sorusunda Viral hepatitlere bağlı siroz doğru cevap olur çünkü sirotik evrede karaciğer diffüz olarak küçülür\n30\n31\n."
+  }
+]

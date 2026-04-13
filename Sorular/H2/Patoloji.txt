@@ -1,0 +1,557 @@
+Harika! Şimdi seninle böbrek patolojisinin ve fizyopatolojisinin hücresel temelini oluşturan, tübül epitel hasarının mekanizmalarını sorgulayan bir soruya bakacağız.
+
+Öncelikle sorumuzu orijinal haliyle yazalım:
+
+**23. Aşağıdakilerden hangisi tübül epitel hasarında görülen fonksiyonel değişiklilerden değildir? (M5-2027-13)**
+a) kaspaz aktivasyonu ile apaptoz
+b) intraselüler kalsiyum düzeyi azalması
+*(Not: Kaynaklarımızda bu sorunun diğer şıkları eksik basılmış olsa da, mevcut şıklar ve komite çözümleri üzerinden sorunun ana fikrini ve doğru cevabını net bir şekilde analiz edebiliyoruz.)*
+
+**Doğru Şık:** **B (intraselüler kalsiyum düzeyi azalması)**.
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru böbrekte iskemi veya nefrotoksik ajanlara bağlı olarak gelişen akut tübüler hasar (akut tübüler nekroz) sırasında hücre içinde gerçekleşen patolojik mekanizmaları sorguluyor. Soru, hücre hasarlanırken hangi yolların aktifleştiğini ve hangi iyon dengelerinin bozulduğunu bilmeni istiyor. Normal bir hücre hasara uğradığında, yaşamını sürdürebilmek için sahip olduğu enerji bağımlı iyon pompaları iflas eder ve iyon dengesi hücresel düzeyde tepetaklak olur.
+
+**Şıkların Açıklaması:**
+*   **a) Kaspaz aktivasyonu ile apaptoz:** Doğrudur. Tübül epitel hasarında (örneğin iskemik veya toksik hasar) sadece nekroz görülmez; aynı zamanda hücreler programlı hücre ölümü olan apoptoza da yönlendirilir. Apoptoz süreci, "kaspaz" adı verilen yıkıcı enzimlerin aktivasyonu ile gerçekleşir.
+*   **b) İntraselüler kalsiyum düzeyi azalması (Yanlıştır ve Doğru Cevaptır):** Hücre hasarında, ATP üretimi durduğunda hücre membranındaki kalsiyum pompaları çalışamaz hale gelir. Bunun sonucunda hücre dışından hücre içine yoğun bir kalsiyum girişi olur. Yani **intraselüler (hücre içi) kalsiyum düzeyi azalmaz, tam tersine artar**. Artan bu kalsiyum, hücreyi parçalayan proteaz, endonükleaz ve fosfolipaz gibi yıkıcı enzimleri aktive ederek hücre ölümüne neden olur.
+
+**Önemli Terimler:**
+*   **Tübül Epitel Hasarı (Akut Tübüler Nekroz - ATN):** Böbrek tübüllerinin iskemi, hipovolemi veya nefrotoksik maddeler nedeniyle hasar görmesi tablosudur. Akut böbrek hasarının en sık görülen intrinsik nedenidir.
+*   **Apoptoz:** İnflamasyon yaratmayan, hücrenin kendi kendini planlı bir şekilde yok ettiği, kaspaz enzim kaskadı ile ilerleyen programlı hücre ölümü.
+*   **İntraselüler Kalsiyum Birikimi:** Geri dönüşümsüz hücre hasarının en temel mekanizmalarından biridir.
+*   **Kaspaz:** Apoptoz sürecinde kritik rol oynayan, hücre içi proteinleri parçalayan enzim ailesidir.
+
+**Bilinmesi Gereken Alt Konular (Akut Tübüler Hasarın Diğer Özellikleri):**
+Sınavlarda fonksiyonel değişiklikler kadar (kalsiyum artışı, ATP düşüşü vb.), **morfolojik ve yapısal değişiklikler** de çok sık sorulur:
+*   **Akut Tübüler Hasarın Morfolojik Bulguları:** Proksimal tübüllerde **fırçamsı kenar (brush border) kaybı**, tübül epitel hücrelerinde lümene dökülme, tübül lümenlerinde nekrotik debri birikimi, tübül epitelinde vakuolizasyon ve apoptoz görülür.
+*   **Nefrotoksik Ajanların Sınıflandırılması:** ATN'ye yol açan toksinler ikiye ayrılır:
+    *   *Ekzojen Toksinler:* Sisplatin, aminoglikozitler, radyokontrast maddeler, asiklovir.
+    *   *Endojen Toksinler:* Rabdomiyoliz sonucu açığa çıkan **miyoglobin**, hemoliz sonucu açığa çıkan **hemoglobin**, tümör lizis sendromunda artan **ürik asit** ve multipl miyelomdaki **hafif zincirler**.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Bu konu Patoloji ve Nefroloji komitelerinin vazgeçilmezidir. Geçmiş yılların sorularına dayanarak şu senaryolarla tekrar karşılaşman çok muhtemeldir:
+1.  **Akut vs Kronik Hasar Ayrımı (Çok Önemli):** "Akut böbrek yetmezliği olan bir hastanın böbrek biyopsisinde akut tübüler hasar bulguları izlenmektedir. Aşağıdakilerden hangisi bu tanı ile uyumlu değildir?" diye sorarlar (M5-2024-4). Şıklara akut bulgular olan *tübül lümenlerinde nekrotik debri, fırçamsı kenar kaybı, vakuolizasyon* konur. Yanlış (uyumsuz) şık olarak daima **"İnterstisyel fibrozis"** veya "Tübüler atrofi" verilir. Çünkü interstisyel fibrozis ve tübüler atrofi *akut* bir bulgu değil, **kronik** böbrek hastalığı (kronik interstisyel nefrit vb.) bulgusudur.
+2.  **Endojen/Ekzojen Toksin Sınıflandırması:** "Aşağıdakilerden hangisi ekzojen kaynaklı nefrotoksik ATN etkeni değildir?" diye sorarlar (M6-2025-2). Çeldiricilerin (Sisplatin, Asiklovir, Kontrast madde) arasından endojen bir kaynak olan **Miyoglobin** veya **Ürik Asiti** seçmeni isterler.
+3.  **ABH Patern Ayrımı (İdrar Bulguları):** İntrinsik akut böbrek hasarında (ATN), tübüller hasar gördüğü için sodyumu ve suyu geri ememez. "Fraksiyone sodyum atılımı (FENa) <%1 olan hasta için aşağıdakilerden hangisi düşünülemez?" (M5-2023-56) tarzı bir soruda, tübüllerin hasar gördüğü **"Tübülointerstisyel Hastalık / ATN"** şıkkını işaretlemen gerekir çünkü bu hastalıkta tübüller çalışmadığı için sodyum idrara kaçar ve FENa **>%1** (bazen >%2) olur.
+
+**24. Akut böbrek hastalığı tanısı olan hastanın biyopsisinde akuttübüler hasar saptanmıştır. Hangisi bu tanıya uymaz? (M5-2027-18)**
+a) tübüler atrofi
+b) fırçamsı kenar kaybı
+c) tübüler vakualizasyon
+
+*(Not: Kaynağımızda sorunun D ve E şıkları yer almamaktadır ancak mevcut şıklar üzerinden sorunun ana fikrini ve doğru cevabını net bir şekilde analiz edebiliyoruz.)*
+
+**Doğru Şık:** **A (tübüler atrofi)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, böbrek patolojisi komitesinde hocaların en çok sevdiği soru tiplerinden biri "akut hasar" ile "kronik hasar" bulgularını birbirinden ayırt etmeni beklemektir. Akut tübüler hasar (veya akut tübüler nekroz - ATN), böbreğe giden kan akımının azalması (iskemi) veya böbreğe zarar veren toksik maddeler nedeniyle tübül epitelinin aniden hasar görmesidir. Hücreler aniden iskemik veya toksik bir şoka maruz kaldığında şişer, yapıları bozulur ve dökülürler. Ancak **"atrofi" (küçülme, körelme) ve "fibrozis" (skar dokusu, bağ dokusu artışı) aniden gelişen olaylar değildir; bunlar aylar veya yıllar süren kronik bir sürecin (kronik böbrek hastalığının) sonuçlarıdır**. Soru bizden "akut" hasara uymayan bulguyu istediği için cevap açıkça kronik bir bulgu olan "tübüler atrofi" olmalıdır.
+
+**Şıkların Açıklaması:**
+*   **a) Tübüler atrofi (Yanlıştır ve Doğru Cevaptır):** Tübüler epitelin atrofisi, kronik böbrek hastalığının ve kronik interstisyel nefritin ileri evrelerinde görülen **kronik** bir bulgudur. Akut bir hasar olan ATN'de atrofi beklenmez.
+*   **b) Fırçamsı kenar kaybı (Doğrudur):** Proksimal tübül hücrelerinin lümene bakan yüzeylerindeki fırçamsı kenar (brush border/silya) yapısının kaybı, iskemik veya toksik akut hasarın mikroskobik düzeydeki en erken ve en tipik belirtilerindendir. 
+*   **c) Tübüler vakuolizasyon (Doğrudur):** Akut hasar sırasında, özellikle hücre içi organellerin (örneğin endoplazmik retikulum) şişmesine bağlı olarak tübül epitelinde vakuolizasyon (boşluklanma) görülmesi akut tübüler hasarla tamamen uyumlu bir bulgudur.
+
+**Önemli Terimler:**
+*   **Akut Tübüler Hasar/Nekroz (ATN):** İskemi veya nefrotoksik ajanların yol açtığı, böbrek tübül epitel hücrelerinin zedelenmesi veya ölümü ile karakterize, akut böbrek yetmezliğinin en sık görülen intrensek nedenidir.
+*   **Tübüler Atrofi:** Tübül hücrelerinin yapısal olarak büzüşmesi, işlevini ve hacmini yitirmesidir. Kronikliğe işaret eder.
+*   **Fırçamsı Kenar (Brush Border):** Emilim (reabsorpsiyon) yüzey alanını artırmak için proksimal tübül hücrelerinin tepe (apikal) kısımlarında bulunan mikrovillus yapılarıdır. Hasara çok duyarlıdırlar.
+
+**Bilinmesi Gereken Alt Konular (Akut Tübüler Hasarın Diğer Morfolojik Bulguları):**
+Akut tübüler hasar teşhisi koyarken biyopside sadece vakuolizasyon veya fırçamsı kenar kaybı aramayız. Ayrıca şu yapısal değişiklikleri de çok net bir şekilde görürüz:
+*   Tübüllerin arası açılır ve interstisyum **ödemlenir**.
+*   Tübül epitelleri atenüe olur (incelir).
+*   Tübül lümeni dilate olur (genişler) ve hasar gören/ölen epitel hücreleri lümene dökülerek **"nekrotik debri"** (hücresel döküntü) veya aselüler castlar oluşturur.
+*   Ancak dikkat etmen gereken çok önemli bir detay var: Akut tübüler nekrozda interstisyumda ödem ve az miktarda inflamatuvar hücre bulunsa da **belirgin bir inflamasyon (iltihap) YOKTUR**. Eğer belirgin bir inflamasyon olsaydı buna ATN değil, Akut İnterstisyel Nefrit derdik.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Böbrek patolojisi rotasyonunda bu konseptten farklı şekillerde soru gelme ihtimali çok yüksektir. Şunlara dikkat etmelisin:
+1.  **Kronik Bulguların Çeldirici Olarak Kullanılması:** Bu sorunun birebir bir varyasyonu daha önce çıkmış (M5-2024-4). "Akut böbrek yetmezliği olan hastanın böbrek biyopsisinde akut tubüler hasar bulguları izlenmektedir. Hangi histolojik değişiklik bu tanı ile uyumlu değildir?" şeklinde sorulmuş ve cevap olarak yine kronik bir bulgu olan **"İnterstisyel fibrozis"** istenmiştir. Sınavda şıklarda "Tübüler atrofi" veya "İnterstisyel fibrozis" görürsen bunların kronik hasar olduğunu hemen hatırlamalısın.
+2.  **Endojen ve Ekzojen Toksin Ayrımı:** ATN'nin nedenlerini sorabilirler. "Aşağıdakilerden hangisi endojen kaynaklı nefrotoksik ATN etkeni değildir?" (Cevap: Sisplatin). Veya "Aşağıdakilerden hangisi ekzojen kaynaklı nefrotoksik ATN etkeni değildir?" (Cevap: Miyoglobin). Rabdomiyoliz sonucu açığa çıkan miyoglobin, hemoliz sonucu çıkan hemoglobin ve tümör lizis sonucu çıkan ürik asitin **endojen** toksinler olduğunu mutlaka bilmelisin.
+
+**25. 50 yaş kadın hasta 3 cm insidental tümör var böbreğinde, tümör sınırları düzgün. Kesit yüzü ten rengi solid, santral skar içeriyor, geniş eozonofilik sitoplazmalı uniform hücre var tanı nedir? (M5-2027-73)**
+a) Papiller hücreli karsinoma
+b) Şeffaf hücreli karsinoma
+c) Renal onkositoma
+d) Renal anjiyomiyolipoma
+e) Kromofob hücreli karsinom
+
+**Doğru Şık:** **C (Renal onkositoma)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru böbrek tümörlerinin makroskobik ve mikroskobik özelliklerini tanımlayarak tanıya gitmemizi isteyen oldukça klasik ve güzel bir patoloji sorusudur. Sorudaki "sınırları düzgün, ten rengi (maun rengi) solid, **santral skar (merkezi yıldızsı nedbe)**" makroskobik bulguları ile mikroskobideki "**geniş eozinofilik sitoplazmalı uniform hücreler**" böbreğin benign (iyi huylu) bir epiteliyal tümörü olan **Renal Onkositoma** için patognomonik (çok tipik) özelliklerdir. Hücrelerdeki bu geniş eozinofilik sitoplazmanın nedeni, sitoplazmanın mitokondriler ile tamamen dolu olmasıdır. 
+
+**Şıkların Açıklaması:**
+*   **a) Papiller hücreli karsinoma:** Yanlıştır. Papiller RCC'ler distal tübüllerden köken alır. Multifokalite ve bilateralite oranı en yüksek olan karsinom tipidir. Trizomi 7, 17 ve Y kromozom kaybı veya MET protoonkogen aktivasyonu izlenir. Mikroskobisinde köpüksü histiyositler (foamy histiocytes) görülmesi tipiktir.
+*   **b) Şeffaf hücreli karsinoma (Clear cell RCC):** Yanlıştır. Böbreğin en sık görülen malign tümörüdür. Proksimal tübül epitelinden köken alır. VHL (Von Hippel Lindau) tümör süpresör gen mutasyonu ile ilişkilidir. Makroskobik olarak sarı-turuncu renklidir ve sıklıkla nekroz ile kanama alanları içerir. Mikroskobisinde hücrelerin içi lipid ve glikojenden zengin olduğu için "şeffaf (clear) sitoplazmalı" görünür. Prognozu en kötü olan tiptir.
+*   **c) Renal onkositoma (Doğru Cevap):** Yukarıda da bahsettiğim gibi santral skar izlenen, ten renginde (maun rengi), bol mitokondri içerdiği için geniş eozinofilik sitoplazmalı benign bir tümördür.
+*   **d) Renal anjiyomiyolipoma (AML):** Yanlıştır. Adından da anlaşılabileceği gibi damar (anjiyo), düz kas (miyo) ve yağ (lipo) dokusundan oluşan benign bir mezenkimal tümördür. %50 oranında Tuberoz Skleroz sendromu (TSC1, TSC2 mutasyonları) ile yakından ilişkilidir.
+*   **e) Kromofob hücreli karsinom:** Yanlıştır. Onkositoma ile ayırıcı tanıya giren bir malign tümördür ancak onkositoma'daki gibi belirgin santral skar veya bol mitokondriye bağlı eozinofilik özelliklerden ziyade soluk, floküler sitoplazmalı hücreler, belirgin hücre zarları (bitki hücresi gibi kalın zarlar) ve perinükleer halo (çekirdek etrafında boşluk) ile karakterizedir.
+
+**Önemli Terimler:**
+*   **Santral Skar:** Tümörün merkezinde yer alan, genellikle bağ dokusundan oluşan yıldız şeklindeki skar (nedbe) dokusu. Onkositomanın klasik bulgusudur.
+*   **Eozinofilik Sitoplazma:** Hücre sitoplazmasının asidik boyaları (Eozin) tutarak mikroskopta pembe/kırmızı görünmesi. Onkositomada bu durum sitoplazmanın aşırı mitokondri içermesinden kaynaklanır.
+*   **İnsidental Tümör:** Başka bir nedenle yapılan radyolojik görüntüleme (USG, BT vb.) sırasında tamamen tesadüfen saptanan, herhangi bir şikayete (semptoma) yol açmamış kitle.
+
+**Bilinmesi Gereken Alt Konular:**
+*   **Renal Hücreli Karsinom (RCC) Alt Tipleri ve Genetik Mutasyonlar:** Böbrek tümörleri patolojisinde karsinom alt tiplerinin köken aldığı tübül bölgesini ve genetik altyapısını kesinlikle bilmelisin.
+    *   **Şeffaf hücreli RCC** $\rightarrow$ Proksimal tübül $\rightarrow$ **VHL** geni mutasyonu (Kromozom 3p delesyonu).
+    *   **Papiller RCC** $\rightarrow$ Distal tübül $\rightarrow$ **MET** protoonkogeni, Trizomi 7, 17, Y kaybı.
+    *   **Anjiyomiyolipoma (AML)** $\rightarrow$ **TSC1 ve TSC2** mutasyonları (Tuberoz Skleroz).
+    *   **Wilms Tümörü (Nefroblastoma)** $\rightarrow$ **WT1** geni mutasyonu (Çocukluk çağının en sık primer renal tümörüdür).
+*   **Prognostik Faktörlerin Belirlenmesi:** Renal hücreli karsinomların derecelendirilmesi (grading), WHO/ISUP sistemi ile yapılır ve bu sistemde tümörün **nükleol belirginliği** temel alınır. 
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Böbrek tümörleri patoloji komitesinin her zaman banko soru çıkaran alanlarındandır. Çıkmış sorulara baktığımızda şu tarz senaryolara çok dikkat etmelisin:
+1.  **Genetik Eşleştirme Soruları:** "Aşağıdaki renal hastalık ve mutasyon eşleştirmelerinden hangisi yanlıştır?" şeklinde soru gelmesi oldukça popülerdir (M5-2026-95, M5-2025-26). Şeffaf hücreli RCC $\rightarrow$ VHL, Tuberoz skleroz $\rightarrow$ TSC1/2, Wilms Tümörü $\rightarrow$ WT1 eşleştirmelerini bir kenara not etmelisin.
+2.  **Şeffaf Hücreli RCC Vaka Sorusu:** Tıpkı onkositomanın sorulduğu gibi malign bir vaka da sorulabilir. "Böbrekte sarı-turuncu renkli, nekroz ve kanama alanları içeren, mikroskobisinde lipitten zengin şeffaf sitoplazmalı hücreler olan tümörün en olası kökeni nedir?" (Cevap: **Proksimal epitel**) veya "ilişkili olduğu gen mutasyonu nedir?" (Cevap: **VHL gen mutasyonu**).
+3.  **WHO/ISUP Derecelendirmesi Sorusu:** "Renal hücreli karsinomaların derecelendirmesinde kullanılan WHO/ISUP sisteminde tümöre ait hangi özellik temel olarak değerlendirilmektedir?" (M5-2025-35). Cevabın **Nükleol belirginliği** olmalıdır.
+
+**26. Aşağıdakilerden hangileri iskemiye bağlı akuttübüler hasar/akuttübüler nekroz ile uyumlu yapısal değişikliklerdendir? (M5-2026-24)**
+I. İnterstisyel fibrozis
+II. Proksimal tübüllerde fırçamsı kenar kaybı
+III. Tübül epitel hücrelerinde lümene dökülme
+IV. Tübül epitel hücrelerinde apopitoz
+V. Tübüler atrofi
+
+a) II,III, V
+b) I,V
+c) I,II,V
+d) I,IV
+e) II,III,IV
+
+**Doğru Şık:** **E (II, III, IV)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, böbrek patolojisi rotasyonunda karşına çıkabilecek en temel konseptlerden biri "akut" ve "kronik" hasar bulgularını birbirinden hücresel ve dokusal düzeyde ayırt edebilmektir. Böbreğin tübül hücreleri, iskemik (kanlanma azlığı) veya toksik bir atağa maruz kaldığında hızlıca reaksiyon verir. Meydana gelen bu akut tübüler hasar (ATN), intrinsik akut böbrek yetmezliğinin en sık nedenidir. Soru, böbrek biyopsisinde gördüğümüz anlık/akut değişiklikler ile aylar-yıllar içinde yerleşen kronik (kalıcı) değişiklikleri ayıklamamızı bekliyor.
+
+**Şıkların (Öncüllerin) Açıklaması:**
+*   **I. İnterstisyel fibrozis (Yanlıştır):** Fibrozis, yani dokular arasında skar (nedbe/bağ dokusu) birikimi, bir gecede veya birkaç günde oluşmaz. Kronik tübülointerstisyel nefrit veya kronik böbrek hastalığının ileri evrelerinde görülen **kronik** bir bulgudur. Akut tübüler hasarda interstisyumda sadece "ödem" görülür, fibrozis görülmez.
+*   **II. Proksimal tübüllerde fırçamsı kenar kaybı (Doğrudur):** Proksimal tübül hücrelerinin apikal (lümene bakan) yüzeylerindeki fırçamsı kenar (brush border) mikrovillusları hasara çok duyarlıdır. İskemi anında hücrenin maruz kaldığı ilk yapısal bozulmalardan biri bu yapıların kaybıdır.
+*   **III. Tübül epitel hücrelerinde lümene dökülme (Doğrudur):** Hasar gören, şişen ve canlılığını yitiren epitel hücreleri bazal membrandan koparak tübül lümenine dökülür. Biz patologlar buna mikroskopta lümeni tıkayan **nekrotik debri** (hücresel döküntü) deriz. 
+*   **IV. Tübül epitel hücrelerinde apopitoz (Doğrudur):** Akut tübüler hasarda hücre ölümü sadece "nekroz" yoluyla olmaz. Kaspaz kaskadının aktivasyonu ile programlı hücre ölümü olan **apoptoz** da tabloya eşlik eder.
+*   **V. Tübüler atrofi (Yanlıştır):** Atrofi, dokunun beslenememe veya kullanılmama sonucu küçülmesi, büzüşmesi olayıdır. Tıpkı interstisyel fibrozis gibi **kronik** bir hasar bulgusudur. Akut atakta hücreler atrofiye gitmez; aksine önce şişer, vakuolleşir ve dökülürler.
+
+**Önemli Terimler:**
+*   **Akut Tübüler Nekroz (ATN):** Böbrek kan akımının azalması (iskemi) veya nefrotoksik ilaçlar/maddeler nedeniyle tübül epitelinin aniden nekroza ve apoptoza gitmesidir.
+*   **İnterstisyel Fibrozis ve Tübüler Atrofi (IFTA):** Patoloji raporlarında sıklıkla yan yana göreceğin, böbrekte geri dönüşümsüz kronik hasarın ve skarlaşmanın en temel göstergeleridir.
+*   **Fırçamsı Kenar (Brush border):** Emilim yüzey alanını maksimize eden, proksimal tübül yüzeyindeki mikrovillus yapıları.
+
+**Bilinmesi Gereken Alt Konular (ATN'nin Diğer Özellikleri):**
+Sınavlarda her zaman sadece "ne döküldü, ne koptu" diye sorulmaz. Şu akut bulgulara da çok dikkat etmelisin:
+*   **Tübüler Vakuolizasyon:** Akut hasarda hücre organelleri şiştiği için tübül epitellerinde vakuoller (boşluklanmalar) görülür.
+*   **Belirgin İnflamasyon YOKTUR:** Çok kritik bir ipucu! Akut tübüler nekrozda interstisyum ödemlidir ancak **belirgin bir inflamasyon (iltihabi hücre göçü) YOKTUR**. Eğer belirgin inflamasyon ve eozinofil olsaydı, buna ATN değil Akut İnterstisyel Nefrit derdik.
+*   **ATN Etiyolojisi (İskemi vs. Toksin):** İskemik ATN daha çok kanama, şok, ağır dehidratasyon sonucu gelişirken; toksik ATN etkenleri **Ekzojen** (Aminoglikozitler, sisplatin, asiklovir, radyokontrast maddeler) ve **Endojen** (Rabdomiyolizde miyoglobin, hemolizde hemoglobin, tümör liziste ürik asit) olarak ikiye ayrılır.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Böbrek tübülointerstisyel hastalıklarından komitelerde ve finallerde hocaların asla vazgeçemediği favori soru kalıpları şunlardır:
+1.  **Akut vs. Kronik Çeldiricisi:** Bu konsept farklı formlarda mutlaka karşına çıkar. Örneğin; "Akut böbrek yetmezliği olan hastanın böbrek biyopsisinde akut tubüler hasar bulguları izlenmektedir. Hangi histolojik değişiklik bu tanı ile uyumlu değildir?" (M5-2024-4). Şıklara akut bulguları koyarlar, cevap olarak yine kronik bir bulgu olan **"İnterstisyel fibrozis"i** aramanı isterler.
+2.  **Endojen ve Ekzojen Toksin Ayrımı:** Toksik ATN nedenleri sınavlarda banko sorudur. "Aşağıdakilerden hangisi eksojen kaynaklı nefrotoksik ATN etkeni değildir?" diye sorup şıklara Sisplatin ve Aminoglikozitlerin arasına endojen bir madde olan **Miyoglobin** veya **Ürik asit'i** yerleştirirler.
+3.  **Klinik Yansıması (Laboratuvar):** ATN geliştiğinde tübüller hasar gördüğü için böbrek sodyumu tutamaz. Prerenal yetmezlikte Fraksiyone Sodyum Atılımı (FENa) < %1 iken, ATN tablosunda **FENa > %1 (hatta bazen >%2)** olur. "FENa <%1 olan hastada hangisi düşünülemez?" sorusunun cevabı **Tübülointerstisyel Hastalık (ATN)** olacaktır.
+
+**27. Böbrekte progresif kist gelişimi mekanizmaları ile ilgili aşağıdakilerden hangisi yanlıştır? (M5-2026-72)**
+a) Tübül epitelinde silya yapısındaki proteinler mutasyona uğramıştır.
+b) Sıvı sekresyonu artmıştır.
+c) Anormal hücre - ekstraselüler matriks etkileşimi görülür.
+d) Hücre proliferasyonu artmıştır.
+e) Kalsiyum bağımlı sinyal yolaklarının inhibisyonu gelişir
+
+**Doğru Şık:** **E (Kalsiyum bağımlı sinyal yolaklarının inhibisyonu gelişir)**.
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru böbrek patolojisinde sıkça karşılaştığımız "Polikistik Böbrek Hastalıkları"nın hücresel düzeydeki patogenezini, yani kistlerin nasıl büyüyüp geliştiğini sorgulayan klasik bir mekanizma sorusudur. Böbrek tübüllerindeki epitel hücrelerinin lümene bakan yüzeylerinde, idrar akışını (mekanik uyarıyı) hisseden ve hücre içine sinyal ileten silyalar bulunur. Kistik böbrek hastalıklarında asıl problem bu silyaların yapısındaki proteinlerdeki mutasyonlar sonucu sinyal iletiminin bozulmasıdır. Soru, silya fonksiyonu bozulduktan sonra kistin büyümesine (progresyonuna) yol açan olaylar silsilesindeki yanlış basamağı bulmamızı istemektedir. 
+
+**Şıkların Açıklaması:**
+*   **a) Tübül epitelinde silya yapısındaki proteinler mutasyona uğramıştır:** Doğrudur. Kist gelişimini başlatan temel olay, tübüler silyalardaki mekanosensitif yapıyı sağlayan proteinlerin (örneğin Polisistin 1 veya 2) mutasyona uğramasıdır.
+*   **b) Sıvı sekresyonu artmıştır:** Doğrudur. Kistin boyut olarak büyümesi ve balonlaşması için içine sıvı dolması gerekir. Sinyal yolaklarındaki bozulma, hücrelerden kist lümenine doğru sıvı sekresyonunu artırır.
+*   **c) Anormal hücre - ekstraselüler matriks etkileşimi görülür:** Doğrudur. Progresif kist gelişimi sürecinde hücreler ile etrafındaki bağ dokusu (ekstrasellüler matriks) arasındaki etkileşim anormalleşir ve bu durum kistin büyümesine, interstisyel inflamasyon ile fibrozise zemin hazırlar.
+*   **d) Hücre proliferasyonu artmıştır:** Doğrudur. Kistin duvarını döşeyen epitel hücrelerinin kontrolsüz bir şekilde çoğalması (proliferasyon), kist kesesinin giderek genişlemesini sağlar.
+*   **e) Kalsiyum bağımlı sinyal yolaklarının inhibisyonu gelişir (Yanlıştır ve Sorunun Cevabıdır):** Tübüler silyaların mekanosensitif yapısı bozulduğunda, hücre içine kalsiyum geçişi olur. Bunun sonucunda kalsiyum bağımlı sinyal yolakları **inhibe olmaz, aksine aktive olur**. Bu aktivasyon da hücre proliferasyonu ve sıvı sekresyonu gibi yukarıda saydığımız patolojik kist büyütücü faktörleri tetikler.
+
+**Önemli Terimler:**
+*   **Silya (Mekanosensitif Silya):** Tübül epitel hücrelerinin apikal (lümene bakan) yüzeyinde bulunan, idrar akışının yarattığı mekanik stresi algılayıp hücre içine kimyasal sinyal olarak ileten tüysü uzantılardır.
+*   **Polisistin:** Silyanın yapısında bulunan ve otozomal dominant polikistik böbrek hastalığında mutasyona uğrayan (PKD1 ve PKD2 genleri tarafından kodlanan) protein kompleksidir.
+*   **Proliferasyon:** Hücrelerin bölünerek çoğalması ve sayılarının artması olayıdır.
+*   **Ekstraselüler Matriks (ECM):** Hücrelerin arasını dolduran, onlara yapısal destek sağlayan ve onlarla sürekli etkileşim halinde olan bağ dokusu ağıdır.
+
+**Bilinmesi Gereken Alt Konular (Polikistik Böbrek Hastalığı Tipleri):**
+Bu soru kist mekanizmasını sormuş ancak genetik altyapısını ve kliniğini bilmek zorundasın. Temelde iki majör tipi vardır:
+1.  **Otozomal Dominant Polikistik Böbrek Hastalığı (Erişkin Tip):** En sık görülen genetik hastalıklardan biridir (1/300-1000). Olguların %85'inde **Polisistin 1 (PKD1 geni)**, %15'inde ise Polisistin 2 gen mutasyonu sorumludur. Semptomlar genellikle böbreklerin büyük bir kısmını kistlerin kapladığı 3. veya 4. dekatta (20-40'lı yaşlarda) ortaya çıkar. Hastaların %25'inde **mitral kapak prolapsusu (MVP)** görülür. Ayrıca en korkulan komplikasyonlardan biri olan beyin damarlarındaki anevrizmalarla (Berry anevrizması) ilişkilidir. 
+2.  **Otozomal Resesif Polikistik Böbrek Hastalığı (İnfantil Tip):** Bebeklik çağında görülür ve **PKHD1** gen mutasyonu (fibrocistin proteini) sorumludur. Oldukça nadirdir, bilateral dev böbrekler ve konjenital hepatik fibrozis ile karakterizedir, hastalar genellikle erken yaşta kaybedilir.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Böbrek genetiği ve kistik hastalıklar komitenin favori alanlarındandır. Şunları aklının bir köşesine mutlaka yazmalısın:
+*   **Hastalık - Gen Eşleştirmesi:** Klasik tablo sorusudur. "Erişkin tip polikistik böbrek hastalığı hangi gen mutasyonu ile ilişkilidir?" (Cevap: **Polisistin 1/2**) veya "İnfantil tip polikistik böbrek hastalığı hangi gen ile ilişkilidir?" (Cevap: **PKHD1**) tarzı eşleştirme soruları sıklıkla gelir.
+*   **Otozomal Dominant Polikistik Böbrek Hastalığının Ekstrarenal Bulguları:** Sadece böbreği tutmadığını yoklarlar. Şıklarda **Mitral valv prolapsusu**, karaciğer kistleri veya **Aort anevrizması** (veya beyindeki Berry anevrizması) olup olmadığını sorarlar.
+*   **Klinik Belirtilerin Başlama Yaşı:** Erişkin tip için "Semptomlar doğumdan itibaren başlar" diye çeldirici koyarlar. Semptomların **3. ve 4. dekatta** (30'lu 40'lı yaşlarda) böbrek rezervi azaldığında ortaya çıktığını unutmamalısın.
+
+
+**28. Aşağıdaki renal hastalık ve ilgili mutasyon ikili eşleştirmelerinden hangisi yanlıştır? (M5-2026-95)**
+*(Not: Kaynak belgede sorunun şıkları eksik basılmış olsa da, aynı komitede çıkan birebir aynı sorunun (M5-2026-95) tam şıkları üzerinden soruyu orijinal haliyle buraya aktarıyorum.)*
+a) İnfantil tip polikistik böbrek hastalığı - PKHD1 geni
+b) Renal hücreli karsinoma - Nefrosistin geni
+c) Otozomal dominant polikistik böbrek hastalığı - Polisistin 2 geni
+d) Nefronofitizis - NPHP1 geni
+e) Nefroblastoma - WT1 geni
+
+**Doğru Şık:** **B (Renal hücreli karsinoma - Nefrosistin geni)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, böbrek patolojisi komitelerinde en sık yoklanan ve klinikte de çok işine yarayacak olan "Hastalık - Gen Mutasyonu" eşleştirmelerini test eden klasik bir genetik sorusuyla karşı karşıyayız. Böbrekte kistik hastalıklara veya tümöral gelişimlere yol açan patolojilerin temelinde spesifik gen delesyonları veya mutasyonları yatar. Soru bizden bu hastalıklara ait genetik altyapılardan yanlış eşleştirilmiş olanı bulmamızı istiyor. Böbreğin malign tümörlerinde görülen mutasyonlar ile kistik hastalıkların mutasyonları farklıdır ve bunları birbirine karıştırmamamız beklenmektedir.
+
+**Şıkların Açıklaması:**
+*   **a) İnfantil tip (Otozomal Resesif) polikistik böbrek hastalığı - PKHD1 geni:** Doğrudur. Bebeklik çağında görülen bu nadir hastalık fibrokistin proteinini kodlayan **PKHD1** gen mutasyonu ile karakterizedir.
+*   **b) Renal hücreli karsinoma - Nefrosistin geni (Yanlıştır ve Doğru Cevaptır):** Böbreğin en sık görülen tümörü olan Renal Hücreli Karsinom'da (RCC) nefrosistin mutasyonu görülmez. Şeffaf hücreli (Clear cell) RCC'de **VHL geni**, Papiller RCC'de ise **MET protoonkogeni** mutasyonları görülür. *Nefrosistin* proteini ve ilgili genler (NPHP), nefronofitizis hastalığı ile ilişkilidir. 
+*   **c) Otozomal dominant (Erişkin tip) polikistik böbrek hastalığı - Polisistin 2 geni:** Doğrudur. Erişkin tip polikistik böbrek hastalığı vakalarının çoğundan (%85) Polisistin 1 (PKD1) sorumlu olsa da, geri kalan vakalardan **Polisistin 2 (PKD2)** gen mutasyonu sorumludur.
+*   **d) Nefronofitizis - NPHP1 geni:** Doğrudur. Nefronofitizis, nefrosistin proteinini kodlayan **NPHP1** ve **NPHP11** gibi genlerin mutasyonu ile seyreden, medüller kistlerle karakterize bir böbrek hastalığıdır.
+*   **e) Nefroblastoma (Wilms Tümörü) - WT1 geni:** Doğrudur. Çocukluk çağının en sık görülen primer böbrek tümörü olan Wilms tümörü, **WT1** (Wilms Tumor 1) gen mutasyonu ile doğrudan ilişkilidir.
+
+**Önemli Terimler:**
+*   **Otozomal Dominant Polikistik Böbrek Hastalığı (ADPKD):** Genellikle erişkin yaşta (3. ve 4. dekattan sonra) semptom veren, bilateral dev böbrek kistleri, hipertansiyon, kalp kapak bozuklukları (MVP) ve beyin anevrizmaları ile giden kalıtsal hastalık.
+*   **Renal Hücreli Karsinom (RCC):** Böbrek tübül epitelinden köken alan, erişkinlerde böbreğin en sık görülen primer malignitesi. 
+*   **Nefroblastoma (Wilms Tümörü):** Embriyonel dönemin nefrojenik blasteminden gelişen, çoğunlukla 2-5 yaş arası çocuklarda kitle ile prezente olan malign tümör.
+
+**Bilinmesi Gereken Alt Konular (Diğer Önemli Gen Eşleştirmeleri):**
+Bu soruda şıklarda yer almayan ancak böbrek hastalıkları genetiği söz konusu olduğunda mutlaka bilmen gereken bir diğer kritik eşleştirme şudur:
+*   **Renal Anjiyomiyolipoma (AML):** Damar, düz kas ve yağ dokusundan oluşan bu benign tümör, klinik olarak Tuberoz Skleroz sendromu ile çok yakından ilişkilidir ve **TSC1 ile TSC2** gen mutasyonları sonucunda gelişir.
+
+Ayrıca polikistik böbrek hastalıklarının klinik gidişatlarını ayırmalısın:
+*   **Erişkin tip polikistik böbrek hastalığında** semptomlar genellikle doğuştan değil, kistlerin büyüyerek böbrek parankimini harap etmeye başladığı 30'lu ve 40'lı yaşlarda ortaya çıkar.
+*   Erişkin tip hastalarda mutlaka böbrek dışı bulguları aramalısın. En sık sorulanlar **Mitral Valv Prolapsusu (MVP)** ve ölümcül olabilen intrakraniyal **Berry anevrizmalarıdır**.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Böbrek patolojisinde ve genetiğinde hocaların sormaktan asla bıkmadığı soru formatları şunlardır:
+1.  **Tuberoz Skleroz - AML Eşleştirmesi:** Başka bir yılın sorusunda (M5-2025-26) "Renal hücreli karsinoma - TSC1 geni" eşleştirmesini yanlış şık olarak verip doğru cevabı bulmanı istemişlerdir. TSC genlerinin RCC ile değil, **Anjiyomiyolipoma** ile ilişkili olduğunu bilmen mutlaka hayat kurtarır.
+2.  **Otozomal Dominant Polikistik Böbrek (ADPKD) Bulguları:** "Aşağıdakilerden hangisi ADPKD için yanlıştır?" tarzı sorularda şıklara çeldirici olarak "Semptomlar doğumla başlar / 2. dekattan önce görülür" koyarlar. Hastalığın erişkin tip olduğunu ve semptomların **3. veya 4. dekattan sonra (kistler büyüdükçe)** başladığını unutmamalısın.
+3.  **Hücre Tipi ve RCC Genetiği:** "Şeffaf sitoplazmalı hücrelerden oluşan ve böbreğin en sık görülen karsinomu olan tümörde hangi gen mutasyonu izlenir?" (Cevap: **VHL geni**) veya "Çocukluk çağının en sık görülen primer böbrek tümörü ve mutasyonu nedir?" (Cevap: **Wilms Tümörü - WT1 geni**).
+
+**29. Ürotelyal tümörlerin etyopatogenezi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır? (M5-2026-38)**
+a) Gelişmiş ülkelerde gelişmekte olan ülkelere göre daha sıktır.
+b) Kentsel kesimde kırsal kesime göre daha sıktır.
+c) 30 yaş civarı genç erkeklerde sıktır.
+d) Ailesel vakalar nadirdir.
+e) Tütün kullanımı önemli bir etkendir.
+
+**Doğru Şık:** **C (30 yaş civarı genç erkeklerde sıktır)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru ürolojik onkolojinin en temel konularından biri olan ürotelyal (mesane) tümörlerin epidemiyolojisini ve etiyolojik risk faktörlerini test etmektedir. Klinikte bir hasta hematüri (idrarda kan) ile geldiğinde, hastanın yaş, cinsiyet, meslek ve alışkanlık profiline bakarak mesane kanseri riskini öngörebilmemiz gerekir. Soru bizden bu tümörlerin demografik özellikleriyle uyuşmayan, yanlış olan bilgiyi bulmamızı beklemektedir.
+
+**Şıkların Açıklaması:**
+*   **a) Gelişmiş ülkelerde gelişmekte olan ülkelere göre daha sıktır:** Doğrudur. Gelişmiş ülkelerdeki sanayileşme, kimyasal maruziyet ve yaşam tarzı faktörleri nedeniyle ürotelyal tümörlerin insidansı daha yüksektir.
+*   **b) Kentsel kesimde kırsal kesime göre daha sıktır:** Doğrudur. Şehirleşmenin getirdiği endüstriyel karsinojenlere (boya, kauçuk, tekstil sanayii vb.) çevresel maruziyet risk artışına neden olur.
+*   **c) 30 yaş civarı genç erkeklerde sıktır (Yanlıştır ve Doğru Cevaptır):** Ürotelyal tümörler gençlerin değil, **ileri yaşın (50-80 yaş)** hastalığıdır. Erkeklerde kadınlara göre yaklaşık 3 kat daha sık görülür ancak 30'lu yaşlarda beklenen bir tümör tipi değildir. 
+*   **d) Ailesel vakalar nadirdir:** Doğrudur. Ürotelyal karsinomların çok büyük bir kısmı çevresel karsinojenlere bağlı olarak sporadik gelişir, kalıtsal/ailesel sendromlarla ilişkisi oldukça nadirdir.
+*   **e) Tütün kullanımı önemli bir etkendir:** Doğrudur. Sigara (tütün) kullanımı mesane kanseri için bilinen **en güçlü ve en önemli** risk faktörüdür. Sigara dumanındaki karsinojenler böbreklerden süzülüp idrarla atılırken mesane mukozasında (ürotelyum) uzun süre bekler ve mutasyonlara yol açar.
+
+**Önemli Terimler:**
+*   **Ürotelyum (Değişici Epitel):** Böbrek kalikslerinden başlayıp renal pelvis, üreterler ve mesaneyi döşeyen, idrarın toksik etkilerine karşı bariyer oluşturan özel epitel dokusudur.
+*   **Etyopatogenez:** Bir hastalığın nedenleri (etiyoloji) ve dokuda oluşum mekanizmalarının (patogenez) bütünüdür.
+*   **İnsidans:** Belirli bir nüfusta, belirli bir zaman dilimi içinde yeni ortaya çıkan vaka sayısıdır.
+
+**Bilinmesi Gereken Alt Konular (Ürotelyal Tümörlerin Diğer Risk Faktörleri):**
+Mesane kanserlerinin gelişiminde sadece sigara ve yaş faktörü yoktur. Sınavlarda ve klinik pratikte şu karsinojenleri de mutlaka aklında tutmalısın:
+*   **Endüstriyel Karsinojenler:** Arilaminler (2-naftilamin) ve anilin boyalarına maruz kalan tekstil, kauçuk ve boya sanayii işçileri yüksek risk altındadır.
+*   **İlaç ve Radyasyon Maruziyeti:** Ağır ve uzun süreli **siklofosfamid** (bir kemoterapi ajanı) kullanımı ile daha önce pelvik bölgeye alınmış olan **radyoterapi (irradyasyon)** mesane kanseri riskini belirgin şekilde artırır. Uzun süreli analjezik kullanımı da diğer bir risk faktörüdür.
+*   **Schistosoma haematobium İnfeksiyonu:** Mısır ve Sudan gibi ülkelerde endemik olan bu parazit, mesane duvarına yerleşerek kronik inflamasyona yol açar. Bu enfeksiyon zemininde ürotelyal karsinomdan ziyade **skuamöz hücreli karsinoma** gelişme riski çok yüksektir.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Patoloji ve Üroloji komitelerinde "Mesane Tümörleri", hocaların favori başlıklarındandır. İlerleyen sınavlarda şu soruların gelmesini şiddetle bekleyebilirsin:
+1.  **Parazit ve Histolojik Tip Eşleştirmesi:** "Mısır'da yaşayan ve hematüri ile başvuran bir hastanın mesane biyopsisinde Schistosoma haematobium yumurtaları saptanıyor. Bu hastada gelişme riski en yüksek olan tümör tipi hangisidir?" Cevap: **Skuamöz hücreli karsinoma**.
+2.  **İlaca Bağlı Karsinogenez:** "Romatolojik veya onkolojik bir hastalık nedeniyle uzun süre **siklofosfamid** kullanan bir hastada sekonder olarak hangi organın malignitesi beklenir?" Cevap: **Mesane (Ürotelyal karsinom)**.
+3.  **Klinik Prezentasyon (Çok Önemli):** "Ürotelyal tümörlerin en sık görülen ve hastayı hekime getiren ilk semptomu nedir?" Bu soru klasikleşmiştir ve cevabı daima **Ağrısız, pıhtılı makroskobik hematüri** olacaktır. 60 yaşında sigara içen bir hastada ağrısız hematüri varsa, aksi ispat edilene kadar mesane kanseri kabul edilip sistoskopi yapılmalıdır.
+
+**30. Aşağıdaki renal hastalık ve ilgili mutasyon ikili eşleştirmelerinden hangisi yanlıştır? (M5-2025-26)**
+a) Erişkin tip polikistik böbrek hastalığı - polisistin 1
+b) İnfantil tip polikistik böbrek hastalığı – PKHD 1 geni
+c) Nefronofitizis – NPHP 1 geni
+d) Nefroblastoma - WT 1 geni
+e) Renal hücreli karsinoma - TSC1 geni
+
+**Doğru Şık:** **E (Renal hücreli karsinoma - TSC1 geni)**.
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, böbrek patolojisi ve genetiği entegrasyonu, komite sınavlarının temel direklerinden biridir. Böbrekte gördüğümüz kistik hastalıklara veya tümöral gelişimlere yol açan hastalıkların temelinde spesifik gen delesyonları veya mutasyonları yatar. Bu soru, böbreğin iyi huylu/kötü huylu tümörleri ile kistik hastalıklarına ait majör genetik eşleştirmelerden hangisinin yanlış kurgulandığını bulmamızı istiyor. 
+
+**Şıkların Açıklaması:**
+*   **a) Erişkin tip polikistik böbrek hastalığı - polisistin 1:** Doğrudur. Otozomal dominant kalıtılan (erişkin tip) polikistik böbrek hastalığı olgularının büyük çoğunluğundan (%85) **Polisistin 1 (PKD1)** geni, geri kalanından ise Polisistin 2 (PKD2) geni sorumludur.
+*   **b) İnfantil tip polikistik böbrek hastalığı – PKHD 1 geni:** Doğrudur. Otozomal resesif kalıtılan ve bebeklik çağında kendini gösteren infantil tip polikistik böbrek hastalığı, fibrokistin proteinini kodlayan **PKHD1** genindeki mutasyonlarla ortaya çıkar.
+*   **c) Nefronofitizis – NPHP 1 geni:** Doğru. Nefronofitizis, medüller yerleşimli kistlerle seyreden bir hastalıktır ve nefrosistin proteinini kodlayan **NPHP1** ve NPHP11 gen mutasyonları ile ilişkilidir.
+*   **d) Nefroblastoma - WT 1 geni:** Doğrudur. Wilms Tümörü (Nefroblastoma) olarak da bilinen, çocukluk çağının en sık görülen primer böbrek tümöründen 11. kromozomda bulunan tümör süpresör geni **WT1 (Wilms Tumor 1)** sorumludur.
+*   **e) Renal hücreli karsinoma - TSC1 geni (Yanlıştır ve Doğru Cevaptır):** Renal hücreli karsinomun (RCC) şeffaf hücreli tipinde (Clear cell RCC) **VHL geni**, papiller tipinde ise **MET protoonkogeni** mutasyonları görülür. Şıkta verilen **TSC1 (ve TSC2)** genleri ise Tuberoz Skleroz sendromuna aittir ve böbrekte malign bir karsinom değil, benign bir mezenkimal tümör olan **Renal Anjiyomiyolipoma (AML)** gelişimine neden olurlar.
+
+**Önemli Terimler:**
+*   **Renal Hücreli Karsinoma (RCC):** Böbrek tübül epitelinden köken alan, erişkin dönemde böbreğin en sık görülen primer malign (kötü huylu) tümörüdür.
+*   **Nefroblastoma (Wilms Tümörü):** Embriyonel dönemin nefrojenik metanefrik blasteminden gelişen ve özellikle 2-5 yaş çocuklarda saptanan malign böbrek tümörüdür.
+*   **Otozomal Dominant Polikistik Böbrek Hastalığı (ADPKD):** Kistlerin ancak 3. ve 4. dekattan sonra böbrek rezervini bozacak kadar büyüdüğü, ilerleyici böbrek yetmezliği, hipertansiyon ve ekstrarenal bulgularla (MVP, anevrizma vb.) seyreden genetik tablodur.
+
+**Bilinmesi Gereken Alt Konular (Diğer Genetik ve Klinik Eşleştirmeler):**
+Genetik eşleştirmeler kadar bu hastalıkların ayırıcı klinik tablolarını da bilmen gerekir:
+*   **Renal Anjiyomiyolipoma (AML) ve Tuberoz Skleroz İlişkisi:** Damar, düz kas ve yağ dokusundan oluşan bu benign tümör, klinik olarak Tuberoz Skleroz sendromu ile doğrudan ilişkilidir (%50). Bu yüzden AML saptanan bir hastada TSC1 ve TSC2 mutasyonları araştırılmalı ve hasta sendrom açısından taranmalıdır.
+*   **Otozomal Dominant Polikistik Böbrek (ADPKD) Ekstrarenal Bulguları:** Hastalarda sadece böbrek kistleri görülmez. Olguların %25'inde **mitral kapak prolapsusu (MVP)** saptanır. Karaciğer kistleri ve intrakraniyal **Berry anevrizmaları** (kanamaya yol açabilir) bu hastalığa eşlik edebilecek kritik bulgulardır. Semptomlar sanıldığının aksine doğuştan değil, kistler iyice genişlediğinde yani genellikle **20'li yaşlardan sonra (3. ve 4. dekatta)** başlar.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Böbrek genetiği modül ve final sınavlarında en banko konulardandır. Şu şekillerde tekrar karşına çıkmasını beklemelisin:
+1.  **Şeffaf Hücreli RCC ve Mutasyonu:** "Böbreğin en sık görülen malign tümörü olan ve makroskopik olarak sarı-turuncu, nekrozlu görünüme sahip tümörde hangi genetik anomali görülür?" (Cevap: **VHL gen mutasyonu**).
+2.  **Polikistik Böbrek Hastalığının Klinik Gidişi:** ADPKD üzerinden çok fazla "Hangisi yanlıştır?" sorusu türetilir. Yanlış şık olarak daima "Semptomlar doğumla/ilk dekatla başlar" veya "Sık görülen ekstrarenal bir bulgusu yoktur" derler. Semptomların **ileri yaşta başladığını** ve **MVP/anevrizma** yapabileceğini unutmamalısın.
+3.  **Tuberoz Skleroz - AML Eşleştirmesi:** Patoloji vaka sorularında "Geniş eozinofilik sitoplazmalı, damar, düz kas ve yağdan oluşan kitle" tanımını verip "Bu hastada hangi gen mutasyonu beklenir?" diye sorarlar. Cevabın **TSC1 / TSC2** olmalıdır.
+
+**31. Renal hücreli karsinomaların (RCC) derecelendirmesinde kullanılan WHO/ISUP sisteminde tümöre ait hangi özellik temel olarak değerlendirilmektedir? (M5-2025-35)**,
+a) Nükleol belirginliği
+b) Mitotik aktivite
+c) Nükleus/sitoplazma oranı
+d) Nükleus büyüklüğü
+e) Nekroz oranı
+
+**Doğru Şık:** **A (Nükleol belirginliği)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru ürolojik patoloji komitelerinde sıkça karşımıza çıkan, böbrek tümörlerinin mikroskobik derecelendirilmesi (grading) ile ilgili güncel ve çok temel bir bilgiyi test etmektedir. Böbreğin en sık görülen malignitesi olan Renal Hücreli Karsinom'da (RCC) tümörün ne kadar agresif seyredeceğini öngörmek için uluslararası bir derecelendirme sistemi kullanılır. Eskiden "Fuhrman" sistemi kullanılıyorken, 2016 yılında Dünya Sağlık Örgütü (WHO) ve Uluslararası Ürolojik Patoloji Derneği (ISUP) bunun yerine yeni bir sistem önermiştir. Soru bizden bu yeni 4 basamaklı WHO/ISUP sisteminin merkeze aldığı hücresel kriteri bilmemizi istiyor.
+
+**Şıkların Açıklaması:**
+*   **a) Nükleol belirginliği (Doğru Cevap):** WHO/ISUP derecelendirme sisteminde tümör hücreleri değerlendirilirken primer (temel) olarak **nükleol belirginliği** (çekirdekçiğin mikroskop altındaki büyüklüğü ve görünürlüğü) baz alınır,. Hücrelerin nükleolleri ne kadar belirginleşmiş ve büyümüşse, tümörün derecesi (grade'i) o kadar yükselir.
+*   **b, c, d, e şıkları:** Mitotik aktivite, nükleus/sitoplazma (N/C) oranı artışı, nükleus büyüklüğü ve tümör nekrozu genel olarak kanserlerin agresifliğini ve prognozunu belirleyen hücresel/dokusal özellikler olsalar da, RCC'ye özel WHO/ISUP sisteminin *temel* belirleyicisi değildirler. Elbette nüklear pleomorfizm ve sarkomatoid/rabdoid diferansiyasyon gibi ileri nüklear özellikler de sistemi destekler (bunların varlığı tümörü direkt yüksek dereceye, yani Grade 4'e atar) ancak 1'den 4'e temel sıralama nükleol üzerinden yapılır.
+
+**Önemli Terimler:**
+*   **Renal Hücreli Karsinom (RCC):** Böbrek tübül epitelinden köken alan, erişkinlerde böbreğin en sık görülen primer malign (kötü huylu) tümörüdür.
+*   **WHO/ISUP Sistemi:** Renal hücreli karsinomaların (özellikle Şeffaf Hücreli ve Papiller tiplerin) patolojik derecelendirmesi için Fuhrman sisteminin yerini alan güncel standarttır.
+*   **Nükleol (Çekirdekçik):** Hücre çekirdeği içinde bulunan ve ribozom sentezinden sorumlu olan yapıdır. Tümör hücreleri kontrolsüz çoğalırken protein sentez hızları arttığı için nükleolleri belirginleşir ve büyür.
+
+**Bilinmesi Gereken Alt Konular (RCC Tipleri ve Patogenezi):**
+RCC sadece derecelendirmesiyle değil, alt tiplerinin köken aldığı yerler ve genetik mutasyonlarıyla da çok sık sorulur. Bunları kesinlikle birbirine karıştırmamalısın:
+1.  **Şeffaf Hücreli (Clear Cell) Karsinoma:** Böbreğin en sık görülen malign tümörüdür. **Proksimal tübül** epitelinden köken alır. **VHL (Von Hippel Lindau)** tümör süpresör gen mutasyonu ile ilişkilidir,. Makroskobik olarak sarı-turuncu renklidir ve sıklıkla nekroz/kanama alanları içerir.
+2.  **Papiller Hücreli Karsinoma:** **Distal tübüllerden** köken alır. Bilateral (iki taraflı) ve multifokal olma oranı en yüksek karsinomdur. **MET protoonkogen** aktivasyonu ve Trizomi 7, 17, Y kromozom kaybı görülür,. Mikroskobisinde "köpüksü histiyositler" görülmesi tipiktir.
+3.  **Kromofob RCC ve Onkositoma:** İkisi de toplayıcı kanallardaki interkale hücrelerden köken alır. Onkositoma benign (iyi huylu) bir tümörken, Kromofob RCC maligndir ancak prognozu (gidişatı) çok iyidir.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Böbrek tümörleri patolojisi komitelerin favorisidir. Şu sorularla karşılaşman çok olasıdır:
+1.  **RCC Genetik Mutasyon Eşleştirmesi:** Geçmiş yıllarda olduğu gibi (M5-2025-26, M5-2026-95), hastalık-gen eşleştirmesi sorarlar. **"Şeffaf hücreli RCC $\rightarrow$ VHL geni"** ve **"Papiller RCC $\rightarrow$ MET geni"** eşleştirmelerini kesinlikle ezberlemelisin,. (Tuzak olarak RCC'yi TSC1/2 genleriyle eşleştirirler; oysa TSC1/2 geni Tuberoz Skleroz ve Renal Anjiyomiyolipom ile ilişkilidir).
+2.  **Tümörün Köken Aldığı Yer:** "Şeffaf hücreli RCC nefronun hangi kısmından köken alır?" şeklinde anatomik köken sorulabilir. Cevap: **Proksimal tübül**.
+3.  **Çocukluk Çağı Böbrek Tümörü:** Yetişkinlerde RCC en sıkken, çocuklarda (özellikle 2-5 yaş arası) en sık görülen böbrek malignitesi sorulursa cevap **Wilms Tümörü (Nefroblastoma)** ve bunun mutasyonu da **WT1 geni** olmalıdır,.
+
+**32. Akut böbrek yetmezliği olan hastanın böbrek biyopsisinde akut tubüler hasar bulguları izlenmektedir. Aşağıdaki histolojik değişikliklerden hangisi bu tanı ile uyumlu değildir? (M5-2024-4)**
+a) İnterstisyel fibrozis
+b) Tubül lümenlerinde nekrotik debri
+c) Tubül bazal membranlarında hasarlanma
+d) Tubül epitelinde vakuolizasyon
+e) İnterstisyel ödem
+
+**Doğru Şık:** **A (İnterstisyel fibrozis)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru böbrek patolojisinde "akut" ve "kronik" hasar bulgularını doku düzeyinde birbirinden ayırmamızı bekleyen oldukça temel ve önemli bir sorudur. Akut böbrek yetmezliği, aniden (saatler veya günler içinde) gelişen bir tablodur ve böbrek dokusunda buna uygun, ani gelişen reaksiyonlar (ödem, hücre dökülmesi, şişme vb.) görülür. Fibrozis (bağ dokusu artışı, skarlaşma) ise bir gecede oluşmaz; aylar veya yıllar içinde gelişen kronik bir sürecin (örneğin kronik interstisyel nefrit) sonucudur. Bu nedenle akut gelişen bir hasarda fibrozis görmeyi beklemeyiz.
+
+**Şıkların Açıklaması:**
+*   **a) İnterstisyel fibrozis (Yanlıştır ve Doğru Cevaptır):** Kronik interstisyel nefritin veya kronik böbrek hastalığının ileri evrelerinde görülen **kronik** bir bulgudur. Akut tübüler hasarda interstisyel alanda skar (fibrozis) değil, sıvı birikimi (ödem) olur.
+*   **b) Tubül lümenlerinde nekrotik debri (Doğrudur):** Akut tübüler nekrozda tübül epitel hücreleri iskemik veya toksik şokla hasar görerek bazal membrandan kopar, lümene dökülür ve nekrotik debris (hücresel döküntü) oluşturur.
+*   **c) Tubül bazal membranlarında hasarlanma (Doğrudur):** Özellikle iskemiye bağlı akut tübüler hasarda, tübüllerin bazal membranı zedelenebilir ve yer yer yırtılabilir (buna tübülorheksis denir). 
+*   **d) Tubül epitelinde vakuolizasyon (Doğrudur):** Akut iskemik veya toksik hasarda, hücre içi organellerin (örneğin endoplazmik retikulumun) şişmesine bağlı olarak epitel sitoplazmasında vakuoller (boşluklanmalar) izlenmesi akut hasarın erken ve tipik bulgusudur.
+*   **e) İnterstisyel ödem (Doğrudur):** Akut hasar sırasında tübüllerin arası (interstisyum) sıvı ile dolarak ödemlenir. 
+
+**Önemli Terimler:**
+*   **Akut Tübüler Nekroz/Hasar (ATN):** Böbreğin kanlanmasının bozulması (iskemi) veya nefrotoksik ilaç/maddelerin etkisiyle tübül epitel hücrelerinin aniden nekroza gittiği, intrensek akut böbrek yetmezliğinin en sık nedenidir.
+*   **İnterstisyel Fibrozis:** Böbrek interstisyumunda (tübüller arası destek dokusu) kolajen ve bağ dokusu birikimiyle oluşan, böbrek fonksiyonlarının kalıcı olarak kaybedildiğini gösteren kronik skarlaşmadır.
+*   **Nekrotik Debri:** Hasar görüp ölen hücrelerin lümene dökülmesiyle oluşan şekilsiz, hücresel yıkıntı yığınlarıdır.
+
+**Bilinmesi Gereken Alt Konular (Akut Tübüler Hasarın Özellikleri):**
+Sınavlarda sıklıkla akut vs kronik ayrımı sorulur. Akut tübüler hasarın diğer mikroskobik bulgularını da iyi bilmelisin:
+*   **Fırçamsı kenar (brush border) kaybı:** Proksimal tübül hücrelerinin lümene bakan yüzeylerindeki silya yapıları hasara (özellikle iskemiye) çok duyarlıdır ve mikroskopta ilk kaybolan yapılardandır.
+*   **Tübüler Atrofi:** Tıpkı interstisyel fibrozis gibi **kronik** bir hasar bulgusudur. Atrofi (büzüşme, körelme) akut hasarda izlenmez; akut hasarda hücreler aksine şişer ve dökülür.
+*   **İnflamasyonun Olmaması (Çok Önemli Çeldirici):** Akut tübüler nekrozda (ATN) interstisyumda ödem vardır ancak **belirgin bir inflamatuvar hücre (lökosit vb.) göçü yoktur**. Eğer belirgin bir iltihabi hücre infiltrasyonu ve eozinofil olsaydı, buna ATN değil Akut İnterstisyel Nefrit derdik. 
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Böbrek patolojisi komitelerinde hocalar "akut ve kronik" bulguları birbirine karıştırmayı çok severler. Şunları aklının bir köşesine mutlaka yazmalısın:
+1.  **Kronik Bulguların Çeldirici Olarak Kullanılması:** Bu sorunun kendisi veya varyasyonları sıkça gelir. "Aşağıdakilerden hangisi akut tübüler hasarla uyumlu değildir?" sorusunun şıklarında mutlaka kronik bir bulgu olan **"İnterstisyel fibrozis"** veya **"Tübüler atrofi"** aranmalıdır.
+2.  **Akut İlaç Reaksiyonu Ayırıcı Tanısı:** "Böbrek biyopsisinde interstisyumda ödem ile birlikte **belirgin eozinofil ve lenfosit infiltrasyonu** izlenen akut böbrek yetmezliği hastasında en olası tanı nedir?" Cevap: **Akut Tübülointerstisyel Nefrit** olacaktır. (ATN'den farkı iltihap hücrelerinin olmasıdır).
+3.  **Toksinlerin Sınıflandırılması:** ATN'nin nedenlerini sorarlar. Endojen toksinler (miyoglobin, hemoglobin, ürik asit, hafif zincirler) ile ekzojen toksinleri (sisplatin, aminoglikozitler, kontrast maddeler) kesinlikle birbirinden ayırt etmelisin.
+
+**33. Böbrekte progresif kist gelişimi mekanizmaları ile ilgili aşağıdaki ifadelerden hangisi yanlıştır? (M6-2024-31)**
+a) Hücre-ekstraselüler matriks etkileşimi bozulmuştur
+b) Hücre proliferasyonu azalmıştır
+c) Kalsiyum bağımlı sinyal yolakları aktive olmuştur
+d) Tubüler silyaların mekanosensitif yapısı bozulmuştur
+e) Sıvı sekresyonu artmıştır
+
+**Doğru Şık:** **B (Hücre proliferasyonu azalmıştır)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru böbrekte kist oluşumu ile karakterize hastalıkların (özellikle Polikistik Böbrek Hastalıklarının) patogenezini, yani kistlerin nasıl büyüyüp geliştiğini hücresel düzeyde sorgulayan çok temel bir sorudur. Normalde idrar akışını hisseden tübül epitelindeki duyargaların (silyaların) yapısı bozulduğunda, hücre içi sinyal yolakları çığırından çıkar. Bir kistin içi sıvı dolu bir kese şeklinde büyüyebilmesi (progresyon) için duvarındaki hücrelerin çoğalması (proliferasyon) ve lümene sıvı salgılaması gerekir. Soruda bizden bu patolojik zincirde yanlış olan mekanizmayı bulmamız isteniyor. Hücre çoğalması azalmaz, aksine kistin büyümesi için artar.
+
+**Şıkların Açıklaması:**
+*   **a) Hücre-ekstraselüler matriks etkileşimi bozulmuştur:** Doğrudur. Kist gelişim sürecinde epitel hücreleri ile etraflarındaki destek dokusu (ekstrasellüler matriks) arasındaki etkileşim bozulur, bu da kist genişlemesine ve çevre dokuda fibrozise katkıda bulunur.
+*   **b) Hücre proliferasyonu azalmıştır (Yanlıştır ve Doğru Cevaptır):** Böbrek kistlerinin progresif (ilerleyici) olarak büyüyebilmesi için kist duvarını döşeyen epitel hücrelerinin kontrolsüz bir şekilde çoğalması, yani **hücre proliferasyonunun artması** gerekir. 
+*   **c) Kalsiyum bağımlı sinyal yolakları aktive olmuştur:** Doğrudur. Mekanosensitif silyaların bozulması sonucunda kalsiyum bağımlı sinyal yolakları hiperaktif hale gelir (aktive olur). Bu hiperaktivite, sıvı sekresyonunu ve hücre çoğalmasını tetikleyen ana faktörlerdendir.
+*   **d) Tubüler silyaların mekanosensitif yapısı bozulmuştur:** Doğrudur. Patogenezin temel başlangıç noktası budur. İdrar akışının yarattığı mekanik stresi algılayan silyaların (duyargaların) yapısı mutasyonlar sonucu bozulur.
+*   **e) Sıvı sekresyonu artmıştır:** Doğrudur. Kistin balon gibi şişebilmesi için epitel hücreleri tarafından kist lümenine doğru artmış bir sıvı sekresyonu (salınımı) olması şarttır.
+
+**Önemli Terimler:**
+*   **Progresif Kist Gelişimi:** Kistlerin zaman içinde giderek büyümesi ve çevre sağlam böbrek dokusuna bası yaparak böbrek fonksiyonlarını bozması süreci.
+*   **Mekanosensitif Silya:** Tübül epitel hücrelerinin lümene bakan (apikal) yüzeyinde bulunan, idrar akışını mekanik olarak algılayıp hücre içine sinyal ileten tüysü yapılar.
+*   **Proliferasyon:** Hücrelerin bölünerek sayılarının artması (çoğalması).
+
+**Bilinmesi Gereken Alt Konular (Kistik Böbrek Hastalıkları ve Genetik):**
+Böbreğin kistik hastalıklarının mekanizmasını bilirken, bunlara yol açan genetik mutasyonları ve klinik tipleri de mutlaka ayırman gerekir:
+*   **Erişkin Tip (Otozomal Dominant) Polikistik Böbrek Hastalığı (ADPKD):** Sıklıkla 3. veya 4. dekatta (20-40'lı yaşlarda) kistlerin büyümesiyle semptom verir. Vakaların %85'inde **Polisistin 1 (PKD1 geni)**, geri kalanında Polisistin 2 (PKD2 geni) mutasyonu vardır. Sadece böbreği tutmaz; hastaların %25'inde **mitral valv prolapsusu** görülür, ayrıca beyinde anevrizmalar (Berry anevrizması) gelişebilir.
+*   **İnfantil Tip (Otozomal Resesif) Polikistik Böbrek Hastalığı:** Bebeklik çağında başlar, bilateral dev böbrekler izlenir. Sorumlu gen **PKHD1** (fibrokistin proteini) mutasyonudur. 
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Böbreğin kistik hastalıkları ve genetiği, hocaların her yıl mutlaka bir veya iki soru ayırdığı popüler bir alandır. Geçmiş çıkmış sorulara (notlarına) dayanarak şu tip soruları beklemelisin:
+1.  **Mekanizmanın Farklı Şekilde Sorulması:** Tıpkı 27. soruda olduğu gibi, mekanizma sorusunun şıklarını değiştirip "Kalsiyum bağımlı sinyal yolaklarının inhibisyonu gelişir" diyerek yanlış şıkkı bulmanı isteyebilirler (Halbuki aktive/hiperaktif olur).
+2.  **Gen-Hastalık Eşleştirmesi:** Sınavda banko bir eşleştirme sorusu gelecektir. "Erişkin tip polikistik böbrek hastalığı $\rightarrow$ Polisistin 1 geni" ve "İnfantil tip $\rightarrow$ PKHD1 geni" eşleştirmelerini asla unutmamalısın.
+3.  **ADPKD Klinik Bulguları:** Erişkin tip hastalığın böbrek dışı (ekstrarenal) bulguları favori sorulardandır. Hastalarda hipertansiyon sıktır, semptomlar doğumda değil ileri yaşlarda ortaya çıkar ve **mitral kapak prolapsusu (MVP)** eşlik edebilir. "Aşağıdakilerden hangisi ADPKD için yanlıştır?" sorusunda "Semptomlar genelde 2. dekattan önce görülür" şıkkı hep çeldirici olarak verilir.
+
+Harika! Mesane ve ürotelyal sistemin nontümöral (tümör dışı) hastalıklarını anlamak için son derece karakteristik bir patoloji sorusu ile devam ediyoruz.
+
+İlk olarak sorumuzu orijinal haliyle yazalım:
+
+**34. Mesane mukozasında sarı plaklar şeklinde prezente olan, fagositik fonksiyon defekti ile ilişkili kronik inflamatuar reaksiyonla karakterli antite aşağıdakilerden hangisidir? (M6-2024-61)**
+a) Interstilyel sistitis
+b) Nefrojenik metaplazi/adenoma
+c) Sistitis glandularis ve sistitis sistika
+d) Malakoplaki
+e) Polipoid sistitis
+
+**Doğru Şık:** **D (Malakoplaki)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru ürogenital sistemin spesifik kronik iltihabi reaksiyonlarını ayırt etmeni bekleyen klasik bir patoloji sorusudur. Vücudumuzda boşluk gösteren organların mukozasında (özellikle de mesanede), bakteriyel enfeksiyonlara (sıklıkla *E. coli*) karşı makrofajların fagositik fonksiyonlarındaki (sindirme yeteneklerindeki) bir defekt sonucu ortaya çıkan tablo "Malakoplaki"dir. Makrofajlar bakterileri yutar ancak sindiremezler. Sindirilemeyen bu bakteri artıkları zamanla birikerek mesane mukozasında gözle görülür, yumuşak, sarımsı ve hafif yüksek plaklar oluşturur.
+
+**Şıkların Açıklaması:**
+*   **a) İnterstisyel sistit:** Yanlıştır. Çoğunlukla kadınlarda görülen, idrar kültürünün negatif olduğu ancak hastanın şiddetli pelvik ağrı ve sık idrara çıkma şikayeti yaşadığı kronik bir tablodur. Mukozada sarı plaklar değil, ileri evrelerinde mukozal çatlaklar ve peteşiyal kanamalar görülür.
+*   **b) Nefrojenik metaplazi/adenoma:** Yanlıştır. Genellikle geçirilmiş bir travma veya cerrahi sonrasında mesane mukozasında böbrek tübüllerine benzer yapıların geliştiği benign (iyi huylu) bir reaksiyoner durumdur.
+*   **c) Sistitis glandularis ve sistitis sistika:** Yanlıştır. Kronik irritasyona bağlı olarak mesane epitelinin (ürotelyumun) altında yer alan "Brunn yuvalarının" kistik dejenerasyona uğraması (sistika) veya glandüler (salgı bezi) metaplazi göstermesi (glandularis) durumudur.
+*   **d) Malakoplaki (Doğru Cevap):** Yukarıda açıkladığım gibi fagositik fonksiyon defektine bağlı gelişen ve sarı plaklarla karakterize kronik inflamatuar hastalıktır.
+*   **e) Polipoid sistitis:** Yanlıştır. Çoğunlukla uzun süre sonda (kateter) takılı kalmasına bağlı gelişen şiddetli submukozal ödemin mukoza yüzeyinde polip benzeri geniş kabarıklıklar oluşturduğu tablodur.
+
+**Önemli Terimler:**
+*   **Malakoplaki:** Yunanca "yumuşak plak" anlamına gelir. Makrofajların lizozomal fonksiyonlarındaki defekt nedeniyle tam sindirilemeyen bakterilerin dokuda birikimiyle giden kronik inflamasyondur.
+*   **Fagositik Fonksiyon Defekti:** Bağışıklık sistemi hücrelerinin (özellikle makrofajların) yabancı mikroorganizmaları yuttuktan sonra onları hücre içinde parçalayıp yok etme mekanizmasındaki yetersizliktir.
+*   **Antite:** Tıpta kendine has özellikleri, bulguları ve sınırları olan spesifik hastalık veya klinik tablo anlamına gelir.
+
+**Bilinmesi Gereken Alt Konular (Mesanenin Diğer Nontümöral Patolojileri):**
+Soruda malakoplakinin makroskopik (sarı plaklar) görünümü ve temel mekanizması verilmiş. Ancak klinikte ve patolojide bu hastalıkları birbirinden ayırmak için mikroskobik düzeydeki şu spesifik (patognomonik) bulguları mutlaka bilmelisin *(Not: Bu bilgiler genel tıp ve patoloji pratiğinin temelidir)*:
+*   **Michaelis-Gutmann Cisimcikleri:** Malakoplaki hastalığının **altın standart mikroskobik bulgusudur.** Sindirilemeyen bakteri artıklarının üzerine kalsiyum ve demir çökmesiyle oluşan, makrofajların içindeki katmanlı (laminasyonlu) mineralize inklüzyonlardır.
+*   **Hunner Ülserleri:** İnterstisyel sistit vakalarının az bir kısmında görülen, mesane mukozasındaki karakteristik kronik ülserlerdir. Ayrıca interstisyel sistitte dokuda **mast hücresi** artışı görülmesi çok tipiktir.
+*   **Brunn Yuvaları (Brunn Nests):** Sistitis sistika ve glandularis'in köken aldığı, ürotelyumun submukozaya doğru invajine olup oluşturduğu epitel adacıklarıdır.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Mesane patolojileri komitelerde her zaman banko sorudur. Çıkmış soruların ve hastalıkların gidişatına bakarsak şu noktaların sorulması kuvvetle muhtemeldir:
+1.  **Malakoplakinin Mikroskobik Bulgusu (Çok Önemli):** Tıpkı bu soruda makroskopisinin (sarı plaklar) sorulduğu gibi, bir sonraki sınavda mikroskopisi sorulabilir: "Mesane biyopsisinde makrofajların sitoplazmasında demir ve kalsiyum içeren, laminasyonlu **Michaelis-Gutmann cisimcikleri** saptanan hastanın tanısı nedir?" Cevap kesinlikle **Malakoplaki** olacaktır.
+2.  **İnterstisyel Sistit Vaka Sorusu:** "İdrar kültüründe üreme olmayan (steril), ancak şiddetli suprapubik ağrı, pollaküri ve biyopside **mast hücre artışı** (veya Hunner ülseri) saptanan kadın hastada en olası tanı nedir?" Cevap: **İnterstisyel Sistit**.
+3.  **Mesanenin Malign (Tümöral) Komplikasyonu:** Daha önceki komite sorularında da karşılaştığımız üzere, mesanede kronik irritasyon veya parazit enfeksiyonu zemininde (özellikle *Schistosoma haematobium*) hangi kanserin geliştiği sıklıkla sorulur. Ürotelyum değişici epitel olmasına rağmen, bu kronik irritasyon metaplaziye yol açar ve hastada **Skuamöz Hücreli Karsinom** gelişir.
+
+**35. Aşağıdakilerden hangileri böbrekte iskemiye bağlı akut tübüler hasarlanmada görülebilecek yapısal değişikliklerdendir? (M5-2023-20)**
+1. İntersitisyel fibrozis
+2. Proksimal tübüllerde fırçamsı kenar kaybı
+3. Tübül epitel hücrelerinde lümene dökülme
+4. Tübül epitel hücrelerinde apopitoz
+5. Tübül epitel hücrelerinde nükleer inklüzyonlar
+
+a) 1,2,3
+b) 2,3,5
+c) 2,3,4
+d) 3,4,5
+e) 1,3,4
+
+**Doğru Şık:** **C (2, 3, 4)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru bizden akut böbrek hasarının en sık intrensek (renal) nedeni olan **akut tübüler nekrozun (ATN)** iskemik formunda mikroskop altında gördüğümüz hücresel ve dokusal reaksiyonları, "kronik" hasar bulgularından ve diğer patolojilerden ayırt etmemizi beklemektedir. İskemiye, yani şiddetli kanlanma azlığına maruz kalan böbrek tübüllerinde saniyeler-dakikalar içinde başlayan ve hücrenin bütünlüğünü bozan akut yapısal değişiklikleri arayacağız. 
+
+**Şıkların (Öncüllerin) Açıklaması:**
+*   **1. İntersitisyel fibrozis (Yanlıştır):** Fibrozis (skar dokusu/bağ dokusu artışı), akut bir tabloda birkaç günde oluşmaz. Kronik interstisyel nefrit veya kronik böbrek hastalıklarında karşılaştığımız, geri dönüşümsüz hasarı ifade eden tipik bir **kronik** bulgudur. Akut hasarlanmada interstisyumda fibrozis değil, "ödem" görülür.
+*   **2. Proksimal tübüllerde fırçamsı kenar kaybı (Doğrudur):** Emilim yüzey alanını artıran fırçamsı kenarlar (silyalar) oksijensizliğe ve iskemiye karşı olağanüstü derecede duyarlıdır. Akut hasarda mikroskop altında ilk kaybolan ve PAS boyası ile silinen yapılardandır.
+*   **3. Tübül epitel hücrelerinde lümene dökülme (Doğrudur):** Hasar gören, şişen ve ölen epitel hücreleri oturdukları bazal membrandan koparak tübül lümenine dökülürler. Bu döküntüler idrar akışını engelleyen "nekrotik debri" ve tıkaçları (cast) oluşturur.
+*   **4. Tübül epitel hücrelerinde apopitoz (Doğrudur):** Akut iskemik hasarlanmada hücreler sadece parçalanarak (nekroz) ölmez; aynı zamanda kaspaz kaskadının aktivasyonu ile programlı hücre ölümü olan **apoptoza** (ve ilerleyen aşamada infarkta) da giderler.
+*   **5. Tübül epitel hücrelerinde nükleer inklüzyonlar (Yanlıştır):** Çekirdek içi (nükleer) viral inklüzyonlar, iskemide beklediğimiz bir bulgu değildir. CMV, Adenovirus veya böbrek nakilli hastalarda görülen Polyomavirus BK gibi **viral enfeksiyonların** karakteristik hücresel ayak izleridir.
+
+**Önemli Terimler:**
+*   **Akut Tübüler Hasar / Nekroz (ATN):** İskemi, şok veya nefrotoksik maddeler nedeniyle böbrek tübül epitelinin aniden hasar görmesi veya ölmesidir.
+*   **İnterstisyel Fibrozis:** Böbreğin interstisyel (tübüller arası) dokusunda anormal bağ dokusu birikimidir; zamanla gelişen kronikliğin işaretidir.
+*   **Fırçamsı Kenar (Brush Border):** Proksimal tübül epitel hücrelerinin lümene bakan yüzlerinde emilim (reabsorpsiyon) kapasitesini artıran mikrovillus uzantılarıdır.
+
+**Bilinmesi Gereken Alt Konular (Akut Tübüler Hasarın Diğer Bulguları):**
+Akut tübüler hasarı değerlendirirken, şıklarda yer almayan ancak bilmen gereken diğer kritik bulgular şunlardır:
+*   **İnflamasyonun Yokluğu:** Bu çok önemli bir çeldirici noktasıdır. ATN'de interstisyum ödemlidir ancak **belirgin bir inflamasyon (iltihabi lökosit göçü) YOKTUR**. Eğer belirgin bir iltihap ve özellikle eozinofil olsaydı, tablonun adı Akut İnterstisyel Nefrit (ilaç alerjisi vb.) olurdu.
+*   **Diğer Morfolojik Özellikler:** Tübüllerin arası açılır, epitel hücreleri yassılaşır/incelir (atenüasyon) ve epitel hücrelerinde vakuolizasyonlar (boşluklanmalar) izlenir.
+*   **Nefrotoksik ATN Ayrımı:** ATN sadece iskemiyle olmaz, toksinlerle de olur. Toksinleri **endojen** (miyoglobin, hemoglobin, ürik asit, hafif zincirler) ve **ekzojen** (sisplatin, aminoglikozitler, kontrast maddeler) olarak sınıflandırmayı mutlaka bilmelisin.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Böbrek patolojisi komitelerinde hocalar "akut" ve "kronik" süreçlerin hücresel bulgularını test etmeyi çok severler:
+1.  **Kronik Bulguların Çeldirici Olarak Kullanılması:** Tıpkı daha önceki yıllarda (M5-2024-4) sorulduğu gibi; "Aşağıdaki histolojik değişikliklerden hangisi akut tubüler hasar ile uyumlu değildir?" diye sorarlar. Şıklarda araman gereken kronik bulgular daima **"İnterstisyel fibrozis"** veya **"Tübüler atrofi"** olacaktır.
+2.  **Etiyoloji (Toksin) Sınıflandırması:** "Aşağıdakilerden hangisi ekzojen kaynaklı nefrotoksik ATN etkeni değildir?" (Cevap: Miyoglobin) veya "Hangisi endojen etken değildir?" (Cevap: Sisplatin) şeklindeki sorular spot olarak her an karşına çıkabilir.
+3.  **Laboratuvar-Patofizyoloji Korelasyonu:** ATN geliştiğinde hasarlı tübüller sodyumu geri ememez, bu yüzden idrara sodyum kaçar. "Fraksiyone sodyum atılımı (FENa) <%1 olan hasta için aşağıdakilerden hangisi düşünülemez?" tarzı klinik bir soruda, tübüllerin çalışmadığı ve sodyumun atıldığı **"Tübülointerstisyel Hastalık"** şıkkını bulman istenir.
+
+**36. Aşağıdakilerden hangisi alt üriner sistem enfeksiyonu değildir? (M6-2022-19)**
+a) Pyelonefrit
+b) Üretrit
+c) Prostatit
+d) Sistit
+
+**Doğru Şık:** **A (Pyelonefrit)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru ürolojik enfeksiyonların anatomik lokalizasyona göre temel sınıflandırmasını sorgulayan net bir bilgi sorusudur. Üriner sistem enfeksiyonları (ÜSE), enfeksiyonun bulunduğu bölgeye göre "alt" ve "üst" olmak üzere ikiye ayrılır. Alt üriner sistem mesane, üretra ve erkeklerde prostatı içerirken; üst üriner sistem böbrekleri (parankim ve pelvikalisiyel sistem) ve üreterleri içerir. Soru bizden alt üriner sistem enfeksiyonu *olmayan*, yani üst üriner sistem enfeksiyonu olan tabloyu bulmamızı istemektedir.
+
+**Şıkların Açıklaması:**
+*   **a) Pyelonefrit (Doğru Cevap):** Böbrek parankiminin ve pelvisinin iltihabıdır. Böbrekler anatomik olarak üst üriner sistemde yer aldığı için pyelonefrit bir **üst üriner sistem enfeksiyonudur**.
+*   **b) Üretrit:** Üretranın (idrarı mesaneden dışarı taşıyan kanal) enfeksiyonudur. Alt üriner sistem enfeksiyonudur.
+*   **c) Prostatit:** Erkeklerde prostat bezinin enfeksiyonudur. Alt üriner sistem enfeksiyonudur.
+*   **d) Sistit:** Mesanenin (idrar kesesinin) enfeksiyonudur. En sık görülen alt üriner sistem enfeksiyonudur.
+
+**Önemli Terimler:**
+*   **Alt Üriner Sistem:** Böbreklerden süzülen idrarın depolandığı ve atıldığı mesane, mesane boynu, üretra ve (erkeklerde) prostatı kapsayan bölümdür.
+*   **Dizüri:** İdrar yaparken yanma, sızlama veya ağrı hissedilmesidir. Üriner sistem enfeksiyonlarının en temel semptomudur.
+*   **Kostavertebral Açı (KVA) Hassasiyeti:** Fizik muayenede böbreklerin bulunduğu sırt bölgesine (12. kaburga ile omurga açısı) vurulduğunda hastanın şiddetli ağrı hissetmesidir. Böbrek kapsülünün gerildiğini veya iltihaplandığını (Pyelonefrit) gösterir.
+
+**Bilinmesi Gereken Alt Konular (Klinik Ayrım Noktaları):**
+Bu soru sadece anatomik bir sınıflandırma sorsa da klinikte hasta sana geldiğinde "Bu sistit mi yoksa pyelonefrit mi?" ayrımını fizik muayene ve semptomlarla yapabilmelisin:
+*   **Sistit (Alt ÜSE) Bulguları:** Hastalarda dizüri, sık idrara çıkma (pollaküri), aciliyet (urgency) ve **suprapubik hassasiyet** görülür. Sistemik bulgular (ateş, titreme) genellikle beklenmez.
+*   **Pyelonefrit (Üst ÜSE) Bulguları:** Sistit bulgularına ek olarak veya tek başına hastalarda sistemik enfeksiyon bulguları olan **ateş**, **yan/böğür ağrısı** ve fizik muayenede **KVA hassasiyeti** görülür. Pyelonefritte bakteriyemi riski yüksek olduğundan kan kültürü alınması gerekir.
+*   **Üretrit Özellikleri:** Dizüriye ek olarak sıklıkla **üretral akıntı** eşlik eder. Cinsel yolla bulaşan hastalıklar (CYBH) kapsamındadır. *N. gonorrhoeae* pürülan akıntı yaparken, *Chlamydia* veya *Ureaplasma* seröz/sulu akıntı yapar.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Üroloji ve Enfeksiyon hastalıkları komitelerinde bu konu vaka sorularıyla klinik olarak mutlaka karşına çıkar. Şunları beklemelisin:
+1.  **Vaka Üzerinden Ayrım Sorusu:** "Aşağıdaki semptomlardan hangisi hastada mevcut ise pyelonefriti (üst ÜSE) daha ön planda düşünürsünüz?" (Çıkmış soru M5-2026-28). Şıklarda pollaküri, dizüri, aciliyet hissi verilir ancak doğru cevap daima **Ateş** veya **KVA Hassasiyeti** olacaktır.
+2.  **Semptom-Bölge Eşleştirmesi:** Karın muayenesi bulguları üzerinden sorulabilir. "Suprapubik hassasiyet + Kostavertebral açı hassasiyeti + Ateş" kombinasyonu verilip en olası tanı istenebilir. Cevap: **Pyelonefrit**.
+3.  **Üretrit Etkenleri ve Klinik Bulgu:** CYBH şüphesiyle gelen, "Dizüri ve sarı-gri pürülan akıntısı olan hastada en olası etken nedir?" sorusu gelebilir. Cevap: **N. gonorrhoeae**.
+
+**37. İnfant ve çocuklarda hidronefrozun en sık görülen nedeni nedir? (M6-2022-60)**
+a) Mesane divertikülü
+b) Üreterde taş
+c) Ureterde fibroepitelyal polip
+d) Üreteropelvik bileşkede obstrüksiyon
+e) Sklerozan retroperitoneal fibrozis
+
+**Doğru Şık:** **D (Üreteropelvik bileşkede obstrüksiyon)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru çocukluk çağı ürolojik patolojilerinde hidronefrozun (böbrekte idrar birikimine bağlı şişme) konjenital (doğuştan) nedenlerini sorgulayan oldukça klasik bir pediatrik patoloji/üroloji sorusudur. Böbrekte idrar akışının herhangi bir seviyede engellenmesi, geriye doğru basınç artışına ve böbrek havuzcuğunun (pelvis) genişlemesine yol açar. Soruda erişkin değil, "infant ve çocuk" vurgusu yapıldığı için yaş grubuna özgü en sık doğuştan anomaliyi, yani üreteropelvik bileşke (UPJ) darlığını bulmamız beklenmektedir. 
+
+**Şıkların Açıklaması:**
+*   **a) Mesane divertikülü:** Mesane duvarının zayıf bir noktasından dışarıya doğru fıtıklaşmasıdır. İdrar stazına ve enfeksiyona yol açabilir, ancak çocukluk çağında bilateral veya unilateral hidronefrozun en sık nedeni değildir.
+*   **b) Üreterde taş:** Erişkinlerde (özellikle genç ve orta yaşta) tek taraflı hidronefrozun ve renal koliğin en sık nedenlerinden biridir. Ancak infantlarda ve küçük çocuklarda oldukça nadir görülür.
+*   **c) Üreterde fibroepitelyal polip:** Üreter lümenini tıkayarak idrar akışını bozabilen iyi huylu (benign) bir lezyondur, hidronefroz yapabilir ancak çocukluk çağında en sık görülen neden kesinlikle değildir.
+*   **d) Üreteropelvik bileşkede obstrüksiyon (UPJ darlığı) (Doğru Cevap):** Böbrek pelvisi ile üreterin birleştiği noktada anatomik bir darlık olmasıdır. İnfant ve çocuklarda hidronefrozun açık ara en sık (konjenital) nedenidir.
+*   **e) Sklerozan retroperitoneal fibrozis:** Retroperitoneal yapıları (özellikle üreterleri) saran fibrotik, proliferatif bir inflamasyondur. Üreterlere dışarıdan bası yaparak hidronefroz yapar ancak bu, çocukluk çağının değil; **orta-ileri yaş erkeklerin** hastalığıdır.
+
+**Önemli Terimler:**
+*   **Hidronefroz:** İdrar akışında bozulma (obstrüksiyon) sonucu renal pelvis ve kalikslerde idrarın göllenerek dilatasyona (genişlemeye) yol açması ve böbrek parankiminde ilerleyici (progresif) atrofi gelişimi tablosudur.
+*   **Üreteropelvik Bileşke (UPJ):** Böbrek havuzcuğunun (pelvis renalis) üretere bağlandığı, idrarın böbreği terk ettiği ilk dar anatomik geçiş noktasıdır.
+*   **Kontralateral Renal Agenezi:** Etkilenen böbreğin karşı tarafındaki (kontralateral) diğer böbreğin doğuştan hiç gelişmemiş (agenezi) olmasıdır.
+
+**Bilinmesi Gereken Alt Konular (Hidronefroz ve Obstrüksiyon Mekanizmaları):**
+Bu konunun tam olarak oturması için obstrüksiyonun yeri ve nedenleri ile ilgili şu alt detayları da bilmelisin:
+*   **UPJ Obstrüksiyonunun Özellikleri:** Çocuklarda en sık nedendir dedik. Normalde bu bölgede fizyolojik bir darlık vardır ancak konjenital gelişim kusuruna bağlı olarak bu darlığın artması söz konusudur. Ayrıca UPJ obstrüksiyonu, **kontralateral böbrekte agenezi** gibi diğer konjenital anomalilerle sıklıkla birliktelik gösterir.
+*   **Yaşa ve Cinsiyete Göre Hidronefroz Nedenleri:**
+    *   *Çocuk ve İnfant:* UPJ obstrüksiyonu, posterior üretral valv (erkek bebeklerde bilateral hidronefroz yapar).
+    *   *Genç/Erişkin:* Üriner sistem taşları (ürolitiyazis).
+    *   *İleri Yaş Erkek:* Benign Prostat Hiperplazisi (BPH) veya Prostat Kanseri.
+    *   *Erişkin Kadın:* Gebelik (fizyolojik hidronefroz) veya Serviks kanserinin üreterlere invazyonu.
+*   **Sklerozan Retroperitoneal Fibrozis (Ormond Hastalığı):** Şıklarda çeldirici olarak verilen bu hastalık aslında IgG4 ilişkili hastalık spektrumunun bir parçasıdır. Serumda artmış IgG4 düzeyleri ve dokuda IgG4 pozitif plazma hücresi artışıyla gider. İleri yaşta idrar çıkışını iki taraflı bozabilen sinsi bir hastalıktır.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Böbrek ve ürotelyal sistemin obstrüktif hastalıkları (hidronefroz nedenleri) hocaların vazgeçilmezidir. Gelecek sınavlarda şu sorulara hazırlıklı olmalısın:
+1.  **Yaş-Neden Eşleştirmesi:** Yukarıdaki sorunun varyasyonu olarak, "İleri yaş bir erkek hastada bilateral (iki taraflı) hidronefrozun en sık nedeni nedir?" diye sorulabilir. Cevabın **Benign Prostat Hiperplazisi (BPH)** veya prostat tümörleri olmalıdır.
+2.  **UPJ Darlığı ve Eşlik Eden Anomali:** "Üreteropelvik bileşke obstrüksiyonu olan bir çocukta en sık eşlik eden anomali aşağıdakilerden hangisidir?" Cevap: **Kontralateral böbrek agenezisi (Karşı böbreğin olmaması)**. 
+3.  **Sklerozan Retroperitoneal Fibrozis Vaka Sorusu:** "Bilateral hidronefroz, böbrek yetmezliği ve orta-ileri yaş erkek hasta" profili verilip, biyopside **IgG4 pozitif plazma hücrelerinden zengin fibroinflamatuar lezyonlar** saptandığı söylenerek hastalık sorulabilir. Cevap banko **Sklerozan Retroperitoneal Fibrozis** olacaktır.

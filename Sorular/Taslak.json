@@ -1,0 +1,37 @@
+{
+    "id": 1,
+    "source": "M5-2027-2",
+    "question": "Aşağıdakilerden hangisinde öncelikle indirekt hiperbilirubinemi görülmez?",
+    "options": {
+      "a": "Gilbert sendromu",
+      "b": "Ekstravasküler hemoliz",
+      "c": "Kolelithiasis",
+      "d": "İntravasküler hemoliz",
+      "e": "Dubin-Johnson sendromu"
+    },
+    "correct_answer": "e",
+    "explanation": "Bu soru, sarılık patofizyolojisinde \"indirekt (unkonjuge)\" ve \"direkt (konjuge)\" hiperbilirubinemi yapan nedenleri ayırt edebilmenizi ölçmektedir. İndirekt hiperbilirubinemi gelişmesi için temelde iki mekanizmadan biri olmalıdır: Ya eritrositlerin aşırı yıkımı sonucu bilirubin üretimi artmalıdır ya da karaciğerin bu bilirubini hücre içine alıp (uptake) işlemesinde (konjugasyon) bir sorun olmalıdır. Ancak Dubin-Johnson Sendromu'nda sorun konjugasyon aşamasında değil, karaciğerin işleyip suda çözünür hale getirdiği *direkt bilirubinin* safraya atılımını sağlayan kanaliküler ATP bağımlı transport mekanizmasındaki genetik defekttir. Bu nedenle bu hastalıkta indirekt değil, direkt hiperbilirubinemi görülür.",
+    "option_analysis": {
+      "a": "Karaciğerin bilirubini hücre içine almasında (uptake) ve konjuge etmesinde sorun olan, genellikle hafif seyreden kalıtsal bir indirekt hiperbilirubinemi nedenidir.",
+      "b": "Dalak gibi damar dışı alanlarda eritrositlerin aşırı yıkımı sonucu çok fazla bilirubin üretilir. Karaciğer kapasitesi aşılır ve kanda indirekt bilirubin artar.",
+      "c": "Safra taşları (kolelitiyazis) normalde posthepatik (direkt) sarılık yapsa da, çıkmış soru çözüm kitapçığında bu şık için \"indirekt-direkt dönüşümünde aksaklıklara da yol açabileceği\" belirtilerek dolaylı da olsa indirekt artışına katkıda bulunabileceği kabul edilmiştir. Ancak sorudaki asıl \"kesinlikle görülmeyen\" hastalık Dubin-Johnson'dır.",
+      "d": "Damar içi aşırı eritrosit yıkımıdır, artan bilirubin üretimi nedeniyle indirekt hiperbilirubinemi yapar.",
+      "e": "Doğru cevaptır. Karaciğer hücrelerinde işlenen konjuge (direkt) bilirubinin safraya atılım pompası bozuktur. Bu nedenle kana geri sızarak direkt hiperbilirubinemi tablosu oluşturur."
+    },
+    "terms": [
+      {
+        "term": "İndirekt (Unkonjuge) Bilirubin",
+        "definition": "Suda çözünmeyen, karaciğerde henüz glukuronik asit ile birleştirilmemiş bilirubin formu."
+      },
+      {
+        "term": "Direkt (Konjuge) Bilirubin",
+        "definition": "Karaciğerde işlenerek suda çözünür hale getirilmiş ve normalde safrayla bağırsağa atılan bilirubin formu."
+      },
+      {
+        "term": "Dubin-Johnson Sendromu",
+        "definition": "Otozomal resesif geçişli, lizozomlarda koyu pigmentli (melanine benzer) cisimcik birikimi nedeniyle karaciğerin makroskopik olarak siyah-yeşil renkte görüldüğü direkt hiperbilirubinemi sendromudur."
+      }
+    ],
+    "subtopics": [],
+    "exam_potential": "*   Dubin-Johnson vs. Rotor Sendromu: Her iki hastalık da direkt hiperbilirubinemi yapar ancak ayrımında karaciğerin rengi sorulur. Dubin-Johnson'da karaciğer siyah/koyu renklidir, Rotor sendromunda ise karaciğerde pigment birikimi YOKTUR. Sınavlarda bu ayrım sıklıkla vaka sorusu olarak karşınıza çıkar.\n*   Prehepatik Sarılık Bulguları: \"Hasta sararmış ama idrarda bilirubin yok, dışkı rengi normal/koyu\" deniliyorsa, suda çözünmediği için böbrekten geçemeyen indirekt bilirubinin (hemoliz veya Gilbert gibi prehepatik nedenlerin) arttığını mutlaka hatırlamalısın.\n\nBu soruyla birlikte safra ve bilirubin fizyopatolojisine sağlam bir giriş yaptık! 2. soruyla mı devam edelim, yoksa atlamak istediğin belirli bir soru numarası var mı?"
+  }

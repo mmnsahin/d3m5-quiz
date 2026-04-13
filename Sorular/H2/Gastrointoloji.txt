@@ -1,0 +1,806 @@
+**1. Aşağıdakilerden hangisi karaciğer testleri için yanlıştr? (M5-2027-25) (M6-2025-26) (M5-2024-40) x3**
+a) ALP ile birlikte GGT ve/veya 5 nükleotdaz da yükselme ALP'nin karaciğer kaynaklı olduğunu gösterir
+b) AST`nin tek başına yükselmesi karaciğer patolojisini göstermeyebilir, diğer karaciğer enzimleri ile birlikte değerlendirilmelidir
+c) Serum albümin ve protrombin zamanı karaciğer sentez fonksiyon kapasitesini yansıtr
+d) Karaciğer hastalıklarında AST `de yükselme ALT`ye göre daha spesifktr
+e) ALP karaciğer kemik, bağırsak, lökositve plasentada sentezlenir
+
+**Doğru Şık:** **D**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru karaciğerin fonksiyonunu ve hasarını değerlendirmede kullandığımız biyokimyasal parametrelerin (AST, ALT, ALP, GGT, Albümin, PTZ) ne anlama geldiğini, hangi durumlarda sentezlendiğini ve tanıdaki özgüllük (spesifiklik) durumlarını kavramamızı ölçüyor. Soruda bizden, enzimlerin karaciğer patolojilerindeki özgüllüğüyle ilgili **yanlış** olan ifadeyi bulmamız istenmektedir.
+
+**Şıkların Açıklaması:**
+*   **a) Doğrudur:** ALP (Alkalen Fosfataz) sadece karaciğere özgü bir enzim değildir. Ancak ALP ile birlikte GGT (Gama Glutamil Transferaz) ve/veya 5'-nükleotidaz enzimleri de yüksek saptanıyorsa, bu yüksekliğin kemik veya başka bir dokudan değil, **doğrudan karaciğerden ve özellikle safra yollarından (kolestaz)** kaynaklandığını anlarız.
+*   **b) Doğrudur:** AST (Aspartat Aminotransferaz) enzimi karaciğerin yanı sıra kalp kası, iskelet kası, beyin ve böbrekte de bol miktarda bulunur. Bu yüzden AST'nin tek başına yüksek olması miyokard enfarktüsü veya kas travması (rabdomiyoliz) gibi karaciğer dışı bir hasarı da gösterebileceğinden, tanı konurken diğer karaciğer enzimleri (ALT, GGT vb.) ile kombine şekilde değerlendirilmesi şarttır. 
+*   **c) Doğrudur:** Karaciğer, vücuttaki plazma proteinlerinin (albümin gibi) ve pıhtılaşma faktörlerinin ana üretim merkezidir. Bu nedenle **serum albümin seviyesi ve protrombin zamanı (PTZ), karaciğerin sentez kapasitesinin (gerçek fonksiyonunun) en önemli göstergeleridir**.
+*   **d) Yanlıştır ve sorunun cevabıdır:** Karaciğer hastalıklarında **ALT (Alanin Aminotransferaz), AST'ye göre karaciğere çok daha spesifiktir**. ALT temel olarak hepatositlerin sitoplazmasında bulunur ve karaciğere özgüldür. AST ise mitokondriyal ve sitoplazmik formları olan, karaciğer dışında kalp ve iskelet kasında da yoğun olarak bulunan bir enzimdir.
+*   **e) Doğrudur:** ALP enzimi vücutta karaciğerin hepatokanaliküler membranı başta olmak üzere kemik, bağırsak (ileal mukoza), böbrek ve plasenta gibi pek çok organda sentezlenir.
+
+**Önemli Terimler:**
+*   **ALT (Alanin Aminotransferaz / SGPT):** Karaciğer hücresi (hepatosit) inflamasyonu ve hasarında kana salınan, karaciğere en spesifik enzimdir.
+*   **AST (Aspartat Aminotransferaz / SGOT):** Sadece karaciğer değil, kalp ve iskelet kasında da bulunan enzimdir.
+*   **ALP (Alkalen Fosfataz):** Karaciğer içi veya dışı safra yollarının tıkanıklıklarında (kolestaz) ekspresyonu artan enzimdir.
+*   **GGT (Gama Glutamil Transferaz):** ALP yüksekliğinin karaciğer kökenli olup olmadığını teyit etmekte kullanılan, ayrıca alkol toksisitesine çok duyarlı olan enzimdir.
+*   **Kolestaz:** Safranın hepatositlerden duodenuma kadar olan yolculuğunda herhangi bir seviyede akımının yavaşlaması veya durmasıdır.
+*   **Sentez Fonksiyonu:** Karaciğerin albümin, protrombin, fibrinojen gibi hayati proteinleri üretme kapasitesidir. 
+
+**Bilinmesi Gereken Alt Konular:**
+*   **AST/ALT Oranının Önemi:** Çoğu karaciğer hastalığında (akut viral hepatit vb.) ALT artışı AST'den daha fazladır. Ancak **Alkolik Karaciğer Hastalığı'nda AST, ALT'ye göre çok daha belirgin yükselir (AST/ALT oranı > 2 olur)**. Bunun nedeni alkolün mitokondriyal AST sentezini artırması ve alkoliklerde sık görülen Piridoksin (B6 vitamini) eksikliğinin ALT sentezini baskılamasıdır.
+*   **Akut ve Kronik Karaciğer Hasarı Belirteçleri:** Albüminin yarı ömrü uzun (yaklaşık 20 gün) olduğu için, albümin düşüklüğü bize daha çok **kronik karaciğer hasarını (örneğin siroz)** veya malnütrisyon/nefrotik sendrom gibi durumları işaret eder. Buna karşılık pıhtılaşma faktörlerinin yarı ömrü kısadır ve **PTZ (Protrombin zamanı) uzaması akut fulminan karaciğer yetmezliğini** de anında yansıtır.
+*   **Kolestatik Test Profili:** Bir hastada karaciğer transaminazları (AST ve ALT) sadece hafif düzeyde yüksekken, **ALP, GGT ve Direkt (Konjuge) Bilirubin orantısız derecede yüksekse**, aklımıza hepatit değil, doğrudan **kolestaz (safra yolu tıkanıklığı, primer biliyer kolanjit, pankreas başı tümörü)** gelmelidir.
+*   **Hiperbilirubinemi Ayrımı:** Eğer İndirekt (Ankonjuge) bilirubin artmışsa Gilbert sendromu veya hemolitik anemileri; Direkt (Konjuge) bilirubin artmışsa tıkanma sarılıkları (koledokolitiyazis, pankreas tümörü) veya Rotor / Dubin-Johnson gibi sendromları düşünmelisin.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Notlara ve geçmiş yıllardaki komite reflekslerine baktığımda sana şu spesifik senaryoların sorulabileceğini rahatlıkla söyleyebilirim:
+1.  **AST > ALT tablosu:** "Bir hastanın laboratuvar testlerinde AST seviyesinin ALT'den orantısız biçimde yüksek olduğu (AST/ALT > 2) saptanıyor. Bu tablo hangi karaciğer hastalığı için en tipiktir?" şeklinde sorulur. Cevap banko: **Alkolik Karaciğer Hastalığı** olacaktır.
+2.  **Kolestaz Belirteçleri Kombinasyonu:** "İzole ALP yüksekliği saptanan bir hastada bunun karaciğer kaynaklı mı kemik kaynaklı mı olduğunu ayırmak için en yararlı test hangisidir?" Cevap: **GGT (Gama Glutamil Transferaz) veya 5'-nükleotidaz**.
+3.  **Karaciğerin Gerçek Fonksiyonunu (Sentezi) Ölçen Testler:** AST ve ALT'nin sadece hasar göstergesi olduğunu, fonksiyon testi olmadığını unutma. "Aşağıdakilerden hangisi karaciğer sentez fonksiyonu bozukluğunu gösterir?" derse arayacağın şıklar her zaman **Albümin azalması** ve **Protrombin zamanının (PTZ) uzaması** olmalıdır. 
+4.  **Bilirubin Metabolizması:** "Karaciğer enzim testleri tamamen normalken, stres veya açlık durumunda belirginleşen, sadece indirekt bilirubin yüksekliğiyle karakterize en sık görülen sendrom nedir?" Cevap: **Gilbert Sendromu**.
+
+
+**2. ERCP yöntemine göre hangisi en sık oluşan komplikasyondur? (M5-2027-32)**
+a) Pankreatit
+b) Perforasyon
+c) Kolanjit
+d) Kanama
+e) Aspirasyon pnomönisi
+
+**Doğru Şık:** **A** (Cevap anahtarına göre A, ancak bazı denemelerde bu sorunun numarası farklı çıkabiliyor fakat cevap her zaman pankreatittir).
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru Gastrointestinal Tanı Yöntemleri dersine ait klasik ve çok önemli bir klinik sorudur. Soru bizden, safra yolları ve pankreas hastalıklarının hem tanısında hem de özellikle tedavisinde kullandığımız çok kıymetli ama bir o kadar da invaziv (girişimsel) bir yöntem olan ERCP'nin (Endoskopik Retrograd Kolanjiyopankreatografi) işlem sonrasında en sık hangi istenmeyen duruma (komplikasyona) yol açtığını bilmemizi istiyor.
+
+**Şıkların Açıklaması:**
+*   **a) Pankreatit (Doğru Cevap):** ERCP'nin açık ara en sık rastlanan komplikasyonudur. İşlem sırasında safra yollarına ulaşmak için Ampulla Vateri'ye kanül yerleştirilirken pankreas kanalına mekanik travma olması, sfinkterotomi sırasındaki termal (ısı) hasarı veya içeri basılan kontrast maddenin pankreas kanalında yarattığı hidrostatik basınç, pankreasta inflamasyonu (akut pankreatit) tetikler. 
+*   **b) Perforasyon:** Özellikle işlem sırasında yapılan sfinkterotomi (kesme işlemi) esnasında veya kılavuz tellerin yanlış yönlendirilmesi sonucu duodenumda veya safra yollarında yırtılma (perforasyon) gelişebilir. Oldukça tehlikeli bir komplikasyondur ancak pankreatite göre çok daha nadir görülür.
+*   **c) Kolanjit:** Safra yollarının enfeksiyonudur. ERCP sonrasında, özellikle safra yollarındaki tıkanıklık tam olarak açılamazsa ve işlem sırasında steriliteye tam uyulmaz veya bağırsak bakterileri safra yollarına taşınırsa gelişebilir. Sık görülen komplikasyonlar arasındadır ancak birinci sırada değildir.
+*   **d) Kanama:** Sfinkterotomi (kasın kesilmesi) işlemi yapıldığında bölgesel damarların kesilmesine bağlı kanama görülebilir. Çoğunlukla işlem esnasında endoskopik olarak müdahale edilip durdurulur. 
+*   **e) Aspirasyon pnömonisi:** İşlem sırasında hastaya uygulanan sedasyona bağlı olarak mide içeriğinin akciğerlere kaçması durumudur. Bu genel olarak tüm üst GİS endoskopilerinde görülebilen bir risktir, ancak ERCP'nin spesifik ve en sık komplikasyonu değildir.
+
+**Önemli Terimler:**
+*   **ERCP (Endoskopik Retrograd Kolanjiyopankreatografi):** Ucunda kamera olan esnek bir tüp (endoskop) ile ağızdan girilerek mide ve duodenumun geçilmesi, Ampulla Vateri'den safra ve pankreas kanallarına girilip kontrast madde verilerek floroskopi altında görüntüleme ve tedavi (taş çıkarma, stent takma vb.) yapılması işlemidir.
+*   **Ampulla Vateri:** Ana safra kanalı (koledok) ile ana pankreas kanalının (Wirsung) birleşerek oniki parmak bağırsağına (duodenum) açıldığı anatomik bölgedir.
+*   **Sfinkterotomi:** ERCP işlemi sırasında, safra yollarındaki taşları çıkarmak veya stent takmak amacıyla Ampulla Vateri çevresindeki sfinkter kasının elektrokoter yardımıyla kesilmesidir.
+
+**Bilinmesi Gereken Alt Konular:**
+*   **Tanısal Değil, Terapötik Araç Olması:** ERCP, işlem ilişkili morbidite (%5-10) ve mortalite (%0,5) riski taşıdığından **sadece tanı koymak amacıyla kullanılmamalıdır**. Eğer hastada bir tıkanıklıktan şüpheleniliyorsa ve sadece tanı koymak gerekiyorsa öncelikle non-invaziv veya daha az riskli olan **USG (Ultrasonografi), MRCP (Manyetik Rezonans Kolanjiyopankreatografi)** veya **EUS (Endoskopik Ultrasonografi)** tercih edilir. ERCP ancak terapötik (tedavi edici) bir işlem (örneğin taş çıkartma, stent takma, safra kaçağını onarma) gerekiyorsa yapılmalıdır.
+*   **ERCP Endikasyonları:** Koledokolitiyazis (ana safra kanalı taşı) çıkarılması, benign (iyi huylu) veya malign (pankreas başı tümörü vb.) safra yolu darlıklarına stent yerleştirilmesi, safra kaçaklarının (fistül) tedavisi ve primer sklerozan kolanjitte darlıkların genişletilmesi gibi durumlarda uygulanır.
+*   **Koledokolitiyazis:** Safra kesesinden düşen veya koledokta birincil olarak oluşan taşların ana safra kanalını tıkamasıdır. Karın ağrısı, sarılık ve ateş (kolanjit eklenirse - Charcot triadı) yapar.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Gastroenteroloji komitesinde ERCP ve biliyer görüntüleme sistemleri hocaların favori konularındandır. Notlara ve diğer yılların sorularına baktığımda şunların gelmesi muhtemeldir:
+1.  **Tanı ve Tedavi Ayrımı (MRCP vs ERCP):** "Sarılık şikayetiyle gelen bir hastada USG'de safra yollarında dilatasyon saptanıyor ancak taş net görülemiyor. Hastaya **sadece tanı koymak amacıyla** ilk hangi tetkik istenmelidir?" Cevap: **MRCP**. ERCP hiçbir zaman sadece tanı için istenmez.
+2.  **ERCP Endikasyonu Olmayan Durumlar:** "Aşağıdakilerden hangisinde ERCP endikasyonu yoktur?" şeklinde defalarca sorulmuş (M6-2025-49, M5-2026 vb.). Şıklarda genellikle "Asemptomatik safra kesesi taşı" veya "Sadece tanısal görüntüleme" gibi durumlar yer alır.
+3.  **Biliyer Basıya Bağlı Kolestaz Formülleri:** "Pankreas başı kanserinde en sık bulgu nedir?" tarzında sorular gelir. Pankreas başı tümörleri koledoğa dışarıdan bası yaptığı için ağrısız sarılık ve safra kesesinin büyümesi (Courvoisier-Terrier bulgusu) ile gelir, ALP ve GGT çok yüksektir. Bu durumlarda da safra akışını sağlamak için palyatif olarak **ERCP ile stent takılması** tercih edilir.
+
+
+Harika bir konuya geldik. Sevgili meslektaş adayım, seninle bu soruyu çözerken Gastrointestinal Sistem (GİS) tümörlerinde tanı ve evreleme yöntemlerinin mantığını tam olarak oturtacağız.
+
+Öncelikle sorumuzu orijinal haliyle yazalım:
+
+**3. Özofagus kanserinde TMN evrelemesinde T ve N evreleri hakkında yorum yapabilmek için aşağıdaki işlemlerden hangisi kullanılmalıdır? (M5-2027-40)**
+a) Özefagogastroduodenal endoskopi
+*(Not: Kaynağımızda sorunun diğer şıkları eksik basılmış olsa da, cevap anahtarına ve komite notlarına dayanarak doğru şıkkın C şıkkında yer alan **Endoskopik Ultrasonografi (EUS)** olduğunu biliyoruz.)*
+
+**Doğru Şık:** **C (Endoskopik Ultrasonografi - EUS)**.
+
+**Sorunun Açıklaması:**
+Bu soru bizden, bir GİS kanserinin (burada özofagus kanseri) lümen içindeki yüzeysel görüntüsünü değil, **duvarın ne kadar derinine indiğini (T evresi)** ve **hemen komşuluğundaki bölgesel lenf bezlerine sıçrayıp sıçramadığını (N evresi)** hangi yöntemle görebileceğimizi bilmemizi istiyor. Klasik endoskopiler sadece mukozayı, yani lümenin iç yüzeyini gösterirken duvarın katmanlarını (submukoza, muskularis propria vb.) gösteremez. Bu nedenle hem içeriden bakıp hem de ses dalgalarıyla duvar katmanlarını tarayabilen bir yönteme ihtiyacımız vardır.
+
+**Şıkların ve Yöntemlerin Açıklaması:**
+*   **a) Özefagogastroduodenal endoskopi (ÖGD):** Üst GİS (özofagus, mide, duodenum) lümenini doğrudan kamerayla inceleme işlemidir. Bu yöntemle kanserli dokuyu gözümüzle görür ve biyopsi alırız (tanı koyarız); ancak tümörün özofagus duvarında hangi katmana (örneğin sadece mukozada mı, yoksa kas tabakasına inmiş mi) kadar ilerlediğini ya da dışarıdaki lenf nodlarını göremeyiz.
+*   **c) Endoskopik Ultrasonografi (EUS) (Doğru Cevap):** Ucunda ultrason probu bulunan özel bir endoskop ile yapılır. Normal endoskopi gibi lümene girilir ancak ultrason dalgaları sayesinde lümenin duvarındaki 5 katman ayrı ayrı ayırt edilebilir. Kanser bir lezyon varsa, bu lezyonun duvarın hangi katmanından kaynaklandığını (T evrelemesi) ve komşuluğundaki lenf nodlarına metastaz yapıp yapmadığını (N evrelemesi) en iyi gösteren, altın standart yöntemdir.
+
+**Önemli Terimler:**
+*   **TNM Evrelemesi:** Onkolojide tümörlerin yayılımını belirten sistemdir. **T (Tumor)**: Tümörün boyutu veya kaynaklandığı organın duvarına ne kadar derinlemesine invaze olduğu. **N (Node)**: Bölgesel lenf nodu tutulumu. **M (Metastasis)**: Uzak organ metastazı.
+*   **EUS (Endoskopik Ultrasonografi):** Endoskopi ve ultrasonografinin birleşimidir. GİS duvar katmanlarını ve komşu organları (pankreas, safra yolları vb.) lümen içinden yüksek çözünürlükle inceler.
+*   **ÖGD (Özefagogastroduodenal Endoskopi):** Yemek borusu, mide ve onikiparmak bağırsağının iç yüzeyinin endoskop adı verilen kameralı esnek bir tüple incelenmesidir.
+
+**Bilinmesi Gereken Alt Konular (EUS'un Diğer Endikasyonları):**
+Sadece özofagus kanseri değil, EUS'un kullanıldığı diğer çok önemli yerleri de mutlaka bilmelisin:
+*   **Malign Ekstraintestinal Lezyonlar:** Özellikle **pankreas kanseri** teşhisi ve evrelemesinde (çünkü mide ve duodenumdan pankreasa çok yakın komşulukla ultrason yapılabilir), periampuller bölge kanserlerinde.
+*   **Malign İntramural Lezyonlar:** Mide kanserleri, MALT lenfoma ve Rektum kanserlerinin lokal (T ve N) evrelemesi.
+*   **Benign İntramural Lezyonlar:** Mide duvarında sadece şişlik (kalınlaşma) görüldüğünde bunun mukozal bir inflamasyon mu yoksa **submukozal bir kitle mi** (örneğin GİST veya lipom) olduğunu ayırmak için, gastrik varislerin değerlendirilmesinde.
+*   **Benign Ekstraintestinal Lezyonlar:** Kronik pankreatit ve koledokolitiyazis (safra yolu taşları) tespiti.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Gastroenteroloji komitesinde tanı yöntemlerinin seçimi her zaman banko sorudur. Geçmiş sorulara ve notlara baktığımda şu noktalara çok dikkat etmeni öneririm:
+1.  **Submukozal Kitle Ayrımı:** "Üst GİS endoskopisinde midede normal mukoza ile örtülü, lümene doğru kabaran bir kitle saptanan hastada, kitlenin hangi duvardan köken aldığını bulmak için en uygun tetkik nedir?" Cevap kesinlikle **EUS (Endoskopik Ultrasonografi)** olacaktır.
+2.  **Pankreas Kanseri Teşhisi:** Normal batın ultrasonunda gaz süperpozisyonu nedeniyle pankreas bazen net görülemez. Mideden ve duodenumdan girilerek yapılan **EUS**, pankreas başı kitlelerini değerlendirmek ve ince iğne aspirasyon biyopsisi (EUS-FNA) almak için mükemmel bir yöntemdir.
+3.  **Endoskopi Endikasyonları (ÖGD):** "Aşağıdakilerden hangisi üst GİS endoskopi endikasyonudur/değildir?" tarzı sorular sık gelir. Alarm semptomları (açıklanamayan kilo kaybı, anemi, disfaji, ileri yaş) olan dispepsi hastalarında veya GİS kanaması varlığında ÖGD kesinlikle yapılmalıdır. Ancak "yeni başlayan ve alarm semptomu olmayan basit şişkinlik" tek başına acil endoskopi endikasyonu değildir.
+4.  **ERCP'nin Yeri:** Safra yolları hastalıklarında tanıdan ziyade "tedavi" (taş çıkarma, stent takma) amaçlı kullanıldığını ve en sık komplikasyonunun **pankreatit** olduğunu unutma. Tanı için MRCP veya EUS tercih edilir.
+
+**4. 56 yaşında erkek hasta son 1 aydır katı gıdalara karşı yutarken takılma olduğunu söylüyor. Sıvı gıdaları rahat yutabiliyormuş. Kilo kaybı ve iştahsızlık yokmuş. 20 paket/yıl sigara kullanım öyküsü ve 5 yıldır diabetes mellitus öyküsü mevcut. Yapılan tetkiklerinde demir eksikliği dışında patoloji saptanmıyor. Bu hastada tercih edilecek bir sonraki tetkik aşağıdakilerden hangisidir? (M5-2026-2)**
+a) Positron emisyon tomografi (PET)
+b) Oral kontrastlı toraks tomografisi
+c) Üst gastrointestinal endoskopi
+d) Baryumlu özofagografi
+e) Endoskopik ultrasonografi
+
+**Doğru Şık:** **C (Üst gastrointestinal endoskopi)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu vaka sorusu poliklinikte çok sık karşılaşacağın ve "kırmızı bayrakları" (alarm semptomlarını) yakalaman gereken çok temel bir Gastroenteroloji konusudur. Hastamız 56 yaşında (ileri yaş), yutma güçlüğü (disfaji) çekiyor, 20 paket/yıl sigara öyküsü var ve tetkiklerinde demir eksikliği anemisi saptanmış. Yaşının 50'nin üzerinde olması, anemisi ve disfajisi olması bizim için kesin birer **alarm semptomudur**. Üstelik hastanın yutma güçlüğü sadece katı gıdalara karşı. Sadece katı gıdalara karşı olan yutma güçlükleri bize lümeni fiziksel olarak daraltan *mekanik bir obstrüksiyonu* (özellikle özofagus kanseri, darlık, web vb.) düşündürür. Bu alarm bulguları ışığında, altta yatan muhtemel bir maligniteyi veya kanama odağını gözümüzle görmek ve kesin tanı için biyopsi almak amacıyla **hemen Üst GİS Endoskopisi yapmalıyız**.
+
+**Şıkların Açıklaması:**
+*   **a) Positron emisyon tomografi (PET):** Kanser teşhisi konulduktan sonra uzak organ metastazlarını araştırmak ve evreleme yapmak için kullanılır. Disfajinin ilk teşhis aracı değildir.
+*   **b) Oral kontrastlı toraks tomografisi:** Lümen içinin mukozal yüzeyini ve erken evre lezyonları detaylı göstermez, ayrıca biyopsi alma imkanı sunmaz.
+*   **c) Üst gastrointestinal endoskopi (Doğru Cevap):** İleri yaşta, anemi ve disfaji gibi alarm semptomları ile gelen hastada, özofagus mukozasını direkt görmek, tümör/striktür (darlık) dışlaması yapmak ve kesin tanı için patolojik doku örneği (biyopsi) almak amacıyla ilk tercih edilecek altın standart tetkiktir.
+*   **d) Baryumlu özofagografi:** Anatomik darlıkları veya motilite bozukluklarını gösterebilir. Ancak hastamızdaki demir eksikliği anemisi ve sigara öyküsü malignite riskini çok yükselttiği için sadece görüntüleme yetmez, mutlaka doku örneği almamız (biyopsi) gerekir. Bu nedenle baryumlu grafi burada ilk tercih olamaz.
+*   **e) Endoskopik ultrasonografi (EUS):** Bir önceki çözdüğümüz soruyu hatırla! EUS, endoskopi ile kanser tanısı konulduktan sonra, bu tümörün duvarın ne kadar derinine indiğini (T evresi) ve lenf nodlarına sıçrayıp sıçramadığını (N evresi) bulmak için kullanılır. Teşhis konmadan önce ilk aşamada istenmez.
+
+**Önemli Terimler:**
+*   **Disfaji (Yutma Güçlüğü):** Yutma eyleminin herhangi bir aşamasında takılma hissidir.
+*   **Mekanik Disfaji:** Tümör veya darlık gibi fiziksel bir engele bağlıdır. Genellikle **önce katı gıdalara karşı** başlar, hastalık ilerledikçe sıvılara karşı da gelişir.
+*   **Alarm Semptomları:** GİS hastalıklarında hastada zaman kaybetmeden endoskopi yapılmasını gerektiren tehlike işaretleridir. Bunlar: 50-55 yaş üstü yeni başlayan semptomlar, ilerleyici disfaji/odinofaji, açıklanamayan demir eksikliği anemisi, istemsiz kilo kaybı, inatçı kusma, GİS kanaması, sarılık ve ailede üst GİS kanseri öyküsüdür.
+
+**Bilinmesi Gereken Alt Konular:**
+*   **Mekanik Disfaji vs. Motilite Bozukluğu Ayrımı:** Eğer hastanın şikayeti başlangıçtan itibaren **hem katı hem de sıvı gıdalara karşı** olsaydı, lümeni tıkayan bir kitleden ziyade, yemek borusunun kasılma yeteneğinin bozulduğunu (Akalazya, Diffüz Özofagus Spazmı gibi motilite bozuklukları) düşünmeliydik.
+*   **Orofaringeal Disfaji Özellikleri:** Eğer yutma güçlüğü boğazda (orofarenkste) takılma, yutmayı başlatamama, **yutarken öksürük krizine girme, boğulma hissi ve sıvıların burundan gelmesi (nazal regürjitasyon)** şeklinde olsaydı, sorunun yemek borusunda değil sinir-kas kavşağında (Myastenia Gravis, Parkinson, inme, bulber paralizi vb.) olduğunu anlardık.
+*   **Dispepsi/Disfaji Tanı Algoritması:** 
+    *   Hasta **< 50 yaşında ve alarm semptomu YOKSA:** Önce *Helicobacter pylori* testi yapılır, pozitifse eradikasyon tedavisi; negatifse 8 haftalık PPI (mide koruyucu) tedavisi denenir.
+    *   Hasta **> 50 yaşında VEYA alarm semptomu VARSA:** Direkt **Acil Endoskopi** yapılır.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Bu konunun mantığı çok kritiktir, komite ve final sınavlarında şu konseptlerle mutlaka tekrar karşılaşırsın:
+1.  **Alarm Semptomlarını Tanıma:** "Aşağıdakilerden hangisi dispepside bir alarm semptomu değildir?" diye çok sık sorarlar (M6-2025-8). Şıklara genellikle *obezite* veya *yeni başlayan epigastrik şişkinlik* koyarlar. Bunlar alarm bulgusu DEĞİLDİR, endoskopi aciliyeti gerektirmez.
+2.  **Akalazya Senaryosu:** "32 yaşında kadın hasta. İki yıldır **hem katılara hem de sıvılara** karşı yutma güçlüğü var. Endoskopisi normal. Manometride peristaltik hareketlerde kayıp ve alt özofagus sfinkterinde gevşeyememe var. Tanı nedir?" Cevap kesinlikle **Akalazya** olacaktır (M5-2023-10).
+3.  **Orofaringeal Disfaji Nedenleri:** "Aşağıdakilerden hangisi motor son plakta gelişen patolojiye bağlı orofaringeal disfaji nedenidir?" Cevap: **Myastenia Gravis** (Ach reseptörlerine karşı antikor) veya **Eaton-Lambert Sendromu** (Ach salınımında bozukluk).
+4.  **Yaşa Göre Endoskopi Endikasyonu:** "69 yaşında dispepsi şikayetiyle başvuran ve alarm semptomları *bulunmayan* hastada ilk olarak ne yapılmalıdır?" Hastanın yaşı >50 olduğu için alarm semptomu olmasa bile direkt **Üst GİS Endoskopi** yapılmalıdır.
+
+**5. Pankreas kanseri ile ilgili aşağıdakilerden hangisi doğrudur? (M5-2026-16) (M5-2024-73) x2**
+a) Sigara ile ilişkilidir.
+b) Çoğu adenoskuamözkarsinomadır.
+c) Sarılık nadir olarak izlenir.
+d) En sık pankreas kuyruğunda gelişir.
+e) BRAF mutasyonu tümörlerin çoğunda bulunur.
+
+**Doğru Şık:** **A**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru Gastroenteroloji ve Onkoloji pratiğinde pankreas kanserinin temel epidemiyolojik, genetik, patolojik ve klinik özelliklerini sorgulayan oldukça klasik ve kapsayıcı bir komite sorusudur. Soru bizden pankreas adenokarsinomunun yerleşim yerini, en sık görülen mutasyonunu, patolojik tipini, oluşturduğu semptomatolojiyi ve etiyolojik (risk) faktörlerini bilmemizi istiyor. Pankreas kanserleri sinsi seyirli oldukları ve mortaliteleri yüksek olduğu için hekim olarak bu temel özellikleri çok iyi kavramalısın.
+
+**Şıkların Açıklaması:**
+*   **a) Sigara ile ilişkilidir (Doğrudur ve cevabımızdır):** Pankreas kanseri etiyolojisinde bilinen en önemli ve kanıtlanmış çevresel risk faktörlerinden biri sigaradır. Sigara içenlerde pankreas kanseri riski ciddi oranda artmıştır.
+*   **b) Çoğu adenoskuamözkarsinomadır (Yanlıştır):** Pankreas kanserlerinin çok büyük bir kısmı (%90'dan fazlası) duktal epitelden köken alan **duktal adenokarsinoma** yapısındadır. Adenoskuamöz karsinomlar çok daha nadir görülür.
+*   **c) Sarılık nadir olarak izlenir (Yanlıştır):** Aksine sarılık, özellikle pankreas başı yerleşimli tümörlerde çok sık ve erken dönemde görülen bir bulgudur. Pankreas başı tümörleri ana safra kanalına (koledoğa) dışarıdan bası yaparak ekstrahepatik (tıkanma tipi) sarılığa yol açar. 
+*   **d) En sık pankreas kuyruğunda gelişir (Yanlıştır):** Pankreas karsinomlarının yaklaşık **%60'ı pankreas başında** lokalizedir. Gövdede %10, kuyrukta ise %10 oranında görülür.
+*   **e) BRAF mutasyonu tümörlerin çoğunda bulunur (Yanlıştır):** Pankreas kanseri olgularının %90 gibi çok büyük bir kısmında **KRAS** geni mutasyonu bulunur. BRAF mutasyonu daha çok kolon kanseri, melanom ve papiller tiroid kanserlerinde gördüğümüz bir mutasyondur.
+
+**Önemli Terimler:**
+*   **Duktal Adenokarsinom:** Pankreasın sindirim enzimlerini taşıyan kanallarını (duktuslarını) döşeyen epitel hücrelerinden köken alan, pankreasın en sık görülen kötü huylu tümörüdür.
+*   **KRAS Mutasyonu:** Hücrelerin normal büyüme ve bölünme sinyallerini kontrol eden bir onkogendir. Pankreas karsinomlarının moleküler patogenezinde temel rol oynar.
+*   **Biliyer Bası / Ekstrahepatik Kolestaz:** Pankreas başındaki bir kitlenin, karaciğerden gelen safrayı onikiparmak bağırsağına (duodenum) taşıyan koledok kanalını tıkayıp safranın kana karışmasına (tıkanma sarılığına) neden olmasıdır.
+
+**Bilinmesi Gereken Alt Konular:**
+*   **Diğer Etiyolojik Risk Faktörleri:** Sadece sigarayı bilmek yetmez. Alkol kullanımı, kronik pankreatit öyküsü, Diabetes Mellitus (DM), yağlı diyet alışkanlığı ve kimyasal karsinojen maruziyetleri de pankreas kanseri için çok önemli risk faktörleridir.
+*   **Yerleşim Yerine Göre Klinik Seyir Farklılıkları:** Tümör **pankreas başında** ise safra yollarını erken tıkayacağından sarılık ile çok daha **erken dönemde bulgu verir ve tanı alır**. Ancak tümör **gövde veya kuyruk** bölgesindeyse (bu alanlar safra yollarına uzak olduğundan) tıkanma sarılığı yapmaz; genellikle çevre sinir dokularına invaze olana kadar sessiz kalır ve sıklıkla sırta vuran ağrı veya ileri evrede (metastaz yapmışken) geç tanı alır.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Notlara ve komite soru stillerine baktığımda bu konudan şu tip soruların karşına gelmesi son derece muhtemeldir:
+1.  **Genetik/Patoloji Eşleştirmesi:** "Pankreas duktal adenokarsinomu patogenezinde en sık görülen onkogen mutasyonu aşağıdakilerden hangisidir?" Cevap tereddütsüz **KRAS** olmalıdır.
+2.  **Klinik Vaka Senaryosu (Courvoisier-Terrier Bulgusu):** "60 yaşında, uzun süredir sigara içen erkek hasta, iştahsızlık, kilo kaybı ve son haftalarda giderek artan *ağrısız sarılık* şikayetiyle başvuruyor. Fizik muayenede sağ üst kadranda ağrısız, ele gelen hidropik safra kesesi saptanıyor. En olası tanı nedir?" Pankreas başı tümörünün klasik prezentasyonudur, ağrısız sarılık kilit ifadedir.
+3.  **Erken/Geç Tanı Kıyaslaması:** "Aşağıdaki pankreas karsinomu lokalizasyonlarından hangisinin daha geç klinik bulgu vererek ileri evrede tanı alması beklenir?" Cevap pankreas **gövde ve kuyruk** yerleşimli tümörler olacaktır.
+
+**6. Aşağıdakilerden hangisi midedeki subepitelyal lezyonların tanı ve takibinde kullanılan bir yöntemdir? (M5-2026-40)**
+a) Magnifiye kromoendoskopi
+b) Endoskopik ultrasonografi (EUS)
+c) Endoskopik retrograd kolanjiyokreatografi (ERCP)
+d) Kolonoskopi
+e) Endositoskopi
+
+**Doğru Şık:** **B (Endoskopik ultrasonografi - EUS)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru gastrointestinal sistemin (GİS) derin katmanlarında yer alan lezyonları nasıl değerlendirdiğimizi sorguluyor. Midedeki subepitelyal (epitel altı, submukozal) lezyonlar, mukozanın altında (örneğin submukoza veya kas tabakasında) yer alırlar. Klasik bir üst GİS endoskopisi yaptığımızda, lümenden sadece lezyonun üzerini örten normal mukozanın kabarıklığını görürüz. Lezyonun içinin kistik mi yoksa solid (katı) mi olduğunu, tam olarak duvarın hangi katmanından (örneğin muskularis propriadan mı) köken aldığını standart endoskopi ile anlamamız imkansızdır. İşte bu noktada, ucunda ultrason probu bulunan ve GİS duvarının 5 katmanını ayrı ayrı gösterebilen **Endoskopik Ultrasonografi (EUS)** hayat kurtarır. 
+
+**Şıkların Açıklaması:**
+*   **a) Magnifiye kromoendoskopi:** Bu yöntem, doku yüzeyinin boyanarak (kromo) ve mikroskop düzeyinde büyütülerek (magnifiye) incelenmesini sağlar. Sadece en üstteki yüzeysel mukozal tabakanın pit paternini (kript yapısını) ve mikrodamarlarını gösterir. Derindeki subepitelyal bir lezyonu göstermez. Erken evre kanserlerin (örneğin Barrett özofagusu zeminindeki displazinin) saptanmasında kullanılır.
+*   **b) Endoskopik ultrasonografi (EUS) (Doğru Cevap):** Subepitelyal (submukozal) lezyonların tanısı, boyutunun ölçülmesi, duvarın hangi katmanından köken aldığının belirlenmesi ve gerekirse içinden ince iğne aspirasyon biyopsisi (FNA) alınarak takibi için altın standart yöntemdir.
+*   **c) Endoskopik retrograd kolanjiyokreatografi (ERCP):** Temel olarak safra yolları (koledok vb.) ve pankreas kanalı hastalıklarında, özellikle "tedavi" amacıyla (taş çıkarma, stent takma vb.) kullanılan bir yöntemdir. Mide lezyonları ile ilgisi yoktur.
+*   **d) Kolonoskopi:** Sadece alt gastrointestinal sistemin (rektum, kolon, terminal ileum) lümen iç yüzeyini inceler. Mideyle ilgisi yoktur.
+*   **e) Endositoskopi:** Canlı dokuda hücresel (hücre çekirdeği düzeyinde) mikroskobik inceleme (in vivo histoloji) sağlayan, yine çok yüzeysel mukoza değerlendirmesinde (erken yassı hücreli karsinom veya malign melanom şüphesi gibi) kullanılan yüksek büyütmeli bir işlemdir. Subepitelyal derinliği göstermez.
+
+**Önemli Terimler:**
+*   **Subepitelyal (Submukozal) Lezyon:** GİS lümenini döşeyen en üstteki epitel tabakasının altında yerleşim gösteren kitle veya şişliklerdir (Örn: GİST, lipom, leiomyom). Üzerindeki mukoza genellikle normaldir.
+*   **EUS (Endoskopik Ultrasonografi):** Endoskopun ucundaki ultrasonik prob sayesinde lümen içinden yüksek frekanslı ses dalgaları göndererek hem sindirim sistemi duvarının katmanlarını hem de pankreas gibi komşu organları yüksek çözünürlükle gösteren işlemdir.
+
+**Bilinmesi Gereken Alt Konular (EUS Endikasyonları):**
+Sınavda EUS'un sadece subepitelyal kitlelerde kullanıldığı sorulmaz. Hazır EUS'u konuşuyorken diğer temel endikasyonlarını da mutlaka bilmelisin:
+*   **Malign İntramural Lezyonların Evrelenmesi:** Özofagus, mide ve rektum kanserleri teşhis edildikten sonra, tümörün duvarın ne kadar derinine indiğini (T evresi) ve etraftaki lenf bezlerine yayılıp yayılmadığını (N evresi) bulmak için kullanılır.
+*   **Malign Ekstraintestinal Lezyonlar:** Batın USG'si ile gaz süperpozisyonu nedeniyle iyi değerlendirilemeyen **Pankreas kanserlerinin** teşhisi, evrelemesi ve biyopsisi (EUS-FNA) için kullanılır. Ayrıca periampuller kanserlerin evrelemesinde şarttır.
+*   **Benign Ekstraintestinal ve İntramural Lezyonlar:** Safra yollarındaki taşların (koledokolitiyazis) tanısı, kronik pankreatit değerlendirmesi, pankreatik kistik neoplaziler ve gastrik varislerin değerlendirilmesinde de kullanılır.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Tanı yöntemleri Gastro komitesinin bel kemiğidir. Buradan şu tip soru kalıplarını bekle:
+1.  **Kanser Evreleme Sorusu:** "Mide adenokarsinomu saptanan bir hastada tümörün derinliğini (T evresini) ve bölgesel lenf nodu tutulumunu (N evresi) operasyon öncesi belirlemede (lokal evreleme) en duyarlı yöntem hangisidir?" Cevap: **Endoskopik Ultrasonografi (EUS)**.
+2.  **Pankreas Kitlesi Biyopsisi:** "Abdominal tomografide pankreas başında 2 cm'lik bir kitle saptanan hastada, kitleye ulaşmak ve doku tanısı (biyopsi) almak için en uygun ve güvenilir endoskopik yöntem hangisidir?" Cevap: **EUS (EUS-FNA / İnce İğne Aspirasyonu)**.
+3.  **Yüzeysel vs Derin Lezyon Ayrımı:** Şıklardaki *Endositoskopi* ve *Magnifiye kromoendoskopi* yöntemlerinin sadece yüzeysel (erken evre) epitel hasarlarını veya hücresel atipiyi yakalamak için kullanıldığını bir vaka sorusuyla sorabilirler. "Lümende şüpheli bir eritem saptanan ve hücresel düzeyde in-vivo (canlı) mikroskobik inceleme yapılması planlanan..." denirse cevap **Endositoskopi** olur.
+
+**7. Aşağıdakilerden hangisinde ERCP endikasyonu yoktur? (M5-2026-51)**
+a) Koledokolitiyazis
+b) Pankreatik kaçak
+c) Primer biliyer kolanjit
+d) Koledok açılımlı kist hidatik
+e) Koledokta malign darlık
+
+**Doğru Şık:** **C (Primer biliyer kolanjit)**.
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru gastroenteroloji pratiğinde ERCP'nin (Endoskopik Retrograd Kolanjiyopankreatografi) kullanım yerlerini (endikasyonlarını) ne kadar iyi anladığını ölçüyor. ERCP invaziv bir işlem olduğu ve pankreatit gibi ciddi komplikasyon riskleri taşıdığı için günümüzde sadece "tanı" amacıyla değil, büyük oranda "tedavi (terapötik)" amacıyla kullanılmaktadır. Soruda, bu invaziv işleme gerek duymadığımız, yani ana safra yollarına veya pankreas kanalına müdahale gerektirmeyen hastalığın hangisi olduğu sorulmaktadır. 
+
+**Şıkların Açıklaması:**
+*   **a) Koledokolitiyazis:** Ana safra kanalına (koledok) düşmüş taşların çıkarılması ERCP'nin en sık ve en bilinen endikasyonlarından biridir. 
+*   **b) Pankreatik kaçak:** Pankreas kanalındaki travma veya cerrahi sonrası oluşan kaçaklarda, kaçağın olduğu bölgeye ERCP ile stent konularak iyileşme sağlanır, kesin endikasyondur.
+*   **c) Primer biliyer kolanjit (Doğru Cevap):** Primer biliyer kolanjit (eski adıyla primer biliyer siroz), safra yollarının otoimmün hastalığıdır ancak **sadece karaciğer içindeki (intrahepatik) küçük safra kanallarını (interlobüler duktuslar) tutar**. ERCP ise ana (büyük) safra yollarını ve ekstrahepatik kanalları görüntüler/tedavi eder. Bu nedenle PBK'da ERCP'nin hiçbir tanısal veya terapötik yeri yoktur.
+*   **d) Koledok açılımlı kist hidatik:** Kist hidatik rüptüre olup ana safra kanalına açıldığında safra yollarını tıkayabilir. Kist membranlarının ve debrisin temizlenmesi için ERCP altın standarttır.
+*   **e) Koledokta malign darlık:** Safra yollarını tıkayan pankreas başı kanseri veya kolanjiokarsinom gibi durumlarda hastanın sarılığını çözmek (palyasyon) amacıyla ERCP yapılarak darlığa stent yerleştirilir.
+
+**Önemli Terimler:**
+*   **ERCP:** Ucunda yan görüşlü kamera bulunan bir endoskopla duodenuma (Ampulla Vateri) girilip safra ve pankreas kanallarına kontrast madde verilerek yapılan floroskopik görüntüleme ve tedavi işlemidir.
+*   **Endikasyon:** Bir tıbbi işlemin, testin veya ilacın uygulanmasını gerektiren geçerli tıbbi durum.
+*   **Primer Biliyer Kolanjit (PBK):** Orta yaşlı kadınlarda daha sık görülen, Anti-Mitokondriyal Antikor (AMA) pozitifliğiyle giden ve karaciğer içi küçük safra kanallarının ilerleyici harabiyetiyle (non-süpüratif destrüktif kolanjit) karakterize otoimmün kolestatik karaciğer hastalığıdır.
+*   **Koledokolitiyazis:** Safra kesesinde oluşan taşların ana safra kanalı olan koledoğa düşerek tıkanıklık (ekstrahepatik kolestaz) yapmasıdır.
+
+**Bilinmesi Gereken Alt Konular:**
+*   **Tanı vs. Tedavi (ERCP ile MRCP Ayrımı):** Safra yollarını değerlendirirken eğer amacımız *sadece teşhis koymak* ise (örneğin safra kanalında taş olup olmadığından emin değilsek), invaziv olan ERCP yerine radyolojik ve risksiz bir yöntem olan **MRCP (Manyetik Rezonans Kolanjiyopankreatografi)** isteriz. ERCP'yi sadece taşı çıkaracağımızdan, stent takacağımızdan veya biyopsi alacağımızdan eminsek yaparız.
+*   **Primer Biliyer Kolanjit (PBK) vs. Primer Sklerozan Kolanjit (PSK):** PBK sadece karaciğer içi küçük kanalları tuttuğu için ERCP yapılmazken, PSK (Primer Sklerozan Kolanjit) hem karaciğer içi hem de karaciğer dışı büyük safra yollarında darlıklar yaptığı için **PSK'da darlıkları genişletmek için ERCP yapılabilir**. 
+*   **ERCP Komplikasyonları:** En sık görülen komplikasyonu **pankreatit** tablosudur. Ayrıca kanama, kolanjit (enfeksiyon) ve perforasyon da görülebilir.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Gastroenteroloji komite notlarını ve çıkmış soru reflekslerini incelediğimde, bu konunun farklı kılıklarla tekrar karşına gelmesi son derece olasıdır:
+1.  **Tanı Aracının Seçilmesi:** Bir vaka verip sarılıklı hastada USG'de safra yollarının geniş olduğu söylenir. "Hastaya kesin tanı koymak için aşağıdaki non-invaziv yöntemlerden hangisi seçilmelidir?" tarzı bir soruda cevabın **MRCP** (ya da EUS) olmalıdır.
+2.  **PBK'nın Spesifik Antikoru:** "Kolestaz bulguları olan (ALP, GGT yüksekliği), kaşıntı şikayetiyle gelen orta yaşlı bir kadın hastada Primer Biliyer Kolanjit tanısında en değerli serolojik belirteç hangisidir?" Cevap banko **AMA (Anti-Mitokondriyal Antikor)** olacaktır.
+3.  **ERCP'nin En Sık Komplikasyonu:** Bu çok popülerdir, önceki yıllarda defalarca çıkmış (M5-2027-32) ve yine gelebilir. Cevap daima **Pankreatit** olacaktır.
+
+**8. 80 yaşında erkek hasta aylardır süregelen karın ağrısı ve kilo kaybı nedeni ile başvuruyor. Ağrısını genelde göbek çevresinde tanımlıyor ve zaman zaman kolik tarzında olduğunu söylüyor. Ağrı çoğu zaman yemekten sonra oluşmakta. Tıbbi öyküsünde TIA ve MI mevcut. Tam kanda hafif normositik anemi dışında diğer biyokimyasal testleri normal. Tanı koymak için en uygun yaklaşım hangisidir? (M5-2026-57)**
+a) Kolonoskopi
+b) Abdominal CT
+c) Baryumlu ince bağırsak grafisi
+d) Mezenterik anjiyografi
+e) Özofagogastroduodenoskopi
+
+**Doğru Şık:** **D (Mezenterik anjiyografi)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru klinik akıl yürütme becerimizi ve hasta anamnezindeki "kırmızı bayrakları" nasıl birleştireceğimizi çok güzel ölçen bir vaka sorusudur. Hastamız 80 yaşında (ileri yaş) ve TIA (Geçici İskemik Atak) ile MI (Miyokard Enfarktüsü) gibi ciddi aterosklerotik (damar sertliği) hastalık öykülerine sahip. Bu profil bize hastanın damar yatağının tıkalı veya daralmış olabileceğini gösterir. En kritik klinik ipucu ise ağrının **"yemekten sonra oluşması" (postprandiyal)** ve hastanın **"kilo kaybı"** yaşamasıdır. Yemek yendikten sonra sindirim için bağırsaklara daha fazla kan gitmesi gerekir; ancak damarlar daraldığı için yeterli kan gidemez ve kalp krizine benzer şekilde bağırsaklarda iskemi ağrısı (intestinal anjina) oluşur. Hasta yemek yediğinde ağrı yaşayacağını bildiği için yemek yemekten korkar (sitofobi) ve kilo verir. Bu tablo **Kronik Mezenterik İskemi** için tipiktir. Bu damarsal patolojiyi doğrudan görmek ve kesin tanı koymak için de altın standart yöntem damarların görüntülenmesi, yani mezenterik anjiyografidir.
+
+**Şıkların Açıklaması:**
+*   **a) Kolonoskopi:** Kalın bağırsak (alt GİS) patolojilerini, kolon kanserini veya iskemik koliti değerlendirmek için kullanılır. Ancak hastanın tipik intestinal anjina tablosu ince bağırsak iskemisini işaret eder, bu yüzden kolonoskopi ilk tercih değildir.
+*   **b) Abdominal CT:** Karın içi organların anatomisini, kitleleri ve abseleri gösterir ancak standart bir tomografi mezenterik damarların içindeki darlık ve tıkanıklıkları anjiyografi kadar detaylı değerlendiremez. (BT anjiyografi istenseydi güçlü bir seçenek olurdu, ancak standart BT yetersizdir).
+*   **c) Baryumlu ince bağırsak grafisi:** Bağırsak lümeninin iç yüzeyindeki ülser veya darlıkları gösterebilir ancak damarsal (vasküler) yapıyı değerlendiremez. Mezenterik iskemi tanısında yeri yoktur.
+*   **d) Mezenterik anjiyografi (Doğru Cevap):** Mezenterik arterlerdeki (özellikle superior mezenterik arter - SMA) darlıkları, oklüzyonları (tıkanıklıkları) ve kollateral dolaşımı doğrudan gösteren altın standart görüntüleme yöntemidir.
+*   **e) Özofagogastroduodenoskopi (ÖGD):** Üst GİS (yemek borusu, mide, duodenum) lezyonlarını gösterir. Ülser veya tümör dışlamada kullanılır ancak iskemi tanısında etkili değildir.
+
+**Önemli Terimler:**
+*   **TIA (Geçici İskemik Atak):** Beyne giden kan akışının geçici olarak azalması veya durmasıyla oluşan, kalıcı hasar bırakmayan iskemik nörolojik durum.
+*   **MI (Miyokard Enfarktüsü):** Koroner arterlerin tıkanması sonucu kalp kasının ölmesi (Kalp krizi). Hem TIA hem MI, hastada yaygın damar sertliği (ateroskleroz) olduğunun kanıtıdır.
+*   **İntestinal Anjina:** Daralmış mezenterik arterler nedeniyle, yemek sonrası sindirim sırasında artan oksijen ihtiyacının karşılanamamasına bağlı olarak gelişen kramp tarzı iskemik bağırsak ağrısıdır.
+*   **Kolik Tarzı Ağrı:** İçi boş organların (bağırsaklar, üreter vb.) tıkanması veya kasılması sonucu oluşan, dalgalar halinde gelip giden (kıvrandırıcı) ağrı tipidir.
+
+**Bilinmesi Gereken Alt Konular:**
+*   **Akut Mezenterik İskemi:** Eğer hastanın ağrısı "aylardır süregelen" değil de "aniden başlayan", fizik muayenede karın yumuşak olmasına rağmen "hastanın şikayetiyle orantısız derecede şiddetli" olsaydı ve hastanın Atriyal Fibrilasyon (ritim bozukluğuna bağlı pıhtı atması) öyküsü bulunsaydı, o zaman aklımıza Kronik değil, çok daha acil olan **Akut Mezenterik İskemi** gelecekti.
+*   **İskemik Kolit:** Kan akımının en az olduğu kalın bağırsağın "watershed" alanlarında (özellikle splenik fleksura) görülen iskemidir. Tipik olarak yemekle ilişkili ağrıdan ziyade, **sol alt kadran ağrısı ve kanlı ishal (hematokezya)** ile kendini gösterir.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+İskemik bağırsak hastalıkları Gastroenteroloji'de ve Genel Cerrahi'de hayat kurtarıcı bir öneme sahip olduğu için komitelerde mutlaka bir yerinden yoklanır. Şunlara dikkat etmeni öneririm:
+1.  **Vaka Formatında Tanı Sorusu:** Tıpkı bu sorudaki gibi "Postprandiyal karın ağrısı + kilo kaybı + vasküler hastalık öyküsü" formülü verilir ve direkt "En olası tanı nedir?" diye sorulur. Formülü gördüğün an cevabın **Kronik Mezenterik İskemi** olmalıdır.
+2.  **Akut Mezenterik İskemi Vurgusu:** "Karın ağrısının şiddeti ile fizik muayene bulguları arasında uyumsuzluk (orantısızlık) olan" ve "Atriyal fibrilasyon" öyküsü olan hasta senaryosunda sorulacak hastalık **Akut Mezenterik İskemi (veya SMA embolisi)** olacaktır.
+3.  **Alarm Semptomları Konsepti:** Hastadaki "kilo kaybı" GİS'te bir alarm semptomudur. "Aşağıdakilerden hangisi dispepsi veya karın ağrısında alarm semptomlarından biridir/değildir?" formatında, istemsiz kilo kaybını şıklarda mutlaka aratacaklardır.
+
+Harika, klinik pratik hayatında poliklinikte her gün kullanacağın, üst gastrointestinal sistem (ÖGD) endoskopisi endikasyonlarını ve dispepsiye yaklaşım algoritmalarını kavratan çok temel bir soruya geldik.
+
+**9. Karaciğer sentez fonksiyonları bozukluğunda en doğru tanı hangisi ile konur? (M5-2026-73)**
+a) Alanin aminotransferaz
+b) Aspartat aminotransferaz
+c) Alkalen fosfataz
+d) Gama glutamil transferaz
+e) Protrombin zamanı
+
+**Doğru Şık:** **E (Protrombin zamanı)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru klinik pratikte karaciğer testlerini yorumlarken en sık düşülen hatalardan birini test ediyor. Çoğu zaman hastadan rutin olarak "karaciğer fonksiyon testi (KFT)" adıyla AST ve ALT isteriz; ancak bu isimlendirme aslında hatalıdır. **AST ve ALT karaciğerin fonksiyonunu (sentez yeteneğini) değil, karaciğer hücresindeki hasarı/yıkımı gösterir**. Karaciğerin gerçek bir "fonksiyonu", yani dışarıya protein üretme (sentez) işlevi vardır. Karaciğer pıhtılaşma faktörlerini ve plazma proteinlerini üretir. Bu soruda bizden, bu üretim kapasitesinin bozulduğunu gösteren gerçek sentez parametresini bulmamız istenmektedir.
+
+**Şıkların Açıklaması:**
+*   **a) Alanin aminotransferaz (ALT):** Bir sentez testi değildir. Karaciğer hücreleri (hepatositler) hasar gördüğünde, yıkıldığında kana karışan bir enzimdir. Karaciğer hasarını göstermede AST'ye göre daha spesifiktir.
+*   **b) Aspartat aminotransferaz (AST):** Bir sentez testi değildir. Hepatik hasarın yanı sıra kalp kası, iskelet kası ve böbrek gibi dokuların hasarında da kana salınan enzimdir.
+*   **c) Alkalen fosfataz (ALP):** Bir sentez testi değildir. Safra yolları tıkanıklığını (kolestazı) veya karaciğer infiltratif hastalıklarını gösteren enzimdir.
+*   **d) Gama glutamil transferaz (GGT):** Bir sentez testi değildir. Tıpkı ALP gibi kolestazı ve safra yolları hasarını gösterir. Ayrıca alkol kullanımına çok duyarlıdır.
+*   **e) Protrombin zamanı (PTZ) (Doğru Cevap):** Karaciğer; Faktör II, VII, IX ve X gibi K vitaminine bağımlı pıhtılaşma faktörlerinin üretim yeridir. Karaciğerin **sentez fonksiyonu bozulduğunda bu faktörler üretilemez ve Protrombin Zamanı (PTZ) uzar**. Karaciğerin anlık ve akut sentez kapasitesini ölçmek için en iyi testtir.
+
+**Önemli Terimler:**
+*   **Sentez Fonksiyonu:** Karaciğerin vücut için gerekli olan pıhtılaşma faktörleri, albümin, fibrinojen gibi temel proteinleri üretme işlemidir.
+*   **Protrombin Zamanı (PTZ/INR):** Ekstrinsik pıhtılaşma yolağının süresini ölçen testtir. Karaciğerin ürettiği Faktör VII'nin yarı ömrü çok kısa olduğu için, karaciğer yetmezliğinde PTZ çok hızlı bir şekilde uzar.
+*   **Kolestaz Belirteçleri:** Safra akımının yavaşlaması veya durması halinde kanda artan enzimlerdir (Başlıca ALP ve GGT).
+*   **Hepatosellüler Hasar Belirteçleri:** Doğrudan karaciğer hücresi inflamasyonu veya nekrozu sonucu kana salınan enzimlerdir (Başlıca ALT ve AST).
+
+**Bilinmesi Gereken Alt Konular:**
+Bu soruda olmayan ancak karaciğerin sentez kapasitesini ve hastalıkların seyrini değerlendirmede mutlaka bilmen gereken diğer kritik noktalar şunlardır:
+*   **Albümin (Diğer Sentez Göstergesi):** Soruda şıklarda PTZ olmasaydı arayacağımız diğer şık **Albümin** olurdu. Albümin de sadece karaciğerde sentezlenir. Ancak albüminin kanda yarı ömrü yaklaşık 20 gün gibi uzun bir süredir. Bu nedenle akut karaciğer yetmezliğinde hemen düşmez; bize daha çok **siroz gibi kronik karaciğer sentez fonksiyonu bozukluklarını** gösterir.
+*   **Kolestazın Teyidi:** Karaciğer testlerinde ALP yüksek geldiğinde bunun kemikten mi (örneğin büyüme çağındaki çocuk veya kemik metastazı) yoksa karaciğerden mi kaynaklandığını ayırmak için hemen **GGT'ye veya 5'-nükleotidaz'a** bakılır. GGT de yüksekse ALP'nin kaynağı kesinlikle karaciğer/safra yollarıdır. 
+*   **Akut/Kronik Hasar Ayrımı:** PTZ uzaması ve ensefalopati varlığı bize "Akut Karaciğer Yetmezliğini" (fulminan hepatit) düşündürürken; hipoalbüminemi, asit, örümcek anjiyom ve özofagus varisleri "Kronik Karaciğer Yetmezliğini (Siroz)" düşündürür.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Gastroenteroloji komite notlarına ve çıkmış sorulara baktığımızda bu konseptin şu şekillerde evrilerek sorulduğunu/sorulacağını görebiliriz:
+1.  **Kronik Sentez Belirteci:** "Aşağıdaki laboratuvar testlerinden hangisi karaciğerin *kronik* sentez fonksiyonu azalmasını (örneğin siroz) en iyi gösterir?" Cevap kesinlikle **Serum Albümin** düzeyi olacaktır.
+2.  **Karaciğer Kaynaklı ALP Yüksekliği:** "İzole ALP yüksekliği saptanan hastada, yüksekliğin karaciğer kaynaklı (kolestaz) olduğunu kanıtlamak için istenecek en uygun test hangisidir?" (Bu daha önce sorulmuş (M5-2027-25) yine sorulur). Cevap: **Gama glutamil transferaz (GGT)**.
+3.  **Hepatit vs Kolestaz Paneli:** Sana bir vaka verip laboratuvarında AST: 1500, ALT: 1800 verirse hepatosellüler hasar (viral hepatit, toksik hepatit vb.) düşüneceksin. Eğer AST: 60, ALT: 80 ama ALP: 900, GGT: 600 ve Direkt Bilirubin yüksek verirse o zaman **Kolestaz (safra yolu tıkanıklığı, pankreas başı kanseri, koledokolitiyazis vb.)** düşüneceksin. Bu ayrım "patern tanıma" soruları olarak mutlaka karşına gelir.
+
+Öncelikle sorumuzu orijinal haliyle yazalım (Kaynaklarımızda aynı sorunun 19. soru (M5-2023-7) olarak da birebir sorulduğunu görüyoruz):
+
+**10. Aşağıdakilerden hangisi endoskopi endikasyonlarından değildir? (M6-2025-3) / (M5-2023-7)**
+a) Kronik demir eksikliği anemisi
+b) Disfaji ya da odinofaji varlığı
+c) Uzun süre nonsteroid antiinflamatuvar ilaç kullanacak olan yaşlı hastalar
+d) Yeni başlayan epigastrik şişkinlik şikâyeti olan kişiler
+e) Sirozlu hastalarda varis değerlendirmesi
+
+**Doğru Şık:** **D (Yeni başlayan epigastrik şişkinlik şikâyeti olan kişiler)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru bizden hastalıklara tanı koymak veya tedavi etmek amacıyla uyguladığımız Üst GİS Endoskopisi işleminin hangi durumlarda "mutlaka" yapılması gerektiğini, hangi basit durumlarda ise (örneğin basit bir şişkinlik) hemen endoskopiye başvurmanın gereksiz (veya öncelikli olmayan) bir yaklaşım olduğunu ayırt etmemizi beklemektedir.
+
+**Şıkların Açıklaması:**
+*   **a) Kronik demir eksikliği anemisi:** Açıklanamayan kronik anemi, GİS'ten gizli bir kanama odağı (örneğin mide ülseri veya kolon/mide kanseri) olabileceğini gösteren kesin bir **alarm bulgusudur**. Bu nedenle kanama odağını saptamak için mutlaka endoskopi yapılmalıdır. 
+*   **b) Disfaji ya da odinofaji varlığı:** Disfaji (yutma güçlüğü) ve odinofaji (yutarken ağrı hissetme) organik bir tıkanıklık (tümör, darlık, web) veya ciddi özofajit işareti olabileceğinden kesin endoskopi endikasyonudur.
+*   **c) Uzun süre nonsteroid antiinflamatuvar ilaç kullanacak olan yaşlı hastalar:** NSAİİ'ler veya antikoagülan (Coumadin gibi) ilaçlar, midede kanama ve ülser riskini ciddi oranda artırır. Bu hastaların öncesinde mide mukozasını değerlendirmek, var olan bir ülseri kanamadan önce tespit edip tedavi etmek için endoskopi yapmak büyük önem taşır.
+*   **d) Yeni başlayan epigastrik şişkinlik şikâyeti olan kişiler (Doğru Cevap):** Şişkinlik, "dispepsi" adı verilen semptom kompleksinin basit bir parçasıdır. Hastada yaş faktörü veya alarm semptomları eşlik etmiyorsa tek başına yeni başlayan bir şişkinlik için anında endoskopi yapılmaz, bu yanlış bir tıp pratiği olur.
+*   **e) Sirozlu hastalarda varis değerlendirmesi:** Siroz, portal hipertansiyona neden olur. Basıncın artması mide ve özofagustaki damarları genişleterek hayati tehlike yaratan varis kanamalarına zemin hazırlar. Portal HT varlığında varis tanısı koymak ve gelişimini takip etmek için endoskopi mutlak bir endikasyondur.
+
+**Önemli Terimler:**
+*   **ÖGD (Özefagogastroduodenal Endoskopi):** Özofagus, mide ve onikiparmak bağırsağının (duodenum) iç yüzeyinin ışıklı ve kameralı esnek bir tüp kullanılarak incelenmesi işlemidir.
+*   **Dispepsi:** Epigastrik bölgede (karnın üst orta kısmı) hissedilen şişkinlik, ağrı, erken doyma, yanma gibi semptomlar bütünüdür.
+*   **Alarm Semptomları:** Hastada basit bir hazımsızlıktan öte, kanser veya ciddi organik bir hastalık olabileceğini işaret eden "kırmızı bayrak" bulgularıdır. Hızlı kilo kaybı, ileri yaş, anemi, disfaji, inatçı kusmalar ve GİS kanamaları bunlara örnektir.
+
+**Bilinmesi Gereken Alt Konular:**
+*   **Dispepsi Yaklaşım Algoritması:** Bir hasta dispepsi (şişkinlik, mide ağrısı vb.) ile geldiğinde ne yapmalıyız? 
+    *   Eğer hasta **50 yaşından gençse ve alarm semptomu YOKSA**, hemen endoskopi yapılmaz! Önce *Helicobacter pylori* aranır, pozitifse eradikasyon tedavisi verilir. Negatifse veya tedaviye rağmen geçmezse 8 haftalık PPI (mide koruyucu) tedavisi denenir. Buna da yanıt alınamazsa endoskopi düşünülür. 
+    *   Eğer hasta **50 yaşın üzerindeyse VEYA alarm semptomları VARSA**, hiçbir test veya ilaç denemesi vakit kaybedilmeden direkt **Üst GİS Endoskopisi** planlanır.
+*   **Endoskopinin Terapötik (Tedavi Edici) Endikasyonları:** Endoskopi sadece "tanı" için (biyopsi almak, ülser görmek) yapılmaz. Kanamalı bir hastada kanamayı durdurmak (hemostaz), polipleri kesip çıkarmak (polipektomi), darlıkları balonla genişletmek (dilatasyon) veya stent takmak da endoskopinin tedavi edici görevlerindendir.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Gastroenteroloji komite ve final sınavlarında "Endoskopi Endikasyonları ve Dispepsi Algoritması" hocaların sormaktan asla vazgeçmediği temel reflekslerdendir. Şu formatlarda tekrar karşına gelmesini bekleyebilirsin:
+1.  **Vaka Formatında Dispepsi Yönetimi:** "40 yaşında, bilinen ek hastalığı olmayan ve sadece ara sıra yemek sonrası epigastrik şişkinliği olan erkek hastada ilk yapılması gereken test / yaklaşım hangisidir?" (Cevap: *H. pylori* testi veya ampirik PPI denemesi olmalıdır. Kesinlikle hemen endoskopi istenmez!).
+2.  **Alarm Semptomlarını Ayırt Etme:** "Aşağıdakilerden hangisi dispepside acil endoskopi yapılmasını gerektiren bir alarm semptomu değildir?" (Genellikle şıklara obezite veya sadece gaz/şişkinlik şikayetini koyarlar. İstemsiz kilo kaybı, yutma güçlüğü ve anemi kesin alarm semptomlarıdır).
+3.  **Terapötik Endoskopi Uygulamaları:** Tanı amaçlı işlemler ile tedavi amaçlı işlemleri ayırt etmeni isteyebilirler. "Aşağıdakilerden hangisi endoskopinin tedavi amaçlı (terapötik) kullanım alanlarından biridir?" (Cevap olarak **Polipektomi** veya **Kanamalı lezyonda hemostaz sağlama** sıkça sorulur).
+
+**11. Dünya sağlık örgütünün güvenli beslenme önerileri ile uyuşmayan seçeneği işaretleyin. (M6-2025-6)**
+a) Kanatlı kümes hayvanı yemeklerinin 50-60°C'den fazla ısıda pişirilmemesi
+b) Farklı yiyeceklerde yapılan yemek hazırlığında aralarda ellerin su ve sabunla sık sık yıkanması
+c) Yemek hazırlığı yapılan tezgah, kesme tahtaları ve aletlerin temiz tutulması
+d) Çiğ tüketilecek taze sebze gibi yiyeceklerde ve pişmiş gıdaların temas etmesinin önlenmesi
+
+*(Not: Soru kaynağında E şıkkı yer almamaktadır ancak var olan şıklar üzerinden sorunun çözümü net bir şekilde yapılabilmektedir.)*
+
+**Doğru Şık:** **A**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru Koruyucu Hekimlik ve Enfeksiyon Hastalıkları açısından son derece temel bir konuyu; Dünya Sağlık Örgütü'nün (DSÖ) gıda güvenliği ve besin yönetimi için belirlediği uluslararası standartları test etmektedir. Gıda kaynaklı enfeksiyonların (gastroenterit, salmonelloz vb.) ve zehirlenmelerin önüne geçmek için gıdaların nasıl hazırlanması, pişirilmesi ve saklanması gerektiğini kavramak, bir hekim olarak toplumu bilinçlendirmen açısından çok önemlidir. 
+
+**Şıkların Açıklaması:**
+*   **a) Yanlıştır (Doğru Cevap):** Kanatlı kümes hayvanları, kıyma, rosto ve iri kemikli et parçaları gibi ürünlerin iç kısımları da dahil olmak üzere tamamen piştiğinden emin olana dek ısıtılması şarttır. DSÖ verilerine göre yiyeceklerdeki tehlikeli patojenlerin hemen hepsini yok etmek için gıdalar **en az 70°C'ye kadar** ısıtılmalıdır. Çorba ve sulu yemekler de 70 dereceyi görecek şekilde kaynatılmalı, etin suyu kanlı değil berrak olmalıdır. 50-60°C, bakterileri öldürmek için yetersizdir ve aksine onların üreyebileceği tehlikeli bir sıcaklık kuşağına denk gelir.
+*   **b) Doğrudur:** Çapraz bulaşmayı (kontaminasyonu) önlemek için farklı yiyecekleri, özellikle çiğ gıdaları hazırlarken aralarda ellerin mutlaka su ve sabunla yıkanması gerekir.
+*   **c) Doğrudur:** Mutfak tezgahları, kesme tahtaları ve kullanılan aletler hijyenik tutulmalı ve farklı gıda grupları işlenirken her seferinde temizlenmelidir.
+*   **d) Doğrudur:** Çiğ tüketilecek taze sebze ve meyveler ile pişmiş gıdalar arasında temas kesinlikle önlenmelidir. Çiğ ve pişmiş gıdalar ayrı kaplarda saklanmalı ve birbirine değdirilmemelidir.
+
+**Önemli Terimler:**
+*   **Çapraz Kontaminasyon (Çapraz Bulaşma):** Bakteri ve virüs gibi hastalık yapıcı mikroorganizmaların, genellikle çiğ bir gıdadan (çiğ tavuk vb.) veya yüzeyden, pişmiş veya yemeye hazır bir gıdaya transfer olması durumudur.
+*   **Gıda İnfeksiyonu/Zehirlenmesi:** Patojen mikroorganizmalarla (bakteri, virüs, parazit) veya onların ürettiği toksinlerle kontamine olmuş gıdaların tüketilmesi sonucu ortaya çıkan, ishal, bulantı, kusma ve karın ağrısı ile seyreden klinik tablodur.
+
+**Bilinmesi Gereken Alt Konular (DSÖ Gıda Güvenliği Kuralları):**
+Hazır DSÖ kurallarından bahsediyorken, enfeksiyon hastalıkları modülünde her zaman karşına çıkabilecek diğer temel gıda güvenlik kurallarını da hatırlayalım:
+*   **Güvenli Saklama:** Yemekler pişirildikten sonra oda sıcaklığında uzun süre (genellikle 2 saatten fazla) bekletilmemelidir. Pişmiş gıdalar hızla **buzdolabına (5°C'nin altına veya 4°C'ye)** kaldırılmalıdır. Ancak yemekler fokur fokur kaynarken buzdolabına atılmamalıdır; bu dolabın iç ısısını yükselterek diğer gıdaları bozar.
+*   **Bakteri Üreme Isısı:** Yemekleri besin değerinin bozulmaması için 60°C'ye kadar ısıtmak doğru bir uygulama değildir. Güvenli ısıl işlem sınırı her zaman 70°C ve üzeridir.
+*   **Temiz Su ve Besin Kaynağı:** Temiz ve güvenilir içme suyu kullanılmalı, pastörize süt gibi güvenli hale getirilmiş ürünler tercih edilmelidir. 
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Bu konu, "GİS Hastalıklarına Genel Bakış, Epidemiyoloji ve Risk Faktörleri" başlığı altında pratik ve klinik bilgi olarak mutlaka yoklanır. Notlarına ve geçmiş komitelere baktığımda şunların gelmesi muhtemeldir:
+1.  **Saklama ve Isıtma Yanılgıları:** Tıpkı 2023 yılında sorulduğu gibi (M5-2023-50) "Yemek pişirildikten hemen sonra buzdolabına atılmalıdır" veya "Besin değeri bozulmaması için 60°C'ye kadar ısıtılmalıdır" cümleleri yanlış uygulamalar (cevap şıkları) olarak karşına getirilir.
+2.  **Etken ve Gıda Eşleştirmesi:** Gıda güvenliği ihlal edildiğinde etkenlerin hangi besinlerden bulaştığını sorarlar. Örneğin; "Yetersiz ısıtılmış veya oda ısısında beklemiş pirinç (pilav) yedikten saatler sonra kusma ile gelen hasta" senaryosunda etken **Bacillus cereus**'tur. "Tavuk ve yumurta tüketimi sonrası başlayan kanlı/mukuslu ishal" senaryosunda etken olarak **Salmonella** veya **Campylobacter** düşünülmelidir.
+3.  **Çiğ ve Pişmiş Gıdaların Ayrımı:** "Pişmiş ve pişmemiş yemekler ayrı kaplarda saklanmalıdır" ibaresi (M5-2023-50), hastalıkları önlemedeki en hayati doğrular arasındadır ve "doğrudur/yanlıştır" sorularının klasik seçeneğidir.
+
+**12. Aşağıdakilerden hangisi gastrointestinal muayene için doğru değildir? (M6-2025-25) (M5-2024-16) x2**
+a) Muayene için hastadan izin alınması gerekir.
+b) Rektal tuşe gastrointestinal muayenenin bir parçasıdır.
+c) Yavaş ve ani baskı şeklinde muayene yapılmamalıdır.
+d) Hasta yatar pozisyonsa gevşek olmalıdır.
+e) Hastanın mutlaka sol tarafında olunmalıdır.
+
+**Doğru Şık:** **E**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru klinik becerilerimizin temelini oluşturan gastrointestinal sistem (GİS) fizik muayene prensiplerini değerlendiriyor. Batın (karın) muayenesi, hastanın mahremiyetinin korunması, doğru anatomik değerlendirmenin yapılabilmesi ve hastaya zarar verilmemesi adına katı kurallara bağlıdır. Soru bizden bu standart fizik muayene kurallarına uymayan, yanlış olan uygulamayı bulmamızı istiyor. Karın muayenesinde evrensel tıbbi yaklaşım, hekimin her zaman hastanın **sağ tarafında** durmasıdır. 
+
+**Şıkların Açıklaması:**
+*   **a) Doğrudur:** Her türlü tıbbi işlem ve fizik muayene öncesinde hastaya ne yapılacağı anlatılmalı ve hastadan mutlaka sözlü onam (izin) alınmalıdır.
+*   **b) Doğrudur:** Karın ağrılı veya GİS şikayeti olan bir hastada fizik muayene sadece karna dokunmaktan ibaret değildir. Abdominal, rektal (rektal tuşe), pelvik ve genitoüriner sistemi içine alan tam bir muayene yapılmalıdır. Rektal tuşe ile gaitada gizli kan, melena veya retroçekal yerleşimli bir apandisitin hassasiyeti saptanabilir.
+*   **c) Doğrudur:** Muayene sırasında hastanın karnına ani, sert ve hızlı baskılar yapılmamalıdır. Ani baskı yapmak hastanın istemsiz olarak karnını kasmasına (istemli defans) yol açarak muayeneyi zorlaştırır. Ayrıca dalak gibi büyümüş ve frajil (kırılgan) organların muayene sırasında yırtılmasına (rüptür) yol açabilir.
+*   **d) Doğrudur:** Hastanın karnındaki organları ve olası kitleleri doğru palpe edebilmemiz için karın kaslarının tamamen gevşek olması gerekir. Bu nedenle hasta supin (sırtüstü) pozisyonda rahat yatmalı, gerekirse dizlerini hafifçe bükerek karın kaslarını gevşetmesi sağlanmalıdır.
+*   **e) Yanlıştır ve sorunun cevabıdır:** Tıbbi fizik muayene standartlarına göre, hekim muayene esnasında hastanın solunda değil, **mutlaka sağ tarafında** bulunmalıdır. Karaciğer palpasyonu ve batın içi organların değerlendirilmesi sağ taraftan anatomik olarak çok daha doğru yapılır.
+
+**Önemli Terimler:**
+*   **Rektal Tuşe:** Kalın bağırsağın son kısmı olan rektumun, hekimin eldiven giydiği işaret parmağı ile anüsten girilerek muayene edilmesidir. 
+*   **Supin Pozisyon:** Hastanın sırtüstü, düz bir şekilde yattığı anatomik muayene pozisyonudur.
+*   **Defans (Müsküler Rijidite):** Periton iltihaplanması (peritonit) gibi durumlarda karın kaslarının tahta gibi sertleşmesi ve istemsiz olarak kasılması durumudur. 
+*   **Frajil:** Dokunmaya, baskıya karşı dayanıksız, kolayca yırtılabilen veya kanayabilen yapı (özellikle enfekte veya büyümüş dalak için kullanılır).
+
+**Bilinmesi Gereken Alt Konular (Karın Muayenesinin İncelikleri):**
+*   **Karın Muayene Sırası:** Normal sistem muayenelerinde sıra İnspeksiyon $\rightarrow$ Palpasyon $\rightarrow$ Perküsyon $\rightarrow$ Oskültasyon iken, **batın (karın) muayenesinde bu sıra farklıdır**. Karna dokunmak (palpasyon) bağırsak seslerini değiştirebileceği için, sıra daima **İnspeksiyon $\rightarrow$ Oskültasyon $\rightarrow$ Palpasyon $\rightarrow$ Perküsyon** şeklinde olmalıdır. 
+*   **Palpasyona Başlama Yeri:** Hastanın karnında ağrı tarif ettiği bir bölge varsa, palpasyona **daima ağrısız (en uzak) bölgeden** başlanmalıdır. Aksi takdirde hasta ağrıdan dolayı kasılır ve muayeneye izin vermez.
+*   **Rebound Hassasiyeti:** Karna elle yavaşça bastırılıp aniden elin çekilmesiyle hastada oluşan şiddetli ağrıdır. Karın zarı iltihabının (peritonit) tipik bulgusudur.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Gastroenteroloji komite ve final sınavlarında "Muayene Prensipleri" banko konulardandır. Şu soruların gelmesi çok muhtemeldir:
+1.  **Karın Muayene Sırası Sorusu:** "Karın muayenesinde hangi sıra doğrudur?" şeklinde sorulur (M5-2024-72). Cevabın **İnspeksiyon $\rightarrow$ Oskültasyon $\rightarrow$ Palpasyon $\rightarrow$ Perküsyon** olmalıdır.
+2.  **Dalak Muayenesi Kuralları:** Tıpkı bu soruya benzer şekilde, "Dalak fizik muayenesinde aşağıdakilerden hangisi yanlıştır?" diye sorarlar (M6-2025-48). Yanlış şık olarak "Dalağın palpe edilebilmesi için ani hareketlerle ve derin bastırılarak muayene yapılmalıdır" cümlesini koyarlar. Asla ani ve sert baskı yapılmaz, dalak perfore olabilir.
+3.  **Alarm Semptomlarını Yakalamak:** "Aşağıdakilerden hangisi dispepside bir alarm semptomu değildir?" tarzı sorularda şıklara obeziteyi, karın ağrısını veya basit şişkinliği koyarlar. Unutma; anemi, kilo kaybı, yutma güçlüğü (disfaji) ve kanama gerçek alarm semptomlarıdır.
+
+**13. Pankreas kanseri ilgili aşağıdakilerden hangisi doğrudur? (M6-2025-58)**
+a) Sarılık geç dönemde gelişir (?)
+b) KRAS mutasyonu tümörlerin çoğunda bulunur.
+c) Çoğu nöroendokrin karsinomadır.
+d) En sık pankreas başında gelişir.
+e) Sigara ile ilişkilidir.
+
+**Doğru Şık:** **C (Ancak bir düzeltme ile!)** 
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soruyu çözerken öncelikle komite sınavlarında zaman zaman karşılaştığımız "hatalı soru kökü" durumuyla yüzleşiyoruz. Soru kökü bizden "doğru olanı" bulmamızı istiyor ancak şıklara baktığımızda **B, D ve E şıklarının hepsi bilimsel olarak tamamen doğrudur**. Pankreas başı tümörleri için sarılığın geç gelişmesi (A şıkkı) yanlıştır ancak gövde/kuyruk tümörlerinde geç gelişmesi doğrudur. Kesin ve net olarak **yanlış olan tek bir şık vardır, o da C şıkkıdır**. Sınavı hazırlayan hocalarımızın aslında "Pankreas kanseri ile ilgili hangisi **yanlıştır?**" diye sormak istediği son derece açıktır. Biz de klinik vizyonumuzu geliştirmek adına bu soruyu "Hangisi yanlıştır?" mantığıyla irdeleyeceğiz.
+
+**Şıkların Açıklaması:**
+*   **a) Sarılık geç dönemde gelişir:** Bu ifade tümörün lokalizasyonuna göre değişir. Pankreas başı yerleşimli tümörlerde (ki en sık oradadır) koledok basısı nedeniyle sarılık **erken dönemde** bulgu verir. Ancak gövde ve kuyruk tümörlerinde sarılık çok geç gelişir.
+*   **b) KRAS mutasyonu tümörlerin çoğunda bulunur (Doğrudur):** Pankreas adenokarsinomlarının moleküler patogenezinde en sık görülen genetik anomali KRAS onkogen mutasyonudur ve olguların yaklaşık %90'ında saptanır.
+*   **c) Çoğu nöroendokrin karsinomadır (Kesinlikle Yanlıştır ve asıl hedeflenen şıktır):** Pankreas kanserlerinin çok büyük bir kısmı (%90 civarı) ekzokrin bez kanallarını döşeyen epitelden köken alan **duktal adenokarsinoma** özelliğindedir. Nöroendokrin tümörler pankreasta çok daha nadir görülür.
+*   **d) En sık pankreas başında gelişir (Doğrudur):** Pankreas karsinomlarının lokalizasyon oranları incelendiğinde; %60'ı pankreas başında, %10'u gövdede ve %10'u kuyrukta gelişir. 
+*   **e) Sigara ile ilişkilidir (Doğrudur):** Sigara, pankreas kanseri için epidemiyolojik olarak kanıtlanmış en güçlü çevresel risk faktörlerinden biridir.
+
+**Önemli Terimler:**
+*   **Duktal Adenokarsinom:** Pankreasın sindirim enzimlerini taşıyan kanallarının (duktus) epitelinden kaynaklanan, en sık ve en agresif seyirli pankreas kanseri tipidir.
+*   **KRAS Mutasyonu:** Hücre büyümesini ve bölünmesini kontrol eden bir genin mutasyonudur. Pankreas tümörgenezinin (kanserleşme sürecinin) en erken ve en sık görülen basamağıdır.
+*   **Nöroendokrin Karsinom (NET):** Pankreasın adacık hücrelerinden (endokrin kısım) köken alan nadir, genellikle daha yavaş seyirli (insülinoma, gastrinoma gibi) tümörlerdir.
+
+**Bilinmesi Gereken Alt Konular:**
+*   **Klinik Gidiş ve Lokalizasyon İlişkisi:** Bu hastalıkta tümörün nerede başladığı hastanın kaderini ve tanının konma zamanını belirler. Pankreasın baş kısmındaki tümörler hızla ana safra kanalını tıkayarak hastanın "sarılık" şikayetiyle hekime başvurmasını sağlar, bu da **görece daha erken tanı** konmasına olanak tanır. Buna karşılık gövde ve kuyruk bölgesindeki tümörler safra yoluna uzak olduğu için sarılık yapmaz, sessizce büyür ve genellikle çevre dokulara, sinirlere veya uzak organlara metastaz yaptıktan sonra geç evrede tespit edilir.
+*   **Diğer Risk Faktörleri:** Sadece sigarayı değil; alkol, kronik pankreatit, Diabetes Mellitus (DM), yağlı diyet ve kimyasal karsinojenleri de etiyolojik faktörler olarak hafızana kazımalısın.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Pankreas karsinomu hem dahiliye hem de genel cerrahi rotasyonlarında/sınavlarında karşına sıkça çıkacak favori bir başlıktır. Geçmiş yılların refleksine bakarak şu senaryoları bekleyebilirsin:
+1.  **Lokalizasyon-Bulgu İlişkisi (Courvoisier-Terrier):** "Sarılık şikayeti olmayan, sırt ağrısı ile gelen ve ileri evrede tanı alan pankreas kanserinin en olası yerleşimi neresidir?" Cevap: **Gövde ve kuyruk**. "Ağrısız sarılık ve sağ üst kadranda ele gelen hidropik safra kesesi" vaka sunumunun cevabı ise her zaman **Pankreas başı tümörü** olacaktır.
+2.  **En Sık Görülen Mutasyon:** Pankreas karsinomunda en sık izlenen genetik mutasyonun doğrudan sorulma ihtimali çok yüksektir. Şıklardaki BRAF, p53, APC gibi çeldiriciler arasından **KRAS** mutasyonunu seçmelisin.
+3.  **Histopatolojik Tip Sorusu:** "Pankreasın en sık görülen malignitesi hangisidir?" şeklinde basit bir bilgi sorusu olarak sorulur. Cevap net olarak **Duktal Adenokarsinom** olmalıdır.
+
+
+
+**14. Dünya sağlık örgütünün güvenli beslenme önerileri ile uyuşmayan seçeneği işaretleyin. (M5-2024-2)**
+a) Kanatlı kümes hayvanı yemeklerinin $0-60^{\circ}$ C`den fazla ısıda pişirilmemesi
+b) Farklı yiyeceklerde yapılan yemek hazırlığında aralarda ellerin su ve sabunla sık sık yıkanması
+c) Yemek hazırlığı yapılan tezgah, kesme tahtaları ve aletlerin temiz tutulması
+d) Çiğ tüketilecek taze sebze gibi yiyeceklerde ve pişmiş gıdaların temas etmesinin önlenmesi
+e) Gıdaların pişirilme sonrası sofrada tüketilene kadar sıcak tutulması
+
+**Doğru Şık:** **A**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru önceki yıllarda çözdüğümüz bir soruyla (11. Soru) neredeyse birebir aynı konsepti test ediyor. Koruyucu hekimlik ve enfeksiyon hastalıkları prensiplerine göre, Dünya Sağlık Örgütü'nün (DSÖ) gıda kaynaklı enfeksiyonları önlemek amacıyla belirlediği güvenli besin hazırlama kurallarını iyi bilmemiz gerekiyor. Gıdaların hazırlanmasından sofraya gelene kadar geçen süredeki hijyen ve ısı yönetimi, toplum sağlığı için en kritik adımlardandır. Bu soruda bizden, DSÖ'nün standartlarıyla çelişen "yanlış" uygulamayı bulmamız isteniyor.
+
+**Şıkların Açıklaması:**
+*   **a) Yanlıştır (Doğru Cevap):** Kanatlı kümes hayvanları, rosto ve bütün tavuk gibi gıdaların iç kısımları da dahil olmak üzere tamamen pişmesi için ısıtılması gereken güvenli sıcaklık düzeyi **en az 70°C'dir**. Sorudaki "$0-60^{\circ}$ C'den fazla ısıda pişirilmemesi" ifadesi kesinlikle yanlıştır; çünkü 60°C'nin altındaki sıcaklıklar (tehlike bölgesi), bakterilerin ölmesini sağlamadığı gibi tam tersine hızla çoğalmaları için en ideal ortamı yaratır. 
+*   **b) Doğrudur:** Farklı gıdalara (özellikle çiğ etten sebzelere) geçerken ellerin mutlaka su ve sabunla yıkanması, çapraz bulaşmayı önlemek için temel bir kuraldır.
+*   **c) Doğrudur:** Mutfak ekipmanları ve tezgahlar, her gıda hazırlığından sonra temiz tutulmalıdır.
+*   **d) Doğrudur:** Çiğ tüketilecek gıdalarla (örneğin salata malzemeleri) pişmiş gıdalar birbirine temas etmemeli, ayrı kaplarda saklanmalıdır.
+*   **e) Doğrudur:** Pişirilmiş yemekler servis edilene kadar oda sıcaklığında ılımaya bırakılmamalı; ya **sıcak tutulmalı (60°C'nin üzerinde)** ya da hızlıca soğutularak buzdolabına kaldırılmalıdır.
+
+**Önemli Terimler:**
+*   **Çapraz Kontaminasyon:** Bakteri veya patojenlerin, genellikle kirli bir aletten, kesme tahtasından, elden veya çiğ bir gıdadan (çiğ et gibi), pişmiş ya da yemeye hazır bir gıdaya bulaşmasıdır.
+*   **Tehlikeli Sıcaklık Aralığı (Danger Zone):** Genellikle 5°C ile 60°C arasındaki sıcaklıklardır. Patojen bakterilerin gıdalar üzerinde en hızlı çoğaldığı sıcaklık aralığı olduğundan yiyecekler bu sıcaklıklarda uzun süre bekletilmemelidir.
+*   **Pastörizasyon:** Süt ve meyve suyu gibi gıdalardaki patojenleri yok etmek için uygulanan spesifik ısıl işlemdir. DSÖ, güvenli besin için pastörize süt kullanılmasını önermektedir.
+
+**Bilinmesi Gereken Alt Konular:**
+*   **Besinlerin Soğutulma ve Saklanma Kuralları:** Yemekleri pişirdikten sonra sofrada uzun süre oda sıcaklığında bırakmak ne kadar tehlikeliyse, fokur fokur kaynayan bir yemeği hemen buzdolabına koymak da o kadar yanlıştır. Yemekler dumanı tüterken dolaba konulmamalı, oda ısısında 2 saati geçmeyecek şekilde ılıması beklendikten sonra (4-5°C'ye) buzdolabına kaldırılmalıdır. 
+*   **Gıda Zehirlenmesi Etkenleri:** Besin güvenliği kurallarının ihlali sonucu gelişen tablolarda etkeni tahmin edebilmek klinikte çok işine yarar. Örneğin; çiğ veya az pişmiş tavuk/yumurta **Salmonella** ve **Campylobacter** enfeksiyonlarına yol açarken; oda ısısında beklemiş pirinç pilavı **Bacillus cereus** sporlarının açılmasına, uygunsuz ev konserveleri ise ölümcül nörolojik bulgularla seyreden **Clostridium botulinum** toksikasyonuna (Botulismus) neden olur.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Gastroenteroloji ve Enfeksiyon modülünde DSÖ besin güvenliği ve gıda zehirlenmeleri konsepti komitelerde sıkça karşımıza çıkar. Notlara ve çıkmış sorulara bakarsak şu noktalara çok dikkat etmelisin:
+1.  **Sıcaklık ve Buzdolabı Yanılgıları:** "Yemek pişirildikten hemen sonra buzdolabına atılmalıdır" cümlesi (M5-2023-50 sorusunda olduğu gibi) kesinlikle yanlış bir şık olarak karşına tekrar gelecektir. 
+2.  **Güvenli Isı Sınırı Sorusu:** "Besin değeri bozulmaması için yemekler 60 dereceye kadar ısıtılmalıdır" ifadesini şıklara "yanlış" seçenek olarak sıklıkla koyarlar. Et ve tavuk sularının kanlı değil, berrak olduğundan emin olana kadar, yani gıda **en az 70°C'ye** ulaşana kadar ısıtılmalıdır.
+3.  **Botulismus Vakası:** "Ev yapımı konserve tüketen bir ailede saatler/günler içerisinde başlayan çift görme (diplopi), yutma güçlüğü ve kabızlık tablosu var, etken nedir?" diye bir vaka sorusu gelebilir. Ölümcül seyredebilen ve kabızlık yapan bu gıda zehirlenmesi etkeni **Clostridium botulinum**'dur.
+
+Harika! Gastrointestinal tanı yöntemlerinin sınırlarını ve endikasyonlarını kavramamızı sağlayacak çok güzel bir klinik sorusuyla devam ediyoruz. 
+
+Öncelikle sorumuzu orijinal haliyle yazalım:
+
+**15. Aşağıdakilerden hangisi enteroskopi endikasyonlarından değildir? (M5-2024-51)**
+a) İnce bağırsakta tomografide tespit edilen şüpheli lezyonların değerlendirilmesi
+b) Endoskopi ve kolonoskopide odak tespit edilemeyen gaytada gizli kan pozitifliği
+c) Yeri tespit edileyemen aşikar Gİ kanamaları
+d) İnce bağırsakta perforasyo şüphesi
+e) Perkütan jejunal beslenme tüpü takılması
+
+**Doğru Şık:** **D (İnce bağırsakta perforasyon şüphesi)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru bizden standart bir endoskopi veya kolonoskopi ile ulaşılamayan ince bağırsağın derinliklerini incelememize yarayan "enteroskopi" işleminin kullanım alanlarını (endikasyonlarını) ve asla kullanılmaması gereken mutlak kontrendikasyonlarını ayırt etmemizi istiyor. Sindirim sistemi lümenine hava veya gaz verilerek yapılan tüm endoskopik işlemlerde altın kural şudur: **Eğer lümende bir delinme (perforasyon) şüphesi varsa, işlem kesinlikle kontrendikedir!** İçeri basılan hava, bağırsak içeriğinin steril periton boşluğuna daha fazla yayılmasına ve ölümcül peritonit tablosuna yol açar. Perforasyon şüphesinde hastanın ameliyata (veya öncesinde görüntüleme için tomografiye) alınması gerekir, enteroskopi yapılmaz.
+
+**Şıkların Açıklaması:**
+*   **a) İnce bağırsakta tomografide tespit edilen şüpheli lezyonların değerlendirilmesi:** Doğrudur. BT'de veya MR'da ince bağırsakta kitle veya duvar kalınlaşması saptanırsa, bu lezyonu doğrudan gözle görmek ve kesin tanı (patoloji) için biyopsi almak amacıyla enteroskopi kesin bir endikasyondur.
+*   **b) Endoskopi ve kolonoskopide odak tespit edilemeyen gaytada gizli kan pozitifliği:** Doğrudur. Hastada açıklanamayan bir anemi varsa ve standart üst GİS endoskopisi ile alt GİS (kolonoskopi) normalse, kanamanın bu iki tetkikin ulaşamadığı "karanlık bölgeden" yani ince bağırsaktan (örneğin anjiyodisplazi veya ince bağırsak tümörü) kaynaklandığını düşünürüz ve enteroskopi yaparız.
+*   **c) Yeri tespit edilemeyen aşikar Gİ kanamaları:** Doğrudur. Aynı şekilde melena veya hematokezya gibi aşikar bir kanama varlığında üst ve alt endoskopilerde kanama odağı bulunamazsa, kaynak ince bağırsaktır ve enteroskopi endikasyonu vardır.
+*   **d) İnce bağırsakta perforasyon şüphesi (Doğru Cevap):** Yanlıştır. Yukarıda da açıkladığım gibi, perforasyon (delinme) şüphesi olan hiçbir hastaya tanısal veya terapötik endoskopi/enteroskopi yapılmaz. Direkt acil cerrahi konsültasyonu ve uygun kesitsel görüntülemeler (BT) istenir.
+*   **e) Perkütan jejunal beslenme tüpü takılması:** Doğrudur. Midesi rezeke edilmiş, mide çıkış obstrüksiyonu olan veya yutma fonksiyonunu tamamen kaybetmiş enteral beslenmesi gereken hastalarda, beslenme tüpünü doğrudan ince bağırsağa (jejunuma) yerleştirmek (PEJ) için enteroskopi terapötik bir endikasyondur.
+
+**Önemli Terimler:**
+*   **Enteroskopi:** Ulaşılması zor olan ince bağırsakların (jejunum ve ileum) uzun ve özel endoskoplar (çoğunlukla tek veya çift balonlu sistemler) yardımıyla görüntülenmesi, biyopsi alınması ve tedavi edilmesini sağlayan işlemdir.
+*   **Perforasyon:** Gastrointestinal sistem organlarının (mide, bağırsak vb.) duvarındaki tam kat yırtılma veya delinmedir. Acil bir durumdur.
+*   **Aşikar / Gizli (Occult) Kanama:** Aşikar kanama, hastanın gözle görebildiği (kahve telvesi kusma, melena, kırmızı kan) kanamalardır. Gizli kanama ise hastanın fark etmediği, kronik demir eksikliği anemisi ile kendini gösteren ve GGK (Gaytada Gizli Kan) testleriyle saptanan kanamalardır.
+
+**Bilinmesi Gereken Alt Konular (Enteroskopinin Diğer Kullanım Alanları):**
+Sadece sorudakiler değil, enteroskopinin diğer önemli terapötik (tedavi edici) kullanım alanlarını da notlarından yola çıkarak mutlaka bilmelisin:
+*   **Yabancı Cisim / Kapsül Çıkarma:** İnce bağırsağa takılıp kalan bir yabancı cismi veya tanı amacıyla yutturulan ancak darlık nedeniyle içeride mahsur kalan bir "kapsül endoskopiyi" çıkarmak için enteroskopi kullanılır.
+*   **Poliplerin Çıkarılması:** Özellikle *Peutz-Jeghers Sendromu* gibi ince bağırsakta çok sayıda polip yapan durumlarda, poliplerin kesilip çıkarılması (polipektomi) için kullanılır.
+*   **Kanama Müdahalesi:** İnce bağırsaktaki damarsal anormalliklere (anjiyodisplazi) Argon Plazma Koagülasyonu (APC) gibi yöntemlerle müdahale edip kanamayı durdurmak için terapötik olarak kullanılır.
+*   **Kapsül Endoskopi ile Enteroskopinin Farkı:** Kapsül endoskopi, hastanın yuttuğu kameralı bir hapla tüm ince bağırsağın taranmasıdır. Ancak kapsül endoskopi *sadece tanısal* bir testtir; patoloji alamaz veya kanamaya müdahale edemez. Bir lezyon veya kanama görülürse, işlemi yapmak için arkasından mutlaka enteroskopi planlanmalıdır. 
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Gastroenterolojinin "Tanı Yöntemleri" derslerinden şu konseptler komite ve finalde tekrar tekrar önüne gelecektir:
+1.  **Açıklanamayan Kanama Odağı Algoritması:** Vaka olarak verilir: "65 yaşında kronik demir eksikliği anemisi olan hastanın yapılan Üst GİS endoskopisi ve Kolonoskopisi tamamen normal bulunmuştur. Bundan sonra kanama odağını araştırmak için hangi tetkik istenmelidir?" Cevap ince bağırsağı değerlendirmek için **Kapsül Endoskopi** veya doğrudan **Enteroskopi** olacaktır.
+2.  **Kontrendikasyonların Sorgulanması:** Tıpkı bu soruda "perforasyon"un sorulduğu gibi, "Aşağıdakilerden hangisi kolonoskopi/endoskopi için mutlak bir kontrendikasyondur?" diye sorulur. Şıklarda **Şüpheli Perforasyon, Toksik Megakolon, Fulminan Kolit** veya **Hemodinamik Şok (Akut MI vb.)** aramalısın.
+3.  **Kapsül Endoskopi Sorusu:** "İnce bağırsak mukozasını tümüyle görüntüleyebilen ancak biyopsi alma imkânı olmayan yöntem hangisidir?" şeklinde bilgi sorusu gelebilir. Cevap: **Kapsül Endoskopi** olacaktır.
+
+**16. Aşağıdaki koşullardan hangisinin varlığı halinde kolonda divertiküler hastalık gelişme riski azdır? (M5-2024-54)**
+a) Obezite
+b) Fiziksel inaktivite
+c) Diyette kırmızı etin fazla tüketilmesi
+d) Lifli gıdaların fazla tüketilmesi
+e) Uzun süre alkol kullanımı
+
+**Doğru Şık:** **D (Lifli gıdaların fazla tüketilmesi)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru gastrointestinal sistem hastalıklarının etiyolojisinde diyet ve yaşam tarzının ne kadar önemli olduğunu ölçüyor. Divertiküller, kalın bağırsak (kolon) duvarındaki zayıf noktalardan mukozanın lümen dışına doğru fıtıklaşmasıyla (keseleşmesiyle) oluşan yapılardır. Soru bizden bu hastalığın oluşumunu teşvik eden değil, tam tersine oluşumunu *engelleyen* (riski azaltan) koruyucu faktörü bulmamızı istiyor. Bağırsak lümenindeki basıncı düşüren her şey bu riski azaltır.
+
+**Şıkların Açıklaması:**
+*   **a) Obezite:** Obezite, divertiküler hastalık için bilinen güçlü bir risk faktörüdür. Bağırsak motilitesini olumsuz etkileyerek lümen içi basıncın artmasına zemin hazırlar.
+*   **b) Fiziksel inaktivite:** Hareketsiz bir yaşam, bağırsak hareketlerinin (peristaltizm) yavaşlamasına ve kabızlığa yol açar. Dışkı zor atıldıkça lümen içi basınç artar ve divertikül oluşum riski yükselir.
+*   **c) Diyette kırmızı etin fazla tüketilmesi:** Kırmızı etten zengin, liften fakir Batı tipi diyet, divertikülozis gelişimindeki en bilinen risk faktörlerindendir.
+*   **d) Lifli gıdaların fazla tüketilmesi (Doğru Cevap):** Lifli gıdaların yüksek oranda tüketilmesi, dışkı hacmini artırır ve dışkıyı yumuşatır. Bu durum, kolonik geçiş süresini kısaltarak lümen içi basıncı düşürür. Düşük basınç ortamı, divertiküler hastalığın oluşumuna neden olabilen bağırsak kas tabakasının (**muscularis propria**) zayıflamasını engeller ve fıtıklaşmayı önler.
+*   **e) Uzun süre alkol kullanımı:** Alkol tüketimi bağırsak florasını, motilitesini ve bariyerini bozarak bu hastalıklara yönelik riski artırır, azaltmaz.
+
+**Önemli Terimler:**
+*   **Divertikül:** İçi boş organların (özellikle kolonun) duvarındaki zayıf alanlardan mukozanın dışarıya doğru cep şeklinde fıtıklaşmasıdır.
+*   **Divertikülozis:** Kolonda birden fazla divertikülün bulunması durumudur. Genellikle asemptomatiktir.
+*   **Divertikülit:** Bu divertikül keseciklerinin içine dışkı (fekalit) kaçması sonucu tıkanarak iltihaplanması veya enfekte olmasıdır.
+*   **Muscularis Propria:** Bağırsak duvarının asıl kalın kas tabakasıdır. Lümen içi basınç çok arttığında (kabızlıkta ıkınma gibi durumlarda), bu tabakanın zayıflamasıyla divertiküller ortaya çıkar.
+
+**Bilinmesi Gereken Alt Konular:**
+*   **Divertikülitin Klinik Bulguları (Ağrı Lokalizasyonu):** Divertikülit en sık kolonun sigmoid (sol alt) kısmını tutar. Bu nedenle hastalar tipik olarak hastaneye başvurmadan birkaç gün önce başlamış **sol alt kadran ağrısı** ile gelirler. Ağrı genellikle sabittir, "sızlama-acıma" tarzında hissedilir ve bulantı, kusma veya ateş ile ilişkili olabilir.
+*   **Karın Ağrısı Ayırıcı Tanısı:** Karın ağrısı ile gelen bir hastada; ağrı sağ alt kadrandaysa öncelikle Apandisit, sağ üst kadrandaysa Kolesistit veya Biliyer Kolik, **sol alt kadrandaysa Divertikülit**, epigastrik bölgede aniden başlayıp çok şiddetli seyrediyorsa Perfore Peptik Ülser veya sırta vuruyorsa Akut Pankreatit düşünülmelidir.
+*   **Dışkılama Alışkanlığındaki Değişiklikler:** Divertikülozis, lümen yapısını bozduğu için kronik karın ağrısı ve kabızlığa yol açabilir; ayrıca iltihaplı dönemlerinde ishal de görülebilir. İleri yaşta kabızlığın ve açıklanamayan alt GİS kanamalarının sık nedenlerindendir.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Bu konunun Epidemiyoloji ve Karın Ağrısı modüllerinde şu şekillerde karşına gelmesi oldukça yüksek ihtimaldir:
+1.  **Ağrı Lokalizasyonu Vaka Sorusu:** "Hastaneye başvurmadan iki gün önce başlayan, sürekli vasıflı **sol alt kadran** ağrısı, hafif ateş ve kabızlık şikayetleriyle başvuran 65 yaşındaki hastada en olası tanı nedir?" Bu senaryonun cevabı daima **Divertikülit** olacaktır.
+2.  **Risk Faktörü / Koruyucu Faktör Ayrımı:** Sorunun kendisinde de olduğu gibi, divertiküler hastalık için genetik ve yaş faktörünün dışında en önemli çevresel faktör "lifli diyet" eksikliğidir. Bu durum, "Aşağıdakilerden hangisi divertikül gelişimi için bir risk faktörü değildir?" (Cevap: Liften zengin beslenme) şeklinde tekrar sorulabilir.
+3.  **Makroskopik ve Anatomik Yerleşim:** Patoloji komitesinde divertiküllerin en sık kolonun hangi segmentinde (sigmoid kolon) izlendiğini veya lümen içi basınç (pulsiyon divertikülü) mekanizmasıyla oluştuklarını sorgulayan bir soru gelebilir.
+
+**17. Karın muayenesinde hangi sıra doğrudur? (M5-2024-72)**
+a) Inspeksiyon - Palpasyon-Oskültasyon – Perküsyon
+b) İnspeksiyon - Oskültasyon - Palpasyon - Perküsyon
+c) Palpasyon - Perküsyon - İnspeksiyon – Oskültasyon
+d) Oskültasyon - Palpasyon - Perküsyon - İnspeksiyon
+e) Perküsyon - İnspeksiyon – Oskültasyon – Palpasyon
+
+**Doğru Şık:** **B (İnspeksiyon - Oskültasyon - Palpasyon - Perküsyon)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru temel klinik beceri (fizik muayene) kurallarını sorgulamaktadır. Normal şartlarda solunum veya kardiyovasküler sistem gibi diğer vücut sistemlerini muayene ederken standart sıramız "İnspeksiyon $\rightarrow$ Palpasyon $\rightarrow$ Perküsyon $\rightarrow$ Oskültasyon" şeklindedir. Ancak, karın (batın) muayenesinin kendine has evrensel bir istisnası vardır ve sıra değişir. Bu soru, karın muayenesine özgü olan bu hayati kuralı bilip bilmediğimizi test etmektedir.
+
+**Şıkların Açıklaması:**
+*   **a) Inspeksiyon - Palpasyon-Oskültasyon – Perküsyon:** Bu, diğer sistemler için geçerli olabilen ancak karın için kesinlikle **yanlış** olan bir sıradır. Karına önce elle bastırmak (palpasyon), bağırsak hareketlerini yapay olarak uyarabilir veya durdurabilir; bu da dinleme (oskültasyon) bulgularımızı yanıltır.
+*   **b) İnspeksiyon - Oskültasyon - Palpasyon - Perküsyon (Doğru Cevap):** Karın muayenesinin altın standardıdır. Önce gözle bakılır (inspeksiyon), ardından karna dokunulmadan önce steteskop ile bağırsakların doğal sesleri dinlenir (oskültasyon). En son karna dokunarak elle hissetme (palpasyon) ve vurarak ses alma (perküsyon) işlemleri yapılır.
+*   **c, d, e) Şıkları:** Fizik muayene hiçbir zaman palpasyon, perküsyon veya oskültasyon ile başlamaz. Her zaman ilk adım gözle muayenedir (İnspeksiyon). Bu şıklar doğrudan elenir.
+
+**Önemli Terimler:**
+*   **İnspeksiyon:** Hastanın karnının dışarıdan gözle incelenmesidir (Ameliyat izi, asit şişliği, fıtık, kaput medusa gibi bulgular aranır).
+*   **Oskültasyon:** Stetoskop yardımıyla karın içindeki doğal seslerin (bağırsak peristaltik sesleri veya damarsal üfürümler) dinlenmesidir.
+*   **Palpasyon:** Hekimin ellerini kullanarak karın duvarına bastırmasıyla organ büyüklüklerini (hepatosplenomegali), kitleleri, kas sertliğini (defans) veya hassasiyeti (rebound) hissetmesidir. 
+*   **Perküsyon:** Parmaklarla karın duvarına vurularak alttaki dokunun (gaz, sıvı veya katı organ) çıkardığı yankı seslerinin (timpanizm veya matite) değerlendirilmesidir.
+
+**Bilinmesi Gereken Alt Konular:**
+*   **Sıranın Değişme Nedeni:** Oskültasyonun palpasyon ve perküsyondan önce yapılmasının tek sebebi vardır: Karna elle bastırmak veya vurmak, bağırsak peristaltizmini (hareketliliğini) değiştirerek bağırsak seslerinin artmasına veya azalmasına neden olur. Gerçek bağırsak seslerini duymak için karna hiç dokunmadan dinlemek şarttır.
+*   **Palpasyona Başlama Kuralı:** Hastanın karnında bir ağrı varsa, palpasyona **daima ağrının hiç olmadığı veya en az olduğu (en uzak) bölgeden başlanmalıdır**. Eğer direkt ağrılı yere dokunursanız hasta acıdan dolayı karnını kasar (istemli defans) ve muayenenin geri kalanını yapmanıza izin vermez.
+*   **Oskültasyon Bulguları:** Oskültasyonda bağırsak sesleri tamamen yoksa (sessiz batın), bu bize ilerlemiş peritonit veya paralitik ileus tablosunu düşündürür. Sesler hiperaktif ise akut gastroenterit veya erken evre bağırsak tıkanıklığı akla gelir.
+*   **Perküsyon Bulguları:** İçi gaz dolu bağırsaklar vurunca "timpanik" ses verir. İçi sıvı dolu alanlar (asit) veya katı organlar/kitleler vurunca tok bir "matite" sesi verir. Hastayı sağa veya sola çevirdiğinizde matite sesi yer değiştiriyorsa (yer değiştiren matite), bu karın içinde serbest sıvı (asit) olduğunu kanıtlar.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Gastroenteroloji fizik muayene pratikleri komite ve finallerde hocaların sormayı çok sevdiği alanlardır. Şu noktalardan soru gelmesi yüksek ihtimaldir:
+1.  **Palpasyona Başlama Yeri:** "Karın ağrısı ile acile başvuran hastanın fizik muayenesinde palpasyona nereden başlanmalıdır?" Cevap: **Ağrının hiç hissedilmediği veya en az hissedildiği bölgeden**.
+2.  **Spesifik Muayene Manevraları:** Karnın farklı bölgelerindeki hastalıkları tespit eden özel belirtiler (sign) kesinlikle sorulur. Örneğin;
+    *   Sağ üst kadranda derin palpasyonla nefes alırken ağrının kesilmesi: **Murphy belirtisi (Akut Kolesistit)**.
+    *   Sol alt kadrana bastırıldığında sağ alt kadranda ağrı hissedilmesi: **Rovsing belirtisi (Akut Apandisit)**.
+    *   Sağ bacak ekstansiyona getirildiğinde ağrı olması: **Psoas belirtisi (Akut Apandisit)**.
+3.  **Yer Değiştiren Matite:** "Karın perküsyonunda yer değiştiren matite saptanması neyi ifade eder?" Cevap: **Serbest periton sıvısı (Asit) varlığını** ifade eder.
+4.  **Sıranın Mantığı:** Tıpkı bu çıkmış sorunun türevi olarak; "Karın muayenesinde oskültasyonun palpasyondan önce yapılmasının temel nedeni nedir?" diye sorulabilir. Cevap: **Palpasyonun bağırsak seslerinin frekansını ve karakterini değiştirmesini engellemektir**.
+
+**18. Aşağıdaki laboratuvar testlerinden hangisi otoimmün hepatit tanısı için yardımcı test olarak kullanılır? (M5-2023-1)**
+a) Anti Nükleer Antikor
+b) Anti Mitokondriyal Antikor
+c) p-ANCA
+d) C19-9
+e) Protrombin zamanı
+
+**Doğru Şık:** **A (Anti Nükleer Antikor)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru gastroenteroloji pratiğinde sık karşılaştığımız kronik karaciğer hastalıklarının ayırıcı tanısında kullandığımız spesifik serolojik belirteçleri (otoantikorları) bilip bilmediğimizi ölçmektedir. Otoimmün karaciğer hastalıkları (Otoimmün Hepatit, Primer Biliyer Kolanjit, Primer Sklerozan Kolanjit) klinik olarak birbirlerine benzeyebilseler de, kanda saptanan spesifik otoantikorlar sayesinde birbirlerinden kesin olarak ayrılırlar. Bu soruda bizden doğrudan Otoimmün Hepatit (OİH) tanısında kullanılan spesifik belirteci bulmamız isteniyor.
+
+**Şıkların Açıklaması:**
+*   **a) Anti Nükleer Antikor (ANA) (Doğru Cevap):** Otoimmün hepatit tanısında en sık kullanılan ve en değerli yardımcı otoantikor testlerinden biridir.
+*   **b) Anti Mitokondriyal Antikor (AMA):** Yanlıştır. AMA pozitifliği, karaciğer içi küçük safra yollarının harabiyetiyle giden **Primer Biliyer Kolanjit (PBK)** hastalığının en tipik ve tanısal (altın standart) serolojik belirtecidir. 
+*   **c) p-ANCA (Perinükleer anti nötrofil sitoplazmik antikor):** Yanlıştır. Bu antikor temel olarak büyük safra yollarını tutan **Primer Sklerozan Kolanjit (PSK)** ve sıklıkla ona eşlik eden Ülseratif Kolit hastalığında pozitif saptanır.
+*   **d) C19-9 (CA 19-9):** Yanlıştır. Bu bir otoantikor değil, tümör belirtecidir. Kolon, pankreas ve biliyer sistem malignitelerinde (pankreas kanseri veya kolanjiokarsinom gibi) yükselir ve takiplerinde kullanılır.
+*   **e) Protrombin zamanı (PTZ):** Yanlıştır. PTZ karaciğerin K vitaminine bağımlı pıhtılaşma faktörlerini (Faktör II, VII, IX, X) ne kadar iyi üretebildiğini, yani karaciğerin **sentez fonksiyonunu** gösteren bir testtir. Hastalığın otoimmün olup olmadığını göstermez.
+
+**Önemli Terimler:**
+*   **Otoimmün Hepatit:** Karaciğer hücrelerine (hepatositlere) karşı gelişen hücresel ve hümoral anormal bağışıklık yanıtı (otoimmünite) sonucu gelişen ilerleyici karaciğer iltihabıdır. 
+*   **Serolojik Belirteç:** Kanda bulunan ve vücudun kendi dokularına veya yabancı maddelere karşı ürettiği, belirli hastalıkların tanısında kullanılan antikorlar veya antijenlerdir.
+*   **Sentez Fonksiyonu:** Karaciğerin pıhtılaşma faktörleri, albümin gibi vücut için hayati proteinleri üretme kapasitesidir.
+
+**Bilinmesi Gereken Alt Konular:**
+*   **Otoimmün Hepatit'in Diğer Antikorları:** Sınavda sadece ANA sorulmuş ancak Otoimmün Hepatit'in farklı tipleri vardır. **Tip 1 OİH'te** ANA ile birlikte **ASMA (Anti-Düz Kas Antikoru)** da pozitifleşir. Daha çok çocuklarda görülen **Tip 2 OİH'te** ise **Anti-LKM1** (Anti-Liver Kidney Microsomal Antibody) ve **LC1** (Liver Cystosolic) antikorları pozitif saptanır. Bunları bilmen hayat kurtarır.
+*   **Karaciğerin Gerçek Fonksiyon Testleri:** AST ve ALT enzimlerinin karaciğerin fonksiyonunu değil, **hasarını** gösterdiğini bir kez daha hatırlatmak isterim. Karaciğerin gerçek fonksiyon testleri, sentez kapasitesini ölçen **Albümin** ve **Protrombin Zamanı'dır (PTZ)**.
+*   **Tarama ve Tümör Belirteçleri:** CA 19-9 pankreas/biliyer kanserleri gösterirken, **Alfa-fetoprotein (AFP)** hepatoselüler karsinom (karaciğer kanseri) taramasında kullanılan çok kritik bir diğer tümör belirtecidir.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Serolojik belirteçler hocaların favori soru kalıplarından biridir. Buradan şu tip soruların gelmesini beklemelisin:
+1.  **PBK - AMA Eşleştirmesi:** Klasik bir vaka sorusu gelir: "45 yaşında, yorgunluk, kaşıntı ve sarılık şikayetleri olan bir kadın hastanın laboratuvar testlerinde ALP ve GGT (kolestaz enzimleri) çok yüksek saptanıyor. Tanıyı kesinleştirmek için hangi otoantikor istenmelidir?" Cevap tartışmasız **Anti Mitokondriyal Antikor (AMA)** olacaktır. 
+2.  **Otoimmün Hepatit Tiplendirmesi:** "Otoimmün hepatit Tip 2 hastasında hangi otoantikorun pozitif olması beklenir?" Cevap: **Anti-LKM1** veya **LC1**.
+3.  **Tümör Belirteçleri Eşleştirmesi:** Bir vaka verip hastada siroz zemininde karaciğerde kitle (hepatoselüler karsinom şüphesi) saptandığını söyler. "Bu hastada kanda tarama amaçlı hangi tümör belirteci istenir?" Cevap: **Alfa fetoprotein (AFP)** olmalıdır.
+
+**19. Aşağıdakilerden hangisi endoskopiendikasyonlarından değildir? (M5-2023-7)**
+a) Kronik demir eksikliği anemisi
+b) Disfaji ya da odinofaji varlığı
+c) Uzun süre nonsteroid antiinflamatuvar ilaç kullanacak olan yaşlı hastalar
+d) Yeni başlayan epigastrik şişkinlik şikâyeti olan kişiler
+e) Sirozlu hastalarda varis değerlendirmesi
+
+**Doğru Şık:** **D (Yeni başlayan epigastrik şişkinlik şikâyeti olan kişiler)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, dikkat ettiysen bu soru daha önce çözdüğümüz 10. soruyla (M6-2025-3) birebir aynı formattadır. Komite hocalarımız temel ve hayati algoritmaları yıllar içinde tekrar tekrar sormayı çok severler. Bu soru, hastalıklara tanı koymak veya tedavi etmek amacıyla uyguladığımız Üst GİS Endoskopisi (ÖGD) işleminin hangi durumlarda "mutlak" endikasyon taşıdığını, hangi durumlarda ise (örneğin basit bir dispepsi/şişkinlik) ilk seçenek olmaması gerektiğini ölçmektedir. 
+
+**Şıkların Açıklaması:**
+*   **a) Kronik demir eksikliği anemisi:** Açıklanamayan kronik anemi, GİS'ten gizli bir kanama odağı (örneğin mide ülseri veya mide/kolon kanseri) olabileceğini gösteren kesin bir **alarm bulgusudur**. Bu nedenle kanama odağını saptamak için mutlaka endoskopi yapılmalıdır. 
+*   **b) Disfaji ya da odinofaji varlığı:** Yutma güçlüğü (disfaji) ve yutarken ağrı hissetme (odinofaji) organik bir obstrüksiyon (tümör, darlık vb.) işareti olabileceğinden kesin alarm semptomudur ve endoskopi endikasyonudur.
+*   **c) Uzun süre nonsteroid antiinflamatuvar ilaç kullanacak olan yaşlı hastalar:** NSAİİ'ler midede kanama ve ülser riskini ciddi oranda artırır. Bu ileri yaş riskli grupta, ilaç kullanımına başlamadan önce mukozayı değerlendirmek endoskopi endikasyonudur.
+*   **d) Yeni başlayan epigastrik şişkinlik şikâyeti olan kişiler (Doğru Cevap):** Şişkinlik, "dispepsi" adı verilen hazımsızlık durumunun basit bir semptomudur. Hastada ileri yaş faktörü veya alarm semptomları yoksa, tek başına yeni başlayan bir şişkinlik için anında endoskopi yapılmaz.
+*   **e) Sirozlu hastalarda varis değerlendirmesi:** Siroz, portal hipertansiyona neden olur. Bu durum mide fundusu ve özofagustaki damarları genişleterek hayati tehlike yaratan varis kanamalarına yol açabilir. Portal HT varlığında varis tanısı koymak ve kanama riskini takip etmek için endoskopi mutlak bir endikasyondur.
+
+**Önemli Terimler:**
+*   **ÖGD (Özefagogastroduodenal Endoskopi):** Özofagus, mide ve onikiparmak bağırsağının (duodenum) iç yüzeyinin ışıklı ve kameralı esnek bir tüp kullanılarak direkt incelenmesi işlemidir.
+*   **Dispepsi:** Epigastrik bölgede hissedilen dolgunluk, şişkinlik, erken doyma ve yanma gibi semptomları tanımlayan genel bir hazımsızlık tablosudur.
+*   **Alarm Semptomları:** Dispepsi ile başvuran bir hastada, altta yatan bir maligniteyi (kanseri) veya ciddi organik hastalığı işaret eden "kırmızı bayrak" bulgularıdır.
+
+**Bilinmesi Gereken Alt Konular (Dispepsi Yaklaşım Algoritması):**
+Bir hasta dispepsi (şişkinlik, mide ağrısı vb.) ile polikliniğine geldiğinde şu altın kuralı uygulamalısın:
+*   Hasta **< 50 yaşındaysa ve Alarm Semptomu YOKSA:** Hastaya direkt endoskopi yapılmaz! Önce non-invaziv *Helicobacter pylori* testi (üre nefes testi, gaita antijeni) yapılır, pozitifse eradikasyon tedavisi verilir. H.pylori negatifse veya şikayetleri geçmezse 8 haftalık PPI (mide koruyucu) tedavisi denenir. Buna da yanıt alınamazsa endoskopi düşünülür. 
+*   Hasta **> 50-55 yaşın üzerindeyse VEYA Alarm Semptomları (Kilo kaybı, anemi, disfaji, inatçı kusma, GİS kanaması, sarılık) VARSA:** Hiçbir ilaç veya H. Pylori testi denenmeden zaman kaybetmeden **direkt Üst GİS Endoskopisi** planlanır.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Gastroenterolojide bu algoritmayı ve endikasyonları hocalar vaka sorularıyla test etmeyi çok severler:
+1.  **Vaka Formatında Dispepsi:** "40 yaşında, yeni başlayan dispeptik şikayetleri olan ve *alarm semptomu bulunmayan* erkek hastada ilk yaklaşım ne olmalıdır?" (Cevap kesinlikle **H. pylori test and treat stratejisi veya PPI denemesi** olmalıdır, hemen endoskopi istenmez!).
+2.  **Alarm Semptomlarını Ayırt Etme:** "Aşağıdakilerden hangisi dispepside acil endoskopi yapılmasını gerektiren bir alarm semptomu değildir?" (Genellikle şıklara *obezite* veya sadece basit *şişkinlik* şikayetini koyarlar. İstemsiz kilo kaybı, odinofaji ve anemi gibi bulguların gerçek alarm semptomları olduğunu unutmamalısın).
+3.  **Terapötik Endoskopi Endikasyonları:** Endoskopinin sadece tanı değil tedavi için de kullanıldığı sorulabilir. "Aşağıdakilerden hangisi endoskopinin tedavi edici (terapötik) kullanım alanlarından biridir?" (Cevap: **Kanamalı lezyonda hemostaz sağlama, Polipektomi veya Darlık dilatasyonu**).
+
+**20. DSÖ'ye göre besin yönetimiyle ilgili hangisi yanlıştır? (M5-2023-50)**
+a) Yemekten önce ve sonra eller yıkanmalı
+b) Pişmiş ve pişmemiş yemekler ayrı kaplarda saklanmalıdır
+c) Yemek pişirildikten hemen sonra buzdolabına atılmalıdır
+d) Besin değeri bozulmaması için 60° ye kadar ısıtılmalıdır
+e) Yemekler 4° de saklanmalıdır
+
+**Doğru Şık:** **D (Ancak tıbbi pratik açısından C şıkkı da hatalıdır, aşağıda detaylandıracağım)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru Dünya Sağlık Örgütü'nün (DSÖ) gıda güvenliği ve gıda kaynaklı enfeksiyonlardan (gastroenterit, besin zehirlenmeleri vb.) korunmak için belirlediği evrensel kuralları sorgulayan temel bir halk sağlığı ve enfeksiyon sorusudur. Gastrointestinal sistem enfeksiyonlarını önlemede doğru pişirme ve saklama ısılarını bilmek hayati önem taşır. Soruda bizden DSÖ'nün güvenli besin standartlarına ters düşen ifadeyi bulmamız istenmektedir.
+
+**Şıkların Açıklaması:**
+*   **a) Doğrudur:** Besin hazırlama aşamalarında, yemekten önce ve sonra ellerin su ve sabunla yıkanması çapraz bulaşmayı önlemenin ilk adımıdır.
+*   **b) Doğrudur:** Çiğ gıdalarla (özellikle et ve tavuk) pişmiş gıdaların teması kesinlikle önlenmeli, ayrı kaplarda saklanmalı ve hazırlanırken farklı ekipmanlar kullanılmalıdır.
+*   **c) Çeldirici ve Pratiğe Aykırı Şık:** Aslında yemekler fokur fokur kaynarken (dumanı tüterken) doğrudan buzdolabına atılmaz; çünkü bu durum buzdolabının iç ısısını yükselterek diğer gıdaların bozulmasına yol açar. Gıdanın oda ısısında ılıması (ancak bu sürenin 2 saati geçmemesi) beklenmelidir. Ancak komite hocaları bu soruda asıl ölümcül ve majör kural ihlali olarak D şıkkını hedef almıştır.
+*   **d) Yanlıştır ve Sorunun Asıl Cevabıdır:** DSÖ standartlarına göre besinlerdeki tehlikeli patojenlerin (bakteri ve virüslerin) ölmesi için gıdaların iç kısımları da dahil olmak üzere **en az 70°C'ye** kadar ısıtılması/pişirilmesi şarttır. 60°C sıcaklık, bakterileri öldürmek bir yana dursun, "tehlikeli sıcaklık aralığı" içinde kaldığı için bakterilerin üremesine olanak tanır.
+*   **e) Doğrudur:** Pişmiş gıdalar veya bozulabilir besinler, bakteriyel üremeyi durdurmak amacıyla 5°C'nin altında (optimum 4°C'de) buzdolabında saklanmalıdır.
+
+**Önemli Terimler:**
+*   **Çapraz Kontaminasyon (Bulaşma):** Hastalık yapıcı mikroorganizmaların, genellikle çiğ bir gıdadan, kirli bir yüzeyden veya elden, yemeye hazır pişmiş bir gıdaya transfer olmasıdır.
+*   **Tehlikeli Sıcaklık Aralığı (Danger Zone):** Genellikle 5°C ile 60°C arasındaki sıcaklıklardır. Patojen bakterilerin besinler üzerinde hızla ve tehlikeli boyutlarda çoğaldığı sıcaklık aralığıdır.
+*   **Gıda Zehirlenmesi / Gastroenterit:** Patojenlerle veya onların toksinleriyle kontamine olmuş gıdaların tüketilmesiyle ortaya çıkan, ishal, bulantı, kusma ve karın ağrısı ile seyreden klinik tablodur.
+
+**Bilinmesi Gereken Alt Konular:**
+*   **İki Saat Kuralı:** Pişirilmiş bir yemek, oda sıcaklığında kesinlikle **2 saatten fazla bekletilmemelidir**. Bekletilecekse ya 60°C'nin üzerinde sıcak tutulmalı ya da hızla 5°C'nin altına soğutulmalıdır.
+*   **Besin-Etken İlişkisi (Gıda Zehirlenmeleri):** Hangi hatanın hangi bakteriye yol açtığını bilmek klinikte çok işine yarar. 
+    *   Yetersiz pişmiş veya çiğ tavuk/yumurta tüketimi: **Salmonella** veya **Campylobacter**.
+    *   Oda ısısında uzun süre bekletilmiş pirinç pilavı: **Bacillus cereus** (Kusma ile giden toksin aracılı zehirlenme).
+    *   Uygunsuz hazırlanmış ev konserveleri: **Clostridium botulinum** (Nörolojik bulgular, inen felç ve kabızlık yapar).
+*   **Güvenli Et Suyu:** DSÖ kurallarına göre et ve tavuk sularının kanlı değil, berrak olduğundan emin olana kadar pişirilmesi gerekir.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Gastroenteroloji ve Enfeksiyon Hastalıkları komitelerinde besin güvenliği kuralları klinik senaryolarla birleştirilerek sıkça sorulur. Şunları mutlaka beklemelisin:
+1.  **Derece (Isı) Yanılgıları:** Tıpkı bu sorudaki gibi, "Besin değeri bozulmasın diye düşük ısıda (60°C) pişirilmelidir" veya "Yemekler 0-60 derece arasında pişirilmelidir" tuzakları tekrar karşına gelecektir. Doğru kuralın **>70°C** olduğunu unutma.
+2.  **Botulismus Vaka Sorusu:** "Kendi yaptıkları ev konservesini yiyen bir ailede ertesi gün çift görme (diplopi), yutma güçlüğü, ağız kuruluğu ve *kabızlık* gelişmiştir. Etken nedir?" Cevap banko **Clostridium botulinum** olacaktır.
+3.  **Çiğ-Pişmiş Ayrımı İhlali:** Çiğ tüketilecek sebzeler ile pişmiş etlerin aynı kesme tahtasında doğranmasının "çapraz bulaşma" örneği olarak verilip bunun yanlış bir pratik olduğu sorulabilir.
+
+**21. Aşağıdaki laboratuar testlerinden hangisi kolestaz için kullanılır? (M5-2023-52)**
+a) Alkalen P ve GGT
+b) ALT ve AST
+c) Albümin
+d) ANA
+e) İndirekt Bilirubin
+
+**Doğru Şık:** **A (Alkalen P ve GGT)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru karaciğer ve safra yolları hastalıklarının laboratuvar bulgularını (paternlerini) ayırt etme yeteneğimizi ölçüyor. Karaciğer fonksiyon testleri dediğimiz paneli incelerken, hepatositlerin (karaciğer hücrelerinin) yıkıldığını gösteren "hepatosellüler hasar paternini" ve safranın bağırsağa akışının durduğunu/yavaşladığını gösteren "kolestaz paternini" birbirinden net bir şekilde ayırmamız gerekir. Soru bizden safranın akışındaki duraklamayı, yani **kolestazı** gösteren en iyi enzim ikilisini bulmamızı istiyor.
+
+**Şıkların Açıklaması:**
+*   **a) Alkalen P (Alkalen Fosfataz - ALP) ve GGT (Gama Glutamil Transferaz) (Doğru Cevap):** Karaciğer içi veya dışı safra yollarında bir tıkanıklık veya safra akımında duraklama (kolestaz) olduğunda, hepatokanaliküler membrandan sentezlenen ALP'nin ve beraberinde GGT'nin ekspresyonu artarak kana karışır. Bu iki enzimin orantısız yüksekliği **kolestazın** en tipik laboratuvar bulgusudur.
+*   **b) ALT ve AST:** Bu enzimler safra yollarının değil, doğrudan karaciğer hücrelerinin (hepatositlerin) hasarını (hepatit, iskemik veya toksik hasar vb.) gösteren hepatosellüler hasar enzimleridir.
+*   **c) Albümin:** Bir hasar belirteci değildir. Karaciğerin sentez (üretim) kapasitesini gösterir. Yarı ömrü uzun olduğu için daha çok siroz gibi kronik karaciğer yetmezliklerinde kanda seviyesi düşer.
+*   **d) ANA (Anti Nükleer Antikor):** Bu bir enzim değil, otoantikordur. Karaciğeri kendi bağışıklık sistemimizin vurduğu Otoimmün Hepatit Tip 1 tanısında kullanılan yardımcı bir serolojik testtir.
+*   **e) İndirekt (Ankonjuge) Bilirubin:** Kolestazı (safra tıkanıklığını) değil; alyuvarların aşırı yıkımını (hemoliz) veya karaciğerin bilirubini işleme (konjugasyon) kapasitesindeki kusurları (örn: Gilbert sendromu) gösteren bilirubin tipidir. Kolestaz durumlarında bağırsağa atılamayıp kana karışan bilirubin ise **Direkt (Konjuge) Bilirubindir**.
+
+**Önemli Terimler:**
+*   **Kolestaz:** Safranın, karaciğer içindeki küçük kanallardan başlayıp duodenumdaki Ampulla Vateri'ye kadar olan yolculuğunun herhangi bir seviyesinde durması veya yavaşlaması durumudur. 
+*   **ALP (Alkalen Fosfataz):** Sadece karaciğer ve safra yollarında değil; kemik (osteoblastik aktivite), plasenta, lökosit ve böbrek gibi dokularda da bulunan bir enzimdir.
+*   **GGT (Gama Glutamil Transferaz):** ALP yüksekliğinin kemikten veya başka bir organdan değil, kesinlikle **safra ve karaciğerden** kaynaklandığını teyit etmek için kullanılan en spesifik enzimdir. Alkol kullanımı durumunda da oldukça hassas bir şekilde yükselir.
+
+**Bilinmesi Gereken Alt Konular (Kolestaza Yaklaşım):**
+*   **İntrahepatik vs. Ekstrahepatik Kolestaz Ayrımı:** Bir hastanın laboratuvarında kolestaz paterni (ALP, GGT ve Direkt Bilirubin yüksekliği) saptadıysak ilk yapmamız gereken şey **Batın Ultrasonografisi (USG)** çekmektir. Eğer ultrasonografide safra yolları genişlemişse bu bir "ekstrahepatik kolestazdır" (koledok taşı, pankreas başı tümörü vb.). Ancak safra yolları normalse, tıkanıklık dışarıda değil mikroskobik düzeyde karaciğerin içindedir, buna "intrahepatik kolestaz" (ilaçlar, sepsis, primer biliyer kolanjit vb.) denir.
+*   **Otoimmün Kolestatik Hastalıklar:** 
+    *   **Primer Biliyer Kolanjit (PBK):** Karaciğer içi (intrahepatik) küçük safra yollarını yıkan otoimmün hastalıktır. Kadınlarda daha sıktır ve en önemli antikor belirteci **AMA (Anti-Mitokondriyal Antikor)** pozitifliğidir.
+    *   **Primer Sklerozan Kolanjit (PSK):** Hem intrahepatik hem ekstrahepatik safra yollarını tutar. Ülseratif kolit (inflamatuvar bağırsak hastalığı) ile birlikteliği sıktır ve **p-ANCA** pozitifliği görülür.
+*   **Kolestazın Erken Kliniği:** Kolestaz olan hastalarda, safranın ciltte birikmesine bağlı olarak sarılıktan bile daha önce ve şiddetli olarak ortaya çıkan belirti **kaşıntıdır**. Ayrıca bağırsağa safra akamadığı için yağ emilimi bozulur ve yağda eriyen vitaminlerin (A, D, E, K) eksikliği gözlenir.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Bu testlerin birbiriyle harmanlandığı "vaka tipli / laboratuvar okuma" soruları Gastroenteroloji'nin kalesidir. Şunları mutlaka beklemelisin:
+1.  **Kemik mi, Karaciğer mi Ayrımı:** "Büyüme çağında olduğu için fizyolojik olarak ALP değeri çok yüksek saptanan bir çocukta, bu ALP yüksekliğine karaciğer/safra yolu hastalığının eşlik edip etmediğini (karaciğerin sağlam olduğunu) anlamak için hangi testin *normal* olması beklenir?" Cevap kesinlikle **GGT**'dir. GGT normalse ALP yüksekliği safra kaynaklı değildir, kemik kaynaklıdır.
+2.  **Otoimmün Kolestaz Belirteçleri:** Klasik bir kadın vaka verip "Halsizlik, *kaşıntı* ve *ALP/GGT yüksekliği* (kolestaz) saptanan 45 yaşında kadın hastada tanıyı kesinleştirmek için hangi otoantikor istenmelidir?" diye sorarlar. Bu, Primer Biliyer Kolanjit vakasıdır ve cevap **AMA (Anti-Mitokondriyal Antikor)** olmalıdır.
+3.  **Hepatit mi Kolestaz mı (Patern Tanıma):** "Hastanın AST'si 1500, ALT'si 1800 U/L saptanmıştır." derse **hepatosellüler hasar** (viral veya toksik hepatit); "Hastanın AST'si 60, ALT'si 70, ancak ALP'si 850 ve GGT'si 900 U/L saptanmıştır" derse **kolestaz (tıkanma, taş, tümör)** aklına gelmelidir. Bu patern ayrımı komitenin bel kemiğidir.
+
+**22. Abdominal muayene ile ilgili aşağıdakilerden hangisi yanlıştır? (M5-2023-61)**
+a) Muayeneden önce hastadan izin alınmalıdır
+b) Eller temiz ve ılık olmalıdır.
+c) Hastanın mutlaka sol tarafında durulmalıdır.
+d) Oskültasyonda en az iki kadrandan en az 1 dakika dinlenmelidir.
+e) Muayenesen sonra hastaya bilgi verilmelidir.
+
+**Doğru Şık:** **C (Hastanın mutlaka sol tarafında durulmalıdır.)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru klinik becerilerimizin ve hekimlik sanatının temelini oluşturan batın (karın) fizik muayenesi kurallarını sorgulamaktadır. Karın muayenesi, hastanın mahremiyetine saygı gösterilmesini, hastanın rahatlatılmasını ve organların anatomik olarak doğru değerlendirilmesini gerektiren spesifik kurallara tabidir. Soruda bizden uluslararası tıbbi fizik muayene standartlarına aykırı olan uygulamayı bulmamız istenmektedir. Standart fizik muayenede, hekimin hastayı muayene ederken **daima hastanın sağ tarafında** durması evrensel bir tıp kuralıdır. 
+
+**Şıkların Açıklaması:**
+*   **a) Muayeneden önce hastadan izin alınmalıdır:** Doğrudur. Hastanın mahremiyetine saygı göstermek ve yapılacak işlemi anlatarak onam (izin) almak her türlü tıbbi işlemin ve muayenenin ilk basamağıdır.
+*   **b) Eller temiz ve ılık olmalıdır:** Doğrudur. Soğuk ellerle hastanın karnına dokunmak, hastanın irkilmesine ve karın kaslarını istemsizce kasmasına (istemli defans) yol açar. Bu da alttaki organların palpe edilmesini imkansız hale getirir.
+*   **c) Hastanın mutlaka sol tarafında durulmalıdır (Yanlıştır ve Doğru Cevap):** Karın muayenesinde hekim hastanın solunda değil, **mutlaka sağ tarafında** bulunmalıdır. Karaciğerin palpasyonu ve karın içi organların anatomik değerlendirmesi sağ taraftan çok daha doğru ve ergonomik bir şekilde yapılır.
+*   **d) Oskültasyonda en az iki kadrandan en az 1 dakika dinlenmelidir:** Doğrudur. Bağırsak seslerinin normal, hiperaktif (ishal, erken mekanik ileus vb.) veya hipoaktif/yok (paralitik ileus, peritonit) olduğuna karar verebilmek için acele edilmemeli, steteskop ile yeterli süre dinleme yapılmalıdır.
+*   **e) Muayeneden sonra hastaya bilgi verilmelidir:** Doğrudur. Hekim-hasta iletişiminin bir parçası olarak, hastanın durumu hakkında hastaya muayene sonrasında bilgi verilmesi tıbbi etiğin bir gereğidir.
+
+**Önemli Terimler:**
+*   **Oskültasyon:** Steteskop yardımıyla karın içindeki doğal bağırsak peristaltizm seslerinin dinlenmesidir.
+*   **İstemli Defans:** Hastanın muayene sırasında korku, soğuk el teması veya gıdıklanma gibi nedenlerle karın kaslarını bilerek kasmasıdır.
+*   **Supin Pozisyon:** Hastanın sırtüstü, düz bir şekilde ve karın kasları gevşek pozisyonda yattığı muayene pozisyonudur.
+
+**Bilinmesi Gereken Alt Konular (Karın Muayenesinin İncelikleri):**
+Bu soruda değinilmeyen ancak karın muayenesinde hayati öneme sahip diğer kurallar şunlardır:
+*   **Karın Muayene Sırası:** Normal sistem muayenelerinde sıra İnspeksiyon $\rightarrow$ Palpasyon $\rightarrow$ Perküsyon $\rightarrow$ Oskültasyon iken, batın (karın) muayenesinde palpasyon bağırsak seslerini değiştirebileceği için bu sıra **İnspeksiyon $\rightarrow$ Oskültasyon $\rightarrow$ Palpasyon $\rightarrow$ Perküsyon** şeklinde olmalıdır. (Oskültasyon daima palpasyondan önce gelir!).
+*   **Ağrısız Bölgeden Başlama Kuralı:** Eğer hastanın karnında belirgin bir ağrısı varsa, palpasyona **hiç ağrımayan veya en uzak olan kadrandan** başlanır. Eğer direkt ağrıyan yere dokunursanız hasta acıdan kasılır ve muayeneye devam etmenize izin vermez.
+*   **Rektal Tuşe:** Tam bir gastrointestinal sistem muayenesinin ayrılmaz bir parçasıdır. GİS kanamalarında, prostat hastalıklarında veya retroçekal apandisit şüphesinde altın değerindedir.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Gastroenteroloji komitesinde fizik muayene hocaların vazgeçilmezidir. Gelecek sınavlarda şu sorulara hazırlıklı olmalısın:
+1.  **Karın Muayene Sırası:** "Karın muayenesinde hangi sıra doğrudur?" sorusu hocaların favorisidir (M5-2024-72). Mutlaka **İnspeksiyon $\rightarrow$ Oskültasyon $\rightarrow$ Palpasyon $\rightarrow$ Perküsyon** sırasını işaretlemelisin.
+2.  **Palpasyona Başlama Yeri Vurgusu:** "Karın ağrısı ile gelen hastada palpasyona nereden başlanmalıdır?" Cevap: **Ağrının olmadığı (en uzak) kadrandan**. 
+3.  **Dalak Muayenesi Tuzağı:** "Dalağın palpe edilebilmesi için ani hareketlerle ve derin bastırılarak muayene yapılmalıdır" şeklinde yanlış bir şık vererek sorarlar. Dalak frajil bir organ olduğu için aslan ani ve derin baskı uygulanmaz, rüptüre (yırtılmaya) sebep olabilir.
+

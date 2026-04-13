@@ -1,0 +1,365 @@
+Harika! Nefroloji komitesinin çok temel ve klinik pratiğinde her gün karşılaşacağın bir konusuyla devam ediyoruz: Hipertansiyon ve Hedef Organ Hasarları. 
+
+Sorumuzu orijinal haliyle yazalım:
+
+**56. Hangisinin sıklığının primer hipertansiyon tanısı ile izlenen hastada artması beklenmez? (M5-2027-33)**
+a) Demans
+b) İnme
+c) Kronik böbrek yetmezliği
+d) Polisitemia vera
+e) Akut MI
+
+**Doğru Şık:** **D (Polisitemia vera)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru primer hipertansiyonun vücutta yarattığı sessiz yıkımı, yani "hedef organ hasarını" bilip bilmediğini test eden oldukça klinik bir sorudur. Hipertansiyon, tedavi edilmediğinde yıllar içinde damar yatağını bozarak beyin, kalp ve böbrek gibi hayati organlarda kalıcı, ilerleyici hasarlara (komplikasyonlara) yol açar. Soruda bizden, hipertansiyonun bir sonucu (komplikasyonu) olmayan, hipertansiyon hastalarında sıklığının artmasını beklemediğimiz seçeneği bulmamız isteniyor.
+
+**Şıkların Açıklaması:**
+*   **a) Demans (Beklenir):** Kronik hipertansiyon, beyin damarlarında mikroiskemilere yol açarak özellikle vasküler demans riskini belirgin şekilde artırır.
+*   **b) İnme (Beklenir):** Serebrovasküler olay (inme), hipertansiyonun en ölümcül ve en bilinen komplikasyonlarından biridir. Hipertansiyon, inme için en büyük değiştirilebilir risk faktörüdür.
+*   **c) Kronik böbrek yetmezliği (Beklenir):** Hipertansiyon, böbrek damarlarında yapısal bozulmalara (hipertansif nefroskleroz) yol açarak diyabetten sonra kronik böbrek yetmezliğinin en sık görülen nedenlerinden birini oluşturur.
+*   **d) Polisitemia vera (Doğru Cevap - Beklenmez):** Yanlıştır. Polisitemia vera, kemik iliğinde aşırı kırmızı kan hücresi (eritrosit) üretimiyle giden, genetik mutasyon zemininde gelişen hematolojik bir hastalıktır (miyeloproliferatif bir rahatsızlıktır). Hipertansiyonun bir komplikasyonu veya hedef organ hasarı değildir. Aksine, bu hastalık kan viskozitesini artırarak sekonder hipertansiyona yol açabilir, ancak primer hipertansiyonun bir "sonucu" değildir.
+*   **e) Akut MI (Beklenir):** Hipertansiyon, koroner arterlerde aterosklerozu (damar sertliğini) hızlandırarak kalp krizine (Akut Miyokard İnfarktüsü) neden olan ana risk faktörlerindendir.
+
+**Önemli Terimler:**
+*   **Primer Hipertansiyon (Esansiyel):** Altta yatan spesifik, kanıtlanabilir organik bir nedenin (örneğin böbrek arteri darlığı, feokromasitoma) bulunamadığı, genetik ve çevresel faktörlerin etkileşimiyle oluşan yüksek tansiyon türüdür.
+*   **Hedef Organ Hasarı:** Yüksek kan basıncının damarlar üzerinde yarattığı mekanik stres sonucu kalp, beyin, böbrek, göz ve periferik damarlarda ortaya çıkan yapısal/fonksiyonel bozulmalardır.
+*   **Polisitemia Vera:** Kemik iliğinde eritrositlerin kontrolsüz ve aşırı çoğaldığı hematolojik bir kemik iliği malignitesidir.
+
+**Bilinmesi Gereken Alt Konular (Hipertansiyonun Hedef Organları):**
+Sadece bu şıklardakileri bilmek yetmez, hastanda hipertansiyon varsa muayenede şu organlarda da hasar aramalısın:
+*   **Kalp:** Sol ventrikül hipertrofisi, kalp yetmezliği, koroner arter hastalığı (anjina, MI).
+*   **Beyin:** TIA (Geçici iskemik atak), inme, ensefalopati.
+*   **Böbrek:** Mikroalbüminüri, hipertansif nefroskleroz, KBH (Böbrek hasarının erken döneminde proteinüri takip edilmelidir).
+*   **Göz:** Hipertansif retinopati (Göz dibi muayenesinde damarlarda daralma, eksüdalar, kanama, papilödem).
+*   **Damarlar:** Aort anevrizması, aort diseksiyonu, periferik arter hastalığı.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Hipertansiyon, klinik bilimlerin kalbidir. Sınavlarında ve stajlarında şu konseptlere mutlaka hazırlıklı olmalısın:
+1.  **Tanı ve Ölçüm Farklılıkları (Banko Soru Tipi):** Diğer çıkmış soruları ve notlarınızı incelediğimizde (M5-2026-14, M5-2024-15, vb.) hocalarınızın ölçüm türlerini sormayı çok sevdiğini görüyoruz:
+    *   **Beyaz Önlük Hipertansiyonu:** Hastane (ofis) ölçümü yüksek, ancak evdeki (ambulatuvar) ölçümü *normal* olan hastalardır.
+    *   **Maskeli Hipertansiyon:** Hastane ölçümü normal, ancak evdeki (ambulatuvar) ölçümü *yüksek* olan hastalardır. En sinsi gruptur.
+2.  **Ölçüm Kriterleri:** "Her iki koldan tansiyon ölçüldüğünde hangisi baz alınmalıdır?" şeklindeki bir soruda daima kan basıncının **yüksek olduğu kolun ölçüm değerinin** tedaviye yönlendirmede kaydedilmesi gerektiğini unutmamalısın.
+3.  **Sekonder Hipertansiyon:** "Aşağıdakilerden hangisi sekonder hipertansiyon nedenidir?" tarzında sorular gelebilir. Feokromasitoma, renal arter darlığı, primer hiperaldosteronizm (Cushing sendromu) ve aort koarktasyonu araman gereken belli başlı organik nedenlerdir.
+
+Harika! İç Hastalıkları ve Kardiyoloji/Nefroloji komitelerinin vazgeçilmez konularından biri olan "Hipertansiyon Tanı ve Sınıflandırması" ile devam ediyoruz. Bu konu sadece sınavlar için değil, ilerideki poliklinik nöbetlerinde de her gün karşına çıkacak çok temel bir yaklaşımdır.
+
+Öncelikle sorumuzu orijinal haliyle yazalım:
+
+**57. İç hastalıkları polikliniği muayenesi sırasında kan basıncı 144/88 mmHg ölçülen hastanın, ambulatuvar kan basıncı izleminde 24 saatlik ortalaması ise 136/78 mmHg olarak saptanıyor. Hastanın tanısı aşağıdakilerden hangisidir? (M6-2026-14)**
+a) Normotansiyon
+b) Beyaz önlük hipertansiyonu
+c) Hipertansiyon
+d) Prehipertansiyon
+e) Maskeli hipertansiyon
+
+**Doğru Şık:** **B (Beyaz önlük hipertansiyonu)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru kan basıncı ölçüm yöntemleri (ofis/klinik ölçümü ile ev/ambulatuvar ölçümü) arasındaki uyumsuzlukları ayırt etmeni bekleyen çok klasik bir vaka sorusudur. Hastanın klinik ölçümünde tansiyonu yüksek (144/88 mmHg) saptanmış, ancak günlük hayatını yansıtan 24 saatlik ambulatuvar izleminde değerlerin normal veya çok daha düşük sınırlarda (136/78 mmHg) seyrettiği görülmüştür. Hastane ortamının yarattığı stres veya hekim/hemşire varlığı nedeniyle ofiste tansiyonun yüksek çıkıp, hastanın kendi doğal ortamında normal seyretmesi tablosuna **"Beyaz Önlük Hipertansiyonu"** diyoruz. 
+
+**Şıkların Açıklaması:**
+*   **a) Normotansiyon:** Yanlıştır. Hastanın hem klinikte (ofiste) hem de ambulatuvar (ev) izleminde tansiyonunun normal sınırlarda olmasıdır.
+*   **b) Beyaz önlük hipertansiyonu (Doğru Cevap):** Yukarıda açıkladığımız gibi hastanedeki (ofis) ölçümün yüksek, ancak evdeki veya ambulatuvar kan basıncı ölçümünün normal olmasıdır. Tüm hipertansiyon olgularının yaklaşık %10'unu oluşturur.
+*   **c) Hipertansiyon (Sürekli/Aşikar):** Yanlıştır. Hastanın hem klinikte hem de ambulatuvar ölçümlerde kan basıncının sürekli olarak yüksek seyretmesi durumudur.
+*   **d) Prehipertansiyon (Yüksek Normal Tansiyon):** Yanlıştır. Hastanın kan basıncının tam hipertansiyon sınırında olmamakla birlikte, normotansiyon ile hipertansiyon arasında (örneğin 130-139/85-89 mmHg arası) seyretmesidir. Sorudaki tablo ofis ve ev arasındaki "fark" ile karakterizedir.
+*   **e) Maskeli hipertansiyon:** Yanlıştır. Bu, beyaz önlük hipertansiyonunun tam tersidir ve **en sinsi/tehlikeli** gruptur. Hastanedeki ölçüm normal çıkar, ancak hastanın evdeki veya ambulatuvar kan basıncı ölçümü yüksektir.
+
+**Önemli Terimler:**
+*   **Ambulatuvar Kan Basıncı İzlemi (ABPM):** Hastanın koluna takılan ve 24 saat boyunca belirli aralıklarla (örneğin gündüzleri 15-30 dakikada bir, geceleri saatte bir) otomatik olarak tansiyon ölçen, günlük yaşamdaki kan basıncı profilini en iyi yansıtan cihazdır.
+*   **Ofis (Klinik) Kan Basıncı:** Hastane ortamında, poliklinikte hekim veya sağlık personeli tarafından yapılan klasik ölçümdür.
+
+**Bilinmesi Gereken Alt Konular (Hipertansiyon Kılavuzları ve Ölçüm Kuralları):**
+Klinik pratikte ve komitelerde hipertansiyon tanısında kılavuz farklılıklarını ve ölçüm triklerini bilmelisin:
+*   **Tanı Sınırları (ACC/AHA vs. ESC):** Amerika (ACC/AHA) 2017 yılından beri hipertansiyon tanı sınırını **130/80 mmHg** olarak kabul etmektedir (Sistolik veya diyastolikten biri bile bu sınırı geçerse HT kabul edilir). Ancak Avrupa (ESC) genel sınırı **140/90 mmHg** kabul etmekle birlikte, yüksek riskli hastalarda (diyabetikler, KBH hastaları) bu sınırı 130/80'e çeker.
+*   **Kan Basıncı Ölçüm Kuralı:** Hastanın her iki kolundan tansiyon ölçüldüğünde, eğer kollar arasında fark varsa **daima kan basıncının yüksek olduğu kolun ölçüm değeri** baz alınır ve hasta bu yüksek değere göre tedaviye yönlendirilir.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Hipertansiyon konusu iç hastalıklarının kalbidir. Gelecek sınavlarda şu sorularla karşılaşman kuvvetle muhtemeldir:
+1.  **Maskeli Hipertansiyon Vaka Sorusu (Ters Köşe):** "Poliklinik muayenesi sırasında kan basınçları 122/77 mmHg ölçülen, ancak ambulatuvar kan basıncı izleminde 24 saatlik ortalama kan basıncı 136/86 mmHg saptanan hastanın tanısı nedir?" (M5-2023-83). Klinik normal, ev yüksek olduğu için cevap kesinlikle **Maskeli Hipertansiyon** olmalıdır.
+2.  **Ölçüm Kuralı Vakası:** "Sağ kol 1. ölçüm 155/95 mmHg, Sol kol 1. ölçüm 150/90 mmHg saptanıyor. Hasta tedaviye hangi kan basıncı ile yönlendirilmelidir?" (M5-2024-58). Cevabın her zaman ölçülen en yüksek değer olan **155/95 mmHg** olmalıdır.
+3.  **Hedef Organ Hasarı Çeldiricileri:** "Primer hipertansiyon tanısı ile izlenen hastada aşağıdakilerden hangisinin sıklığının artması beklenmez?" (M5-2027-33). Şıklarda demans, inme, KBH ve Akut MI gibi komplikasyonlar verilirken araya hipertansiyonun bir sonucu olmayan **Polisitemia Vera** (aşırı kan hücresi üretimi) gizlenir ve doğru cevap budur.
+
+Harika! Nefroloji komitesinin temel konularından biri olan hematüriye yaklaşım sorusuyla devam ediyoruz. Bu konu, poliklinik pratiğinde hastayı nefrolojiye mi yoksa ürolojiye mi yönlendireceğini bilmen açısından hayati öneme sahiptir.
+
+Öncelikle sorumuzu orijinal haliyle yazalım:
+
+**58. Hematüri saptanan bir hastada idrar incelemesinde aşağıdakilerden hangisi hematüri nedeni olarak böbrek hastalığı varlığını desteklemez? (M6-2026-86)**
+a) Lökositler
+b) Eritrosit silendirleri
+c) Proteinüri
+d) Akantositler
+e) Dismorfik eritrositler
+
+**Doğru Şık:** **A (Lökositler)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru hematüri (idrarda kan görülmesi) ile gelen bir hastada kanamanın kaynağının primer böbrek (glomerüler) kaynaklı mı yoksa alt üriner sistem (ürolojik/non-glomerüler) kaynaklı mı olduğunu idrar mikroskopisi ile ayırt etmemizi bekleyen çok temel bir sorudur. Glomerüler kaynaklı (böbrek parankimini ilgilendiren) kanamalarda idrarda böbrek filtrasyon bariyerinin hasarlandığını gösteren çok spesifik bulgular aranır. Soru bizden böbrek/glomerül kaynaklı hasarı işaret etmeyen, daha çok alt üriner sistem enfeksiyonu gibi nedenleri düşündüren şıkkı bulmamızı istiyor.
+
+**Şıkların Açıklaması:**
+*   **a) Lökositler (Yanlıştır ve Doğru Cevaptır):** Lökositler genellikle idrar yolu enfeksiyonlarında (sistit, üretrit vb.) veya non-glomerüler nedenlerle ortaya çıkar. Bu nedenle hematürinin doğrudan glomerüler (böbrek) kaynaklı olduğunu düşündüren primer veya spesifik bir bulgu değildir.
+*   **b) Eritrosit silendirleri (Doğrudur):** Silendirler (cast) sadece böbrek tübüllerinde oluşabildiği için, idrarda eritrosit silendiri görülmesi kanamanın kesinlikle tübüllerden veya glomerülden sızarak geldiğini, yani böbrek kaynaklı olduğunu kanıtlar. Akut nefritik sendromda sıkça karşımıza çıkar.
+*   **c) Proteinüri (Doğrudur):** Proteinüri, glomerüler filtrasyon bariyerinin bozulduğunu gösteren ve glomerüler böbrek hasarının en önemli göstergelerinden biri olan temel bulgudur.
+*   **d) Akantositler (Doğrudur):** Akantositler, dismorfik eritrositlerin özel bir alt türüdür ve glomerüler kökenli hematürinin oldukça özgün bir göstergesidir.
+*   **e) Dismorfik eritrositler (Doğrudur):** Glomerüler bazal membrandan zorlanarak geçen eritrositler fiziksel olarak şekil değiştirerek dismorfik hale gelir; bu durum glomerüler kaynaklı hematürinin en tipik mikroskobik bulgusudur.
+
+**Önemli Terimler:**
+*   **Hematüri:** İdrarda normalden fazla kan (eritrosit) bulunmasıdır. Makroskopik (gözle görülen, kırmızı/kola renkli) veya mikroskopik (sadece mikroskopta saptanan) olabilir.
+*   **Silendir (Cast):** Böbrek tübüllerinde oluşan, Tamm-Horsfall mukoproteini zeminine oturan silindirik proteinöz yapılardır. 
+*   **Dismorfik Eritrosit / Akantosit:** Glomerül bazal membranından (dar porlardan) geçerken ezilen, şekli bozulan veya kulakçıklı bir görünüme sahip olan kırmızı kan hücreleridir.
+
+**Bilinmesi Gereken Alt Konular (Hematüri Ayırıcı Tanısı):**
+Bir hastada hematüri saptadığında bunun "Glomerüler" mi yoksa "Non-Glomerüler (Ürolojik)" mi olduğunu şu klinik ve laboratuvar ipuçlarıyla ayırmalısın:
+*   **Glomerüler (Böbrek) Kanamaların Özellikleri:** İdrar sıklıkla "kola rengi" veya çay rengindedir. İdrarda pıhtı görülmez. Eritrosit silendirleri, dismorfik eritrositler ve belirgin proteinüri tabloya eşlik eder. En tipik örnekleri IgA nefropatisi ve Akut Poststreptokoksik Glomerülonefrit'tir (APSGN).
+*   **Non-Glomerüler (Ürolojik) Kanamaların Özellikleri:** İdrar parlak "kırmızı" renktedir. Kan pıhtıları görülebilir (glomerülden geçmediği için pıhtılaşma faktörleri aktiftir). Eritrositler mikroskopta normal (izomorfik) yapıdadır. Hastanın yaşı 40'ın üzerindeyse, sigara öyküsü varsa öncelikle ürolojik bir malignite (mesane veya böbrek kanseri) akla gelmelidir.
+*   **Yalancı Pozitiflik (Crush Sendromu Tuzakları):** Dipstick (idrar tetkik çubuğu) testinde kan $(+++)$ çıkıp mikroskopta hiç eritrosit görülmüyorsa, bu miyoglobinüri (örn. rabdomiyoliz/Crush sendromu) veya hemoglobinüri kaynaklı yalancı pozitifliktir.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Nefroloji hocaları hematüri yaklaşımından sormaya bayılırlar. Özellikle şu tuzaklara dikkat etmelisin:
+1.  **Silendir Çeldiricisi:** Hocaların çok sevdiği bir diğer soru tipi "Aşağıdakilerden hangisi patolojik bir idrar bulgusu değildir?" sorusudur. Cevap daima **Hyalen silendir** olmalıdır. Hyalen silendirler sağlıklı insanlarda egzersiz veya susuzluk sonrası da bolca görülebilir. Ancak bu hyalen silendirin üzerine eritrosit yapışırsa (eritrosit silendiri) o zaman akut glomerülonefrit patolojisi olur.
+2.  **Vaka - Ürolojik Malignite Ayırımı:** "45 yaşında, sigara içen erkek hasta ağrısız, *kırmızı renkli* ve pıhtılı hematüri ile başvuruyor." tarzı bir vakada böbrek yetmezliği veya glomerüler hastalık değil, ürolojik hastalık (mesane ca vb.) aranmalıdır. Kırmızı idrar her zaman ürolojik patoloji düşündürür.
+3.  **Glomerüler Hastalık - Vaka Sorusu:** "Boğaz enfeksiyonu (ÜSYE) geçirdikten 1-3 hafta sonra başlayan kola rengi idrar ve ödem" ile gelen çocuk/genç vaka **Akut Poststreptokoksik Glomerülonefrit (APSGN)** sorusudur. Eğer boğaz enfeksiyonu ile *eş zamanlı* (aynı gün) başlayan makroskopik hematüri veriliyorsa, tanı **IgA Nefropatisi** olur.
+
+Harika! Nefroloji komitesinin temel konularından biri olan "Hematüriye Yaklaşım" sorusuyla devam ediyoruz. Bu konu, poliklinik pratiğinde kanaması olan bir hastayı nefrolojiye mi yoksa ürolojiye mi yönlendireceğini bilmen açısından hayati öneme sahiptir.
+
+Öncelikle sorumuzu orijinal haliyle yazalım:
+
+**59. Hematüri yakınması olan bir hastada aşağıdakilerden hangisi hematürinin glomerüler bir böbrek hastalığı ile ilişkisini göstermez? (M6-2025-21)**
+a) İdrarda eritrosit silendirlerinin gözlenmesi
+b) Serum kreatininde artış - kola rengi idrar
+c) İdrarda dismorfik eritrositler
+d) İdrarda hiyalen silendirlerin varlığı
+e) Proteinüri
+
+**Doğru Şık:** **D (İdrarda hiyalen silendirlerin varlığı)**.
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru hematüri (idrarda kan görülmesi) ile gelen bir hastada kanamanın kaynağının "glomerüler" (böbreğin süzme ünitelerinden kaynaklı) mi, yoksa "non-glomerüler/ürolojik" (alt üriner sistem, mesane, üreter kaynaklı) mi olduğunu idrar analizi ile ayırt etmemizi bekliyor. Glomerüler kaynaklı kanamalarda, eritrositler glomerüler filtrasyon bariyerini aşarak tübüllere geçerken hasar görürler ve idrara çok karakteristik bulgular yansır. Soru bizden bu glomerüler hasar bulgularından olmayan, normal insanlarda da görülebilen sıradan bir bulguyu bulmamızı istiyor.
+
+**Şıkların Açıklaması:**
+*   **a) İdrarda eritrosit silendirlerinin gözlenmesi (Glomerülerdir):** Silendirler (cast) sadece böbrek tübüllerinde oluşabildiği için, bir proteinin üzerine eritrositlerin yapışmasıyla oluşan "eritrosit silendirleri" kanamanın kesinlikle glomerülden/böbrek parankiminden geldiğini kanıtlar. Akut nefritik sendromun (örneğin poststreptokoksik glomerülonefrit) en tipik bulgusudur.
+*   **b) Kola rengi idrar ve kreatinin artışı (Glomerülerdir):** Glomerüler kanamalarda idrar uzun süre tübüllerde asit ortamda kaldığı için eritrositler parçalanır ve hemoglobin hematine dönüşür. Bu da idrarın karakteristik olarak "kola veya çay rengi" bir görünüm almasına yol açar. Kreatinin artışı da böbrek fonksiyonunun (GFH) bozulduğunu gösterir. 
+*   **c) İdrarda dismorfik eritrositler (Glomerülerdir):** Glomerüler bazal membranın dar porlarından zorlanarak geçen eritrositlerin fiziksel olarak ezilmesi ve şekil değiştirmesidir. Glomerül kaynaklı kanamanın çok özgün bir göstergesidir.
+*   **d) İdrarda hiyalen silendirlerin varlığı (Yanlıştır ve Doğru Cevaptır):** Hiyalen silendirler idrarda en sık görülen silendir tipidir ve sadece Tamm-Horsfall mukoproteini içerir. İçlerinde hücre veya patolojik bir sediment barındırmazlar. Sağlıklı insanlarda; dehidratasyon, diüretik kullanımı, yoğun egzersiz, susuzluk veya ateş gibi idrarın konsantre olduğu durumlarda bolca görülürler. Varlıkları glomerüler bir böbrek hastalığına işaret etmez.
+*   **e) Proteinüri (Glomerülerdir):** Proteinüri, glomerüler filtrasyon bariyerinin bozulduğunu gösterir. Hematüriye proteinürinin eşlik etmesi, olayın büyük ihtimalle glomerüler kaynaklı olduğunu destekler.
+
+**Önemli Terimler:**
+*   **Hematüri:** İdrarda normalden fazla kan (eritrosit) bulunmasıdır. Makroskopik (gözle görülür) veya mikroskopik (sadece tahlilde görülür) olabilir.
+*   **Eritrosit Silendiri:** Böbrek tübüllerinde sentezlenen Tamm-Horsfall proteini iskeleti üzerine kırmızı kan hücrelerinin (eritrositlerin) çökmesiyle oluşan mikroskobik yapılardır.
+*   **Dismorfik Eritrosit / Akantosit:** Glomerüler membrandan geçerken zedelenen, "Mickey Mouse" kulakçıkları gibi şekil bozukluğuna uğramış kırmızı kan hücreleridir.
+*   **Hiyalen Silendir:** Sadece proteinden (Tamm-Horsfall) oluşan, sağlıklı kişilerde de izlenebilen, patolojik anlamı olmayan idrar yapısıdır.
+
+**Bilinmesi Gereken Alt Konular (Glomerüler vs. Non-Glomerüler Hematüri Farkları):**
+Bir hastada hematüri saptadığında nefroloji ve üroloji ayrımını yapabilmek için şu temel farkları mutlaka ezbere bilmelisin:
+1.  **Glomerüler (Nefrolojik) Kanamalar:**
+    *   İdrar "kola rengi" veya kahverengidir.
+    *   İdrarda **pıhtı görülmez** (glomerülden süzülürken pıhtılaşma faktörleri geçemez).
+    *   Eritrosit silendirleri ve dismorfik eritrositler bulunur.
+    *   Belirgin proteinüri eşlik eder.
+2.  **Non-Glomerüler / Ürolojik Kanamalar:**
+    *   İdrar parlak kırmızı veya pembe renktedir.
+    *   İdrarda **pıhtı (+) görülebilir**.
+    *   Eritrositler izomorfiktir (normal şekillidir).
+    *   Eritrosit silendiri bulunmaz ve proteinüri genellikle yoktur/çok hafiftir.
+3.  **Yalancı Pozitiflik (Crush Sendromu Tuzakları):** İdrar dipstick (çubuk) testinde kan (+++) çıkmasına rağmen mikroskopta eritrosit görülmüyorsa, bu miyoglobinüri (örn. travma veya Crush sendromu kaynaklı rabdomiyoliz) veya hemoglobinüriye bağlı yalancı pozitifliktir.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Hematüri konusu ve mikroskopisi hocaların vazgeçilmezidir. Gelecek sınavlarda şu sorulara kesinlikle hazır olmalısın:
+1.  **Silendir Çeldiricisi (Banko Soru Tipi):** Hocalar hyalen silendiri sormaya bayılırlar. Daha önce (M5-2024-77) "Aşağıdaki silendirlerden hangisinin idrarda bulunması öncelikle glomerüler bir patolojiyi düşündürür?" (Cevap: Eritrosit silendiri) şeklinde sormuş ve çeldirici olarak yine A şıkkına "Hyalen silendir" koymuşlardır. Hyalen silendirin patolojik olmadığını asla unutma.
+2.  **Akut Poststreptokoksik Glomerülonefrit (APSGN) Vaka Sorusu:** "Boğaz enfeksiyonu (ÜSYE) geçirdikten 1-3 hafta sonra başlayan kola rengi idrar, oligüri ve ödem" ile gelen çocuk/genç vaka klinik senaryosu olarak çok sık gelir. Cevap kesinlikle APSGN olacaktır.
+3.  **Malignite Ayrımı:** "45 yaşın üstünde, sigara öyküsü olan, ağrısız, *parlak kırmızı* renkli ve pıhtılı hematürisi olan erkek hasta" vaka senaryosunda böbrek parankim hasarı (glomerüler hastalık) DEĞİL, ürolojik bir malignite (mesane tümörü vb.) öncelikli olarak aranmalıdır.
+
+Harika! Gördüğüm kadarıyla bu soruyu daha önce de konuşmuştuk ancak komitelerde çok sık karşılaştığımız ve klinik pratikte son derece kritik bir konu olduğu için, Nefroloji/İç Hastalıkları komitesindeki bu "Hipertansiyon Tanı ve Sınıflandırması" sorusunu seninle bir kez daha, daha da detaylandırarak ve farklı klinik yönlerini vurgulayarak çözelim.
+
+Öncelikle sorumuzu orijinal haliyle yazalım:
+
+**60. Tansiyon yüksekliği yakınması ile başvuran hastanın muayene sırasında kann basınçları 147/92 mmHg ölçülüyor. Ambulatuvar kann basıncı izleminde ise 24 saatlik ortalama kann basıncı 133/77 saptanan hastanın tanısı aşağıdakilerden hangisidir? (M5-2024-15)**
+a) Hipertansiyon
+b) Prehipertansiyon
+c) Normotansiyon
+d) Beyaz önlük hipertansiyonu
+e) Maskeli hipertansiyon
+
+**Doğru Şık:** **D (Beyaz önlük hipertansiyonu)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bir hekim adayı olarak hipertansiyon şüphesi olan bir hastada tanıyı koyarken sadece poliklinik ölçümlerine güvenmememiz gerektiğini bilmelisin. Hekim veya hastane ortamı, hastalarda anksiyete ve strese yol açarak kan basıncını anlık olarak yükseltebilir. Bu hastamızın klinik (ofis) ölçümünde kan basıncı bariz şekilde yüksek (147/92 mmHg) saptanmış, ancak günlük hayatını yansıtan 24 saatlik ambulatuvar izleminde (ABPM) değerlerin normal sınırlara (133/77 mmHg) düştüğü görülmüştür. Hastane ortamında yüksek çıkıp, ev veya günlük yaşam ortamında normal saptanan bu tabloya **"Beyaz Önlük Hipertansiyonu"** diyoruz.
+
+**Şıkların Açıklaması:**
+*   **a) Hipertansiyon (Sürekli/Aşikar):** Yanlıştır. Hastanın hem klinikte (ofis) hem de ev (ambulatuvar) ölçümlerinde kan basıncının sürekli olarak yüksek seyretmesi durumudur.
+*   **b) Prehipertansiyon:** Yanlıştır. Kan basıncının tam hipertansiyon sınırında olmamakla birlikte, yüksek normal (normotansiyon ile hipertansiyon arasında) seyretmesidir. Sorudaki uyumsuzluk klinik-ev farkı ile ilgilidir.
+*   **c) Normotansiyon:** Yanlıştır. Hastanın hem poliklinik hem de ambulatuvar izlemde tansiyonunun normal sınırlarda ölçülmesidir.
+*   **d) Beyaz önlük hipertansiyonu (Doğru Cevap):** Hastanedeki (ofis) ölçümün yüksek, evdeki (ambulatuvar) ölçümün ise normal olması durumudur. Tüm hipertansiyon olgularının yaklaşık %10'unu oluşturur.
+*   **e) Maskeli hipertansiyon:** Yanlıştır. Bu, tam tersi bir durumdur ve klinik olarak **en tehlikeli** gruptur. Hastanedeki ölçüm normal çıkarken, hastanın evdeki veya ambulatuvar kan basıncı ölçümü yüksektir.
+
+**Önemli Terimler:**
+*   **Ambulatuvar Kan Basıncı İzlemi (ABPM):** Hastanın koluna takılan ve 24 saat boyunca günlük yaşantısı sırasında belirli aralıklarla otomatik olarak tansiyon ölçümü yapan, gerçek kan basıncı profilini en iyi yansıtan tanı aracıdır.
+*   **Ofis (Klinik) Kan Basıncı:** Hastane ortamında, hekim veya sağlık personeli tarafından yapılan klasik ölçümdür.
+
+**Bilinmesi Gereken Alt Konular (Hipertansiyon Kılavuz Sınırları ve Ölçüm Kuralları):**
+Klinikte tansiyon ölçerken ve tanı koyarken şu temel kuralları asla unutmamalısın:
+*   **Tanı Sınırları (ACC/AHA vs. ESC):** Amerikan (ACC/AHA) kılavuzları 2017'den beri hipertansiyon sınırını **130/80 mmHg** olarak kabul ederken, Avrupa (ESC) kılavuzları genel sınırı **140/90 mmHg** olarak kabul eder. Ancak Avrupa da kardiyovasküler riski olan hastalarda hedefi 130/80'e çeker.
+*   **Çift Kol Ölçüm Kuralı:** Hastanın ilk başvurusunda tansiyon mutlaka her iki koldan da ölçülmelidir. İki kol arasında bir fark çıkarsa, tanı ve tedavide **daima kan basıncının yüksek olduğu kolun ölçüm değeri** dikkate alınmalıdır.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Hipertansiyon tanısı, nefroloji ve iç hastalıkları komitelerinin en favori konularındandır. Hocalarımız bu konudan seni şu üç soru formatıyla kesinlikle test edecektir:
+1.  **Maskeli Hipertansiyon Vaka Sorusu (Ters Köşe):** "Poliklinik muayenesi sırasında kan basınçları 122/77 mmHg (normal) ölçülen, ancak ambulatuvar izleminde 24 saatlik ortalaması 136/86 mmHg (yüksek) saptanan hastanın tanısı nedir?" (Çıkmış soru: M5-2023-83). Cevabın kesinlikle **Maskeli Hipertansiyon** olmalıdır.
+2.  **Ölçüm Tercihi Senaryosu:** "Sağ kol 1. Ölçüm: 155/95 mmHg, Sol kol 1. Ölçüm: 150/90 mmHg... Hastanın tedaviye yönlendirilecek kan basıncı aşağıdakilerden hangisi olarak kaydedilmelidir?" (Çıkmış soru: M5-2024-58). Tedavide her zaman yüksek olan değer baz alınacağı için cevabın **155/95 mmHg** olmalıdır.
+3.  **Hedef Organ Hasarı Çeldiricisi:** "Primer hipertansiyon tanısı ile izlenen hastada aşağıdakilerden hangisinin sıklığının artması beklenmez?" (Çıkmış soru: M5-2027-33). Şıklarda; inme, kronik böbrek yetmezliği, demans ve miyokard infarktüsü (MI) gibi bilinen hedef organ hasarları sıralanır. Araya çeldirici olarak hipertansiyonun bir sonucu/komplikasyonu olmayan **Polisitemia vera** konur. Doğru cevap da budur.
+
+**61. Aşağıdakilerden hangi idrar bulgusu, hematüri saptanan bir hastada etyolojinin glomerülür hastaşığa bağlı olduğunu desteklemez? (M5-2024-18)**
+a) Eritrosit silendirler
+b) Hyalen silendirler
+c) Dismorfik eritrositler
+d) Kola rengi idrar
+e) Proteinüri
+
+**Doğru Şık:** **B (Hyalen silendirler)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, nefroloji polikliniğinde hematüri (idrarda kan) ile gelen bir hastayı değerlendirirken en önemli görevimiz kanamanın kaynağının "böbrek/glomerül" kaynaklı mı (nefrolojik), yoksa "alt üriner sistem" kaynaklı mı (ürolojik) olduğunu ayırt etmektir. Kanama böbreğin süzme ünitesi olan glomerüllerden kaynaklandığında, kırmızı kan hücreleri tübüllerden geçerken ezilir, şekil değiştirir ve idrarda çok karakteristik bulgular bırakırlar. Bu soru bizden, glomerüler hasara işaret eden bu spesifik bulgular arasına gizlenmiş olan ve tamamen sağlıklı insanlarda da izlenebilen sıradan bir idrar bulgusunu bulmamızı istiyor.
+
+**Şıkların Açıklaması:**
+*   **a) Eritrosit silendirler:** Glomerüler kanamanın kesin kanıtıdır. Böbrek tübüllerinde sentezlenen bir proteinin (Tamm-Horsfall) üzerine eritrositlerin yapışmasıyla oluşurlar ve idrara dökülürler. Özellikle akut nefritik sendromda tipik olarak görülür.
+*   **b) Hyalen silendirler (Yanlıştır ve Doğru Cevaptır):** İdrarda en sık görülen silendir tipidir ve sadece Tamm-Horsfall mukoproteininden oluşur, içerisinde hücre barındırmaz. Sağlıklı insanlarda dehidratasyon, egzersiz, susuzluk, ateş veya diüretik kullanımı gibi idrarın konsantre olduğu durumlarda bolca görülür. Varlıkları patolojik bir duruma ya da glomerüler bir hastalığa işaret etmez.
+*   **c) Dismorfik eritrositler:** Glomerül bazal membranının dar porlarından zorlanarak geçen eritrositlerin ezilerek şekil değiştirmesidir. Glomerüler kaynaklı hematürinin en özgün ve tipik mikroskobik göstergesidir. 
+*   **d) Kola rengi idrar:** Glomerüllerden kanayan eritrositler uzun süre tübüllerde asit ortamda kaldığında parçalanır ve hemoglobin hematine dönüşür. Bu da idrarın tipik "kola veya çay rengi" görünmesine neden olur.
+*   **e) Proteinüri:** Glomerüler filtrasyon bariyerinin bozulduğunu gösterir. Hematüriye belirgin proteinürinin eşlik etmesi, kanamanın glomerüler kaynaklı olduğunu güçlü bir şekilde destekler.
+
+**Önemli Terimler:**
+*   **Hematüri:** İdrarda normalden fazla kan (eritrosit) bulunmasıdır. Çıplak gözle görülüyorsa makroskopik, sadece mikroskopta görülüyorsa mikroskopik hematüri denir.
+*   **Silendir (Cast):** Böbreğin toplayıcı tübülüslerinde Tamm-Horsfall proteini zeminine çeşitli hücrelerin veya döküntülerin çökmesiyle oluşan mikroskobik silindirik yapılardır.
+*   **Dismorfik Eritrosit / Akantosit:** Glomerüler membrandan geçerken zedelenen, şekil bozukluğuna uğramış "kulakçıklı" kırmızı kan hücreleridir.
+
+**Bilinmesi Gereken Alt Konular (Glomerüler ve Non-Glomerüler Hematüri Farkları):**
+Bu ayrımı klinikte çok iyi yapmalısın. Eğer hasta nefrolojik (glomerüler) kanıyorsa glomerülonefritleri, ürolojik kanıyorsa taş ve tümörleri ararız:
+*   **Glomerüler (Böbrek) Kanamaları:** İdrar kola/çay rengindedir. İdrarda **pıhtı görülmez** (çünkü pıhtılaşma faktörleri glomerülden süzülemez). Eritrosit silendirleri ve dismorfik eritrositler bulunur, ayrıca tabloya proteinüri eşlik eder. 
+*   **Non-Glomerüler (Ürolojik) Kanamalar:** İdrar parlak kırmızı veya pembe renktedir. İdrarda **pıhtı (+) izlenebilir**. Eritrositler mikroskopta normal şekillidir (izomorfik) ve eritrosit silendiri bulunmaz.
+*   **Yalancı Pozitif Hematüri (Miyoglobinüri):** İdrar daldırma (dipstick) testinde kan $(+++)$ pozitif çıkmasına rağmen mikroskopta hiç eritrosit görülmüyorsa, bu "rabdomiyoliz" (kas yıkımı, örn. Crush sendromu/deprem) durumunda açığa çıkan miyoglobinin yaptığı yalancı pozitifliktir.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Nefroloji komitesinde "Hematüri Ayırıcı Tanısı" hayat kurtarıcı bir konu olduğu için hocalar çok sık sorar:
+1.  **Silendir Çeldiricisi:** Bu sorunun çok benzeri (M5-2024-77) numarasıyla şu şekilde sorulmuştur: *"Aşağıdaki silendirlerden hangisinin idrarda bulunması öncelikle glomerüler bir patolojiyi düşündürür?"* (Cevap: **Eritrosit**). Ayrıca sana sınavda "hangisi patolojik bir idrar bulgusu değildir?" diye sorarlarsa cevabın her zaman **Hyalen silendir** olmalıdır.
+2.  **Akut Poststreptokoksik Glomerülonefrit (APSGN) Vakası:** Vaka sorularında çok tipiktir. *"2 hafta önce boğaz enfeksiyonu geçiren, göz çevresinde ödem, hipertansiyon ve sabahları kola rengi idrarı olan hastanın idrarında eritrosit silendirleri saptanıyor."* Bu senaryonun cevabı her zaman **APSGN (veya Akut Nefritik Sendrom)** olur.
+3.  **Ürolojik Malignite Ayrımı:** Vaka sorusunda hematürinin glomerüler değil ürolojik bir kökeni (mesane tümörü vb.) olduğunu vurgulamak isterlerse; *"Ağrısız, parlak kırmızı renkli ve pıhtılı hematürisi olan ileri yaşlı / sigara içen"* bir hasta profili çizerler. Kırmızı renk ve **pıhtı** kelimelerini gördüğünde aklına alt üriner sistem (üroloji) gelmelidir.
+
+Harika! Nefroloji ve İç Hastalıkları komitesinin en çok kafa karıştıran ama klinikte de bir o kadar çok kullanacağın "Hipertansiyonda Kan Basıncı Ölçüm Kuralları" sorusuyla devam ediyoruz. 
+
+Öncelikle sorumuzu orijinal haliyle yazalım:
+
+**62. Kan basıncı yüksekliği nedeniyle polikliniğe başvuran hastanın yapılan ölçümlerden Sağ kol 1. Ölçüm: 155/95 mmHg, Sağ kol 2. Ölçüm: 150/90 mmHg, Sol kol 1. Ölçüm: 150/90 mmHg, Sağ kol 1. Ölçüm:148/89 mmHg saptanıyor. Hastanın tedaviye yönlendirilecek kan basıncı aşağıdakilerden hangisi olarak kaydedilmelidir? (M5-2024-58)**
+*(Hoca Notu: Sevgili meslektaş adayım, sorunun orijinal çıkmış metninde son ölçüm dizgisel bir hatayla tekrar "Sağ kol 1. Ölçüm" olarak yazılmış olsa da, klinik bağlam gereği bunun "Sol kol 2. Ölçüm" olduğunu anlıyoruz).*
+a) 151/91 mmHg
+b) 153/93 mmHg
+c) 155/95 mmHg
+d) 150/90 mmHg
+e) 148/89 mmHg
+
+**Doğru Şık:** **B (153/93 mmHg)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru hipertansiyon polikliniğinde bir hastanın tansiyonunun nasıl standardize edilip kaydedileceğini test eden şahane bir klinik sorudur. Kılavuzlara göre, hastanın ilk poliklinik başvurusunda tansiyon mutlaka her iki koldan da ölçülmelidir. Eğer aynı koldan birden fazla (örneğin ikişer kez) ölçüm yapılmışsa, doğru değeri bulmak için **önce o koldaki ölçümlerin ortalaması alınır**. Ardından sağ ve sol kolun ortalamaları birbiriyle kıyaslanır ve iki kol arasında bir fark saptanırsa, tanı ve tedaviye yönlendirmede **daima kan basıncının yüksek olduğu kolun ortalama ölçüm değeri** baz alınır. 
+
+**Şıkların Açıklaması ve Hesaplama:**
+Poliklinik kurallarına göre hastamızın ölçümlerinin ortalamasını alalım:
+*   **Sağ Kol Ortalaması:** (155 + 150) / 2 = 152.5 (Sistolik) ve (95 + 90) / 2 = 92.5 (Diyastolik). Yuvarladığımızda **153/93 mmHg** yapar.
+*   **Sol Kol Ortalaması:** (150 + 148) / 2 = 149 (Sistolik) ve (90 + 89) / 2 = 89.5 (Diyastolik). Yuvarladığımızda **149/90 mmHg** yapar.
+*   Şimdi bu iki ortalamayı kıyaslıyoruz: Sağ kol (153/93), sol koldan (149/90) daha yüksek olduğu için hastanın tedaviye yönlendirileceği ve dosyasına kaydedileceği kan basıncı yüksek olan taraf, yani **153/93 mmHg** olmalıdır.
+*   **a) 151/91 mmHg:** Yanlıştır. Tüm ölçümlerin (sağ ve sol) birbiriyle toplanıp dörde bölünmesiyle elde edilen hatalı bir hesaptır.
+*   **b) 153/93 mmHg (Doğru Cevaptır):** Sağ kolun (yüksek olan kolun) ortalamasıdır.
+*   **c) 155/95 mmHg:** Yanlıştır. Ölçülen en yüksek tekil değerdir. Birden fazla ölçüm yapıldığında tek bir yüksek değere göre değil, o kolun ortalamasına göre hareket edilir.
+*   **d) 150/90 mmHg:** Yanlıştır. Sol kolun ilk ölçümüdür.
+*   **e) 148/89 mmHg:** Yanlıştır. Sol kolun ikinci ölçümüdür.
+
+**Önemli Terimler:**
+*   **Sistolik Kan Basıncı:** Kalbin kasılması (sistol) anında kanın damar duvarına yaptığı en yüksek basınçtır ("büyük tansiyon").
+*   **Diyastolik Kan Basıncı:** Kalbin gevşemesi (diyastol) anında damar duvarında kalan minimum basınçtır ("küçük tansiyon").
+*   **Ambulatuvar Kan Basıncı İzlemi (ABPM):** Hastanın koluna takılan ve 24 saat boyunca günlük yaşantısı sırasında belirli aralıklarla otomatik tansiyon ölçümü yapan cihazdır.
+
+**Bilinmesi Gereken Alt Konular (Hipertansiyon Kılavuz Sınırları):**
+Sınavlarda ve stajlarında tansiyon ölçüm standartlarını çok iyi bilmelisin:
+*   **Tanı Sınırları (ACC/AHA vs. ESC):** Amerikan (ACC/AHA) kılavuzları 2017'den beri hipertansiyon sınırını **130/80 mmHg** olarak kabul eder. Avrupa (ESC) kılavuzları ise genel sınırı **140/90 mmHg** olarak kabul eder. Ancak Avrupa kılavuzu da diyabetikler veya kronik böbrek hastaları gibi kardiyovasküler riski olanlarda hedefi 130/80 mmHg'ye çeker.
+*   **Çift Kol Ölçümü:** İlk vizitte mutlaka iki koldan da ölçüm yapılmalı, kollar arası $>15$ mmHg fark varsa subclavian arter stenozu (darlığı) veya aort diseksiyonu gibi patolojiler ekarte edilmelidir.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Hipertansiyon tanısı her komitede fiks sorudur. Daha önce çözdüğümüz soruları da hatırlayarak şu konseptleri birleştir:
+1.  **Klinik vs. Ev Ölçümü Uyumsuzluğu (Banko Soru Tipi):** Hoca iki koldan ölçüm ortalaması sorabildiği gibi "Poliklinik muayenesinde 147/92 mmHg (yüksek) saptanan ancak ambulatuvar 24 saatlik izlemde 133/77 mmHg (normal) ölçülen hastanın tanısı nedir?" (Çıkmış soru: M5-2024-15) diyerek de sorabilir. Cevap **Beyaz Önlük Hipertansiyonu** olacaktır.
+2.  **En Tehlikeli Tip (Maskeli Hipertansiyon):** Tam tersi bir senaryoda "Klinikte ölçüm 122/77 mmHg (normal), evde/ambulatuvar ölçüm 136/86 mmHg (yüksek) olan hastanın tanısı nedir?" (Çıkmış soru: M5-2023-83) diye sorarlarsa cevap en sinsi tablo olan **Maskeli Hipertansiyon** olacaktır.
+3.  **Tekil Ölçüm Çeldiricisi:** Bu sorunun çok benzerini verip "Aşağıdaki hastayı hangi değere göre tedaviye yönlendirirsiniz?" dediğinde, eğer aynı koldan 2 ölçüm verilmemişse (sadece 1'er kez ölçülmüşse) doğrudan **yüksek olan kolun kan basıncını** baz alman gerektiğini unutmamalısın.
+
+Harika! Nefroloji ve İç Hastalıkları komitesinin en çok yokladığı, önceki sorularımızda da benzer mantığını gördüğümüz o meşhur kan basıncı ölçüm senaryolarından biriyle devam ediyoruz. 
+
+Öncelikle sorumuzu orijinal haliyle yazalım:
+
+**63. Hastane muayenesi sırasında, kan basınçları 144/82 mmHg ölçülen ve sonrasında yapılan ev ölçümlerinde ortalama kan basıncı 139/78 mmHg saptanan hastanın tanısı aşağıdakilerden hangisidir? (M5-2023-82)**
+a) Prehipertansiyon
+b) Beyaz önlük hipertansiyonu
+c) Maskeli hipertansiyon
+d) Hipertansiyon
+e) Normotansiyon
+
+**Doğru Şık:** **B (Beyaz önlük hipertansiyonu)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru klinik ölçümler (ofis/hastane) ile ev/ambulatuvar ölçümleri arasındaki o meşhur uyumsuzluğu test eden klasik bir vaka sorusudur. Hastamızın hastanedeki (ofis) ölçümünde sistolik kan basıncı bariz şekilde yüksek (144 mmHg) çıkmıştır. Ancak kendi doğal ortamında, yani ev ölçümlerinde ortalama kan basıncının daha düşük (139/78 mmHg) seyrettiği saptanmıştır. Hastane ortamında stres, doktor/hemşire varlığı veya "beyaz önlük" korkusu nedeniyle tansiyonun yükselmesi, ancak evde normal veya daha düşük sınırlarda çıkması tablosuna **Beyaz Önlük Hipertansiyonu** adını veriyoruz. 
+
+*(Hoca Notu: Güncel ESC kılavuzlarına göre ev ölçümlerinde sistolik 135 mmHg ve üzeri aslında hipertansiyon kabul edilir. Ancak komite sorularında klinikte >140 ölçülüp, evde 140'ın altında (139) ölçülen değerler klinik-ev arasındaki "düşüşü/farkı" vurgulamak için sıklıkla Beyaz Önlük Hipertansiyonu olarak kabul edilerek sorulmaktadır. Sınav mantığında bu uyumsuzluğu gördüğünde aklına bu tablo gelmelidir.)*
+
+**Şıkların Açıklaması:**
+*   **a) Prehipertansiyon:** Kan basıncının tam hipertansiyon sınırında olmamakla birlikte, yüksek normal (normotansiyon ile hipertansiyon arasında) seyretmesidir. Bu şık kliniği ve ev ölçümü arasındaki farkı açıklamaz.
+*   **b) Beyaz önlük hipertansiyonu (Doğru Cevap):** Hastanedeki (ofis) ölçümün yüksek (>140/90), ancak evdeki (ambulatuvar) ölçümün normal veya daha düşük olması durumudur. 
+*   **c) Maskeli hipertansiyon:** Bu, tam tersi bir durumdur ve klinik olarak en sinsi, en tehlikeli gruptur. Hastanedeki ölçüm normal çıkarken, hastanın evdeki veya ambulatuvar kan basıncı ölçümü yüksek seyreder.
+*   **d) Hipertansiyon (Sürekli/Aşikar):** Hastanın hem klinikte (ofis) hem de ev (ambulatuvar) ölçümlerinde kan basıncının sürekli olarak çok yüksek seyretmesi durumudur.
+*   **e) Normotansiyon:** Hastanın hem poliklinik hem de ev izleminde tansiyonunun tamamen normal sınırlarda ölçülmesidir.
+
+**Önemli Terimler:**
+*   **Ofis (Klinik) Kan Basıncı:** Hastane ortamında, poliklinikte hekim veya sağlık personeli tarafından yapılan klasik ölçümdür.
+*   **Ev Kan Basıncı Ölçümü (HBPM):** Hastanın kendi evinde, dinlenmiş haldeyken cihazla yaptığı tansiyon ölçümleridir.
+*   **Ambulatuvar Kan Basıncı İzlemi (ABPM):** Hastanın koluna takılan ve 24 saat boyunca günlük yaşantısı sırasında belirli aralıklarla otomatik olarak tansiyon ölçümü yapan cihazdır.
+
+**Bilinmesi Gereken Alt Konular (Hipertansiyon Kılavuz Sınırları ve Ölçüm Farkları):**
+Bu soru tipinde hocaların sıklıkla vurguladığı kan basıncı tanı sınırlarını çok iyi bilmelisin:
+*   **Amerikan (ACC/AHA) ve Avrupa (ESC) Kılavuzu Farkı:** Amerika (ACC/AHA) hipertansiyon sınırını **130/80 mmHg** olarak kabul ederken, Avrupa (ESC) genel ofis sınırını **140/90 mmHg** olarak kabul eder.
+*   Tüm hipertansiyon olgularının yaklaşık %10'unu Beyaz Önlük Hipertansiyonu oluşturur.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Hipertansiyon tanısı nefroloji ve iç hastalıkları komitelerinin banko sorusudur. Şu formatlara özellikle dikkat etmelisin:
+1.  **Maskeli Hipertansiyon Vaka Sorusu (Banko Beklenen Soru):** Bu sorunun tam tersini çizip, "Poliklinik muayenesi sırasında kan basınçları 122/77 mmHg (normal) ölçülen, ancak ambulatuvar kan basıncı izleminde 24 saatlik ortalaması 136/86 mmHg (yüksek) saptanan hastanın tanısı nedir?" diye soracaklardır. Cevabın kesinlikle **Maskeli (Maskelenmiş) Hipertansiyon** olmalıdır.
+2.  **Sağ Kol - Sol Kol Uyumsuzluğu:** Tansiyon ölçümü sırasında her iki koldan da tansiyon ölçüldüğünde (örneğin Sağ kol: 155/95, Sol kol: 150/90); tanı ve tedaviye yönlendirmede daima **kan basıncının yüksek olduğu kolun (155/95) ortalama ölçüm değerinin** baz alınması gerektiğini bilmelisin.
+3.  **Hedef Organ Hasarı Çeldiricisi:** Primer hipertansiyon tanısı olan bir hastada "hangisinin sıklığının artması beklenmez?" tarzı sorularda; inme, KBH, demans şıklarda verilirken, hematolojik bir malignite olan ve hipertansiyonun sonucu olmayan **Polisitemia vera** doğru cevap (yanlış şık) olarak istenir.
+
+**64. Poliklinik muayenesi sırasında, kan basınçları 122/77 mmHg ölçülen, abulatuvar kan basıncı izleminde 24 saatlik ortalam kan basıncı 136/86 mmHg saptanan hastanın tanısı aşağıdakilerden hangisidir? (M5-2023-83)**
+a) Prehipertansiyon
+b) Beyaz önlük hipertansiyonu
+c) Hipertansiyon
+d) Maskelenmiş hipertansiyon
+e) Normotansiyon
+
+**Doğru Şık:** **D (Maskelenmiş hipertansiyon)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru Nefroloji ve İç Hastalıkları komitelerinin kan basıncı ölçüm yöntemleri arasındaki farklılıkları sorguladığı çok kritik bir vaka sorusudur. Hastanın poliklinikte (ofiste) hekim tarafından ölçülen kan basıncı tamamen normal sınırlarda (122/77 mmHg) saptanmıştır. Ancak hastanın günlük yaşantısını yansıtan 24 saatlik ambulatuvar kan basıncı izlemine (ABPM) bakıldığında, tansiyonun yüksek (136/86 mmHg) seyrettiği görülmektedir. Hastane veya klinik ortamında tansiyonun normal çıkıp, hastanın evdeki veya günlük yaşamındaki ölçümlerinin yüksek çıkması durumuna **"Maskeli (Maskelenmiş) Hipertansiyon"** adını veriyoruz. Bu tablo, klinik ölçümlerin normal görünmesi nedeniyle gözden kaçabildiği için hedef organ hasarı riski açısından en sinsi ve tehlikeli gruptur.
+
+**Şıkların Açıklaması:**
+*   **a) Prehipertansiyon:** Yanlıştır. Kan basıncının optimal değerlerin üzerinde ancak henüz tam hipertansiyon sınırına ulaşmadığı yüksek normal durumu ifade eder. Sorudaki uyumsuzluk klinik-ev ölçümü farkına dayanmaktadır.
+*   **b) Beyaz önlük hipertansiyonu:** Yanlıştır. Bu durum maskeli hipertansiyonun tam tersidir; hastanedeki ölçüm yüksek çıkar ancak evdeki/ambulatuvar ölçüm normaldir.
+*   **c) Hipertansiyon (Sürekli):** Yanlıştır. Hastanın hem klinikte hem de ev/ambulatuvar izlemde tansiyonunun sürekli olarak yüksek seyretmesidir. 
+*   **d) Maskelenmiş hipertansiyon (Doğru Cevap):** Hastanedeki (ofis) ölçümün normal olmasına rağmen, ambulatuvar veya ev kan basıncı ölçümünün yüksek olması durumudur.
+*   **e) Normotansiyon:** Yanlıştır. Hem poliklinikte hem de ambulatuvar izlemde kan basıncının tamamen normal sınırlarda saptanmasıdır.
+
+**Önemli Terimler:**
+*   **Ambulatuvar Kan Basıncı İzlemi (ABPM):** Hastanın koluna takılan manşonlu bir cihazla 24 saat boyunca günlük yaşantısı sırasında belirli aralıklarla (gündüz ve gece) otomatik tansiyon ölçümü yapılmasıdır.
+*   **Maskeli Hipertansiyon:** Klinikte normal, günlük hayatta yüksek kan basıncı profili.
+*   **Beyaz Önlük Hipertansiyonu:** Tüm hipertansiyon olgularının yaklaşık %10'unu oluşturan, hastane ortamının stresiyle tansiyonun yüksek ölçülüp evde normal seyrettiği profildir.
+
+**Bilinmesi Gereken Alt Konular (Hipertansiyonda Ölçüm ve Hedef Organ Hasarları):**
+Bir hastayı değerlendirirken şu hipertansiyon prensiplerini de aklında bulundurmalısın:
+*   **Tanı Sınırları:** Amerikan (ACC/AHA) kılavuzları hipertansiyon sınırını **130/80 mmHg** olarak kabul ederken, Avrupa (ESC) kılavuzları genel ofis sınırını **140/90 mmHg** kabul etmektedir. 
+*   **Kan Basıncı Ölçüm Kuralı:** Polikliniğe ilk kez başvuran hastada tansiyon mutlaka her iki koldan da ölçülmelidir. Eğer kollar arasında bir fark saptanırsa, tedavi ve takipte daima **kan basıncının yüksek olduğu kolun ölçüm değeri** baz alınmalıdır.
+*   **Hedef Organ Hasarı:** Hipertansiyon kronik süreçte inme, demans, kronik böbrek yetmezliği ve akut miyokard infarktüsü (MI) gibi çok ciddi komplikasyonlara yol açar.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Hipertansiyon sınıflandırmaları komitelerin vazgeçilmezidir. Bir sonraki sınavda şu senaryolarla karşılaşman kuvvetle muhtemel:
+1.  **Beyaz Önlük Hipertansiyonu Vaka Sorusu:** Bu sorunun tam tersi bir senaryo verilir. "Muayene sırasında kan basınçları 147/92 mmHg (yüksek) ölçülüyor. Ambulatuvar izlemde ise 133/77 mmHg (normal) saptanıyor. Tanı nedir?" (M5-2024-15) şeklinde sorulduğunda cevabın **Beyaz Önlük Hipertansiyonu** olmalıdır.
+2.  **Ölçüm Kuralı Vakası:** "Sağ kol 1. Ölçüm: 155/95 mmHg, Sol kol 1. Ölçüm: 150/90 mmHg saptanan hastanın tedaviye yönlendirilecek kan basıncı ne olmalıdır?" (M5-2024-58) tarzı bir klinik soruda, her zaman yüksek olan tarafın ortalaması olan değeri (örneğin **155/95 veya yüksek kolun kendi içindeki ortalamasını**) seçmelisin.
+3.  **Hedef Organ Hasarı Çeldiricisi:** "Primer hipertansiyon tanısı ile izlenen hastada aşağıdakilerden hangisinin sıklığının artması beklenmez?" sorusu (M5-2027-33) sıklıkla gelir. Şıklara inme, KBH, demans ve akut MI konurken, doğru cevap (yani hipertansiyonun neden olmadığı durum) genellikle **Polisitemia vera** (kemik iliği kaynaklı eritrosit artışı) olarak verilir.
