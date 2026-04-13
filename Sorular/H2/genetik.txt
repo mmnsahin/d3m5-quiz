@@ -1,0 +1,576 @@
+
+**73. Üriner sistemi etkileyen aşağıdaki hastalık ya da anamolilerden hangisixe bağlı kalıtılır? (M5-2027-12,36,81)**
+a) prune belly sendromu
+b) posterior üretral valv
+c) diegeorge sendromu
+d) fabry hastalığı
+e) bilitaral agenezis
+
+*(Hoca Notu: Soru kökündeki "anamolilerden", "hangisixe" ve E şıkkındaki "bilitaral" kelimeleri orijinal çıkmış sorudaki dizgisel hatalardır, aslına sadık kalarak aynen yazılmıştır. Soru "hangisi X'e bağlı kalıtılır" demek istemektedir)*
+
+**Doğru Şık:** **D (fabry hastalığı)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru Üriner Sistem Gelişim ve Bozukluklarında Genetik Mekanizmalar dersinden gelmektedir. Tıbbi Genetik komitelerinde, spesifik nefrolojik hastalıkların hangi kalıtım paterniyle (Otozomal Dominant, Otozomal Resesif veya X'e bağlı) kuşaktan kuşağa aktarıldığı banko sorulardan biridir. Soru bizden "X kromozomuna bağlı" olarak kalıtılan üriner sistem hastalığını bulmamızı istemektedir. Üriner sistemi etkileyen ve X'e bağlı kalıtılan en önemli iki kalıtsal hastalık **Alport Sendromu** ve **Fabry Hastalığı'dır**. Fabry Hastalığı, çoklu organ hasarına (renal hastalık, proteinüri, renal yetersizlik) yol açan X'e bağlı bir hastalıktır. 
+
+**Şıkların Açıklaması:**
+*   **a) prune belly sendromu:** Yanlıştır. Karın kaslarının yokluğu/zayıflığı, inmemiş testis ve şiddetli üriner sistem anomalileri ile karakterize nadir bir sendromdur. %95'ten fazlası erkeklerde görülse de klasik anlamda tek gen X'e bağlı bir kalıtımdan ziyade kompleks genetik/embriyolojik defektler suçlanmaktadır.
+*   **b) posterior üretral valv:** Yanlıştır. Yalnızca erkek bebeklerde üretra içinde zar benzeri yapıların obstrüksiyon (tıkanıklık) yapmasıyla seyreden konjenital bir anomalidir. Belirgin, spesifik bir X'e bağlı (Mendelyen) kalıtım göstermez, genelde sporadik gelişir.
+*   **c) diegeorge sendromu:** Yanlıştır. CATCH-22 sendromu olarak da bilinen bu durum, 22. kromozomun uzun kolundaki (22q11.2) bir mikrodelesyon (parça kaybı) sonucu gelişir. X kromozomu ile ilgisi yoktur. 
+*   **d) fabry hastalığı (Doğru Cevap):** X'e bağlı kalıtılan, lizozomal bir depo hastalığıdır. Böbrek tutulumu sıktır ve son dönem böbrek yetmezliğine gidebilir.
+*   **e) bilitaral agenezis (Bilateral Renal Agenezis):** Yanlıştır. Her iki böbreğin doğuştan gelişememesi durumudur. Daha çok sporadik veya multifaktöryeldir, "X'e bağlı" olarak sınıflandırılan bir hastalık kalıbı değildir. Bebekte idrar üretimi olmayacağı için oligohidroamniyoz ve Potter Sekansına neden olur.
+
+**Önemli Terimler:**
+*   **X'e Bağlı Kalıtım:** Genetik defektin cinsiyet kromozomlarından X üzerinde taşındığı modeldir. Erkekler (XY) tek X kromozomuna sahip oldukları için kusurlu geni taşıdıklarında hastalığı %100 daha ağır yaşarken; kadınlar (XX) diğer sağlıklı X sayesinde hastalığı genellikle daha hafif atlatır veya taşıyıcı olurlar.
+*   **Lizozomal Depo Hastalığı:** Hücre içindeki lizozom organelinde bulunan yıkım enzimlerinin genetik olarak eksik olması nedeniyle, parçalanamayan makromoleküllerin dokularda (böbrek, kalp vb.) birikmesiyle giden hastalıklardır. (Fabry'de alfa-galaktosidaz A enzimi eksiktir).
+*   **Mikrodelesyon:** Kromozomun ışık mikroskobuyla zor görülebilen çok küçük bir bölgesinin kopup kaybolmasıdır (Örn: DiGeorge Sendromu).
+
+**Bilinmesi Gereken Alt Konular (Böbrek Hastalıklarının Genetiği):**
+Genetik dersinden tam puan alabilmek için şu hastalık ve mutasyon eşleştirmelerini sular seller gibi bilmelisin:
+*   **Erişkin Tip (Otozomal Dominant) Polikistik Böbrek Hastalığı:** **Polisistin 1 (PKD1)** ve **Polisistin 2 (PKD2)** genlerinde mutasyon vardır.
+*   **İnfantil Tip (Otozomal Resesif) Polikistik Böbrek Hastalığı:** **PKHD1** geninde mutasyon vardır.
+*   **Nefronofitizis:** **NPHP 1** ve **NPHP 11** genlerinde (nefrosistin proteinini kodlayan genler) mutasyon vardır.
+*   **Nefroblastoma (Wilms Tümörü):** **WT1** geninde mutasyon izlenir.
+*   **Renal Anjiyomyolipom:** Tuberoz Skleroz sendromu ile ilişkilidir, **TSC1** ve **TSC2** genlerinde mutasyon bulunur.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Üriner sistem hastalıklarının genetiğinden her yıl mutlaka bir veya iki soru gelir. Şu konulara çok dikkat et:
+1.  **Gen - Hastalık Eşleştirmesi (Banko Soru):** "Aşağıdaki renal hastalık ve ilgili mutasyon eşleştirmelerinden hangisi yanlıştır?" diye sorarlar (Örn: M5-2025-26, M5-2026-95). Şıklara doğru eşleştirmeleri (Nefronofitizis-NPHP1 gibi) koyup, yanlış şık olarak "Renal hücreli karsinoma - TSC1" (TSC1 Renal anjiyomyolipom genidir) diyerek seni düşürmeye çalışırlar.
+2.  **Otozomal Dominant Polikistik Böbrek Hastalığı Klinikleri:** "Bu hastalıkla ilgili hangisi yanlıştır?" diye sorup şıklara "Semptomlar genelde 1. veya 2. dekattan önce görülmeye başlar" yazar (M5-2027-22). Hayır! Otozomal dominant (erişkin) tipte böbrek fonksiyonları uzun süre korunur ve semptomlar **3. ve 4. dekada kadar (20'li 30'lu yaşlar) sessiz kalır, geç başlar**. Ayrıca bu hastalarda %25 oranında **mitral kapak prolapsusu** görüldüğünü ve hipertansiyonun sık bir bulgu olduğunu da bilmelisin.
+3.  **DiGeorge Sendromu (Mikrodelesyon):** "Hangi hastalıkta kromozomal mikrodelesyon gözlenir?" (M5-2025-73) tarzında bir soruyla mikrodelesyon mantığı yoklanabilir. Cevap her zaman 22q11 delesyonuna bağlı **DiGeorge Sendromu** olacaktır.
+4.  **Alport Sendromu Vakası:** Bu hastalık X'e bağlıdır ancak farklı kalıtım modelleri (otozomal formlar vb.) ve aynı geni bozan farklı mutasyonlar (Alelik heterojenite) ile de gidebilir. Lokus heterojenitesi de vardır. Sınavda özellikle Tip IV kollajeni tuttuğunu ve **Sensörinöral işitme kaybı** ile **hematürinin** bir arada olduğu klinik vaka sorusunu yakalaman istenir.
+
+**74. Otozomal dominant polikistik böbrek hastalığı ile ilgili olarak aşağıdakilerden hangisi yanlıştır? (M5-2027-22)**
+a) Semptomlar genelde 2. Dekattan önce görülmeye başlar.
+b) Sık görülen bir hastalıktır.
+c) Hastalık %10 de novo
+e) Hipertansiyon sık görülen bir bulgudur.
+d) Hastaların %25'inde mitral valv prolapsusu görülür.
+*(Hoca Notu: Şıkların harflendirmesi orijinal sorudaki dizgi hatasına sadık kalınarak aktarılmıştır.)*
+
+**Doğru Şık:** **A (Semptomlar genelde 2. Dekattan önce görülmeye başlar.)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru Tıbbi Genetik ve Nefroloji komitelerinde oldukça sık karşılaştığımız, böbreğin en yaygın genetik hastalıklarından biri olan **Otozomal Dominant Polikistik Böbrek Hastalığı (ADPKD / Erişkin Tip)** ile ilgili klinik ve genetik temel bilgileri test etmektedir. ADPKD, genellikle böbreklerde çok sayıda kistin yavaş yavaş büyümesiyle karakterizedir. Hastalık yavaş ilerlediği için hastalar genellikle hayatlarının ilk 20 yılında (1. ve 2. dekatta) asemptomatiktirler ve kistler yeterli büyüklüğe ulaşmadığı için klinik bulgu vermezler. Semptomlar, kistlerin büyüyerek böbrek fonksiyonlarını bozmaya ve çevre dokulara bası yapmaya başladığı **3. ve 4. dekatta (20'li ve 30'lu yaşlarda)** ortaya çıkar. Bu nedenle semptomların 2. dekattan önce başladığını iddia eden A şıkkı yanlıştır.
+
+**Şıkların Açıklaması:**
+*   **a) Semptomlar genelde 2. Dekattan önce görülmeye başlar (Yanlış ve Doğru Cevap):** Hastalar sıklıkla 3. ve 4. dekada (20-40 yaş aralığına) kadar asemptomatik seyreder. Böbrek fonksiyonları (GFR) genellikle 4. ve 5. dekada kadar korunur.
+*   **b) Sık görülen bir hastalıktır (Doğru):** Prevalansı 1/300 ile 1/1000 arasındadır. Bu oran, onu insanlarda en sık görülen genetik (kalıtsal) hastalıklardan biri yapmaktadır.
+*   **c) Hastalık %10 de novo (Doğru):** Olguların %90'ı ailesel geçiş (ebeveynden kalıtım) gösterirken, %10'luk bir kısmında aile öyküsü olmaksızın, tamamen yeni (de novo) gelişen genetik mutasyonlar saptanır. 
+*   **e) Hipertansiyon sık görülen bir bulgudur (Doğru):** ADPKD hastalarında böbrek kistlerinin renal kan akımını bozarak renin-anjiyotensin-aldosteron sistemini (RAAS) aktive etmesi sonucu çok erken dönemlerde ve oldukça sık şekilde sekonder hipertansiyon görülür.
+*   **d) Hastaların %25'inde mitral valv prolapsusu görülür (Doğru):** ADPKD sadece böbreği tutan bir hastalık değildir; kalp kapak defektleri gibi böbrek dışı (ekstra-renal) bulguları da vardır. Hastaların yaklaşık %25'inde Mitral Valv Prolapsusu saptanır. 
+
+**Önemli Terimler:**
+*   **Otozomal Dominant Kalıtım:** Mutasyona uğramış genin otozom adı verilen cinsiyet dışı kromozomlarda taşındığı ve hastalığın ortaya çıkması için tek bir mutasyonlu gen kopyasının yeterli olduğu kalıtım modelidir.
+*   **De Novo Mutasyon:** Aile ağacında daha önce bulunmayan, bireyin embriyolojik gelişimi sırasında ya da üreme hücrelerinde ilk kez ortaya çıkan "yeni" genetik mutasyondur.
+*   **Dekat:** 10 yıllık zaman dilimidir (Örn: 2. dekat = 10-20 yaş aralığı).
+*   **Mitral Valv Prolapsusu:** Kalbin sol atriyumu ile sol ventrikülü arasındaki mitral kapağın tam kapanamayarak atriyuma doğru sarkması (çökmesi) durumudur. Bağ dokusu anomalilerinde sık görülür.
+
+**Bilinmesi Gereken Alt Konular (Otozomal Dominant Polikistik Böbrek Hastalığının Ek Özellikleri):**
+Bu hastalığı tam anlamıyla kavramak için şu ekstra-renal (böbrek dışı) bulgularını ve genetiğini iyi bilmelisin:
+*   **Mutasyona Uğrayan Genler:** ADPKD temel olarak iki farklı gende gelişen mutasyonlarla ortaya çıkar. Olguların %85'inde **Polisistin 1 (PKD1)** geni, %15'inde ise **Polisistin 2 (PKD2)** geni mutasyona uğramıştır.
+*   **Çift Vuruş Hipotezi (Two-Hit Hypothesis):** Hastalığın genetiği otozomal dominant olsa da, böbrek epitel hücrelerinde bir kistin tam anlamıyla gelişmeye başlayabilmesi için sağlam olan ikinci gen kopyasının da sonradan (somatik olarak) mutasyona uğraması, yani "iki vuruşun" tamamlanması gerekir. 
+*   **Diğer Ekstra-Renal Bulgular:** Mitral prolapsusa ek olarak; bu hastalarda karaciğer kistleri (en sık böbrek dışı tutulum), kolon divertikülleri, over kistleri ve en önemlisi beyin damarlarında subaraknoid kanamaya yol açabilen **intrakraniyal (Berry) anevrizmalar** görülür.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Böbreğin kistik hastalıkları komite sınavlarının favorisidir. Şu tuzaklara ve karşılaştırmalara mutlaka dikkat etmelisin:
+1.  **İnfantil (Resesif) Tip ile Karşılaştırma:** Hocalar, Erişkin Tip (Dominant) ile İnfantil Tipi (Resesif) sık sık karıştırarak sorarlar. Sana "Erken çocukluk / bebeklik döneminde ortaya çıkan, PKHD1 gen mutasyonu ile karakterize hastalık hangisidir?" diye sorarlarsa cevabın **Otozomal Resesif Polikistik Böbrek Hastalığı (ARPKD / İnfantil Tip)** olmalıdır.
+2.  **Gen - Hastalık Eşleştirmesi:** Daha önceki çıkmışlarda (M5-2026-95, M5-2025-26) da gördüğümüz üzere "Aşağıdaki renal hastalık ve mutasyon eşleştirmelerinden hangisi yanlıştır?" tarzı banko sorularda **ADPKD - Polisistin 1 ve 2 geni** eşleştirmesini her zaman aramalısın. 
+3.  **Ölüm Nedeni / Ciddi Komplikasyon:** ADPKD vakalarında ani ve şiddetli bir baş ağrısı ("hayatımdaki en kötü baş ağrısı") tarif eden bir klinik senaryo çizilirse, bu hastada mutlaka ek bir patoloji olan **Berry anevrizması rüptürüne bağlı subaraknoid kanama** şüphesi akla gelmeli ve soru bu şekilde yanıtlanmalıdır.
+
+Harika! Tıbbi Genetik ve Nefroloji komitelerinin kesişim kümesinde yer alan, böbreğin genetik hastalıklarını ve kalıtım modellerini (özellikle heterojenite kavramlarını) çok iyi test eden şahane bir soruyla devam ediyoruz. 
+
+Öncelikle sorumuzu orijinal haliyle yazalım:
+
+**75. Alportsendromu ile ilgili aşağıdakilerden hangisi yanlıştır? (M5-2026-66)**
+a) Alelik heterojenite izlenir.
+b) Tip IV kollajen etkilenmiştir.
+c) Sensörinöral işitme kaybı görülür.
+d) Lokus heterojenitesi izlenmez.
+e) Farklı kalıtım modelleri izlenir.
+
+**Doğru Şık:** **D (Lokus heterojenitesi izlenmez.)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru nadir görülen ancak nefroloji genetiğinin prototip hastalıklarından biri olan **Alport Sendromu**'nun genetik mekanizmalarını ve klinik triadını (böbrek, göz ve kulak tutulumu) sorgulayan teorik bir sorudur. Alport sendromu, glomerüler bazal membranın (GBM) temel yapı taşı olan Tip IV kollajen genlerindeki mutasyonlar sonucu gelişen, ilerleyici böbrek yetmezliği ile karakterize kalıtsal bir nefrittir. Soru bizden bu hastalığın genetik geçiş özelliklerinden hangisinin yanlış verildiğini bulmamızı istemektedir. 
+
+**Şıkların Açıklaması:**
+*   **a) Alelik heterojenite izlenir (Doğru):** Alelik heterojenite, aynı gen üzerindeki farklı mutasyonların aynı (veya benzer) hastalığa yol açmasıdır. Alport sendromunda aynı kollajen genindeki yüzlerce farklı mutasyon hastalığa neden olabilir, yani alelik heterojenite vardır.
+*   **b) Tip IV kollajen etkilenmiştir (Doğru):** Hastalığın temel patofizyolojisi Tip IV kollajenin alfa-3, alfa-4 veya alfa-5 zincirlerindeki genetik üretim kusurudur.
+*   **c) Sensörinöral işitme kaybı görülür (Doğru):** Tip IV kollajen böbrek dışında iç kulakta (kohlea) ve göz lensinde de bolca bulunur. Bu nedenle hastalarda hematüriye eşlik eden, bilateral (çift taraflı) ve ilerleyici sensörinöral işitme kaybı klasik bir klinik bulgudur.
+*   **d) Lokus heterojenitesi izlenmez (Yanlış ve Doğru Cevap):** Lokus heterojenitesi, *farklı genlerdeki* (farklı lokuslardaki) mutasyonların *aynı* klinik hastalığı (fenotipi) oluşturmasıdır. Alport sendromunda COL4A3, COL4A4 veya COL4A5 gibi farklı genlerdeki mutasyonlar da Alport sendromuna neden olduğu için bu hastalıkta lokus heterojenitesi **izlenir**. Bu nedenle bu şık yanlıştır.
+*   **e) Farklı kalıtım modelleri izlenir (Doğru):** Hastalığın %85'i X'e bağlı geçişli (COL4A5 mutasyonu) olsa da, otozomal resesif (%15) ve nadiren otozomal dominant (COL4A3 veya COL4A4 mutasyonları) formları da mevcuttur. Yani farklı kalıtım modelleri izlenir.
+
+**Önemli Terimler:**
+*   **Alelik Heterojenite:** Bir hastalığın, *aynı genin* farklı noktalarında meydana gelen farklı mutasyonlar sonucu ortaya çıkabilmesi durumudur.
+*   **Lokus Heterojenitesi:** Bir hastalığın fenotipinin, *farklı kromozom veya gen lokuslarındaki* mutasyonlar tarafından oluşturulabilmesi durumudur.
+*   **Tip IV Kollajen:** Böbrek glomerüllerinde filtrasyon bariyerini oluşturan bazal membranın iskeletini sağlayan ana kollajen tipidir. 
+*   **Sensörinöral İşitme Kaybı:** İç kulaktaki tüy hücrelerinin veya işitme sinirinin (N. Vestibulocochlearis) hasarına bağlı oluşan, seslerin beyne iletilememesi durumudur.
+
+**Bilinmesi Gereken Alt Konular (Alport Sendromu ve Ayrıcı Tanıları):**
+Alport sendromunu tam kavramak için klinik özelliklerini bir bütün olarak (triad şeklinde) bilmelisin:
+1.  **Renal Bulgular:** Mikroskobik hematüri ile başlar, zamanla makroskobik hematüri atakları ve proteinüri eklenir. Hastalık son dönem böbrek yetmezliğine (SDBY) doğru ilerler.
+2.  **Oftalmolojik (Göz) Bulguları:** Lensin öne doğru koni şeklinde bombeleştiği **Anterior Lentikonus** (Alport için patognomoniktir) ve maküler lekeler (flekler) görülür. 
+3.  **İnce Bazal Membran Hastalığı ile Ayrımı (Benign Familyal Hematüri):** Bu hastalıkta da glomerüler bazal membran incedir ve izole hematüri görülür. Ancak Alport'un aksine hastalık selimdir (benigndir), böbrek yetmezliğine ilerlemez ve göz/kulak bulguları (ekstra-renal bulgular) eşlik etmez. Alport sendromunda ise erken dönemde ince olan membran daha sonra kalınlaşır, ayrışır ve elektron mikroskobunda tipik **"Sepet Örgüsü (Basket-Weave)"** görünümünü alır.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Genetik ve Nefroloji komitelerinde hocalarınızın bu alandan şu tip soruları sorması oldukça muhtemeldir:
+1.  **Gen-Hastalık Eşleştirmesi (Banko Soru Tipi):** Diğer çıkmış soruları incelediğimizde (M5-2026-95, M5-2025-26) mutasyon ve hastalık eşleştirmesi sıklıkla gelir. Şunları kesinlikle ezbere bilmelisin:
+    *   **Erişkin Tip (Dominant) Polikistik Böbrek Hastalığı:** Polisistin 1 (PKD1) ve Polisistin 2 (PKD2)
+    *   **İnfantil Tip (Resesif) Polikistik Böbrek Hastalığı:** PKHD1
+    *   **Nefronofitizis:** NPHP1 genleri (Nefrosistin proteini)
+    *   **Nefroblastoma (Wilms Tümörü):** WT1
+    *   **Renal Hücreli Karsinoma (Clear cell):** VHL 
+    *   **Renal Anjiyomyolipom:** TSC1 ve TSC2
+2.  **X'e Bağlı Geçiş (Alport ve Fabry Ayrımı):** Daha önce "Aşağıdaki üriner sistem hastalıklarından hangisi X'e bağlı kalıtılır?" diye sorulmuştu (M5-2027-12). Şıklarda hem Alport sendromu hem de bir lizozomal depo hastalığı olan **Fabry Hastalığı** varsa, her ikisinin de böbreği tutan X'e bağlı kalıtsal hastalıklar olduğunu hatırlamalısın.
+3.  **Mikrodelesyon Sendromları:** "Hangi hastalıkta kromozomal mikrodelesyon gözlenir?" (M5-2025-73) tarzında bir soru sorulursa cevabın her zaman **DiGeorge Sendromu** (22q11.2 delesyonu) olmalıdır.
+
+Merhaba sevgili meslektaşım/öğrencim. Ben Tıp Fakültesinden hocan. Getirdiğin soruyu seninle birlikte detaylıca inceleyelim, hem bu konuyu pekiştirelim hem de sınavda karşına çıkabilecek diğer tuzakları birlikte avlayalım.
+
+İşte sorumuz:
+
+**76. Aşağıdaki renal hastalık ve ilgili mutasyon ikili eşleştirmelerinden hangisi yanlıştır? (M5-2026-95)**
+a) Infantil tip polikistik böbrek hastalığı PKHD1 geni
+b) Otozomal dominant polikistik böbrek hastalığı - Polisistin 2 geni
+c) Nefronofitizis – NPHP 1 geni
+d) Renal hücreli karsinoma - Nefrosistin geni
+e) Nefroblastoma - WT 1 geni
+
+**Doğru Şık:** **D şıkkı**
+*(Önemli Not: Fakültenin hazırladığı çıkmış sorular cevap anahtarında bu sorunun cevabı "B" olarak verilmiş. Ancak belirlediğin kural gereği "not ve slaytları" referans aldığımızda, derste Otozomal Dominant Polikistik Böbrek Hastalığının (ADPKD) Polisistin 1 ve Polisistin 2 genlerindeki mutasyonlara bağlı olduğu anlatılmıştır. Nefrosistin geni ise Nefronofitizis ile ilgilidir, Renal Hücreli Karsinom ile değil. Bu nedenle bilimsel gerçeklere ve ders notlarına göre kesin olarak yanlış olan eşleştirme D şıkkıdır.)*
+
+### Sorunun Açıklaması
+Bu soru, nadir görülen genetik üriner sistem hastalıkları ile bu hastalıklara yol açan spesifik gen/protein mutasyonlarının bilinip bilinmediğini ölçmektedir. Genetik böbrek hastalıkları sıklıkla "Siliyopatiler" veya "Podositopatiler" başlıkları altında hücresel defektin lokalizasyonuna göre sınıflandırılır.
+
+### Şıkların Açıklaması
+*   **a) Infantil tip polikistik böbrek hastalığı (Otozomal Resesif - ARPKD) - PKHD1 geni:** Bu **doğru** bir eşleştirmedir. Hastalık, PKHD1 genindeki mutasyon sonucu üretilen anormal *fibrocystin* proteini nedeniyle ortaya çıkar.
+*   **b) Otozomal dominant polikistik böbrek hastalığı (Erişkin Tip - ADPKD) - Polisistin 2 geni:** Bu eşleştirme **doğrudur**. Bu hastalıkta lokus heterojenitesi vardır; hastaların büyük çoğunluğunda (%85) PKD1 geni (Polisistin 1) mutasyona uğrarken, geriye kalanlarda PKD2 geni (Polisistin 2) mutasyonu izlenir.
+*   **c) Nefronofitizis – NPHP 1 geni:** Bu eşleştirme **doğrudur**. Nefronofitizis bir siliyopatidir ve NPHP1-NPHP19 genleri tarafından kodlanan *nefrosistin* protein ailesindeki bir defekt sonucu oluşur.
+*   **d) Renal hücreli karsinoma - Nefrosistin geni:** Bu eşleştirme **yanlıştır**. Nefrosistin geni (NPHP) C şıkkında gördüğümüz üzere Nefronofitizis ile ilişkilidir. Renal Hücreli Karsinom'da (RCC) VHL, BAP1 gibi gen mutasyonları ön plandadır.
+*   **e) Nefroblastoma (Wilms Tümörü) - WT 1 geni:** Bu **doğru** bir eşleştirmedir. Çocukluk çağının en sık görülen böbrek tümörü olan Wilms tümöründe WT1 gen mutasyonu sorumludur.
+
+### Bilinmesi Gereken Terimler
+*   **Lokus heterojenitesi:** Farklı genlerdeki mutasyonların klinikte tamamen aynı tabloyu (hastalığı) oluşturmasıdır. Örneğin ADPKD'de hem PKD1 hem de PKD2 geninin mutasyonu aynı hastalığa yol açar. Alport sendromunda da lokus heterojenitesi izlenir.
+*   **Alelik heterojenite:** Tam tersine, aynı gen üzerindeki farklı nokta mutasyonlarının benzer veya farklı şiddette hastalığa neden olmasıdır. 
+*   **De novo mutasyon:** Aile öyküsünde hiçbir hastalık olmamasına rağmen, hastanın anne karnındaki gelişimi sırasında spontan olarak ilk defa o bireyde ortaya çıkan mutasyondur. (ADPKD vakalarının %10'u böyledir).
+
+### Konu Hakkında Bilinmesi Gereken Alt Konular
+Sadece geni ezberlemek yetmez, hastalıkların klinik yansımalarına da hâkim olman gerekir:
+*   **Otozomal Dominant Polikistik Böbrek Hastalığı (ADPKD):** 20'li yaşlara kadar sinsi seyreder, ancak 30'lu yaşlarda %100 semptomatiktir. Ekstrarenal (böbrek dışı) bulgularına çok dikkat etmelisin! Bunlarda **hipertansiyon** çok sıktır ve kardiyak tutulum olarak hastaların **%25'inde Mitral Valv Prolapsusu (MVP)** görülür. En tehlikeli komplikasyonlarından biri ise beyindeki Berry anevrizmalarıdır. 
+*   **Otozomal Resesif Polikistik Böbrek Hastalığı (ARPKD):** Gebelik döneminde oligohidramniyoz (amniyon sıvısının azlığı) yapar. Bebek anne karnında sıkışır ve **Potter Sekansı** (pulmoner hipoplazi, basık yüz, ekstremite anomalileri) ile doğabilir. Ayrıca sıklıkla karaciğerde konjenital hepatik fibrozis eşlik eder.
+*   **Alport Sendromu:** X'e bağlı geçiş gösteren, **Tip IV Kollajen** yapısındaki defekt ile karakterize bir hastalıktır. Hem böbrekte sorun vardır hem de kulakta **sensörinöral işitme kaybı** görülür.
+*   **Fabry Hastalığı:** Alfa-galaktosidaz A enzim eksikliği sonucu oluşan, **X'e bağlı kalıtılan** bir lizozomal depo hastalığıdır. Sinsi böbrek yetmezliği sebebidir.
+
+### Sınav İçin Hoca Tavsiyeleri ve Muhtemel Soru Yerleri
+Diğer çıkmış soruları ve dersin gidişatını analiz ettiğimde, bu kurulda özellikle dikkat etmeni istediğim yerler şunlar:
+
+1.  **X'e Bağlı Hastalıklar Grubu:** "Aşağıdakilerden hangisi X'e bağlı kalıtılır?" sorusu fiks çıkmışlardan biridir. Şıklarda **Alport Sendromu** ve **Fabry Hastalığı'nı** aramalısın. Bu ikili her zaman potansiyel banko sorudur.
+2.  **Heterojenite Kavramı:** Sorularda "Alport'ta lokus heterojenitesi izlenmez" gibi çeldirici cümleler koyarak (çıkmışlarda defalarca denenmiş) öğrenciyi düşürmeye çalışırlar. Unutma, Alport Sendromunda lokus heterojenitesi (farklı kalıtım modelleri) İZLENİR.
+3.  **ADPKD Ekstrarenal Bulguları:** Erişkin tip polikistik böbrek hastalığı (ADPKD) ile ilgili şıklarda sıklıkla "Hipertansiyon erken dönemde görülür" veya "Mitral kapak tutulumu görülür" gibi özellikler yer alır. MVP ve Hipertansiyon birlikteliğinin altını kırmızı kalemle çizmelisin.
+
+Başarılar dilerim meslektaşım, çalışmaya tam gaz devam! Aklına takılan başka bir soru olursa buradayım.
+
+Merhaba sevgili meslektaşım. Birlikte çıkmış soruları irdelemeye ve sınavda karşımıza çıkabilecek önemli detayları avlamaya devam edelim. İstediğin soruyu hemen önümüze alalım.
+
+İşte sorumuz:
+
+**77. Otozomal dominant geçişli polikistik böbrek hastalığıyla ilgili hangisi doğrudur? (M5-2025-8)**
+a) Hastaların 1/2sinde mitral valv prolapsusu görülür.
+b) %50 hastada de Novo seyreder.
+c) Nadir görülen hastalık olarak değerlendirilir.
+d) Semptomlar genelde 5. Dekattan sonra çıkar.
+e) Hipertansiyon ile birlikte seyreden bulguları vardır.
+
+**Doğru Şık:** **E şıkkı**
+
+### Sorunun Açıklaması
+Bu soru, üriner sistemin en sık görülen genetik hastalıklarından biri olan **Otozomal Dominant Polikistik Böbrek Hastalığı (ADPKD)** ile ilgili temel epidemiyolojik ve klinik bulguları sorgulamaktadır. ADPKD'nin ekstrarenal (böbrek dışı) bulgularının sıklığı, kalıtım özellikleri ve kliniğe yansıma zamanının bilinmesi hedeflenmiştir.
+
+### Şıkların Açıklaması
+*   **a) Hastaların 1/2sinde mitral valv prolapsusu görülür:** Bu şık **yanlıştır**. Hastaların yarısında değil, yaklaşık **%25'inde** mitral valv prolapsusu (MVP) görülür.
+*   **b) %50 hastada de Novo seyreder:** Bu şık **yanlıştır**. Hastalık %50 gibi yüksek bir oranda değil, sadece **%10** oranında de novo (anne-babada hastalık olmaksızın spontan mutasyonla) izlenir.
+*   **c) Nadir görülen hastalık olarak değerlendirilir:** Bu şık **yanlıştır**. Prevalansı 1/300 ile 1/1000 arasında değişmektedir; bu oranlar göz önüne alındığında nadir değil, aksine **sık görülen** bir genetik böbrek hastalığı olarak değerlendirilir.
+*   **d) Semptomlar genelde 5. Dekattan sonra çıkar:** Bu şık **yanlıştır**. Semptomlar genellikle 3. veya 4. dekatlarda (20'li, 30'lu yaşlarda) belirginleşmeye başlar. Slayt notlarında "semptomların 2. dekattan önce görülmesi" durumu da yanlış kabul edilmiştir, yani hastalık genelde çocuklukta değil genç erişkinlik döneminde klinik verir. 
+*   **e) Hipertansiyon ile birlikte seyreden bulguları vardır:** Bu şık **doğrudur**. Hipertansiyon, ADPKD hastalarında böbrek fonksiyonları henüz bozulmadan önce bile çok sık görülen, hastalığın en temel ve erken klinik bulgularından biridir.
+
+### Bilinmesi Gereken Terimler
+*   **Çift vuruş hipotezi (Two-hit hypothesis):** Hastalık otozomal dominant kalıtılmasına rağmen, hücresel düzeyde kistlerin ortaya çıkabilmesi için ilgili genin her iki kopyasında da mutasyon (hasar) meydana gelmesi gerektiğini ifade eden genetik kuraldır.
+*   **De novo mutasyon:** Hastalığın anne veya babadan genetik olarak aktarılmayıp, kişinin kendi embriyolojik gelişimi sırasında spontan (kendiliğinden) ortaya çıkan yepyeni bir mutasyonla oluşmasıdır.
+*   **Değişken ekspressivite:** Aynı genetik mutasyona sahip hastaların, hastalığı farklı şiddette veya farklı semptomlarla (kimisinde kistler daha büyük, kimisinde ekstrarenal bulgular daha belirgin vb.) yaşaması durumudur.
+*   **Genetik heterojenite:** Aynı klinik tablonun (ADPKD), farklı genlerdeki (PKD1 veya PKD2) mutasyonlar sonucunda ortaya çıkabilmesidir.
+
+### Konu Hakkında Bilinmesi Gereken Alt Konular
+ADPKD ile ilgili şu özellikleri de bir paket halinde bilmen çok önemli:
+*   **Sorumlu Genler:** Olguların büyük çoğunluğu **(%85) ADPKD-1** tipidir ve **PKD1 (polisistin 1)** genindeki mutasyonlardan kaynaklanır. Geriye kalan vakalar genellikle Polisistin 2 (PKD2) gen mutasyonu ile ilişkilidir.
+*   **Son Dönem Renal Hastalık (SDBY) Riski:** Bu hastaların birçoğu hayatının ilerleyen dönemlerinde diyaliz veya nakil gerektiren böbrek yetmezliğine gider. ADPKD hastalarının genel son dönem böbrek yetmezliği popülasyonu içindeki sıklığı **%8-10** civarındadır.
+*   **İnfantil Tip ile Ayrımı:** Otozomal dominant olan erişkin tiptir. **İnfantil tip** polikistik böbrek hastalığı ise otozomal resesif kalıtılır ve **PKHD1** (fibrocystin) geni ile ilişkilidir.
+
+### Sınav İçin Hoca Tavsiyeleri ve Muhtemel Soru Yerleri
+Dersin slaytlarına ve daha önce sorulmuş benzer sorulara (örneğin 2028 Çıkmış Soru 97'ye) baktığımızda şuralar tam bir potansiyel sınav sorusu:
+
+1.  **İstatistiksel Tuzaklar (%25 vs %10):** Soruyu hazırlayan hocalar yüzdeleri değiştirmeyi çok seviyor. **Mitral valv prolapsusunu %25**, **de novo mutasyon oranını ise %10** olarak hafızana kazı. Bu ikisini ters çevirip şıklara koymaları çok muhtemeldir.
+2.  **"Çift Vuruş Hipotezi" Sorusu:** Genetik mekanizmalar dersi kapsamında *"Aşağıdaki üriner sistem genetik hastalıklarından hangisinde kistlerin ortaya çıkabilmesi için çift vuruş hipotezi (iki noktada mutasyon) gereklidir?"* şeklinde şahane bir mekanizma sorusu sorulabilir.
+3.  **Gen-Hastalık Eşleştirmesi:** Sınavda her zaman "Hastalık - Gen" eşleştirme sorusu gelir. **Erişkin tip (Dominant) = PKD1 (%85) / PKD2**, **İnfantil tip (Resesif) = PKHD1** ayrımını çok iyi yapabilmelisin.
+4.  **"Nadir Hastalık" Çeldiricisi:** Bu hastalığın prevalansı 1/300 - 1/1000'dir. Toplumda oldukça sık görülür. Sorularda seni "Bu nadir bir sendromdur" cümlesiyle düşürmeye çalışacaklardır, sakın bu tuzağa düşme.
+
+Çalışmalarında kolaylıklar diliyorum meslektaşım, aklına takılan herhangi bir soru olduğunda buradayım!
+
+Merhaba sevgili meslektaşım. Getirdiğin soruyu büyük bir memnuniyetle, detaylı bir şekilde inceleyelim. Bu konu, nadir genetik hastalıklar ve böbrek tümörleri genetiği söz konusu olduğunda komitelerin vazgeçilmezidir. 
+
+İşte sorumuz:
+
+**78. Aşağıdaki renal hastalık ve ilgili mutasyon ikili eşleştirmelerinden hangisi yanlıştır? (M5-2025-26)**
+a) Erişkin tip polikistik böbrek hastalığı - polisistin 1
+b) İnfantil tip polikistik böbrek hastalığı – PKHD 1 geni
+c) Nefronofitizis – NPHP 1 geni
+d) Nefroblastoma - WT 1 geni
+e) Renal hücreli karsinoma - TSC1 geni
+
+**Doğru Şık:** **E şıkkı**
+
+### Sorunun Açıklaması
+Bu soru, böbreğin genetik hastalıkları ile tümöral hastalıklarının moleküler patogenezini kavramanı bekliyor. Biz hekimler için sadece sendromun adını bilmek yetmez, hücresel düzeyde hangi genin/proteinin defektli olduğunu bilmek de hedefe yönelik tedaviler ve genetik danışmanlık açısından çok önemlidir. Soru senden spesifik gen mutasyonları ile hastalıkları eşleştirmeni istemektedir.
+
+### Şıkların Açıklaması
+*   **a) Erişkin tip polikistik böbrek hastalığı (ADPKD) - polisistin 1:** Bu eşleştirme **doğrudur**. Otozomal dominant kalıtılan erişkin tip polikistik böbrek hastalığının vakalarının yaklaşık %85'inden PKD1 geni sorumludur ve bu gen "polisistin 1" proteinini kodlar. Geriye kalan vakalarda PKD2 (polisistin 2) mutasyonu izlenir.
+*   **b) İnfantil tip polikistik böbrek hastalığı (ARPKD) - PKHD 1 geni:** Bu eşleştirme **doğrudur**. Otozomal resesif kalıtılan bu hastalık, fibrokistin proteinini kodlayan PKHD1 genindeki mutasyonlar sonucu anne karnında veya erken bebeklikte ortaya çıkar.
+*   **c) Nefronofitizis – NPHP 1 geni:** Bu eşleştirme **doğrudur**. Nefronofitizis, böbrekte tübülointerstisyel fibrozis ve kistlerle giden, "nefrosistin" (NPHP) protein ailesinin defekti ile oluşan bir siliyopatidir.
+*   **d) Nefroblastoma - WT 1 geni:** Bu eşleştirme **doğrudur**. Wilms tümörü olarak da bilinen çocukluk çağının en sık böbrek tümöründe, embriyolojik böbrek gelişiminde de çok kritik olan "Wilms Tumor 1" (WT1) geni mutasyonu görülür.
+*   **e) Renal hücreli karsinoma - TSC1 geni:** Bu eşleştirme **yanlıştır**. TSC1 (Hamartin) ve TSC2 (Tüberin) gen mutasyonları, böbreklerde iyi huylu *anjiyomiyolipom* (AML) oluşumu ile karakterize olan Tüberoz Skleroz Kompleksi (TSC) hastalığına neden olur. Renal Hücreli Karsinom'da (RCC - özellikle Şeffaf Hücreli tip) en belirgin mutasyon ise **VHL (Von Hippel-Lindau)** genindedir.
+
+### Bilinmesi Gereken Terimler
+*   **Nefroblastoma (Wilms Tümörü):** Böbreğin embriyolojik kalıntılarından köken alan, çocuklarda görülen en sık böbrek malignitesi.
+*   **Tüberoz Skleroz Kompleksi (TSC):** TSC1 veya TSC2 genindeki defekt nedeniyle hücre büyümesinin kontrol edilemediği, böbreklerde anjiyomiyolipomlar, beyinde hamartomlar ve cilt lezyonlarıyla karakterize genetik hastalık.
+*   **Siliyopati:** Hücre yüzeyindeki primer silyum yapısının veya fonksiyonunun bozulmasıyla ortaya çıkan genetik hastalıklar spektrumu (Polikistik böbrek hastalıkları ve Nefronofitizis bu gruba girer).
+
+### Konu Hakkında Bilinmesi Gereken Alt Konular
+Böbreğin genetik ve tümöral hastalıkları için aşağıdaki mutasyon - klinik tablo ilişkilerini de mutlaka cebine atmalısın:
+*   **Renal Hücreli Karsinom (RCC) alt tipleri ve Genetiği:** Şeffaf hücreli RCC için **VHL gen** mutasyonunu, Papiller RCC için **MET** mutasyonunu bilmelisin.
+*   **Von Hippel-Lindau Sendromu:** VHL genindeki inaktivasyon sonucu şeffaf hücreli böbrek karsinomu, hemanjiyoblastomlar ve feokromositoma riski artar. 
+*   **Alport Sendromu:** "Tip 4 kollajen" genlerindeki (COL4A3, COL4A4, COL4A5) mutasyonlardan kaynaklanır. Böbrek yetmezliği ile birlikte sensörinöral işitme kaybı ve göz (lens) anormallikleri görülür.
+*   **Fabry Hastalığı:** Alfa-galaktosidaz A eksikliği sonucu glikosfingolipidlerin biriktiği, böbrek yetmezliğine gidebilen ve **X'e bağlı** geçen lizozomal depo hastalığıdır.
+
+### Sınav İçin Hoca Tavsiyeleri ve Muhtemel Soru Yerleri
+Sınav kurulu ve geçmiş yıllardaki eğilimlere baktığımda bu soru kalıplarının birer sınav "bankosu" olduğunu rahatlıkla söyleyebilirim:
+
+1.  **RCC'nin Genetik Yanıltmacası:** Hatırlarsan, çözdüğümüz 76. soruda da "Renal hücreli karsinom - Nefrosistin geni"ni yanlış şık olarak vermişlerdi. Burada ise aynı taktiği TSC1 geni üzerinden kurgulamışlar. Hoca demek ki şıklara "Renal Hücreli Karsinom" koyup, karşısına ilgisiz bir gen yazarak seni avlamayı çok seviyor! RCC için daima **VHL** genini aklında tut.
+2.  **Dominant/Resesif ve Gen Ayrımı:** ADPKD = PKD1/PKD2, ARPKD = PKHD1 eşleştirmesinde bir harf oyunu (PKD vs PKHD) yapabilirler. İnfantil olanın (Resesif) **H** harfi içerdiğini (Hepatic fibrosis ile de ilişkilidir, oradan kodlayabilirsin) unutma.
+3.  **Tüberoz Skleroz'un Tümörü:** Eğer bir vaka sorusunda zeka geriliği, cilt lezyonları olan bir hastanın böbreklerinde "Anjiyomiyolipom" (kan, kas ve yağdan oluşan benign tümör) tespit edilirse direkt Tüberoz Skleroz yapıştırıp TSC1/TSC2 genini işaretlemelisin.
+
+Gördüğün gibi aynı mantık farklı şıklarla tekrar tekrar sorulmuş. Bu gen-hastalık tablolarını çok iyi öğrenmeni tavsiye ederim, sınavda sana kesin puan kazandıracaktır. Başka bir takıldığın soru olursa her zaman buradayım! Çalışmalarında kolaylıklar diliyorum.
+
+Merhaba sevgili meslektaşım. Getirdiğin soruyu büyük bir memnuniyetle, detaylı bir şekilde inceleyelim. Üriner sistem anomalileri ve bunların genetik temelleri, komitelerde her zaman seçici soruların geldiği bir konudur.
+
+İşte sorumuz:
+
+**79. Hangi hastalıkta kromozomal mikrodelesyon gözlenir? (M5-2025-73)**
+I. at nalı
+II. di george
+III. alport
+IV. renal agenezis
+
+**Doğru Şık:** **Yalnız II (Di George)**
+*(Not: Soru kökünde şıklar harflerle belirtilmemiş, ancak cevap anahtarına göre doğru yanıt yalnızca II. öncülü içeren seçenektir.)*
+
+### Sorunun Açıklaması
+Bu soru, üriner sistem anormallikleriyle de karşımıza çıkabilen genetik hastalıkların temelindeki moleküler mekanizmaları (nokta mutasyonu, mikrodelesyon vb.) bilip bilmediğini ölçmektedir. Birçok böbrek anomalisi tek gen mutasyonuna bağlıyken, bazıları geniş kromozomal kayıpların (mikrodelesyon) bir parçası olarak sendromik şekilde görülür.
+
+### Öncüllerin / Şıkların Açıklaması
+*   **I. At nalı böbrek:** Embriyolojik gelişim sırasında böbreklerin alt kutuplarının birleşmesiyle oluşan konjenital bir anomalidir. Sıklıkla spesifik bir mikrodelesyondan ziyade, Turner sendromu (Monozomi X) gibi farklı genetik anomalilere eşlik eder veya sporadik görülür. 
+*   **II. Di George Sendromu:** Bu öncül **doğrudur**. Di George (Velokardiyofasiyal Sendrom), embriyogenezis sırasında **22q11.2** bölgesinde yaklaşık 3 megabaytlık (Mb) bir bölgenin kaybı nedeni ile ortaya çıkan, klasik bir **mikrodelesyon sendromudur**. İnsidansı yaklaşık 1/4000'dir ve böbrek anomalileri (renal agenezis, displazi vb.) bu sendromun bir parçası olabilir.
+*   **III. Alport Sendromu:** Bu hastalık bir mikrodelesyon sendromu değildir. Tip IV kollajen yapısındaki bir defektten kaynaklanır ve sıklıkla COL4A3, COL4A4, COL4A5 genlerindeki mutasyonlar (nokta mutasyonları vb.) rol oynar.
+*   **IV. Renal agenezis:** Böbreğin embriyolojik olarak hiç gelişmemesi durumudur. Renal agenezis tek başına spesifik bir mikrodelesyon hastalığı değildir, ancak Di George gibi mikrodelesyon sendromlarının klinik bir *bulgusu* olabilir. 
+
+### Bilinmesi Gereken Terimler
+*   **Mikrodelesyon:** Kromozomların üzerinde standart kromozom analizi (karyotipleme) ile görülemeyecek kadar küçük (genellikle <5 megabaz), ancak birden fazla geni içeren DNA parçalarının kaybıdır.
+*   **Renal agenezis:** Böbreğin gelişim taslağı olan üreterik tomurcuğun metanefrik mezenkime ulaşamaması veya onu indükleyememesi sonucu böbrek dokusunun hiç oluşmamasıdır.
+*   **Oligohidramniyoz:** Anne karnındaki fetüsün amniyon sıvısının normalden az olmasıdır. Fetal idrar üretimi amniyon sıvısının ana kaynağı olduğu için, böbrek anomalilerinde sık görülür.
+
+### Konu Hakkında Bilinmesi Gereken Alt Konular
+Bu tarz genetik ve embriyolojik temelli patolojilerde şu ek klinik tabloları da paket olarak bilmelisin:
+*   **Alport Sendromu'nun Detayları:** Sadece böbreği değil, aynı zamanda gözü ve kulağı da tutar. Genellikle **X'e bağlı** geçiş gösterir. Sınavlarda sıklıkla "sensörinöral işitme kaybı" ve "Tip IV kollajen" anahtar kelimeleriyle sorulur. Ayrıca alelik ve lokus heterojenitesi izlenir.
+*   **Potter Sekansı:** Eğer bir fetüste bilateral (çift taraflı) renal agenezis varsa, idrar üretilemez. Bu durum gebelikte oligohidramniyoza yol açar. Amniyon sıvısı azaldığı için bebek anne karnında sıkışır; basık yüz, pulmoner hipoplazi (akciğerlerin gelişememesi) ve ekstremite anomalileriyle doğar. Buna Potter Sekansı denir.
+*   **Di George Sendromu Ek Bulguları:** 22q11.2 mikrodelesyonu olan bu hastalarda "CATCH-22" akronimi ile bilinen bulgular vardır (Kardiyak anomaliler, anormal yüz yapısı, timus hipoplazisi, yarık damak, hipokalsemi). Bu hastalarda üriner sistem anomalileri de taranmalıdır.
+
+### Sınav İçin Hoca Tavsiyeleri ve Muhtemel Soru Yerleri
+Diğer çıkmış soruları ve notlarımızı incelediğimde, bu kurulda özellikle şu kısımlardan soru gelme ihtimali çok yüksek:
+
+1.  **Vaka Üzerinden Potter Sekansı Sorusu:** Çıkmış sorular arasında (Örneğin 82. Soru) birebir şu senaryo vardır: *"20 haftalık gebeliği olan bir anne adayının ultrasonunda oligohidramniyoz saptanıyor ve böbrekler görüntülenemiyor. Olası tanı nedir?"* Cevap: Bilateral renal agenezise bağlı **Potter sekansı**. Bu senaryoyu adın gibi bilmelisin.
+2.  **Lokus ve Alelik Heterojenite Çeldiricileri:** Hocalar Alport sendromu üzerinden genetik heterojenite kavramlarını sınamayı severler. *"Alport sendromunda farklı kalıtım modelleri izlenir"* ve *"alelik heterojenite izlenir"* ifadelerinin doğru olduğunu unutma. 
+3.  **X'e Bağlı Kalıtılan Üriner Hastalıklar:** Diğer çıkmış sorularda da gördüğümüz üzere, "Üriner sistemi etkileyen hangi hastalık X'e bağlı kalıtılır?" şeklindeki bir soruda şıklarda daima **Alport Sendromu** veya **Fabry Hastalığı** aranmalıdır.
+
+Başarılar dilerim meslektaşım, çalışmaya tam gaz devam! Aklına takılan başka bir soru olursa buradayım.
+
+
+Merhaba sevgili meslektaşım. Senkronize bir şekilde soruları eritmeye ve sınavın tuzaklarını deşifre etmeye devam ediyoruz. İstediğin 80. soruyu hemen masaya yatırıp cerrahi bir titizlikle inceleyelim.
+
+İşte sorumuz:
+
+**80. Otozomal dominant polikistik böbrek hastalığı ile ilişkili olarak aşağıdaki bilgilerden hangisi yanlıştır? (M6-2024-36)**
+a) Hipertansiyon yaygın bir bulgu olarak karşımıza çıkar
+b) Hastalık semptomları genellikle ilk dekatta ortaya çıkar
+c) Hastalık %90 ailesel olarak izlenir
+d) Nadir bir hastalık olarak değerlendirilmez
+e) Hastaların 14'ünde mitral valv prolapsusu görülür 
+
+**Doğru Şık:** **B şıkkı**
+
+*(Ufak bir hoca notu: E şıkkındaki "14'ünde" ifadesi çıkmış soru kitapçığına geçerken yaşanmış bir dizgi hatasıdır, aslında "1/4'ünde" yani "%25'inde" demek istenmiştir. Biz soruyu orijinal haliyle bozmadan aldık ancak aklında 1/4 olarak kalsın.)*
+
+### Sorunun Açıklaması
+Bu soru, böbreğin en sık görülen genetik hastalıklarından biri olan **Otozomal Dominant Polikistik Böbrek Hastalığı'nın (ADPKD)** epidemiyolojik, genetik ve klinik seyir özelliklerini sınamaktadır. ADPKD'nin başlama yaşı, böbrek dışı (ekstrarenal) bulguları ve toplumda görülme sıklığı komitelerde çok sevilen bir konudur.
+
+### Şıkların Açıklaması
+*   **a) Hipertansiyon yaygın bir bulgu olarak karşımıza çıkar:** Bu ifade **doğrudur**. Hipertansiyon, bu hastalarda böbrek yetmezliği henüz gelişmeden önce bile çok sık ve erken görülen bir bulgudur.
+*   **b) Hastalık semptomları genellikle ilk dekatta ortaya çıkar:** Bu ifade kesinlikle **yanlıştır**. Otozomal dominant form "Erişkin Tip" olarak bilinir ve sıklıkla 3. veya 4. dekada (20'li, 30'lu yaşlara) kadar asemptomatik ilerler. Semptomlar ve kronik böbrek yetmezliği (KBY) tablosu 4. ve 5. dekatta ortaya çıkar. "İlk dekatta" semptom veren hastalık otozomal resesif olan infantil tiptir.
+*   **c) Hastalık %90 ailesel olarak izlenir:** Bu ifade **doğrudur**. Olguların %90'ında aile hikayesi pozitiftir, yalnızca geriye kalan %10'luk kesim "de novo" (spontan) mutasyonla ortaya çıkar.
+*   **d) Nadir bir hastalık olarak değerlendirilmez:** Bu ifade **doğrudur**. Hastalığın prevalansı (görülme sıklığı) 1/300 ile 1/1000 arasındadır. Bu oranlar genetik bir hastalık için oldukça yüksektir, bu yüzden "nadir" kabul edilmez.
+*   **e) Hastaların 1/4'ünde mitral valv prolapsusu görülür:** Bu ifade **doğrudur**. ADPKD hastalarında ekstrarenal (böbrek dışı) kardiyak bir bulgu olarak yaklaşık %25 (1/4) oranında Mitral Valv Prolapsusu (MVP) görülür.
+
+### Bilinmesi Gereken Terimler
+*   **Dekat:** 10 yıllık yaş periyodudur. 1. dekat 0-9 yaş, 3. dekat 20-29 yaş aralığına denk gelir.
+*   **De Novo Mutasyon:** Anne veya babadan kalıtılmayan, kişinin embriyolojik gelişimi sırasında genlerinde kendiliğinden oluşan yepyeni mutasyon.
+*   **Çift Vuruş Hipotezi (Two-hit hypothesis):** ADPKD otozomal dominant bir hastalık olmasına rağmen, böbreklerde kistlerin klinik olarak oluşabilmesi için hücresel düzeyde ilgili genin her iki kopyasında da (iki noktada) mutasyon gelişmesi gerektiği kuralıdır. 
+
+### Konu Hakkında Bilinmesi Gereken Alt Konular
+Otozomal Dominant Polikistik Böbrek Hastalığı (ADPKD) ile ilgili soruda verilmeyen ama fiks bilinmesi gereken detaylar:
+*   **Sorumlu Genler:** ADPKD olgularının büyük çoğunluğunda **(%85)** sorumlu gen **PKD1** (Polisistin 1) mutasyonudur. Kalan vakalar PKD2 (Polisistin 2) kaynaklıdır. 
+*   **Diğer Ekstrarenal Bulgular:** Sadece böbrekte ve mitral kapakta sorun yapmaz. 30 yaş itibariyle hastaların **%80'inden fazlasında Polikistik Karaciğer Hastalığı** da görülür. Ayrıca kolon divertikülleri, over kistleri ve aort anevrizması da izlenebilir.
+*   **En Tehlikeli Komplikasyon:** Beyin damarlarında oluşan **Berry anevrizmalarıdır**. Bu anevrizmaların yırtılması sonucu subaraknoid kanama gelişebilir, bu nedenle ADPKD tanılı hastalarda bu anevrizmalar taranmalıdır.
+*   **Otozomal Resesif Polikistik Böbrek Hastalığı (ARPKD) ile Ayrımı:** İnfantil (çocukluk/bebeklik) dönemde belirti veren tip resesif olandır ve **PKHD1** (fibrokistin) geni ile ilişkilidir. Gebelikte oligohidramniyoz (amniyon sıvısı azlığı) ve bunun sonucunda ölümcül olabilen **Potter Sekansı** ile karakterizedir.
+
+### Sınav İçin Hoca Tavsiyeleri ve Muhtemel Soru Yerleri
+Diğer çıkmış soruları ve slaytları incelediğimizde buralar hocaların en sevdiği tuzak alanlarıdır, dikkatle not almanı isterim:
+
+1.  **"Erişkin" ve "İnfantil" Yaş Tuzağı:** Tıpkı bu soruda yaptıkları gibi, erişkin tip hastalıkta şıklara "ilk dekatta belirti verir" veya "bebeklikte başlar" diyerek seni düşürmeye çalışırlar. ADPKD'nin 20'li 30'lu yaşlara kadar sessiz kaldığını ve 3. - 4. dekatlarda klinik verdiğini asla unutma.
+2.  **Yüzdeler ve İstatistikler:** Komite hocaları yüzdeleri çok sever. **Mitral valv prolapsusu oranı %25**, **de novo mutasyon oranı %10** ve **PKD1 gen mutasyonu oranı %85**'tir. Bu sayıları birbirine karıştırarak yeni bir soru (örneğin: "Hastaların %85'inde de novo izlenir" gibi yanlış bir şıkla) sorabilirler.
+3.  **Gen-Hastalık Eşleştirmesi:** Çıkmış 26, 76 ve 78. sorularda gördüğümüz üzere "Hastalık-Gen" eşleştirmesi bir komite klasiğidir. **ADPKD = PKD1/PKD2**, **ARPKD = PKHD1** eşleşmesini gözün kapalı yapabilmelisin.
+4.  **Çift Vuruş Hipotezi (Two-Hit):** Genetik mekanizmalar bağlamında "Kist oluşumu için çift vuruş hipotezinin geçerli olduğu hastalık hangisidir?" sorusu mükemmel bir patogenez sorusu adayıdır.
+
+Şimdilik bu vakamızın da sonuna geldik meslektaşım, mantığı anladığını düşünüyorum. Sıradaki soruyla devam etmek istersen buradayım!
+
+Merhaba sevgili meslektaşım. Birlikte üriner sistemin genetik temellerine inmeye devam ediyoruz. İstediğin 81. soruyu hemen panomuza alalım ve detaylıca inceleyelim.
+
+İşte sorumuz (orijinal haliyle, içindeki ufak dizgi hataları dahil):
+
+**81. Aşağıdakiüriner sistemin etkinliği hastalık ya da anomalilerden hangisinde tek gen katılımı izlenir? (M6-2024-80)**
+a) At nalı böbrek
+b) Fabry hastalığı
+c) Unilateral renal agenezis
+d) DiGeorge sendromu
+e) Posterior uretral valv
+
+**Doğru Şık:** **B şıkkı**
+*(Not: Soru kökündeki "etkinliği" kelimesi "etkileyen", "katılımı" kelimesi ise "kalıtımı" olmalıdır, sınav kitapçığına dizgi hatasıyla geçmiştir.)*
+
+### Sorunun Açıklaması
+Bu soru, üriner sistemi etkileyen doğumsal ve genetik hastalıkların hücresel kalıtım mekanizmalarını bilip bilmediğini ölçmektedir. Konjenital böbrek anomalilerinin bazıları kromozomal anomaliler veya mikrodelesyonlarla (büyük DNA parçalarının kaybı) ortaya çıkarken, bazıları klasik Mendelyen kalıtım gösteren, yani sadece spesifik bir "tek gen" mutasyonu sonucu ortaya çıkan hastalıklardır. Soruda bizden tek gen hastalığı olanı bulmamız istenmiştir.
+
+### Şıkların Açıklaması
+*   **a) At nalı böbrek:** Bu şık **yanlıştır**. Embriyolojik dönemde böbrek alt kutuplarının birleşmesiyle oluşan bu anomali spesifik bir tek gen hastalığı değildir. Sporadik görülebildiği gibi genellikle Turner Sendromu gibi farklı kromozomal anomalilerle ilişkilidir.
+*   **b) Fabry hastalığı:** Bu şık **doğrudur**. Fabry hastalığı, alfa-galaktozidaz A enzim eksikliğine neden olan X'e bağlı bir gen (GLA geni) mutasyonu sonucu ortaya çıkar. Yani klasik bir tek gen mutasyonu hastalığıdır.
+*   **c) Unilateral renal agenezis:** Bu şık **yanlıştır**. Tek böbreğin gelişememesi durumu sıklıkla sporadik veya çok faktörlü (multifaktöryel) kalıtım gösterir, spesifik bir tek gen mutasyonuna doğrudan bağlanamaz.
+*   **d) DiGeorge sendromu:** Bu şık **yanlıştır**. DiGeorge sendromu bir tek gen hastalığı değil, kromozom 22q11.2 bölgesinde yaklaşık 3 megabaytlık (Mb) büyük bir bölgenin kaybı (birçok geni içerir) nedeniyle ortaya çıkan bir mikrodelesyon sendromudur.
+*   **e) Posterior uretral valv:** Bu şık **yanlıştır**. Erkek bebeklerde üretrada tıkanıklık yapan bu konjenital anomali de tipik bir tek gen hastalığı değildir, çoğunlukla sporadik olarak meydana gelir.
+
+### Bilinmesi Gereken Terimler
+*   **Tek Gen Hastalığı (Mendelyen Kalıtım):** Sadece spesifik tek bir genin DNA dizilimindeki (Otozomal veya X'e bağlı) mutasyonun doğrudan hastalık tablosunu oluşturmasıdır (Örn: Fabry, Kistik fibrozis, Alport).
+*   **Mikrodelesyon:** Kromozom üzerinde standart mikroskopla görülemeyecek kadar küçük olan ancak içinde *birden fazla* gen barındıran DNA parçalarının kaybıdır. Tek gen mutasyonu ile karıştırılmamalıdır.
+*   **Sporadik:** Hastalığın genetik veya ailesel bir geçiş olmaksızın, kişide tamamen rastlantısal olarak ortaya çıkması durumudur.
+
+### Konu Hakkında Bilinmesi Gereken Alt Konular
+Tek gen mutasyonları ve genetik böbrek hastalıkları bağlamında şu konulara da hakim olmalısın:
+*   **Üriner Sistemi Etkileyen Diğer Tek Gen Hastalıkları:** 
+    *   *Otozomal Dominant Polikistik Böbrek Hastalığı (ADPKD):* PKD1 ve PKD2 geni.
+    *   *İnfantil Polikistik Böbrek Hastalığı (ARPKD):* PKHD1 geni.
+    *   *Alport Sendromu:* X'e bağlı veya otozomal geçişli, Tip IV kollajen genlerindeki (COL4A) tek gen mutasyonları. 
+*   **Fabry Hastalığının Klinik Bulguları:** Enzim eksikliği sonucu vücutta glikosfingolipid birikimi olur. Böbrek yetmezliğinin yanında kalp hastalıkları, sinir sistemi tutulumu, ektremitelerde yanıcı ağrılar (akroparestezi) ve ciltte anjiyokeratomlar görülür.
+*   **Mikrodelesyonlarda Üriner Tutulum:** DiGeorge (22q11 delesyonu) veya Williams sendromu gibi mikrodelesyonlarda renal agenezis veya böbrek displazileri hastalığın bir sendromik bulgusu olarak eşlik edebilir.
+
+### Sınav İçin Hoca Tavsiyeleri ve Muhtemel Soru Yerleri
+Diğer çıkmış soruları ve komitenin eğilimini analiz ettiğimde, hocaların genetik kalıtım paternlerini test etmeyi çok sevdiğini görüyoruz. Özellikle şuralara dikkat etmelisin:
+
+1.  **"X'e Bağlı Kalıtım" Soruları:** Sorularda "Aşağıdakilerden hangisi X'e bağlı kalıtılır?" diye sorulduğunda şıklarda gözün kapalı **Fabry Hastalığı** ve **Alport Sendromu**'nu aramalısın. Bu, komite hocalarının en sevdiği sorulardandır.
+2.  **DiGeorge ve Mikrodelesyon Çeldiricisi:** Bu soruda (81. soru) olduğu gibi, daha önce de (79. çıkmış soruda) DiGeorge sendromunu sormuşlardı. DiGeorge sendromunun bir **mikrodelesyon** (22q11) olduğunu, tek gen mutasyonu *olmadığını* adın gibi bilmelisin.
+3.  **Lokus ve Alelik Heterojenite:** Alport sendromu ve Polikistik böbrek hastalıklarında sıklıkla sorulan bu kavramları birbirine karıştırma. *Alelik heterojenite* aynı gendeki farklı mutasyonların hastalığa yol açmasıyken; *lokus heterojenitesi* farklı genlerdeki mutasyonların (PKD1 ve PKD2 gibi) aynı hastalığa neden olmasıdır.
+
+Anlaşılmayan bir yer varsa üzerinden bir kez daha geçebiliriz meslektaşım, çalışmalara harika gidiyorsun!
+
+
+Merhaba sevgili meslektaşım. Birlikte üriner sistemin embriyolojik ve genetik anomalilerini incelediğimiz bu güzel serüvene hız kesmeden devam ediyoruz. Sorduğun bu vaka sorusu, klinik entegrasyon açısından harika bir örnek. Hemen masaya yatıralım.
+
+İşte sorumuz:
+
+**82. 20 haftalık gebeliği olan bir anne adayının fetal ultrasonografik incelemesi sırasında oligohidramniyoz saptanıyor. Böbreklerin görüntülenemediği bu gebelikte fetusun hastalığı için olası tanınız aşağıdakilerden hangisidir? (M6-2024-83)**
+a) Williams sendromu
+b) Alport sendromu
+c) 47,XXX
+d) Tumer sendromu
+e) Bilateral renal agenezise bağlı Potter sekansı
+
+**Doğru Şık:** **E şıkkı**
+
+### Sorunun Açıklaması
+Bu soru, fetal embriyoloji ile kliniği birleştiren klasik bir vaka sorusudur. Gebeliğin ikinci yarısından itibaren amniyon sıvısının ana kaynağı fetüsün ürettiği idrardır. Eğer fetüste böbrekler gelişmezse (bilateral renal agenezis) idrar üretilemez. İdrar üretilemeyince amniyon sıvısı azalır (oligohidramniyoz). Sıvı azaldığı için bebek anne karnında sıkışır ve gelişimi bozulur. Soru, bu klinik kaskadı ve sonucunda oluşan tabloyu bilip bilmediğini test etmektedir.
+
+### Şıkların Açıklaması
+*   **a) Williams sendromu:** Bu şık **yanlıştır**. 7q11.23 mikrodelesyonu sonucu oluşan, elfin (peri) yüzü, supravalvüler aort stenozu ve hiperkalsemi ile giden bir sendromdur. Böbrek yokluğu (agenezis) bu sendromun tipik bir bulgusu değildir.
+*   **b) Alport sendromu:** Bu şık **yanlıştır**. Önceki sorularımızda da detaylıca konuştuğumuz gibi, bu hastalık Tip 4 kollajen (COL4A) gen defektidir. Hematüri, böbrek yetmezliği ve sağırlık yapar ancak böbrekler anatomik olarak yerindedir, sadece nefronlardaki filtre (glomerül bazal membranı) bozuktur. 
+*   **c) 47,XXX:** Bu şık **yanlıştır**. Trizomi X sendromudur. Genellikle hafif bir fenotipi vardır, dış görünüş normal olabilir. Bilateral renal agenezis gibi ölümcül bir organ eksikliği tablosu yaratmaz.
+*   **d) Turner sendromu (Tumer olarak dizgi hatası yapılmış):** Bu şık **yanlıştır**. 45,X0 karyotipli Turner sendromunda üriner sistem anomalileri görülebilir ancak bu tipik olarak "at nalı böbrek" (horseshoe kidney) anomalisidir. Böbrekler vardır, idrar üretirler, sadece alt kutuplarından birleşmişlerdir. Dolayısıyla oligohidramniyoz beklenmez.
+*   **e) Bilateral renal agenezise bağlı Potter sekansı:** Bu şık **doğrudur**. İki böbreğin de gelişememesi anüriye (idrar yokluğuna), anüri oligohidramniyoza, bu da bebeğin rahim içinde sıkışarak Potter sekansını geliştirmesine neden olur. 
+
+### Bilinmesi Gereken Terimler
+*   **Renal Agenezis:** Embriyolojik dönemde üreterik tomurcuğun metanefrik mezenkimi indükleyememesi (veya gelişmemesi) sonucu böbrek dokusunun hiç oluşmaması durumudur.
+*   **Oligohidramniyoz:** Anne karnındaki amniyon sıvısının normalden az olması durumudur. Fetal idrar eksikliğinde veya fetal yutma artışında görülür.
+*   **Sekans (Kaskad):** Genetik bir sendromdan farklı olarak, tek bir yapısal defektin (böbrek yokluğu) domino taşı etkisiyle mekanik olarak diğer anomalilere (yüz basıklığı, akciğer gelişememesi) yol açtığı klinik tablolardır.
+
+### Konu Hakkında Bilinmesi Gereken Alt Konular
+Bu klinik tabloyu çok iyi kavramak için şu yan mekanizmaları da bilmelisin:
+*   **Pulmoner Hipoplazi (Akciğerlerin Gelişememesi):** Potter sekansı ile doğan bebeklerde en sık ölüm nedeni böbrek yetmezliği değil, pulmoner hipoplazidir. Fetüs, normal akciğer gelişimi için amniyon sıvısını yutarak solunum egzersizleri yapmak zorundadır. Sıvı olmayınca akciğerler gelişemez ve bebek doğduğunda nefes alamaz.
+*   **Potter Yüzü ve Ekstremite Bulguları:** Sıvı azlığından dolayı uterus duvarı bebeğe baskı yapar. Bebekte basık burun, düşük ve yapışık kulaklar, geriye çekik çene (mikrognati) ve bacaklarda çarpıklık (clubfoot - yumru ayak) görülür.
+*   **Posterior Üretral Valv (PUV):** Eğer erkek bir fetüste üretrada doğumsal bir tıkanıklık (valv) varsa, böbrekler gelişse bile idrar dışarı atılamaz. Bu da tıpkı agenezis gibi oligohidramniyoza ve sekonder Potter sekansına yol açabilir. 
+
+### Sınav İçin Hoca Tavsiyeleri ve Muhtemel Soru Yerleri
+Embriyoloji ve genetik birleşimindeki bu konular komitelerde "Vaka Sorusu" olarak çok sevilir. Özellikle şuralara dikkat etmeni tavsiye ederim:
+
+1.  **Ölüm Nedeni Sorusu:** Sınavda hikayeyi verip tanıyı sormak yerine, *"Bilateral renal agenezisi olan bu fetüste, doğum sonrası erken dönemde en olası ölüm nedeni aşağıdakilerden hangisidir?"* diye sorabilirler. Şıklarda üremiyi arama, cevap kesinlikle **Pulmoner Hipoplazi**'dir.
+2.  **Turner Sendromu ve At Nalı Böbrek:** Hazır şıklara çeldirici olarak Turner konmuşken hatırlatayım: *"Turner sendromunda en sık görülen üriner sistem anomalisi hangisidir?"* sorusu bir sınav bankosudur. Cevap her zaman **At nalı böbrek** olmalıdır.
+3.  **DiGeorge Sendromu (Mikrodelesyonlar):** 79. ve 81. sorularda da karşımıza çıktığı üzere, renal agenezis tek gen mutasyonu olmaktan ziyade **DiGeorge (22q11 delesyonu)** gibi mikrodelesyon sendromlarına da eşlik edebilir. Sorularda bu bağlantıyı kurman istenebilir.
+
+Vakaları sadece teşhis etmekle kalmıyor, altındaki muhteşem fizyopatolojiyi de birlikte çözüyoruz. Çalışmalarında kolaylıklar dilerim, aklına takılan bir nokta olursa her zaman buradayım!
+
+
+Merhaba sevgili meslektaşım. Birlikte böbrek gelişimi ve konjenital anomalilerin kökenlerine inmeye devam ediyoruz. Getirdiğin bu soru, klinik pratikte karşılaşabileceğimiz risk faktörlerini embriyoloji ve genetikle harmanlayan çok değerli bir soru. Hemen analizimize başlayalım.
+
+İşte sorumuz:
+
+**83. Renal agenezisle ilgili hangisi doğrudur? (M6-2022-56)**
+a) Daha çok çift taraflıdır
+b) Unilateral olgularda oligohidroamniyozis riski %50'dir
+c) Tip 1 diyabetli annelerin çocuklarında daha sık görülür
+d) Siyah ırkta beyaz ırka göre daha azdır
+e) Trizomi 21'lilerde daha çok risk vardır
+
+**Doğru Şık:** **C şıkkı**
+
+### Sorunun Açıklaması
+Bu soru, böbreğin hiç gelişmemesi durumu olan "renal agenezis"in (böbrek yokluğu) epidemiyolojisi, görülme sıklığı ve etyolojik risk faktörlerini bilip bilmediğini test etmektedir. Renal agenezis hem genetik mutasyonlarla (sendromik veya tek gen) hem de anne karnında maruz kalınan teratojenik (çevresel) faktörlerle ortaya çıkabilen bir tablodur.
+
+### Şıkların Açıklaması
+*   **a) Daha çok çift taraflıdır:** Bu şık **yanlıştır**. Tek taraflı (unilateral) renal agenezis, çift taraflı (bilateral) renal agenezise göre çok daha sık görülür. Unilateral vakalar genelde asemptomatik olduğu için erişkin yaşta tesadüfen saptanabilirken, bilateral agenezis ölümcüldür.
+*   **b) Unilateral olgularda oligohidroamniyozis riski %50'dir:** Bu şık **yanlıştır**. Tek böbreği olmayan bir fetüste, var olan diğer sağlıklı böbrek idrar üretimi görevini tek başına üstlenir (kompanzatuar hipertrofiye gider). Fetal idrar yeterli üretildiği için amniyon sıvısı normal kalır, yani oligohidramniyoz gelişmesi beklenmez.
+*   **c) Tip 1 diyabetli annelerin çocuklarında daha sık görülür:** Bu şık **doğrudur**. Özellikle pregestasyonel (gebelik öncesi var olan) Tip 1 veya Tip 2 Diyabetli annelerin kontrolsüz kan şekeri (hiperglisemi ortamı), fetüsün kaudal (kuyruk) bölgesinin gelişimini bozar. Bu durum "Kaudal Regresyon Sendromu" ve buna eşlik eden renal agenezis riskini sağlıklı popülasyona kıyasla belirgin şekilde artırır.
+*   **d) Siyah ırkta beyaz ırka göre daha azdır:** Bu şık **yanlıştır**. Komite düzeyinde hocalarımız genellikle böyle spesifik ırk farklılıklarını çeldirici olarak koyarlar. Literatürde bazı anomaliler farklılık gösterse de asıl majör risk faktörü anneye ait diyabettir.
+*   **e) Trizomi 21'lilerde daha çok risk vardır:** Bu şık **yanlıştır**. Trizomi 21 (Down Sendromu) ile spesifik olarak renal agenezis arasında direkt belirgin bir ilişki tanımlanmaz. Renal agenezis daha çok genetik olarak *DiGeorge Sendromu (22q11.2 mikrodelesyonu)* gibi tablolara eşlik eder.
+
+### Bilinmesi Gereken Terimler
+*   **Renal Agenezis:** Embriyogenez sırasında üreterik tomurcuğun metanefrik mezenkime ulaşamaması veya onu indükleyememesi (sinyal gönderememesi) nedeniyle böbrek dokusunun hiç oluşmamasıdır. 
+*   **Unilateral (Tek Taraflı) Agenezis:** Bir böbreğin yokluğu. Genellikle sessiz seyreder.
+*   **Bilateral (Çift Taraflı) Agenezis:** Her iki böbreğin yokluğu. İdrar üretilemediği için oligohidramniyoza yol açar.
+*   **Kaudal Regresyon Sendromu:** Alt ekstremiteler, lomber/sakral omurga ve üriner sistemin gelişim defekti ile karakterize, en sık **maternal diyabet** (özellikle Tip 1 DM) ile ilişkili sendrom.
+
+### Konu Hakkında Bilinmesi Gereken Alt Konular
+Renal agenezis dendiğinde bu soruda olmayan ancak beynine bir paket halinde kazıman gereken konular şunlardır:
+*   **Potter Sekansı (Sendromu):** Bilateral renal agenezis varsa, idrar yoktur. İdrar yoksa oligohidramniyoz (amniyon sıvısı azlığı) olur. Bebek rahim içinde sıkışır. Doğduğunda basık yüzü (Potter yüzü), çarpık bacakları ve akciğerleri gelişmediği için **pulmoner hipoplazisi** olur. Bu seriyi (kaskadı) mutlaka bilmelisin.
+*   **Ölüm Nedeni:** Bilateral renal agenezisi olan bebekler böbrek yetmezliğinden veya üremiden değil, amniyon sıvısı yutamadıkları için akciğerleri gelişemediğinden (Pulmoner Hipoplazi) solunum yetmezliğinden kaybedilir.
+*   **Mikrodelesyon Sendromları ile İlişkisi:** Bir önceki çıkmış sorularda da gördüğümüz gibi, böbrek anomalileri ve renal agenezis **DiGeorge Sendromu** gibi mikrodelesyonlara bağlı sendromların klinik bir parçası olarak karşımıza çıkabilir.
+
+### Sınav İçin Hoca Tavsiyeleri ve Muhtemel Soru Yerleri
+Komitelerde böbreğin konjenital anomalilerini sorgularken hocalarımız daima mekanizmayı klinik senaryolara yedirmeyi çok severler:
+
+1.  **Diyabetin Teratojenik Etkisi:** Bu soru bize açıkça gösteriyor ki gebelik ve diyabet bağlantısı komitede çok sevilir. İlerde sana "Kaudal bölgeleri gelişmemiş, alt ekstremite anomalisi ve renal agenezisi olan bebeğin annesinde hangi hastalık öyküsü beklenir?" diyerek vaka sorusu sorabilirler. Cevap banko: **Annede Tip 1 Diyabet**.
+2.  **Oligohidramniyoz Tuzağı:** Şıklarda sıklıkla tek taraflı ageneziste oligohidramniyoz olur yalanını kullanırlar. **Unilateral ageneziste sıvı normaldir, bilateral ageneziste sıvı azalır (oligohidramniyoz).** Bu ayrımı net bilmelisin.
+3.  **Potter Sekansı Klasik Vaka Sorusu:** Başka yıllarda sorulduğu üzere (Örn: 82. soru), gebelikte sıvı azlığı (oligohidramniyoz) olan fetüste "olası tanı nedir?" diye sorulduğunda **Bilateral Renal Agenezise Bağlı Potter Sekansı** şıkkını tereddütsüz işaretlemelisin.
+
+Derslerin ve genetik mekanizmaların klinikle birleştiği bu tarz noktalara çok dikkat et meslektaşım. Buradan soru kaçırmayacağına eminim, zihnine sağlık! Aklına takılan farklı bir mekanizma varsa lütfen sor.
+
+
+Merhaba sevgili meslektaşım. Soruları birlikte eritmeye ve komite tuzaklarını açığa çıkarmaya devam ediyoruz. 84. soruyu incelemek üzere masamıza aldım. Ancak ufak bir durum var: Getirdiğin kayıtlarda bu sorunun şıkları dizgi hatası nedeniyle kesilmiş, bu yüzden şıkların tam metnini göremiyoruz. Fakat cevap anahtarında sorunun yanıtı E şıkkı olarak verilmiş.
+
+Şıkları kelimesi kelimesine göremiyor olsak da, sen benim öğrencimsin ve seni bu konuda eksik bırakamam! Bu soru ADPKD'nin (Otozomal Dominant Polikistik Böbrek Hastalığı) özelliklerini sorguluyor. Çıkmış diğer soruları ve ders notlarımızı birleştirerek, bu soruda karşına çıkmış olması muhtemel olan doğru ve yanlış bilgileri şıklar varmış gibi eksiksiz bir şekilde analiz edelim.
+
+İşte sorumuzun orijinal kökü:
+
+**84. Otozomal dominant polikistik böbrek hastalığı ile ilişkili olarak hangileri yanlıştır? (M6-2022-57)**
+*(Şıklar dizgi eksikliği nedeniyle metinde yer almamaktadır)*
+
+**Doğru Şık:** **E şıkkı** (Cevap anahtarına göre)
+
+### Sorunun Açıklaması
+Bu soru, üriner sistemin en sık görülen genetik hastalıklarından biri olan Otozomal Dominant Polikistik Böbrek Hastalığının (ADPKD) epidemiyolojisi, kliniği ve genetiğini sorgulamaktadır. Komitelerde ADPKD her zaman banko sorudur ve hocalar belirli istatistiksel verileri şıklara koyarak (özellikle yüzdeleri ve yaşları değiştirerek) öğrenciyi sınamayı çok severler.
+
+### Muhtemel Şıkların (Çeldiricilerin) Açıklaması
+Şıkları birebir göremesek de, komitemizin geçmiş yıllardaki ADPKD sorularını referans alarak karşına çıkabilecek ifadeleri "doğru/yanlış" olarak açıklayalım:
+*   **Hastalık semptomları genellikle ilk dekatta ortaya çıkar / 2. dekattan önce görülür:** Bu ifade **kesinlikle yanlıştır**. ADPKD "Erişkin Tip" polikistik böbrek hastalığıdır. Hastalar 20'li yaşlarda %80-90, 30'lu yaşlarda ise %100 semptomatiktir. İlk dekatta (bebeklik/çocukluk) belirti veren hastalık, resesif olan infantil tiptir (ARPKD). Büyük ihtimalle yanlış şıklarımızdan biri buydu.
+*   **Nadir bir hastalık olarak değerlendirilir:** Bu ifade **yanlıştır**. Prevalansı 1/300 ile 1/1000 arasındadır. Bu oran genetik bir hastalık için oldukça yüksektir, yani nadir değil sık görülen bir hastalıktır.
+*   **Hastaların %50'sinde de novo mutasyon izlenir:** Bu ifade **yanlıştır**. Olguların %90'ı aileseldir, de novo (kendiliğinden) mutasyon oranı sadece **%10**'dur.
+*   **Hastaların %50'sinde mitral valv prolapsusu görülür:** Bu ifade **yanlıştır**. ADPKD'ye eşlik eden ekstrarenal kardiyak bulgu olarak mitral kapak prolapsusu (MVP) izlenir, ancak bu oran %50 değil, **%25** (1/4) civarındadır.
+*   **Hipertansiyon erken ve sık görülen bir bulgudur:** Bu ifade **doğrudur**. Böbrek yetmezliği gelişmeden önce bile hipertansiyon sıkça karşımıza çıkan ilk bulgulardandır.
+
+### Bilinmesi Gereken Terimler
+*   **Çift vuruş hipotezi (Two-hit hypothesis):** Hastalık otozomal dominant kalıtılmasına rağmen, böbreklerde kistlerin ortaya çıkabilmesi için hücresel düzeyde genin iki noktasında (her iki kopyasında da) mutasyon meydana gelmesi gerektiği kuralıdır.
+*   **De novo mutasyon:** Aile öyküsü (anne/baba) temiz olmasına rağmen, hastada spontan (kendiliğinden) ortaya çıkan mutasyondur.
+*   **Genetik Heterojenite (Lokus Heterojenitesi):** Aynı klinik tablonun farklı genlerdeki mutasyonlar sonucu oluşabilmesidir.
+*   **Değişken Ekspressivite:** Aynı mutasyona sahip bireylerde hastalığın farklı klinik şiddette veya farklı belirtilerle ortaya çıkmasıdır.
+
+### Konu Hakkında Bilinmesi Gereken Alt Konular
+ADPKD dendiğinde şu detayları bir paket halinde mutlaka bilmelisin:
+*   **Sorumlu Genler:** ADPKD vakalarının **%85'inden PKD1** (polisistin 1) geni sorumludur. Kalan olgulardan ise genellikle PKD2 geni mutasyonu sorumludur.
+*   **Ekstrarenal (Böbrek Dışı) Bulgular:** Karaciğer kistleri (polikistik karaciğer) oldukça sıktır. Ayrıca hayatı tehdit eden en önemli komplikasyonu beyin damarlarında oluşan **Berry anevrizmaları** ve buna bağlı rüptür (subaraknoid kanama) riskidir.
+*   **Son Dönem Renal Hastalık (SDBY) Riski:** Tüm son dönem böbrek yetmezliği vakalarının yaklaşık **%8-10**'unu ADPKD hastaları oluşturur.
+*   **Otozomal Resesif Polikistik Böbrek Hastalığı (ARPKD):** İnfantil tiptir, PKHD1 geni (fibrokistin) mutasyonu vardır. Gebelikte oligohidramniyoz yapar ve bebekte ölümcül olabilen Potter Sekansı ile karakterizedir.
+
+### Sınav İçin Hoca Tavsiyeleri ve Muhtemel Soru Yerleri
+Komitelerde ADPKD sorularını hazırlarken hocalarımız daima belli istatistikleri ve genetik mekanizmaları kullanarak öğrenciyi düşürmeye çalışır. Bu konular her sınavın bankosudur:
+
+1.  **İstatistiksel Tuzaklar (%90, %85, %25, %10):** Komite hocaları yüzdeleri çok sever! **Aile hikayesi %90**, **PKD1 mutasyonu %85**, **MVP görülme sıklığı %25** ve **de novo mutasyon %10'dur**. Bu dördünü adın gibi bil, birbiriyle yer değiştirip şıklara koymaları çok muhtemeldir.
+2.  **Yaş Tuzağı (Erişkin vs İnfantil):** "Semptomlar ilk dekatta ortaya çıkar" cümlesi kesinlikle yanlıştır, hastalar ancak **20'li ve 30'lu** yaşlarda semptomatik hale gelirler. 
+3.  **Çift Vuruş Hipotezi (Two-hit):** Genetik bir mekanizma sorusu olarak, "Hangi üriner sistem hastalığında kist gelişimi için çift vuruş hipotezi geçerlidir?" şeklinde bir soru gelirse cevabımız doğrudan **ADPKD** olmalıdır.
+
+Umarım eksik şıklara rağmen konuyu zihninde eksiksiz bir şekilde tamamlayabilmişizdir. Çalışmalarında kolaylıklar dilerim, sormak istediğin her şeyde buradayım!
+
+Merhaba sevgili meslektaşım. Birlikte soruları çözmeye ve komite tuzaklarını avlamaya tam gaz devam ediyoruz. 85. soruyu incelemek üzere masamıza aldım. 
+
+Ancak burada ufak bir durum var: Getirdiğin belgeleri incelediğimde, tıpkı 84. soruda olduğu gibi 85. sorunun da kökünün ve A şıkkının dizgi hatası nedeniyle PDF'e geçmediğini, metinde sadece B, C, D ve E şıklarının yer aldığını görüyoruz. Fakat hiç endişelenme! Kalan şıklara ve cevap anahtarına baktığımda, bu sorunun aynı komitede 37. soru olarak da karşımıza çıkan (M6-2022-60) klasik bir soru olduğunu anlıyoruz. 
+
+Seni eksik bırakmamak adına, eksik kısımları tamamlayarak soruyu orijinal ve tam haliyle buraya taşıyor, incelememize öyle başlıyorum:
+
+**85. İnfant ve çocuklarda hidronefrozun en sık görülen nedeni nedir? (M6-2022-60)**
+a) Mesane divertikülü
+b) Üreterde taş
+c) Üreterde fibroepitelyal polip
+d) Üreteropelvik bileşkede obstrüksiyon
+e) Sklerozan retroperitoneal fibrozis
+
+**Doğru Şık:** **D şıkkı**
+
+### Sorunun Açıklaması
+Bu soru, üriner sistem obstrüksiyonlarına (tıkanıklıklarına) bağlı olarak gelişen "hidronefroz" tablosunun yaşa göre değişen etyolojisini sorgulamaktadır. İdrar yollarındaki bir tıkanıklık, idrarın geriye doğru birikmesine ve böbrek toplayıcı sisteminin genişlemesine yol açar. Erişkinlerde bu durum genellikle edinsel (taş, tümör vb.) sebeplerle olurken, infant ve çocuklarda temel neden embriyolojik gelişimsel (konjenital) anomalilerdir.
+
+### Şıkların Açıklaması
+*   **a) Mesane divertikülü:** Mesane duvarının dışa doğru fıtıklaşmasıdır. İdrar yollarında enfeksiyon veya obstrüksiyona sekonder gelişebilir ancak çocuklarda hidronefrozun en sık nedeni değildir.
+*   **b) Üreterde taş:** Erişkinlerde hidronefrozun (ve renal koliğin) en sık nedenlerinden biridir ancak infant ve çocuklarda çok nadir görülür. Komitelerde çocuk sorulduğunda taşı çeldirici olarak koyarlar.
+*   **c) Üreterde fibroepitelyal polip:** Üreter lümenini tıkayabilen iyi huylu bir tümördür, ancak oldukça nadir görülen bir patolojidir.
+*   **d) Üreteropelvik bileşkede obstrüksiyon:** Bu şık **doğrudur**. Renal pelvis ile üreterin birleştiği noktadaki (Üreteropelvik Bileşke - UPJ) konjenital darlık veya tıkanıklık, yeni doğan, infant ve çocukluk çağında saptanan hidronefrozun en sık nedenidir.
+*   **e) Sklerozan retroperitoneal fibrozis:** Retroperitoneal bölgede üreterleri dışarıdan sararak sıkıştıran ve obstrüksiyona (dolayısıyla hidronefroza) yol açan fibrotik bir hastalıktır (bazen IgG4 ilişkili hastalıklardandır). Ancak bu durum infantil dönemde değil, ileri yaşlarda (erişkinlerde) görülür.
+
+### Bilinmesi Gereken Terimler
+*   **Hidronefroz:** İdrar akımının engellenmesi sonucu renal pelvis ve kalikslerin idrarla dolarak genişlemesi, ilerleyen dönemlerde böbrek parankimine baskı yaparak böbrek yetmezliğine yol açabilen tablodur.
+*   **Üreteropelvik Bileşke (UPJ):** Böbrek pelvisinin huni şeklinde daralarak üretere dönüştüğü anatomik geçiş noktasıdır. Darlıklar en sık burada görülür.
+*   **Posterior Üretral Valv (PUV):** Erkek bebeklerde üretrada konjenital olarak membranöz bir dokunun kalması sonucu mesane çıkışının tıkanmasıdır.
+
+### Konu Hakkında Bilinmesi Gereken Alt Konular
+Bu konuyu kalıcı öğrenmek için hidronefrozun yaşa ve cinsiyete göre "en sık" nedenlerini bir paket halinde bilmelisin:
+*   **İnfant/Çocuklarda EN SIK Hidronefroz:** Üreteropelvik Bileşke (UPJ) obstrüksiyonu (Genellikle **tek taraflı** hidronefroz yapar).
+*   **Erkek Bebeklerde BİLATERAL (Çift Taraflı) Hidronefroz:** Mesanenin çıkışında bir sorun aranmalıdır, bunun da en sık konjenital nedeni **Posterior Üretral Valv (PUV)**'dir. Çıkmış 81. soruda da karşımıza çıktığı üzere, idrar dışarı atılamadığı için iki böbrek birden hidronefroza gider, hatta amniyon sıvısı azalıp (oligohidramniyoz) sekonder Potter Sekansına yol açabilir.
+*   **Erişkinlerde Hidronefroz:** Erişkinlerde konjenital darlıklar aranmaz. İlk akla gelmesi gerekenler idrar yollarında taş (ürolitiyazis), prostat hipertrofisi (BPH) veya pelvik tümörlerin üreterlere bası yapmasıdır.
+
+### Sınav İçin Hoca Tavsiyeleri ve Muhtemel Soru Yerleri
+Diğer çıkmış soruları ve komitelerdeki hoca reflekslerini analiz ettiğimde, bu obstrüksiyon konusundan sana şu şekilde tuzaklar kurabilirler:
+
+1.  **"Erişkin" vs "Çocuk" Ayrımı:** Soru kökünde hastanın yaşına çok dikkat et! Eğer soruda "45 yaşında erkek hastada hidronefroz saptanıyor, en olası neden nedir?" derse UPJ darlığını arama, şıklarda **Üreter taşı (Ürolitiyazis)** veya **Prostat Hipertrofisi** ara. Tıpkı bu soruda olduğu gibi "İnfant ve çocuklarda" diyorsa cevap banko **Üreteropelvik bileşke obstrüksiyonu**'dur. 
+2.  **Unilateral (Tek Taraflı) - Bilateral (Çift Taraflı) Ayrımı:** Bu detay vaka sorularında hayat kurtarır. UPJ obstrüksiyonu genelde tek böbreği etkiler. Ancak vaka sorusunda *"Erkek yenidoğanda her iki böbrekte de hidronefroz ve mesanede ileri derece genişleme izleniyor"* diyorsa mesane çıkışı tamamen tıkanmış demektir, hemen şıklardan **Posterior Üretral Valv**'i işaretlemelisin.
+3.  **Potter Sekansı Bağlantısı:** Bilateral obstrüksiyonlar idrar çıkışını bozacağı için amniyon sıvısını azaltır ve 82. çıkmış soruda detaylıca çözdüğümüz **Potter Sekansına** (pulmoner hipoplazi, basık yüz vb.) yol açar. PUV ve bilateral renal agenezisin bu tabloyu yaptığını mutlaka aklında tut.
+
+Böylece eksik basılmış bir soruyu daha tecrübemizle ve konu bütünlüğümüzle tamir edip çözmüş olduk! Kafana takılan başka bir mekanizma olursa sormaktan çekinme, başarılar dilerim!

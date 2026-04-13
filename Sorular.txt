@@ -1003,6 +1003,213 @@ Bu soru, gastrointestinal sistem patolojisinde ilaçların neden olduğu sekonde
 
 Harika ilerliyoruz meslektaşım! Notunu aldıysan sıradaki sorunun numarasını bekliyorum.
 
+**Soru 31:** Aşağıdakilerden hangisi neonatal diyare nedeni değildir? (M5-2027-15,30)
+a) Otoimmün enteropati
+b) MID
+c) Çölyak Hastalığı
+d) Tufting enteropatisi
+e) CVID
+(Malabsorpsiyon sendromu)
+
+**Doğru Şık:**
+Doğru cevap **C) Çölyak Hastalığı** şıkkıdır.
+
+**Sorunun Açıklaması:**
+Sevgili meslektaşım, bu soru patolojinin "Malabsorpsiyon Sendromları" konusundan gelen ve yenidoğan döneminde karşılaştığımız "neonatal (konjenital) enteropatileri" test eden çok değerli bir sorudur. Neonatal enteropatiler, yaşamın ilk haftası ile ilk ayı içinde başlayan ağır kronik ishal (diyare) ve emilim bozukluğu ile karakterize, mortalitesi yüksek doğumsal hastalıklardır. Bu hastalıklar genellikle kalıtsal enzim eksikliklerine, spesifik gen mutasyonlarına veya bağışıklık sistemi (immün yetmezlik) bozukluklarına bağlı gelişir.
+
+Şıklardaki hastalıkların birçoğu doğuştan bu tabloya yol açar. Ancak **Çölyak hastalığı (Gluten sensitif enteropati)**, genetik bir yatkınlık (HLA-DQ2/DQ8) gerektirse de doğar doğmaz (neonatal) ishal yapmaz. Hastalığın kliniğinin ortaya çıkması için bebeğin anne sütünü bırakıp ek gıdalara geçmesi ve diyetine **gluten** (buğday, arpa, çavdar) girmesi şarttır. İntestinal lümene giren glutenin T hücrelerini tetiklemesiyle inflamasyon başlar. Bu nedenle Çölyak hastalığı, neonatal/konjenital diyare nedenleri arasında yer almaz.
+
+**Şıkların Açıklaması:**
+*   **a) Otoimmün enteropati:** Neonatal diyare nedenidir. Çölyak dışı otoimmünite durumlarında (örn. IPEX sendromu) ortaya çıkan, doğumdan kısa süre sonra başlayan şiddetli bir enteropatidir.
+*   **b) MID (Mikrovillus İnklüzyon Hastalığı):** Neonatal diyare nedenidir. Yaşamın ilk haftasında başlayan ağır sekretuvar diyare ile seyreder.
+*   **c) Çölyak Hastalığı:** Doğrudur ve sorunun cevabıdır. Yenidoğanda diyare yapmaz, çevresel tetikleyici olan glutene maruziyet gerektirir.
+*   **d) Tufting enteropatisi:** Neonatal diyare nedenidir. Diğer adıyla intestinal epitelyal displazi olarak bilinir ve doğumdan itibaren ishal ile karakterizedir.
+*   **e) CVID (Yaygın Değişken İmmün Yetmezlik):** Neonatal diyare nedenidir. En sık görülen ciddi primer immün yetmezliklerden biridir ve gastrointestinal bulgularla (neonatal diyare ve malabsorpsiyon) prezente olabilir.
+
+**Terimler:**
+*   **Neonatal Enteropati:** Bebeklik döneminin hemen başlarında (yaşamın ilk ayında) diyare, malabsorpsiyon ve büyüme-gelişme geriliği ile ortaya çıkan genetik veya immünolojik hastalıklar grubudur.
+*   **MID (Mikrovillus İnklüzyon Hastalığı):** Enterositlerin lümene bakan yüzeylerindeki emici fırçamsı kenarın (brush border) mikroskobik olarak kaybolması ve hücre içinde inklüzyonlar oluşturmasıdır.
+*   **Tufting:** İngilizcede "tomurcuk/püskül" anlamına gelir. Tufting enteropatide villusların uçlarında epitel hücrelerinin yığılarak tomurcuklar oluşturması mikroskobik tanı kriteridir.
+*   **CVID (Common Variable Immunodeficiency):** Plazma hücresi azlığı/yokluğu ve hipogammaglobulinemi ile seyreden, bağırsağı da vurabilen yaygın immün yetmezliktir.
+
+**Bilinmesi Gereken Alt Konular (Neonatal Enteropati Mutasyonları):**
+Soru sadece hastalıkların isimlerini sormuş ancak sınav komitesi bu hastalıkların altta yatan **gen mutasyonlarını** sormayı da en az bu soru kadar sever. Bunları eşleştirmeli olarak cebine koymalısın:
+1.  **Tufting enteropati:** EPCAM geni mutasyonu.
+2.  **Mikrovillus inklüzyon hastalığı (MID):** MYO5B geni mutasyonu.
+3.  **Abetalipoproteinemi:** MTTP (mikrozomal trigliserid transfer proteini) mutasyonu (Dikkat: APO-B gen mutasyonu *değildir*, MTTP'dir).
+4.  **IPEX sendromu:** FOXP3 geni mutasyonu (X'e bağlı geçer).
+5.  **CVID:** B-hücre assosiye gen mutasyonları.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+*   **Mutasyon - Hastalık Eşleştirmesi (Banka Soru):** Hoca bu hastalıklardaki mutasyonları eşleştirme sorusu olarak (Örn: M5-2026-19, M5-2024-67) sormaya bayılır. Özellikle **"Abetalipoproteinemi $\rightarrow$ APO-B geni"** şeklinde bilerek *yanlış* bir eşleştirme verir. Abetalipoproteinemi'nin geninin **MTTP** olduğunu adın gibi bilmelisin.
+*   **Histopatolojik Bulgu Eşleştirmesi:** Sınavda mikroskobik bulguları üzerinden de eşleştirme sıkça sorulur (Örn: M5-2026-50). **"Brush border (fırçamsı kenar) kaybı"** dendiğinde MID'i, **"epitelyal tomurcuklar"** dendiğinde Tufting enteropatiyi, **"enterositlerde lipid (vakuol) birikimi"** dendiğinde Abetalipoproteinemiyi işaretlemelisin.
+*   **Çölyak Patolojisi Aşamaları (Marsh Kriterleri):** Çölyak hastalığının histopatolojisi sınavlarda her zaman yıldızlıdır. En erken mikroskobik bulgunun **intraepitelyal lenfositoz (>25/100 enterosit)** olduğu, ardından **kript hiperplazisi** ve ileri dönemde **villus atrofisi (kısalması/düzleşmesi)** görüldüğünü unutma.
+
+**Soru 32:** H. pylori gastritinde Sydney sınıflanfırmasına göre yer almayan hangisidir? (M5-2027-31)
+a) glandüler kayıp - atrofi
+b) PMN lökositleri - aktivite
+c) kollejenizasyon - fibrozis
+d) Goblet/Paneth - intestinal metaplazi
+e) H. pylori - bakteriyel kolonizasyon
+
+**Doğru Şık:**
+Doğru cevap **C) kollejenizasyon - fibrozis** şıkkıdır.
+
+**Sorunun Açıklaması:**
+Sevgili meslektaşım, bu soru patolojide midenin en sık görülen inflamatuvar hastalığı olan *Helicobacter pylori* gastritinin mikroskobik değerlendirmesinde kullandığımız altın standart olan **"Güncellenmiş Sydney Sistemi"ni (Updated Sydney System)** test etmektedir. Biz patologlar, bir mide biyopsisini incelerken *H. pylori* gastritini kafamıza göre değil, bu standardize sisteme göre raporlarız. Sydney sisteminde inflamasyonun aktivitesini ve kronikliğini derecelendirmek için 5 temel morfolojik parametreye bakılır: **1) H. pylori yoğunluğu, 2) PMN lökosit (Nötrofil) infiltrasyonu, 3) Mononükleer hücre (Lenfosit/Plazma hücresi) infiltrasyonu, 4) Glandüler atrofi ve 5) İntestinal metaplazi**. Şıklarda verilen "kollejenizasyon (fibrozis)", Sydney sisteminde *H. pylori* için bir değerlendirme kriteri değildir; subepitelyal kalın bir kollajen bandı birikimi, "Kollajenöz gastrit" adı verilen tamamen farklı, nadir görülen spesifik bir gastrit tipinin histopatolojik bulgusudur.
+
+**Şıkların Açıklaması:**
+*   **a) glandüler kayıp - atrofi:** Sydney sisteminde vardır. Mide mukozasında kronik inflamasyona bağlı olarak gland (bez) yapılarının kaybı atrofi olarak değerlendirilir ve derecelendirilir.
+*   **b) PMN lökositleri - aktivite:** Sydney sisteminde vardır. Mukozada polimorfonükleer (PMN) lökositlerin (nötrofillerin) bulunması, inflamasyonun "aktif" evrede olduğunu (aktif gastrit) gösterir.
+*   **c) kollejenizasyon - fibrozis:** Yanlıştır ve sorunun cevabıdır. Fibrozis veya subepitelyal kollajen birikimi, *H. pylori* gastriti için kullanılan Sydney sınıflamasının bir parametresi değildir. Bu bulgu otoimmün/kronik inflamatuvar bir süreç olan "Kollajenöz gastrit"in en belirgin özelliğidir.
+*   **d) Goblet/Paneth - intestinal metaplazi:** Sydney sisteminde vardır. Midenin normal epitelinin, kronik irritasyon nedeniyle goblet ve paneth hücreleri içeren ince bağırsak tipinde epitele dönüşümü (metaplazi) H. pylori gastritinin en önemli parametrelerinden biridir.
+*   **e) H. pylori - bakteriyel kolonizasyon:** Sydney sisteminde vardır. Bakterinin mukoza yüzeyindeki yoğunluğu (özellikle Giemsa boyası ile saptanarak) doğrudan derecelendirme (grade) kriteridir.
+
+**Terimler:**
+*   **Sydney Sınıflaması (Updated Sydney System):** Gastritlerin histopatolojik olarak derecelendirilmesinde (grade) ve sınıflandırılmasında kullanılan, inflamasyon şiddetini, aktiviteyi, atrofiyi ve metaplaziyi ölçen uluslararası patolojik standarttır.
+*   **Atrofi:** Mide mukozasındaki normal asit/pepsin üreten gland (bez) yapılarının kalıcı kaybı ve doku incelmesidir.
+*   **İntestinal Metaplazi:** Mide mukozasının, *H. pylori* gibi kronik irritanlara karşı bir adaptasyon ve savunma mekanizması olarak ince bağırsak epiteline (goblet hücreleri barındıran) dönüşmesidir. Mide kanserleri (adenokarsinom) için prekanseröz bir lezyondur.
+*   **Kollajenöz Gastrit:** Mide epitelinin hemen altında 10 mikrondan daha kalın düzensiz bir subepitelyal kollajen bandının birikimiyle karakterize, nadir bir idiyopatik gastrit tipidir.
+
+**Bilinmesi Gereken Alt Konular (Diğer Gastrit Tipleri ve H. Pylori Virülans Faktörleri):**
+Bu konuyu tam anlamıyla kavramak için H. Pylori'nin nasıl hasar yaptığını ve H. Pylori dışı gastritleri (Non-H. Pylori Gastritler) çok iyi bilmelisin:
+1.  **H. Pylori Virülans Faktörleri:** 
+    *   **BabA:** Bakterinin konak hücreye adhezyonunu (yapışmasını) sağlar.
+    *   **VacA:** Bir proteaz gibi davranır, konak hücrede apoptozu indükler ve epitel bariyerini bozar.
+    *   **CagA:** Konak hücre içine enjekte edilir, hücre iskelet yapısını bozar ve kontrolsüz hücre büyümesini/karsinogenezi tetikler.
+    *   **Üreaz:** Mide asidini nötralize eden amonyak oluşturur; bu amonyak direkt mukozal toksisite (hasar) yapar.
+2.  **Otoimmün Gastrit:** Vücudun kendi asit üreten **parietal hücrelerine** ve intrinsik faktöre karşı otoantikor (Proton Pompa Antikoru) geliştirdiği gastrittir. Özellikle **korpus ve fundusu** tutar, parietal hücre kaybı nedeniyle midede asit üretilemez (aklorhidri). Buna sekonder olarak antrumda G hücreleri aşırı çalışır ve hipergastrinemi gelişir. Ayrıca B12 vitamini emilemediği için pernisiyöz anemiye yol açar.
+3.  **Reaktif Gastropati (Kimyasal Gastrit):** En sık **NSAİİ (ağrı kesici) kullanımı** veya safranın mideye kaçması (duodenogastrik safra reflüsü) sonucu gelişir. Burada inflamasyon hücreleri (nötrofil/lenfosit) neredeyse yoktur; onun yerine belirgin **foveolar hiperplazi, tirbüşon benzeri kıvrıntılı bezler, ödem ve düz kas proliferasyonu** görülür. 
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+*   **Gastrit Tipi ve Histopatolojik Bulgu Eşleştirmesi (Banka Soru):** Patoloji komitelerinin en sevdiği sorulardan biridir. Aşağıdaki eşleştirmelerden hangisinin yanlış olduğu sıkça sorulur:
+    *   *Otoimmün gastrit* $\rightarrow$ *Parietal hücre kaybı / Nöroendokrin hücre hiperplazisi* (Doğru)
+    *   *Kollajenöz gastrit* $\rightarrow$ *Subepitelyal kollajen bant* (Doğru)
+    *   *Reaktif gastropati* $\rightarrow$ *Foveolar hiperplazi ve rejenerasyon (NSAİİ kaynaklı)* (Doğru)
+    *   *Lenfositik gastrit* $\rightarrow$ *Çölyak hastalığı ilişkili (Lamina propriada lenfositoz/İEL)* (Doğru)
+    *   *Eozinofilik gastrit* $\rightarrow$ *Atopi/Alerji ilişkili* (Doğru)
+*   **H. Pylori Virülans Genleri Tuzağı:** "H. Pylori'nin mukozal hasara neden olan faktörleri hangisinde doğru eşleştirilmiştir?" (M5-2027-77) tarzı sorular defalarca sorulmuştur. Şıklarda bilerek *Flagella-cagA* veya *Üreaz-müsinaz* şeklinde yanlış eşleştirmeler verilir; sen **"VacA - Apoptoz"** veya **"BabA - Adhezyon"** eşleşmelerinin şaşmaz doğrular olduğunu aklına kazımalısın.
+*   **MALT Lenfoma Gelişimi:** *H. Pylori* enfeksiyonunun normalde midede bulunmayan lenfoid doku gelişimini (MALT - Mukoza İlişkili Lenfoid Doku) uyardığını ve tedavi edilmezse **MALT Lenfoma (MALToma)** isimli tümöre dönüşebildiğini asla unutma. MALT lenfomanın en sık sebebi H. Pylori'dir.
+
+Gastritlerin patolojisinin ince ayrıntılarına hakim olduk. Bir sonraki çıkmış soru numarasını gönderdiğinde incelemeye devam edelim!
+
+
+**Soru 33:** Hangisi konjenital diyare nedenleri arasında yer almaz? (M5-2027-39,78)
+a) Otoimmün enteropati
+b) Tufting enteropati
+c) Mikrovillus inklüzyon hastalığı
+d) Çölyak
+e) CVID
+(Malabsorpsiyon sendromu)
+
+**Doğru Şık:**
+Doğru cevap **D) Çölyak** şıkkıdır.
+
+**Sorunun Açıklaması:**
+Sevgili meslektaşım, bu soru patolojinin "Malabsorpsiyon Sendromları" dersinden gelen ve pediyatrik enteropatileri (neonatal/konjenital ishalleri) test eden çok değerli bir sorudur. Konjenital diyareler (neonatal enteropatiler), yaşamın ilk haftası ile ilk ayı içinde başlayan ağır diyare ve emilim bozukluğu ile karakterli hastalıklardır. Bu hastalıklar doğuştan gelen genetik mutasyonlara, enzim defektlerine veya immün yetmezliklere bağlıdır. Şıklarda yer alan hastalıkların çoğu bu gruptandır. Ancak **Çölyak hastalığı (Gluten sensitif enteropati)**, hastada genetik bir yatkınlık (HLA-DQ2/DQ8) zemini gerektirse de doğuştan gelen bir diyare nedeni değildir. Hastalığın kliniğinin ortaya çıkması için bebeğin ek gıdaya geçmesi ve diyetine çevresel bir tetikleyici olan **gluten** eklenmesi gerekir. Bu nedenle Çölyak konjenital diyare nedenleri sınıflandırmasında yer almaz.
+
+**Şıkların Açıklaması:**
+*   **a) Otoimmün enteropati:** Konjenital diyare nedenidir. Çölyak dışı otoimmünite durumlarında ortaya çıkan, neonatal dönemde başlayan ağır bir konjenital diyare tablosudur. Sendromik (IPEX vb.) olabilir.
+*   **b) Tufting enteropati:** Konjenital diyare nedenidir. İntestinal epitelyal displazi olarak da bilinir. Doğumdan itibaren başlayan diyare ile karakterizedir ve spesifik gen mutasyonlarına bağlı gelişir.
+*   **c) Mikrovillus inklüzyon hastalığı:** Konjenital diyare nedenidir. Yaşamın ilk haftası başlayan çok ağır sekretuvar diyare ile seyreder.
+*   **d) Çölyak:** Yanlıştır ve sorunun cevabıdır. Çölyak hastalığı doğuştan diyare yapmaz, bebek glutenli gıdalarla (buğday, arpa, çavdar vb.) tanıştıktan sonra T-hücre aracılı immün yanıtın tetiklenmesiyle ortaya çıkar.
+*   **e) CVID (Yaygın Değişken İmmün Yetmezlik - Common Variable Immunodeficiency):** Konjenital diyare nedenidir. En sık görülen ciddi primer (konjenital) immün yetmezliktir ve bağırsak bulguları (neonatal diyare) ile prezente olabilir.
+
+**Terimler:**
+*   **Neonatal (Konjenital) Enteropatiler:** Bebeklik döneminin başlarında diyare, malabsorpsiyon ve büyüme gelişme geriliği ile ortaya çıkan, yüksek mortalite riski taşıyan genetik hastalıklar grubu.
+*   **Tufting (Tomurcuklanma):** Tufting enteropatide mikroskobik olarak intestinal villusların uçlarında epitel hücrelerinin yığılarak tomurcuklar (tuft) oluşturmasıdır.
+*   **Fırçamsı Kenar (Brush Border) Kaybı:** Mikrovillus inklüzyon hastalığında enterositlerin lümene bakan emici mikrovillus yüzeylerinin yapısının bozulması ve kaybolması durumudur.
+*   **İntraepitelyal Lenfosit (İEL):** Mukoza epitel hücreleri arasına göç eden lenfositler olup çölyak hastalığında sayılarının artması (100 enterosit başına 25'ten fazla) çok karakteristik bir histopatolojik bulgudur.
+
+**Bilinmesi Gereken Alt Konular (Diğer Konjenital Diyare Nedenleri):**
+Bu soru vesilesiyle konjenital (neonatal) diyareye yol açan diğer önemli grupları da eksiksiz bilmelisin:
+1.  **Konjenital Transport ve Enzim Bozuklukları:** Lipid transport bozuklukları (A-betalipoproteinemi) ve konjenital disakkaridaz eksiklikleri. Özellikle **A-betalipoproteinemi**, MTP (Mikrozomal trigliserid transfer proteini) mutasyonu sonucu lipidin enterositlerden kana geçememesi ve enterosit sitoplazmasında vakuoller halinde birikmesiyle steatore (yağlı ishal) yapar.
+2.  **Sendromik Enteropatiler:** Mitokondriyal DNA hastalıkları ve IPEX (İmmün disregülasyon, poliendokrinopati, enteropati, X'e bağlı) sendromu gibi genetik tablolar.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+*   **Enteropati - Gen Mutasyonu Eşleştirmesi (Banka Soru):** Pediyatrik patoloji komitelerinin en favori soru tipidir! Komite diğer yıllarda bunu bizzat sormuştur. Hangi mutasyonun hangi hastalığı yaptığını adın gibi bilmelisin:
+    *   *Tufting enteropati* $\rightarrow$ **EPCAM** gen mutasyonu
+    *   *Mikrovillus inklüzyon hastalığı* $\rightarrow$ **MYO5B** gen mutasyonu
+    *   *A-betalipoproteinemi* $\rightarrow$ **MTTP** (veya APO-B değil MTTP) gen mutasyonu
+    *   *IPEX sendromu* $\rightarrow$ **FOXP3** gen mutasyonu
+*   **Enteropati - Histopatolojik Bulgu Eşleştirmesi:** Sınavda mikroskobik bulguları üzerinden de eşleştirme sorulur.
+    *   *Mikrovillus inklüzyon hastalığında* $\rightarrow$ **"brush border (fırçamsı kenar) kaybı"**
+    *   *Tufting enteropatide* $\rightarrow$ **"epitelyal tomurcuklar"**
+    *   *A-betalipoproteinemide* ise $\rightarrow$ **"enterositlerde lipid (vakuol) birikimi"** görüldüğü mutlaka aklında bulunsun.
+*   **Çölyak Patolojisi Aşamaları:** Çölyak hastalığının histopatolojisindeki Marsh kriterleri sıklıkla sorulur. İlk bulgunun **intraepitelyal lenfositoz (>25/100 enterosit)** olduğu, ardından **kript hiperplazisi** ve ilerleyen dönemde **villus atrofisi (kısalması/düzleşmesi)** görüldüğü sınavların vazgeçilmezidir.
+
+
+**Soru 34:** Hangisi protein malabsorbsiyonu ana nedeni değildir? (M5-2027-46)
+a) Bağırsak epitel hasarı
+b) Hızlı barsak transportu
+c) Mide hidroklorik asit eksikliği
+d) İnsülin eksikliği
+e) Pankreas ekzokrin enzim eksikliği
+
+**Doğru Şık:**
+Doğru cevap **D) İnsülin eksikliği** şıkkıdır.
+
+**Sorunun Açıklaması:**
+Sevgili meslektaşım, bu soru gastroenteroloji ve fizyopatoloji bloklarında sıkça karşımıza çıkan malabsorpsiyon (emilim bozukluğu) mekanizmalarını test etmektedir. Proteinlerin sindirimi midede başlar, pankreas enzimleri ile ince bağırsakta devam eder ve bağırsak epiteli (enterositler) aracılığıyla emilir. Bu süreçteki herhangi bir aksaklık, yani midenin asit üretememesi, pankreasın sindirim enzimi salgılayamaması, bağırsaktan geçişin çok hızlı olması (emilim için vakit kalmaması) veya bağırsak epitelinin hasar görmesi protein malabsorpsiyonuna yol açar. Ancak **insülin**, pankreasın ekzokrin (sindirim) değil, *endokrin* (hormonal) bir salgısıdır ve birincil görevi kan şekerini düzenlemektir. İnsülin eksikliği Diabetes Mellitus'a (Şeker Hastalığı) yol açar, proteinlerin lümendeki sindirimi veya emilimi ile doğrudan bir ilişkisi yoktur.
+
+**Şıkların Açıklaması:**
+*   **a) Bağırsak epitel hasarı:** Emilimi bozar. Çölyak hastalığı gibi durumlarda epitel yüzey alanının (villusların) kaybı ve fırçamsı kenar enzimlerinin azalması sonucu emilim gerçekleşemez ve malabsorpsiyon görülür.
+*   **b) Hızlı barsak transportu:** Emilimi bozar. Besinlerin sindirim enzimleri ile karışması ve bağırsak epitelinden emilebilmesi için yeterli temas süresine ihtiyacı vardır. Gıda bağırsaktan çok hızlı geçerse emilim bozulur.
+*   **c) Mide hidroklorik asit eksikliği (Aklorhidri):** Sindirimi bozar. Midede protein sindirimini başlatan *pepsin* enziminin aktifleşebilmesi ve diyet proteinlerinin denatüre olabilmesi için asidik bir ortama (HCl) ihtiyaç vardır. Eksikliğinde midedeki protein sindirimi sekteye uğrar.
+*   **d) İnsülin eksikliği:** **Doğru cevaptır.** Pankreasın endokrin fonksiyonuyla ilgilidir, GİS lümenindeki makrobesinlerin emiliminde ana bir faktör değildir.
+*   **e) Pankreas ekzokrin enzim eksikliği:** Sindirimi bozar. Tripsin, kimotripsin ve elastaz gibi pankreatik enzimler protein sindiriminin en büyük yükünü çeker. Eksikliğinde ağır bir protein malabsorpsiyonu ortaya çıkar.
+
+**Terimler:**
+*   **Malabsorpsiyon:** Besinlerin ince bağırsaktan kan veya lenf dolaşımına geçişindeki (emilimindeki) yetersizliktir.
+*   **Ekzokrin Pankreas:** Pankreasın enzim (amilaz, lipaz, tripsinojen vb.) ve bikarbonat içeren sindirim sıvılarını bir kanal aracılığıyla duodenuma salgılayan kısmıdır.
+*   **Endokrin Pankreas:** Langerhans adacıklarından kana doğrudan insülin, glukagon gibi hormonları salgılayan kısımdır.
+
+**Bilinmesi Gereken Alt Konular (Diğer Malabsorpsiyon Nedenleri ve Mekanizmaları):**
+Bir klinisyen olarak emilim bozukluklarını makrobesinlere göre ayırabilmelisin:
+1.  **Yağ Malabsorpsiyonu (Steatore):** En sık pankreatik lipaz yetersizliği veya safra tuzu eksikliği (örn. terminal ileum rezeksiyonu) sonucu gelişir. Dışkı yağlı, pis kokulu ve yapışkandır.
+2.  **Karbonhidrat Malabsorpsiyonu:** En tipik örneği fırçamsı kenardaki *laktaz* enziminin eksikliği olan laktoz intoleransıdır. Emilmeden kolona geçen karbonhidratlar bakteriler tarafından fermente edilerek gaz, şişkinlik ve **osmotik ishale** neden olur.
+3.  **H. Pylori ve Otoimmün Gastrit Farkı:** Midedeki asit salgısının (pariyetal hücrelerin) harap olduğu *Otoimmün gastrit*, asit eksikliği yaratarak protein sindirimini zorlaştırırken, B12 vitamini emilimini de (İntrinsik faktör eksikliği) bozarak Pernisiyöz anemiye neden olur.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+*   **Protein Malabsorpsiyonunun EN ÖNEMLİ Nedeni (Banka Soru):** Bu soruda "hangisi değildir" diye sorulmuş ancak komite asıl önemli olanı sormayı çok sever. *"Aşağıdakilerden hangisi protein malabsorpsiyonunun en önemli nedenidir?"* sorusu tam **4 kez** (M5-2026-63, M6-2025-12, M5-2024-19, M5-2023-28) çıkmıştır. Cevap KESİNLİKLE **Pankreatik ekzokrin fonksiyon eksikliği** olacaktır. Aklorhidri (asit yokluğu) veya gastrektomi protein emilimini bozsa da, pankreas enzimleri bu açığı genellikle kapatabilir, asıl en ağır malabsorpsiyon pankreas yetmezliğinde görülür.
+*   **Steatore Tanısı:** "Dışkıda yağ miktarının > 6 gram/gün üstünde olması" durumunun yağ malabsorpsiyonunu (steatore) gösterdiği bilgisi defalarca şıklarda doğru/yanlış olarak sınanmıştır (M5-2027-92 vb.).
+*   **Ekzokrin Pankreas Yetmezliği Testi:** Gaita elastaz (Fekal elastaz) testi, pankreasın ekzokrin fonksiyon yetmezliğini gösteren en önemli non-invaziv/indirekt testlerden biridir, bunu şıklarda sık sık aramalısın.
+
+**Soru 35:** Aşağıdakilerden hangisi ilaç assosiye kolitlerden değildir? (M5-2027-55)
+a) Kollajenöz kolit
+b) Lenfositik kolit
+c) Psödomembranöz kolit
+d) Kript distorsiyonu görülen kolit
+
+**Doğru Şık:**
+Doğru cevap **D) Kript distorsiyonu görülen kolit** şıkkıdır.
+
+**Sorunun Açıklaması:**
+Sevgili meslektaşım, bu soru patoloji pratiğinde sıkça karşılaştığımız kalın bağırsak iltihaplarının (kolitlerin) etiyolojik sınıflandırmasını test etmektedir. İlaç ilişkili (assosiye) kolit paternleri, çeşitli ilaçların (özellikle NSAİİ'ler, antibiyotikler, mide koruyucular ve antidepresanlar) kullanımı sonucunda bağırsak mukozasında oluşan hasar ve inflamasyon tablolarını içerir. Şıklarda yer alan kollajenöz kolit, lenfositik kolit ve psödomembranöz kolit doğrudan belli başlı ilaçların kullanımıyla tetiklenebilen kolit formlarıdır. Ancak "kript distorsiyonu", başlı başına bir ilaç ilişkili kolit tipi değildir; bu bulgu kronikleşmiş İdiyopatik İnflamatuvar Bağırsak Hastalıklarının (özellikle Ülseratif Kolit ve Crohn hastalığının) en önemli histopatolojik kronisite (süreğenlik) bulgularından biridir. İlaçlara bağlı gelişen akut ve subakut hasarlarda kript mimarisinde böyle kalıcı yapısal bozulmalar (distorsiyon) beklemeyiz. 
+
+**Şıkların Açıklaması:**
+*   **a) Kollajenöz kolit:** Yanlıştır (İlaç ilişkili olabilir). Özellikle NSAİİ (ağrı kesici) ve SSRI (antidepresan) gibi ilaçların kullanımıyla tetiklenebilen bir "mikroskobik kolit" türüdür. Yüzey epitelinin hemen altında 10 mikrondan daha kalın bir fibröz (kollajen) bant birikimi ile karakterizedir. 
+*   **b) Lenfositik kolit:** Yanlıştır (İlaç ilişkili olabilir). Yine NSAİİ gibi ilaçlara sekonder olarak gelişebilen diğer bir "mikroskobik kolit" formudur. Burada kollajen bandı yoktur, ancak mukoza yüzeyindeki her 100 epitel hücresine karşılık 20'den fazla intraepitelyal lenfosit (İEL) sızması mevcuttur.
+*   **c) Psödomembranöz kolit:** Yanlıştır (İlaç ilişkili kolitlerin en meşhurudur). Geniş spektrumlu antibiyotiklerin kullanımı sonucu normal bağırsak florasının ölmesi ve *Clostridium difficile* bakterisinin aşırı çoğalarak toksin üretmesiyle gelişen kolit formudur.
+*   **d) Kript distorsiyonu görülen kolit:** Doğrudur (İlaç ilişkili kolit paterni değildir). Kript distorsiyonu, mukozadaki kript adı verilen tübüler bezlerin kronik harabiyet sonucu dallanması, şekil değiştirmesi ve çarpılması durumudur ve Ülseratif Kolit gibi kronik hastalıkların bulgusudur. Aynı serideki benzer bir soruda (Soru 30) bu listeye ilaç ilişkili bir başka patern olan **"Apoptotik Kolopati"** de eklenmiştir. 
+
+**Terimler:**
+*   **Kolit:** Kalın bağırsağın (kolonun) inflamasyonudur.
+*   **Mikroskobik Kolit:** Hastanın kronik, kansız, sulu ishali olmasına rağmen kolonoskopide (makroskobik olarak) bağırsağın tamamen normal göründüğü; ancak alınan biyopsinin mikroskop altında incelenmesiyle (Kollajenöz veya Lenfositik patern) tanı konabilen kronik kolit tablosudur.
+*   **Kript Distorsiyonu:** Kalın bağırsak mukozasında yan yana test tüpleri gibi dizili olması gereken düzenli kript bezlerinin, kronik inflamasyon ve iyileşme döngüleri sonucunda şekillerinin bozulması, dallanması veya kısalmasıdır.
+*   **Psödomembran:** Antibiyotik ilişkili kolitte, bağırsak yüzeyinde ölü hücreler, nötrofiller ve fibrin dokusundan oluşan yalancı zarlardır.
+
+**Bilinmesi Gereken Alt Konular (İnflamatuvar Bağırsak Hastalıklarında Aktivasyon ve Kronikleşme Bulguları):**
+Bir patolog veya klinisyen olarak bir İBH (İnflamatuvar Bağırsak Hastalığı) biyopsisini incelerken, hastalığın o an alevlenmiş (aktif) mi yoksa süreğenleşmiş (kronik) mi olduğuna şu bulgularla karar verilir:
+1.  **Aktivasyon (Akut) Bulguları:** İltihap hücrelerinin (nötrofillerin) kript epitelini infiltre etmesine **kriptit**, nötrnofillerin kript lümeni içinde birikmesine ise **kript apsesi** adı verilir. Bunlar hastalığın alevlendiğini gösterir.
+2.  **Kronikleşme Bulguları:** En erken histopatolojik kronikleşme bulgusu kript tabanına plazma hücrelerinin inmesi olan **bazal plazmasitoz**dur. İlerleyen dönemde ise şıkkımızda geçen **kript distorsiyonu** (kript mimarisinin bozulması) meydana gelir.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+*   **Mikroskobik Kolit Alt Tipleri (Banka Soru):** Bu soruyla bağlantılı olarak patoloji komiteleri "Mikroskobik kolit" alt tiplerini vaka sorusu yapmaya bayılır. "Orta-ileri yaş kadın hasta, kronik sulu diyare, *endoskopi ve radyolojisi normal*" vakası verilip; "subepitelyal >10 mikron kollajen bandı" görülürse cevap **Kollajenöz Kolit**, "yüzey epitelinde >20/  intraepitelyal lenfosit infiltrasyonu" görülürse cevap **Lenfositik Kolit** olmalıdır.
+*   **Aktivasyon ve Kronisite Tuzağı:** "Ülseratif kolitte aşağıdakilerden hangisi bir *kronikleşme* bulgusudur?" diye sorulduğunda şıklardaki **"kript apsesini"** sakın işaretleme! Kript apsesi akut bir **aktivasyon** bulgusudur. Kronikleşme arıyorsan **Kript distorsiyonu** veya **Bazal plazmasitoz** şıklarını işaretlemelisin.
+*   **İlaç İlişkili Apoptotik Kolopati:** İlaç ilişkili kolitlerin diğer bir şıkkı olan "Apoptotik Kolopati" yine NSAİİ gibi ilaçlara bağlı gelişen, kript epitelinde hücre ölümü (apoptoz) artışıyla giden bir diğer kolit formudur. Bu paternin ilaca bağlı olduğunu ezbere bilmelisin.
+
+
 **Soru 36:** Aşağıdakilerden hangisi Crohn hastalığının histopatolojik bulgularını içeren şıktır? (M5-2027-75)
 a) Aftöz ülser, transmural inflamasyon, kaldırım taşı görünümü, segmental tutulum
 b) Mukozal inflamasyon, geniş tabanlı ülser, diffüz tutulum, "backwash" ileit
@@ -1728,6 +1935,43 @@ Sevgili meslektaşım, bu soru Gastrointestinal Sistem (GİS) Nöroendokrin Tüm
 Birbirine çok benzeyen ve oldukça detaylı olan Nöroendokrin Tümör istatistiklerini harika bir şekilde çözümledik. İncelememi istediğin sıradaki çıkmış sorunun (örneğin 58. soru) numarasını iletebilirsin!
 
 
+**Soru 58:** Aşağıdakilerden hangisi özofagus da adenokanser gelişimi için risk faktörüdür? (M5-2024-17)
+a) Akalazya
+b) Özofagusun kostik yaralanmalar sonrası gelişen darlıklar
+c) Plummer-Vinson sendromu
+d) Barret özofagusu
+e) HPV (Human Palilomavirus)
+
+**Doğru Şık:**
+Doğru cevap **D) Barret özofagusu** şıkkıdır.
+
+**Sorunun Açıklaması:**
+Sevgili meslektaşım, bu soru özofagus (yemek borusu) tümörlerinin öncü (prekanseröz) lezyonlarını test eden, klinik pratikte çok sık karşına çıkacak çok klasik bir patoloji sorusudur. Özofagus kanserleri histolojik ve etyolojik olarak iki ana gruba ayrılır: **Skuamöz hücreli karsinom** (yassı hücreli kanser) ve **Adenokarsinom**. Komite bu iki kanser türünün risk faktörlerini ayırt edebilmeni bekler. Skuamöz karsinomlar genellikle tütün, alkol, HPV ve kronik irritasyonla ilişkiliyken; adenokanser neredeyse her zaman kronik gastroözofageal reflü (GÖRH) zemininde gelişen "Barrett özofagusu" üzerinden gelişir. Diğer şıklardaki hastalıklar, adenokanser için değil skuamöz karsinom gelişimi için risk faktörüdür.
+
+**Şıkların Açıklaması:**
+*   **a) Akalazya:** Yanlıştır. Alt özofagus sfinkterinin gevşeyememesi ve yutma güçlüğü ile karakterize bu motor bozuklukta, gıdaların özofagusta birikmesi (staz) mukozada kronik irritasyona yol açar. Bu irritasyon zamanla **skuamöz hücreli karsinom** riskini artırır.
+*   **b) Özofagusun kostik yaralanmalar sonrası gelişen darlıklar:** Yanlıştır. Çamaşır suyu vb. yakıcı/korozif kimyasalların içilmesine bağlı mukozal yanıklar ve iyileşme dokusunun (darlık/striktür) yarattığı kronik enflamasyon da özofagusta **skuamöz hücreli karsinom** gelişimi için majör risk faktörüdür.
+*   **c) Plummer-Vinson sendromu:** Yanlıştır. Demir eksikliği anemisi, glossit ve servikal özofagusta "web" (zar) gelişimi ile karakterize bu sendrom, üst özofagusta **skuamöz hücreli karsinom** gelişme riskini çok ciddi oranda artırır.
+*   **d) Barret özofagusu:** Doğrudur ve sorunun cevabıdır. Mide asidi ve safranın kronik olarak yemek borusuna kaçması (GÖRH) sonucu, distal özofagusun çok katlı yassı epitelinin aside dirençli intestinal (kolumnar) epitele dönüşmesidir. Barrett özofagusu, **adenokarsinom** gelişimine giden prekanseröz bir metaplazidir.
+*   **e) HPV (Human Papillomavirus):** Yanlıştır. HPV virüsünün serviks ve orofarinkste olduğu gibi, özofagus yassı epitelinde de displazi yaparak **skuamöz hücreli karsinom** gelişimine zemin hazırladığı bilinmektedir. 
+
+**Terimler:**
+*   **Barrett Özofagusu:** Skuamöz epitelin asit irritasyonuna kompanzatuvar bir yanıt olarak, içinde goblet hücreleri barındıran intestinal tip kolumnar epitele (metaplaziye) dönüşmesidir.
+*   **Adenokarsinom:** Salgı bezi (glandüler) epitelinden köken alan kötü huylu tümördür.
+*   **Skuamöz Hücreli Karsinom:** Yüzey örtücüsü olan çok katlı yassı (skuamöz) epitelden köken alan kanserdir.
+*   **Akalazya:** Özofagustaki Auerbach (miyenterik) pleksustaki inhibitör nöronların harabiyeti nedeniyle peristaltizmin durması ve alt özofagus sfinkterinin gevşeyememesi (kuş gagası görünümü) tablosudur.
+
+**Bilinmesi Gereken Alt Konular (Özofagus Kanserleri Arasındaki Farklar):**
+Bu konunun hakkını verebilmek için, hangi tümörün özofagusun hangi bölgesinde yerleştiğini ezbere bilmelisin:
+*   **Özofagus Adenokanseri:** Özofagusun sadece mideye yakın olan bölgesinde (Barrett olan yerde), yani **distal özofagusta** gelişir.
+*   **Özofagus Skuamöz Hücreli Karsinomu:** Daha çok kronik kimyasal, mekanik veya termal irritanlarla (sigara, sıcak çay, alkol, HPV, kostik madde vb.) ilişkilidir ve en sık **proksimal (üst) veya orta özofagusta** görülür.
+*   **Barrett Öncesi Evreler (Reflü Özofajiti):** Kronik reflü sadece metaplazi yapmaz, metaplazi öncesi dönemde epitelde erozyon, bazal hücre hiperplazisi, hücreler arası ödem (balonlaşma/dilate aralıklar) ve eozinofil/lenfosit infiltrasyonuna yol açar.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+*   **Tümör Lokalizasyon Eşleştirmeleri (Banka Soru):** Komite "GİS kanserleri ve en sık lokalizasyonları eşleşmelerinden hangisi yanlıştır?" diye sormaya bayılır (Örn: M5-2026-26 numaralı soru). Şıklarda kesinlikle **Özofagus skuamöz karsinom $\rightarrow$ Proksimal/Orta**, **Özofagus adenokanseri $\rightarrow$ Distal** eşleştirmeleri bulunacaktır. Bu ayrımı sana defalarca soracaklardır.
+*   **Kanser ve Prekürsör Lezyon (Öncü Hücre) Eşleştirmesi:** Patoloji sınavlarında sıklıkla prekanseröz lezyonlar sorgulanır. "Barrett epiteli $\rightarrow$ Adenokarsinom" ilişkisi çok sık sorgulanırken, bazen bu durum "İHK (immünhistokimyasal) marker" ile zenginleştirilerek de (örneğin CDX2, sitokeratin varlığı) karşına çıkabilir.
+*   **Eozinofilik Özofajit (Büyük Tuzak):** Hastada katı gıda disfajisi olup allerji öyküsü (atopi) veya tedaviye direnç varsa aklına her zaman kanser gelmemeli. Özofagusta yaygın eozinofil infiltrasyonu ile giden ve **bazal hücre hiperplazisi** yapan *Eozinofilik özofajiti* reflüden (GÖRH) ayırt etmeni isteyeceklerdir.
+
 
 **Soru 59:** Aşağıda gastrointestinal stromal tümörler (GİST) ile ilgili verilen önermelerden doğru olanları içeren şık hangisidir? (M5-2024-23)
 I. Sıklıkla sırayla ince bağırsak >mide > özofagus > kolonda gelişir
@@ -1763,6 +2007,45 @@ Sevgili meslektaşım, bu soru GİS'in en önemli mezenkimal tümörü olan Gast
 *   **Anahtar Kelime Avı:** Eşleştirme ve vaka sorularında **"CD117"**, **"DOG1"**, **"c-kit mutasyonu"** veya **"Cajal hücresi"** ifadelerinden herhangi birini gördüğünde aklına direkt olarak **GİST** gelmelidir. 
 *   **Lokalizasyon Tuzağı:** "En sık görüldüğü yer neresidir?" sorusu klasik bir sınav tuzağıdır. Şıklarda ince bağırsağı birinci sıraya koyarak çeldirici yaparlar. GİST'in **en sık görüldüğü yer MİDE'dir** bilgisini (%60) asla unutmamalısın.
 *   **Tümör Kökeni Soruları:** GİS epitelinden köken alan adenokarsinomlar ile karıştırmaman gerekir; GİST bir mezenkimal (stromal) tümördür ve direkt bağırsağın kas tabakasında yer alan pacemaker hücrelerinden (Cajal) çıkar. Eşleştirme sorularında "İnterstisyel cajal hücresi - GİST - CD117" üçlemesi fix sınav bilgisidir.
+
+
+**Soru 60:** Kusma oluşum sürecindeki basamaklardan hangisi yanlıştır? (M5-2027-60)
+a) Spazmatik inspirasyonlar gerçekleşir
+b) Pilor kontrakte olur
+c) Diyafram kası gevşer
+d) Gastrik kardia açık ve yükselmiştir
+e) Abdominal kaslar kasılır
+
+**Doğru Şık:**
+Doğru cevap **C) Diyafram kası gevşer** şıkkıdır.
+
+**Sorunun Açıklaması:**
+Sevgili meslektaşım, bu soru GİS semptomları ve fizyopatolojisi dersinin temel konularından biri olan "Emesis (Kusma)" refleksinin mekanizmasını test etmektedir. Vücudun koruyucu bir refleksi olan kusma; oldukça karmaşık, koordineli somatik ve otonomik olaylar zinciriyle gerçekleşir. Kusma işlemi sırasında mide içeriğinin dışarı atılabilmesi için karın içi (intraabdominal) basıncın çok yüksek seviyelere ulaşması gerekir. Bu basıncı yaratmak için karın (abdominal) kasları kasılırken, aynı anda **diyafram kası da çok güçlü bir şekilde kasılarak (kontrakte olarak) aşağı doğru iner**. Diyaframın gevşediği ifadesi fizyopatolojik olarak tamamen yanlıştır; aksine, diyaframın bu sert kasılması aşağıya doğru büyük bir mekanik baskı hissi oluşturarak mide içeriğinin ağza doğru itilmesini sağlar. 
+
+**Şıkların Açıklaması:**
+*   **a) Spazmatik inspirasyonlar gerçekleşir:** Doğrudur. Kusma sırasında kapalı glottise karşı spazmodik (istemsiz ve ani) inspiratuvar (nefes alma) hareketler yapılarak göğüs içi basınç düşürülür.
+*   **b) Pilor kontrakte olur:** Doğrudur. Midenin alt kapısı olan pilor güçlüce kasılır ki, mide içeriği onikiparmak bağırsağına (duodenuma) doğru kaçmasın ve tamamen yukarı yönlendirilsin.
+*   **c) Diyafram kası gevşer:** Yanlıştır ve sorunun cevabıdır. Karın içi basıncını artırmak için diyafram kası **gevşemez, güçlü bir kontraksiyonla (kasılmayla) aşağı iner**.
+*   **d) Gastrik kardia açık ve yükselmiştir:** Doğrudur. Midenin üst girişi olan kardia ve alt özofagus sfinkteri, içeriğin yemek borusuna çıkabilmesi için açılır ve yükselir.
+*   **e) Abdominal kaslar kasılır:** Doğrudur. Diyaframın inmesiyle eş zamanlı olarak karın kaslarının kasılması, mideyi sıkıştırarak içeriğin fırlatılmasını sağlar.
+
+**Terimler:**
+*   **Emesis (Kusma):** Mide içeriğinin, diyafram ve karın kaslarının şiddetli kasılması sonucu gastrointestinal sistemin tersine çalışarak ağız yoluyla zorlu atılması.
+*   **Pilor:** Midenin duodenuma (ince bağırsağa) bağlandığı, içeriğin geçişini kontrol eden alt kapak (sfinkter).
+*   **Kardia:** Yemek borusunun mideye açıldığı üst bölge.
+*   **Spazmodik İnspirasyon:** Kapalı bir hava yoluna karşı aniden nefes almaya çalışma refleksi (öğürme refleksinin temel bileşeni).
+*   **Glottis:** Ses tellerinin bulunduğu, soluk borusunun giriş bölgesi.
+
+**Bilinmesi Gereken Alt Konular (Kusma Sırasındaki Diğer Olaylar ve Komplikasyonlar):**
+Bir klinisyen olarak kusma fizyolojisini ve olası komplikasyonları çok iyi bilmelisin:
+*   **Aspirasyonun Önlenmesi:** Kusma sırasında mide asidinin akciğerlere kaçmasını (aspirasyon pnömonisini) önlemek için **Glottis kapanır** ve **Yumuşak damak yükselerek** nazofarenksi (genzi) kapatır.
+*   **Kusma Komplikasyonları:** Şiddetli öğürme ve kusmalar tehlikelidir. En sık gördüğümüz komplikasyon **Mallory-Weiss yırtığıdır** (özofagus-mide bileşkesinde mukozal yırtık). Daha ağır vakalarda özofagusun tam kat yırtılması (Boerhaave sendromu) yani **perforasyon**, ciddi sıvı elektrolit kaybına bağlı **akut tübüler nekroz / böbrek yetmezliği** görülebilir.
+*   **Kusma Merkezi Sinyalleri:** Beyin sapındaki (medulla) kusma merkezine 4 ana bölgeden sinyal gelir: **1. Kemoreseptör Trigger Zone (CTZ)** (kimyasallara en duyarlı bölge), **2. Vestibüler Merkez** (iç kulak dengesi), **3. Korteks**, **4. İntraabdominal organlar** (vagal/splanknik liflerle).
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+*   **Kusma Merkezinin Uyarımı Tuzağı (Banka Soru):** Bu soruyla bağlantılı olarak "Kusma merkezine hangi noktadan sinyal gelmez?" sorusu (M5-2027-16) bizzat sorulmuştur ve şıklara uydurma bir seçenek olan **"Corpus callosum"** eklenmiştir. Kusma merkezinin sinyal aldığı yukarıdaki 4 bölgeyi ezbere bilmelisin.
+*   **Kusmada Etkili Reseptörler (Farmakoloji Entegrasyonu):** Kusma merkezi ve CTZ üzerinde etkili olan reseptör-ligand eşleştirmeleri kesin soru potansiyeli taşır. Sınavda sıklıkla H1 (Histamin), M1 (Asetilkolin), 5-HT3 (Serotonin), D2 (Dopamin), NK1 (Nörokinin) reseptörleri sorulur. Örneğin, taşıt tutmasında **H1 ve M1** hedeflenirken; kemoterapiye bağlı kusmalarda **5-HT3 ve NK1** blokerleri (örn. Palonosetron + Aprepitant) tercih edilir.
+*   **Mallory-Weiss Sendromu Vakası:** Komite, "Aşırı öğürme ve kusmalarla taze kan kusan, sıklıkla alkol kullanan veya hamile olan" bir vaka verip tanıyı sorabilir. Gastroözofageal bileşkedeki bu lineer mukozal yırtığı (Mallory-Weiss) hemen tanımalısın.
 
 **Soru 61:** Özofajittipleri ve nedenlerine ilişkin aşağıda verilen eşleşmelerden hangisi yanlıştır? (M5-2024-37)
 a) Reflü özofajit – hiatal herni
@@ -3091,9 +3374,7 @@ Viral hepatit şüphesi olan bir hastada akut dönem ayırıcı tanısında iste
 **Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
 *   **Pencere Dönemi Tuzağı (Sınav Klasiği):** Hoca bu soruyu tersinden kurgulamayı çok sever. Sınavda bizzat çıkmış olan *"Pencere döneminde hepatit B tanısı hangi belirteç ile konur?"* (M6-2025-86) sorusunun cevabı kesinlikle **Anti-HBc IgM** olmalıdır. Çünkü bu dönemde antijen kaybolmuş, koruyucu antikor da henüz çıkmamıştır; elimizdeki tek akut kanıt budur.
 *   **Aşı vs. Doğal Bağışıklık Ayrımı (Banka Soru):** Sınavlarda *"Aşı yoluyla bağışıklık kazanan kişinin hangi göstergesi pozitiftir?"* sorusu sıkça karşımıza çıkar. Sağlık ocaklarında yapılan rekombinant aşı sadece yüzey antijeni içerdiği için aşılanan birinde **SADECE Anti-HBs** pozitiftir. Eğer hasta hastalığı bizzat geçirip "doğal" bağışıklık kazansaydı, virüsün çekirdeğiyle de karşılaşacağı için Anti-HBs ile birlikte **Anti-HBc IgG** de pozitif olurdu. Bu ikisinin ayrımı komite ve kurullarda sana çok puan kazandırır.
-*   **Hepati
-
-tlerin Kronikleşme Oranları:** Hangi hepatit virüsünün ne kadar kronikleştiği (siroza/kansere gittiği) çok değerlidir. Hepatit A asla kronikleşmez. Erişkinlerde en yüksek kronikleşme oranına sahip hepatit **Hepatit C'dir (HCV)** (%50-90). Bebeklerde ise Hepatit B enfeksiyonu alındığında immün sistem zayıf olduğu için virüs %95 gibi devasa bir oranda kronikleşir.
+*   **Hepatitlerin Kronikleşme Oranları:** Hangi hepatit virüsünün ne kadar kronikleştiği (siroza/kansere gittiği) çok değerlidir. Hepatit A asla kronikleşmez. Erişkinlerde en yüksek kronikleşme oranına sahip hepatit **Hepatit C'dir (HCV)** (%50-90). Bebeklerde ise Hepatit B enfeksiyonu alındığında immün sistem zayıf olduğu için virüs %95 gibi devasa bir oranda kronikleşir.
 
 **Soru 94:** Aşağıdakilaboratuar testlerinden hangisi kolestaz için kullanılır? (M5-2024-52)
 a) Alkalen P ve GGT

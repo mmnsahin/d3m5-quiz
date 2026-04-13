@@ -1,0 +1,310 @@
+**65. Üroflovmetri ile hangisinin tanısı koyulabilir? (M5-2027-93)**
+a) Düşük akım hızı
+b) İnfraveziküler obstrüksiyon
+c) Hipokompliyan mesane
+d) Aşırı uyarılan detrüsör
+e) Terminal konstraksiyon
+
+*(Not: Orijinal sorudaki şık dizilimi a, b, c, e, d şeklinde harflendirilmiştir, orijinaline sadık kalarak aktardım.)*
+
+**Doğru Şık:** **A (Düşük akım hızı)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru Üroloji stajında ve komitelerde alt üriner sistem şikayetleriyle (sık idrara çıkma, zor idrar yapma vb.) gelen bir hastaya yapacağımız ilk ve en temel non-invaziv (girişimsel olmayan) testi, yani "Üroflovmetri"yi (işeme testi) sorguluyor. Üroflovmetri, hastanın özel bir tuvalete idrarını yapmasıyla gerçekleştirilir ve cihaz bize bir işeme eğrisi (normalde çan eğrisi şeklinde olmalıdır) oluşturur. Bu testin bize verebileceği yegane ve en net objektif tanı **"düşük idrar akım hızı"**nın tespitidir. Ancak cihaz sadece akımın yavaş olduğunu söyler, akımın *neden* yavaş olduğunu (örneğin yolda bir tıkanıklık mı var yoksa mesane kası yeterince güçlü kasılamıyor mu?) ayırt edemez.
+
+**Şıkların Açıklaması:**
+*   **a) Düşük akım hızı (Doğru Cevaptır):** Üroflovmetri doğrudan idrar akım hızını ölçtüğü için bu tanıyı net olarak koyabilir.
+*   **b) İnfraveziküler obstrüksiyon (Mesane çıkım tıkanıklığı):** Yanlıştır. Düşük akım hızının bir sebebi olabilir ancak üroflovmetri bu düşüklüğün sebebinin tıkanıklık mı yoksa kas zayıflığı mı olduğunu ayırt edemez. Tıkanıklık tanısı koymak için mesane içi basıncını da ölçen invaziv "basınç-akım çalışmaları" (sistometri) gerekir.
+*   **c) Hipokompliyan mesane:** Yanlıştır. Mesanenin esneyebilme yeteneğindeki bozulmayı ifade eder. Sadece invaziv ürodinamik testler (basınç ölçümü) ile tanısı konabilir.
+*   **d) Aşırı uyarılan detrüsör (Aşırı aktif detrüsör):** Yanlıştır. Mesanenin dolum fazında istemsiz kasılmasıdır, tanısı için mesane içine kateter yerleştirilerek basınç ölçülen sistometri testi şarttır.
+*   **e) Terminal konstraksiyon:** Yanlıştır. İşeme sonu kasılmaları değerlendirmek için de spesifik basınç ölçümlerine ihtiyaç vardır.
+
+**Önemli Terimler:**
+*   **Üroflovmetri:** İdrar akım hızını, işeme süresini ve işenen volümü ölçen basit, non-invaziv (girişimsel olmayan) bir tarama testidir.
+*   **İnfravezikal Obstrüksiyon:** Mesane boynundan üretranın ucuna kadar olan bölgede, idrar çıkışını engelleyen herhangi bir tıkanıklıktır (Örneğin erkeklerde iyi huylu prostat büyümesi - BPH).
+*   **Detrüsör:** Mesane duvarını oluşturan, idrarı depolamak için gevşeyen ve işemek için kasılan düz kastır.
+
+**Bilinmesi Gereken Alt Konular (Düşük Akım Hızının Nedenleri):**
+Sınavlarda üroflovmetride akım hızını düşük bulduğumuzda aklımıza gelmesi gereken iki ana fizyopatolojik mekanizmayı mutlaka bilmelisin:
+1.  **Çıkım obstrüksiyonu (Tıkanıklık):** Prostat büyümesi, üretra darlığı vb.
+2.  **Zayıf detrüsör:** Mesane kasının kasılmasının nörolojik veya miyojenik nedenlerle yetersiz olması.
+*(Tabi bu ikisi aynı hastada eş zamanlı da bulunabilir)*.
+Ayrıca üroflovmetri çekiminin sağlıklı değerlendirilebilmesi için idrar miktarının yeterli olması gerekir, yetersiz idrar volümünde bu testle doğru bir tanı konulamaz.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Üroloji hocaları üroflovmetrinin sınırlarını test etmeyi çok severler. Gelecek komitelerde şu soruları yakalaman işten bile değil:
+1.  **Üroflovmetrinin Sınırları (Çok Sık Sorulur):** Bu soruyu tam tersinden sormaya bayılırlar. "Üroflovmetri ile hangisinin tanısı **konulamaz**?" (M6-2024-90, M6-2022-18, M5-2026-13). Bu sorunun cevabı şıklara göre her zaman **"İnfravezikal obstrüksiyon"** veya testin yapılamama nedeni olan **"Yetersiz idrar volümü"** olur.
+2.  **Aşırı Aktif Mesane Semptomları:** Aşırı aktif mesane bir semptom tanısıdır ve banko sorulur. Şıklara semptomları koyup sorarlar (M5-2025-70). Bilmen gereken anahtar kelimeler: **Sıkışma hissi (urgency), gece sık idrara çıkma (noktüri) ve gündüz sık idrara çıkma (pollaküri)**.
+3.  **Üriner Sistem Enfeksiyonu Lokalizasyonu:** "Aşağıdakilerden hangisi alt üriner sistem enfeksiyonu değildir?" (M6-2022-19). Cevabın her zaman üst üriner sistemi ilgilendiren **"Pyelonefrit (Böbrek enfeksiyonu)"** olmalıdır. Sistit (mesane), üretrit ve prostatit alt üriner sistem enfeksiyonlarıdır.
+
+**66. Ürolovmetri ile hangisinin tanısı konulamaz? (M5-2026-13)**
+a) Yetersiz idrar volümü
+b) Düşük idrar akım hızı
+c) Üretral darlık işeme paterni
+d) İdrarı başlatmada gecikme
+e) İnfravezikal obstrüksiyon
+
+**Doğru Şık:** **E (İnfravezikal obstrüksiyon)** 
+
+*(Hoca Notu: Sevgili meslektaş adayım, bu sorunun cevap anahtarlarında ciddi çelişkiler mevcuttur; bazı anahtarlarda cevap "A" olarak geçerken, benzer formattaki çıkmış sorularda (M6-2024-90) cevap "E" olarak verilmiştir. Ancak ders notlarımıza ve slaytlarımıza baktığımızda; üroflovmetrinin idrar akım hızını, işeme paternini ve volümünü saptadığını, ancak çıkım obstrüksiyonunun (infravezikal obstrüksiyon) tanısını koyabilmek için invaziv olan basınç-akım çalışmalarına (sistometriye) ihtiyaç duyulduğunu görüyoruz. Bu nedenle notlarımızı referans alarak doğru cevabı "E" olarak kabul ediyoruz.)*
+
+**Sorunun Açıklaması:**
+Üroloji pratiğinde alt üriner sistem şikayetleriyle (sık idrara çıkma, idrarı başlatamama, zayıf akım vb.) gelen hastaya ilk yapılan non-invaziv (girişimsel olmayan) tarama testi "Üroflovmetri"dir (işeme testi). Hasta özel bir cihaza idrarını yapar ve bu cihaz işenen idrarın volümünü, hızını ve süresini ölçerek bize çan eğrisi şeklinde bir grafik verir. Ancak bu cihaz mesane içi basıncı ölçemez. Dolayısıyla idrar akım hızı düşük çıktığında cihaz bize bunun nedeninin yoldaki bir tıkanıklık (obstrüksiyon) mu yoksa mesane kasının (detrüsör) zayıflığı mı olduğunu söyleyemez. Bunu ayırt etmek için mesaneye kateter takılarak basınç ölçümü yapılan invaziv "sistometri" testine ihtiyaç vardır.
+
+**Şıkların Açıklaması:**
+*   **a) Yetersiz idrar volümü:** Cihaz hastanın ne kadar idrar yaptığını mililitre cinsinden doğrudan ölçer. Testin sağlıklı değerlendirilebilmesi için genelde >150 ml volüm istenir; bu hacmin altında kalındığını cihaz bize net olarak gösterir.
+*   **b) Düşük idrar akım hızı:** Üroflovmetrinin temel koyduğu tanıdır ve direkt olarak ölçülen parametredir.
+*   **c) Üretral darlık işeme paterni:** Üretral darlıklarda üroflovmetri eğrisi normal çan eğrisi şeklini kaybederek tipik olarak yassılaşır ve uzun süreli, düz bir "plato" çizer. Cihaz bu paterni tanıyabilir.
+*   **d) İdrarı başlatmada gecikme:** Hasta idrar yapmaya komut aldığından itibaren cihazın idrar akışını kaydetmeye başladığı ana kadar geçen süre grafikte kolaylıkla saptanır.
+*   **e) İnfravezikal obstrüksiyon (Doğru Cevaptır):** Mesane çıkım tıkanıklığıdır. Düşük idrar akım hızına neden olabilir ancak tanısının kesinleşmesi için üroflovmetri yetersizdir, invaziv basınç ölçümü (ürodinami/sistometri) gerekir.
+
+**Önemli Terimler:**
+*   **Üroflovmetri:** İdrar akım hızını, işeme süresini ve işenen total volümü ölçen basit, non-invaziv tarama testidir.
+*   **İnfravezikal Obstrüksiyon:** Mesane boynundan üretranın ucuna kadar olan bölgede, idrar çıkışını engelleyen herhangi bir tıkanıklıktır (Örneğin BPH veya prostat kanseri).
+*   **Detrüsör:** Mesane duvarını oluşturan, idrarı depolamak için gevşeyen ve işemek için kasılan düz kastır.
+
+**Bilinmesi Gereken Alt Konular (Düşük Akım Hızının Nedenleri):**
+Sınavlarda üroflovmetride akım hızını düşük bulduğumuzda aklımıza gelmesi gereken iki ana fizyopatolojik mekanizmayı bilmelisin:
+1.  **Çıkım obstrüksiyonu (Tıkanıklık):** İyi huylu prostat büyümesi (BPH), üretra darlığı vb.
+2.  **Zayıf detrüsör (Hipokontraktil mesane):** Mesane kasının kasılmasının nörolojik veya miyojenik nedenlerle yetersiz olması.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Üroloji komitesinde hocalar alt üriner sistem semptomlarının ayırıcı tanısına bayılırlar. Özellikle şu formatları mutlaka beklemelisin:
+1.  **Üroflovmetrinin Tanı Koyabildiği Durum (Ters Köşe):** Çözdüğümüz 65. soruda olduğu gibi "Üroflovmetri ile hangisinin tanısı koyulabilir?" (M5-2027-93) diye sorulursa cevabın **"Düşük akım hızı"** olmalıdır.
+2.  **Aşırı Aktif Mesane Semptomları:** Aşırı aktif mesane bir semptom tanısıdır ve her yıl mutlaka sorulur (M5-2025-70). Şıklara semptom kombinasyonları konulur. Bilmen gereken anahtar kelimeler şunlardır: **Sıkışma hissi (urgency), gece sık idrara çıkma (noktüri) ve gündüz sık idrara çıkma (pollaküri)**.
+3.  **Üriner Sistem Enfeksiyonu Lokalizasyonu:** "Aşağıdakilerden hangisi alt üriner sistem enfeksiyonu değildir?" (M6-2022-19) sorusunun cevabı her zaman üst üriner sistemi ilgilendiren **"Pyelonefrit"** olmalıdır. Sistit, üretrit ve prostatit ise alt üriner sistem enfeksiyonlarıdır.
+
+**67. Hangi tip idrar kaçırmada neden detrüsör aktivitesinin artmış olmasıdır? (M5-2026-56)**
+a) Enüreziste
+b) Dolup taşma şeklinde
+c) Stres tipte
+d) Sıkışma ile idrar kaçırmada
+e) Bilişsel bozukluğa bağlı idrar kaçırmalarda
+
+**Doğru Şık:** **D (Sıkışma ile idrar kaçırmada)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru Üroloji komitesinde "Alt Üriner Sistem Hastalıkları" kapsamında idrar kaçırma (inkontinans) tiplerinin altında yatan patofizyolojik mekanizmaları ayırt etmeni bekleyen son derece temel ve klinik bir sorudur. Mesane duvarını oluşturan düz kas tabakasına "detrüsör" kası adını veriyoruz. Normal fizyolojide mesane dolarken (depolama fazı) detrüsör kasının gevşek kalması ve basınca direnç göstermesi beklenir. Ancak detrüsör kasının istemsiz ve aniden kasılması (aşırı aktif detrüsör/detrüsör aktivitesinde artış), idrar torbası henüz dolmadan aniden gelen şiddetli bir idrar yapma isteği (sıkışma) doğurur. Hasta tuvalete yetişemeden idrarını kaçırır. Soru bizden doğrudan bu mekanizmayı, yani detrüsör aşırı aktivitesine bağlı gelişen inkontinans tipini bulmamızı istemiştir. 
+
+**Şıkların Açıklaması:**
+*   **a) Enüreziste:** Yanlıştır. Enürezis (genellikle enürezis noktürna), uykuda istemsiz idrar kaçırma durumudur. Detrüsör kasının birincil aşırı aktivitesinden ziyade uyanma bozuklukları veya gece artan idrar üretimi ile ilişkilidir.
+*   **b) Dolup taşma şeklinde (Overflow):** Yanlıştır. Bu tip kaçırmanın nedeni detrüsör aktivitesinin "artması" değil, tam aksine **detrüsör yetersizliği (kasılma kusuru)** veya prostat büyümesi gibi nedenlerle gelişen **infravezikal obstrüksiyondur (çıkım tıkanıklığı)**. Mesane kapasitesinin çok üzerine kadar dolar ve idrar taşarak (sızıntı şeklinde) kaçar.
+*   **c) Stres tipte:** Yanlıştır. Detrüsör kası burada tamamen normaldir. İdrar kaçırmanın sebebi öksürme, hapşırma, gülme veya ağır kaldırma gibi **abdominal (karın içi) basıncın arttığı** durumlarda, azalmış pelvik taban desteği veya **sfinkterik yetmezlik** nedeniyle üretranın kapalı kalamamasıdır. 
+*   **d) Sıkışma ile idrar kaçırmada (Doğru Cevap):** Doğrudur. Mesanenin depolama fazı sırasında detrüsör kasının aniden ve istemsiz olarak kasılması (aşırı aktif detrüsör) sonucu oluşan, tuvalete yetişemeden olan idrar kaçırma tipidir. 
+*   **e) Bilişsel bozukluğa bağlı idrar kaçırmalarda (Fonksiyonel İnkontinans):** Yanlıştır. Hastanın üriner sistemi ve detrüsör fonksiyonları tamamen normaldir, ancak demans, Alzheimer veya fiziksel engeller gibi bilişsel/motor bozukluklara bağlı olarak tuvalete zamanında gidememe ve fonksiyonel idrar kaçırma söz konusudur.
+
+**Önemli Terimler:**
+*   **Detrüsör:** Mesanenin idrarı depolamasını sağlayan (gevşeyerek) ve işeme sırasında kasılarak idrarın atılmasını sağlayan düz kas tabakasıdır.
+*   **İnkontinans:** Her türlü istemsiz idrar kaçırma durumunun tıbbi adıdır.
+*   **Sıkışma (Urgency):** Aniden ortaya çıkan, ertelenmesi zor ve şiddetli idrar yapma isteğidir.
+*   **Aşırı Aktif Mesane (OAB):** Altta yatan bir enfeksiyon veya patoloji (taş, tümör vb.) olmaksızın, "sıkışma (urgency)" semptomunun ön planda olduğu; sıklıkla pollaküri ve noktürinin eşlik ettiği klinik bir sendromdur. 
+
+**Bilinmesi Gereken Alt Konular (İnkontinans Tipleri ve Nedenleri):**
+Sınavlarda her bir idrar kaçırma tipinin mekanizmasını bilmen istenir. Tedavi hedefleri de bu mekanizmalara göre şekillenir:
+1.  **Stres Tip İnkontinans:** Anatomik destek kaybı (çok sayıda zorlu doğum, menopoz, obezite) veya sfinkter yetmezliği kaynaklıdır. Tedavide amaç **üretral direnci güçlendirmektir** (Pelvik taban egzersizleri - Kegel, veya cerrahi askı operasyonları).
+2.  **Sıkışma Tipi (Urge) İnkontinans:** Detrüsör kasının istemsiz kasılmaları (aşırı aktif mesane) kaynaklıdır. Tedavide amaç **mesaneyi (detrüsörü) gevşetmektir** (Antimuskarinik/antikolinerjik ilaçlar veya Beta-3 agonistleri kullanılır).
+3.  **Dolup Taşma (Overflow) İnkontinansı:** Detrüsör kasılemaması veya önünde mekanik bir engel (BPH, üretra darlığı) olmasıdır. Tedavide engel ortadan kaldırılır veya mesanenin boşaltılması için sonda (kateterizasyon) kullanılır.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Üroloji stajı ve komite sınavlarında idrar kaçırma (inkontinans) her zaman favori konulardandır. Şu tarz sorularla karşılaşman çok olası:
+1.  **Aşırı Aktif Mesane Semptomları Vaka/Öncül Sorusu:** "Aşırı aktif mesane bulguları nelerdir?" (M5-2025-70) şeklinde bir soruda, hocaların beklediği karakteristik semptom üçlüsü: **Sıkışma hissi (urgency)**, **gündüz sık idrara çıkma (pollaküri)** ve **gece sık idrara çıkma (noktüri)**'dir. Hastada sıkışma tipi idrar kaçırma olabilir ya da olmayabilir, bu tanı için şart değildir.
+2.  **Dolup Taşma (Overflow) İnkontinansı Çeldiricisi:** Bu sorunun tam tersi yöneltilerek "Detrüsör kasının yetersiz kasılması veya şiddetli infravezikal obstrüksiyon (örneğin prostat hipertrofisi) varlığında hangi tip idrar kaçırma izlenir?" diye sorulabilir. Cevabın kesinlikle **Dolup taşma şeklinde (Overflow) inkontinans** olmalıdır.
+3.  **Stres Tip İnkontinans Vaka Sorusu:** "Çok sayıda normal doğum öyküsü olan 50 yaşındaki kadın hasta, öksürme ve hapşırma ile idrar kaçırdığını ifade etmektedir. En olası idrar kaçırma tipi nedir?" şeklindeki bir sorunun cevabı, karın içi basıncın artması ve pelvik taban zayıflığını işaret ettiği için **Stres tip idrar kaçırma** olmalıdır.
+
+Harika! Üroloji komitesinin çok sevdiği, ileride poliklinik pratiğinde de her gün karşılaşacağın "Aşırı Aktif Mesane" (Overactive Bladder - OAB) sendromunu irdeleyen çok güzel bir soruyla devam ediyoruz.
+
+İlk olarak sorumuzu orijinal haliyle yazalım:
+
+**68. Aşırı aktif mesane bulguları nelerdir? (M5-2025-70)**
+I. Dizüri
+II. Sıkışma hissi
+III. Gece sık idrara çıkma
+IV. Sabah sık idrara çıkma
+V. Stres tipi idrar kaçırma
+M. Sıkışma tipi idrar kaçırma
+*(Hoca Notu: Orijinal çıkmış soruda 6. öncül dizgisel bir hata sonucu "M" harfi ile yazılmış, biz onu VI. öncül olarak değerlendiriyoruz. Ayrıca IV. öncüldeki "sabah" ifadesi klinik olarak "gündüz" idrara çıkmayı temsil etmektedir).*
+
+**Doğru Şık:** **II, III, IV ve VI (Cevap Anahtarı: 2, 3, 4, 6)**.
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, "Aşırı Aktif Mesane (OAB)" tek başına organik bir hastalık değil; altta yatan bir idrar yolu enfeksiyonu veya belirgin bir patoloji (taş, tümör vb.) olmaksızın ortaya çıkan bir "semptomlar sendromudur". Bu sendromun temel nedeni mesane kası olan detrüsörün istemsiz, aşırı aktivitesidir. Soru bizden bu sendromun tanısını koymamızı sağlayan klinik semptomları seçmemizi istiyor. 
+
+**Öncüllerin Açıklaması:**
+*   **I. Dizüri (Yanlış):** İdrar yaparken yanma ve ağrı hissidir. Genellikle sistit, üretrit gibi "alt üriner sistem enfeksiyonlarının" en temel bulgusudur. Aşırı aktif mesane tanısı koyabilmek için enfeksiyonun *olmaması* gerektiğinden, dizüri bu sendromun bir bulgusu değildir.
+*   **II. Sıkışma hissi (Doğru):** Tıbbi adıyla "urgency". Aşırı aktif mesane tanısı koymak için **olmazsa olmaz** temel (kor) semptomdur. Aniden gelen ve ertelenmesi çok zor olan idrar yapma isteğidir.
+*   **III. Gece sık idrara çıkma (Doğru):** Tıbbi adıyla "noktüri". Hastayı uykudan uyandıran idrar yapma ihtiyacıdır.
+*   **IV. Sabah/Gündüz sık idrara çıkma (Doğru):** Tıbbi adıyla "pollaküri". Gün içinde normalden çok daha fazla (genellikle >8 kez) tuvalete gitme durumudur. 
+*   **V. Stres tipi idrar kaçırma (Yanlış):** Karın içi basıncını artıran öksürme, hapşırma, gülme veya ağır kaldırma gibi durumlarda olan idrar kaçırmadır. Nedeni detrüsör (mesane) aşırı aktivitesi değil; pelvik taban zayıflığı veya sfinkter yetmezliğidir.
+*   **VI (M). Sıkışma tipi idrar kaçırma (Doğru):** Tıbbi adıyla "urge inkontinans". Aşırı aktif mesane sendromuna eşlik edebilir veya etmeyebilir. Hasta aniden sıkışır ve tuvalete yetişemeden idrarını kaçırır. Eşlik ediyorsa "yaş (ıslak) aşırı aktif mesane", eşlik etmiyorsa "kuru aşırı aktif mesane" adını alır.
+
+**Önemli Terimler:**
+*   **Urgency (Sıkışma hissi):** Aniden ortaya çıkan, ertelenmesi zor, şiddetli idrar yapma arzusudur.
+*   **Pollaküri:** Gündüzleri sık idrara çıkma (normalde mesane 300-400 ml depolar, ancak bu hastalarda kapasite azaldığı için sık ve az idrar yapılır).
+*   **Noktüri:** Gece idrar yapmak için uykudan uyanma durumudur.
+*   **Dizüri:** İdrar yaparken yanma, sızlama ve ağrı hissedilmesidir. Çoğunlukla enfeksiyon bulgusudur.
+
+**Bilinmesi Gereken Alt Konular (İdrar Kaçırma / İnkontinans Tipleri):**
+Komitelerde her bir inkontinans tipinin altında yatan fizyopatolojik mekanizma sorulur. Bunları kesinlikle ayırt edebilmelisin:
+1.  **Sıkışma (Urge) Tipi İnkontinans:** *Detrüsör kasının* (mesane duvarının) istemsiz kasılması/aşırı aktif olmasıdır. Antikolinerjik ilaçlarla mesane gevşetilerek tedavi edilir.
+2.  **Stres Tipi İnkontinans:** *Pelvik taban kaslarının veya üretral sfinkterin* zayıflığıdır (özellikle çok sayıda normal doğum yapmış kadınlarda). Karın içi basınç arttığında kaçırma olur. Kegel egzersizleri veya cerrahi (askı) ile üretral direnç artırılır.
+3.  **Taşma (Overflow) Tipi İnkontinans:** *İnfravezikal obstrüksiyon* (prostat büyümesi/BPH, üretra darlığı) veya detrüsör kasının *kasılma yetersizliğine* bağlıdır. Mesane kapasitesinin çok üstüne çıkarak gerilir ve sızıntı şeklinde idrar kaçar.
+4.  **Fonksiyonel İnkontinans:** Üriner sistem tamamen normaldir ancak hastanın bilişsel (demans, Alzheimer) veya fiziksel engellerinden dolayı tuvalete zamanında gidememesidir.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Üroloji hocaları alt üriner sistem semptomlarını vaka üzerinden sormayı çok sever. Bu konuyla ilgili şu tarz soruları banko beklemelisin:
+1.  **Enfeksiyon Çeldiricisi:** Sınavda "Aşağıdakilerden hangisi Aşırı Aktif Mesane sendromunun bir bulgusu değildir?" diye sorulup şıklara urgency, pollaküri, noktüri ve urge inkontinansı koyarlar. Çeldirici şık her zaman bir enfeksiyon bulgusu olan **"Dizüri"** veya **"Ağrılı işeme"** olur.
+2.  **Overflow (Taşma) İnkontinans Vakası:** "Uzun yıllardır BPH (prostat büyümesi) tanısı olan yaşlı erkek hasta, damla damla sızıntı şeklinde idrar kaçırdığını ifade etmektedir. En olası idrar kaçırma tipi nedir?" Cevap mekanik bir tıkanıklığı ifade eden **Taşma (Overflow) İnkontinansı** olmalıdır.
+3.  **Üroflovmetrinin Sınırları:** Alt üriner sistem şikayetleriyle gelen hastada ilk istenen test olan Üroflovmetrinin (işeme testi) neyi gösterip neyi gösteremediği çok sorulur. "Üroflovmetri ile **düşük idrar akım hızı** tanısı konur ancak bu düşüklüğün sebebinin bir tıkanıklık mı yoksa zayıf kasılma mı olduğu (yani **infravezikal obstrüksiyon**) tanısı **konulamaz**." Bu, hocaların en sık sorduğu triktir.
+
+**69. Ürolovmetri ile hangisinin tanısı konulamaz? (M6-2024-90)**
+a) Üretral darlık işeme paterni
+b) İdrarı başlatmada gecikme düşük idrar akım hızı
+c) Yetersiz idrar volümü
+d) Düşük idrar akım hızı
+e) İnfravezikal obstrüksiyon
+
+*(Hoca Notu: B şıkkında muhtemelen dizgisel bir hata yapılmış ve iki farklı kavram aynı şıkka yazılmış, ancak bu durum sorunun doğru cevabını etkilemiyor.)*
+
+**Doğru Şık:** **E (İnfravezikal obstrüksiyon)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru Üroloji komitesinde alt üriner sistem hastalıklarının değerlendirilmesinde en temel tanı aracımız olan "üroflovmetri"nin sınırlarını bilip bilmediğini test eden, daha önce çözdüğümüz 65. ve 66. soruların neredeyse birebir aynısı olan çok önemli bir sorudur. Üroflovmetri, hastanın idrarını özel bir kaba (cihaza) yapmasıyla gerçekleştirilen girişimsel olmayan (non-invaziv) bir testtir. Bu cihaz bize idrarın miktarını, hızını, başlama süresini ve akım şeklini grafik olarak verir. Ancak cihaz mesane içerisindeki kasılma basıncını ölçemez. Bu nedenle idrar akımının yavaş olduğunu bize gösterse de, bunun sebebinin yoldaki bir "tıkanıklık" (obstrüksiyon) mu yoksa mesane kasının "zayıflığı" (hipokontraktilite) mı olduğunu kesin olarak söyleyemez.
+
+**Şıkların Açıklaması:**
+*   **a) Üretral darlık işeme paterni:** Yanlıştır (Tanısı konulur). Cihaz bize sağlıklı bir insanda çan eğrisi şeklinde bir grafik verirken, üretral darlığı olan bir hastada bu grafiğin yayvanlaştığını ve düz bir "plato" çizdiğini (üretral darlık paterni) rahatlıkla gösterebilir.
+*   **b) İdrarı başlatmada gecikme:** Yanlıştır (Tanısı konulur). Hastaya idrar yapma komutu verildiği an ile idrar akışının fiilen başladığı an arasındaki süre (hesitancy) cihaz tarafından saniye cinsinden net olarak ölçülür.
+*   **c) Yetersiz idrar volümü:** Yanlıştır (Tanısı konulur). Testin geçerli olabilmesi için hastanın genellikle en az 150 ml idrar yapması istenir. Cihaz yapılan toplam idrar hacmini ölçer, yani hacmin yetersiz olup olmadığını net olarak bildirir. 
+*   **d) Düşük idrar akım hızı:** Yanlıştır (Tanısı konulur). Üroflovmetrinin temel amacı idrar akım hızını (Qmax) ölçmektir. 
+*   **e) İnfravezikal obstrüksiyon (Doğru Cevap):** Mesane boynu ile üretra ucuna kadar olan bölgedeki tıkanıklıktır. Üroflovmetri sadece akımın düşük olduğunu söyler; bu düşüklüğün obstrüksiyon kaynaklı olduğunu kanıtlamak için mesane içi basıncını da ölçen invaziv "basınç-akım çalışmaları"na (sistometri/ürodinami) ihtiyaç vardır.
+
+**Önemli Terimler:**
+*   **Üroflovmetri:** İdrar akım hızını, idrarın başlama süresini, işeme paternini ve işenen total volümü ölçen basit ve non-invaziv tarama testidir.
+*   **İnfravezikal Obstrüksiyon:** Mesane boynundan üretranın ucuna kadar olan bölgede, idrarın çıkışını zorlaştıran anatomik veya fonksiyonel engeldir (Örn: Prostat büyümesi, üretra darlığı).
+*   **Detrüsör:** Mesane duvarını oluşturan, idrarın depolanması için gevşeyip, boşaltılması için kasılan düz kastır.
+
+**Bilinmesi Gereken Alt Konular (Düşük Akım Hızının Nedenleri ve Tanı Ayrımı):**
+Poliklinikte üroflovmetri çektirdiğin bir hastada idrar akım hızı düşük gelirse, kafanda hemen iki ana neden canlanmalıdır:
+1.  **Çıkım obstrüksiyonu:** Yolda bir tıkanıklık vardır (Örn: Benign Prostat Hiperplazisi).
+2.  **Zayıf detrüsör:** Mesane kasının (detrüsörün) gücü yetersizdir, iyi kasılamıyordur.
+Bu ikisinin ayrımını yapmak için hastaya **ürodinami (basınç-akım çalışması)** yapılır. Ürodinamide mesane içine bir kateter yerleştirilerek basınç ölçülür; eğer basınç yüksek ama akım düşükse "obstrüksiyon" tanısı konur. Eğer basınç da düşük akım da düşükse "zayıf detrüsör" tanısı konur.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Üroloji hocaları üroflovmetri ile ilgili bu konsepti sormayı çok severler (Gördüğün gibi 65, 66, 69. soruların hepsi bu eksende dönmüş). 
+1.  **Aşırı Aktif Mesane Semptomları Vaka Sorusu:** Hocaların favori diğer sorusu budur. Şıklara semptomları koyup Aşırı Aktif Mesane tanısını isterler. Bilmen gereken karakteristik dörtlü şudur: **Sıkışma hissi (urgency), gündüz sık idrara çıkma (pollaküri), gece sık idrara çıkma (noktüri) ve bazen sıkışma tipi idrar kaçırma**.
+2.  **Enfeksiyon Yeri Ayrımı:** "Aşağıdakilerden hangisi alt üriner sistem enfeksiyonu değildir?" diye bir soruyla karşılaşabilirsin. Bu sorunun cevabı her zaman üst üriner sistemi ilgilendiren ve böbrek enfeksiyonu olan **"Pyelonefrit"** olmalıdır. Üretrit, sistit ve prostatit ise alt üriner sistem enfeksiyonlarıdır.
+3.  **İnkontinans Tipleri (İdrar Kaçırma):** Detrüsör aktivitesinin istemsiz artışına bağlı olan idrar kaçırma tipinin **"Sıkışma tipi (urge inkontinans)"** olduğunu da mutlaka bilmelisin.
+
+Harika! Üroloji ve Enfeksiyon Hastalıkları komitelerinin en sevdiği, klinikte de acil nöbetlerinde her gün karşına çıkacak olan çok temel bir "Semptomatoloji ve Klinik Yaklaşım" sorusuyla devam ediyoruz. 
+
+İlk olarak sorumuzu orijinal haliyle yazalım:
+
+**70. Aşağıdakilerden hangisi öncelikli olarak alt üriner sistem enfeksiyonunu düşündürür? (M5-2023-70)**
+a) Oligüri
+b) Dizüri
+c) Anüri
+d) Renal kolik
+
+**Doğru Şık:** **B (Dizüri)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru hastanın ifade ettiği şikayetlere bakarak enfeksiyonun veya patolojinin anatomik olarak nerede olduğunu (alt üriner sistem mi, üst üriner sistem mi, yoksa böbrek parankiminin kendisi mi?) ayırt edebilmeni beklemektedir. Alt üriner sistem enfeksiyonları (sistit, üretrit, prostatit vb.) genellikle idrarın depolanması ve atılmasıyla ilgili "irritatif" semptomlarla kendini gösterir. Hastanın idrarını yaparken hissettiği yanma ve ağrı hissi olan **dizüri**, alt üriner sistem inflamasyonunun en spesifik ve en sık görülen öncelikli semptomudur. Diğer şıklar ise alt üriner sistem enfeksiyonundan ziyade üst üriner sistem mekanik tıkanıklıklarını veya ciddi böbrek yetmezliğini işaret eder.
+
+**Şıkların Açıklaması:**
+*   **a) Oligüri:** Yanlıştır. 24 saatlik idrar miktarının 500 ml'nin altına düşmesidir. Basit bir alt üriner sistem enfeksiyonunda idrar miktarı azalmaz. Oligüri daha çok akut böbrek hasarında (prerenal, renal veya postrenal yetmezlik) görülen bir bulgudur.
+*   **b) Dizüri (Doğru Cevap):** İdrar yaparken yanma, ağrı veya rahatsızlık hissedilmesidir. Sistit (mesane enfeksiyonu) veya üretrit gibi alt üriner sistem enfeksiyonlarının en temel ve öncelikli semptomudur.
+*   **c) Anüri:** Yanlıştır. Günlük idrar miktarının 100 ml'nin altında olması (neredeyse hiç idrar çıkmaması) durumudur. Ciddi böbrek yetmezliğinin veya tam (bilateral) obstrüksiyonun (tıkanıklığın) göstergesidir; alt üriner sistem enfeksiyonunda anüri beklenmez.
+*   **d) Renal kolik:** Yanlıştır. Çoğunlukla böbrek ve üreter taşlarının (ürolitiyazis) üreteri tıkaması sonucu gelişen, kasıklara ve sırta yayılan şiddetli, kıvrandırıcı spazmodik ağrıdır. Bir enfeksiyon bulgusundan ziyade mekanik bir tıkanıklık (taş) bulgusudur.
+
+**Önemli Terimler:**
+*   **Alt Üriner Sistem:** Mesane (idrar kesesi), üretra ve erkeklerde prostatı kapsayan bölümdür.
+*   **Üst Üriner Sistem:** Böbrekler (böbrek parankimi) ve üreterleri kapsayan bölümdür. 
+*   **Dizüri:** İdrar yapma (miksiyon) sırasında ağrı, yanma, sızlama hissedilmesi.
+*   **Sistit:** Mesane (idrar torbası) inflamasyonu/enfeksiyonu.
+*   **Pyelonefrit:** Böbrek parankiminin ve pelvisinin enfeksiyonu (üst üriner sistem enfeksiyonu).
+
+**Bilinmesi Gereken Alt Konular (Üriner Sistem Enfeksiyonlarında Semptom Ayrımı):**
+Hastanın şikayetlerine göre enfeksiyonun "Alt" mı yoksa "Üst" üriner sistemde mi olduğunu mutlaka ayırt edebilmelisin:
+1.  **Alt Üriner Sistem Enfeksiyonu (Sistit, Üretrit) Ek Bulguları:** Dizüri soruda verilmişti. Buna ek olarak hastada **Pollaküri** (günde normalden çok daha sık, az az idrara çıkma), **Urgency** (acil/sıkışarak idrar yapma hissi), **Suprapubik hassasiyet** (karnın alt bölgesinde ağrı) ve **Hematüri** (kanlı idrar) görülebilir. Dikkat et, bu hastalarda *sistemik bulgular (yüksek ateş, titreme) beklenmez*.
+2.  **Üst Üriner Sistem Enfeksiyonu (Pyelonefrit) Bulguları:** Bakteriler böbreğe kadar ulaştığında tabloya sistemik bulgular eklenir. Hastada **Ateş (38-39 derece)**, **Üşüme-titreme**, **KVAH (Kostovertebral Açı Hassasiyeti - yan/böğür ağrısı)** ve bulantı-kusma görülür. Ateş ve KVAH, alt ve üst üriner sistem enfeksiyonunu ayıran en önemli iki klinik çizgidir.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Üroloji, Nefroloji ve Enfeksiyon Hastalıkları komitelerinde bu semptomatoloji ayrımı kesinlikle sorulur. Diğer çıkmış soruları ve ders notlarını incelediğimizde şu tarz soruları banko beklemelisin:
+1.  **Üst ve Alt Ayrımı (Çok Klasik Hoca Sorusu):** "Aşağıdakilerden hangisi alt üriner sistem enfeksiyonu değildir?" (M6-2022-19). Şıklarda sistit, üretrit, prostatit verilir; senin cevabın daima bir böbrek enfeksiyonu olan **Pyelonefrit** olmalıdır.
+2.  **Klinik Vaka - Ateşin Önemi:** "Aşağıdaki semptomlardan hangisi hastada mevcut ise pyelonefriti (böbrek enfeksiyonunu) daha ön planda düşünürsünüz?" (M5-2026-28). Şıklarda dizüri, sık idrara çıkma gibi alt sistem bulguları verilirken doğru cevap kesinlikle sistemik bir bulgu olan **Ateş** olacaktır.
+3.  **Ters Köşe İdrar Bulgusu (Anüri):** Sana "Böbrek hastalıklarında anamnezde akut böbrek hasarını göstermede en önemlisi hangisidir?" diye sorulursa (M6-2025-91), idrar çıkışının neredeyse tamamen durmasını ifade eden **Anüri** yanıtını aramalısın.
+
+**71. Uroflowmetri ile hangisinin tanısı konulamaz? (M6-2022-18)**
+a) Düşük idrar akım hızı
+b) İnfravezikal obstrüksiyon
+c) Uretral darlık
+d) İdrarı başlatmada gecikme
+e) Yetersiz idrar volümü
+
+**Doğru Şık:** **B (İnfravezikal obstrüksiyon)** 
+
+*(Hoca Notu: Sevgili meslektaş adayım, bu sorunun orijinal cevap anahtarında doğru şıkkın "E" olarak verildiğini görüyoruz. Ancak sana verdiğim altın kuralı hatırlayalım: Cevap anahtarı ile notlarımız çelişiyorsa daima notlarımızı referans alırız. Ders notlarımızda açıkça "Üroflovmetri ile düşük akım hızını tespit ediyoruz. Neden düşük akım hızı olur? 1. Çıkım obstrüksiyonu, 2. Zayıf detrüsör, 3. İkisi birden" şeklinde belirtilmiştir. Üroflovmetri mesane içi basıncı ölçemediği için akım düşüklüğünün tıkanıklıktan mı yoksa kas zayıflığından mı kaynaklandığını, yani "İnfravezikal obstrüksiyon" tanısını tek başına koyamaz. Bu nedenle bilimsel olarak ve slaytlarımıza göre doğru cevap kesinlikle B şıkkıdır.)*
+
+**Sorunun Açıklaması:**
+Bu soru, Üroloji komitesinde alt üriner sistem şikayetleriyle gelen bir hastada başvurduğumuz en temel non-invaziv (girişimsel olmayan) tanı aracı olan "Üroflovmetri" (işeme testi) sınırlarını bilip bilmediğini ölçmektedir. Üroflovmetri cihazı, hastanın idrarını özel bir kaba yapmasıyla çalışır ve bize idrarın hacmini (volümünü), akım hızını, işemenin ne kadar sürede başladığını ve akım paternini (çan eğrisi) verir. Ancak bu cihaz, mesanenin (idrar torbasının) kasılırken oluşturduğu basıncı (Pdet - Detrüsör basıncı) ölçemez. Dolayısıyla cihaz bize "idrar akım hızı düşük" diyebilir ancak bunun sebebinin yoldaki bir tıkanıklık (infravezikal obstrüksiyon) mu yoksa mesane kasının tembelliği (zayıf detrüsör) mi olduğunu söyleyemez. Bu ayrımı yapmak için invaziv bir işlem olan basınç-akım çalışmasına (sistometri/ürodinami) ihtiyaç vardır.
+
+**Şıkların Açıklaması:**
+*   **a) Düşük idrar akım hızı:** Tanısı konulur. Üroflovmetrinin temel yapılış amacı maksimum idrar akım hızını (Qmax) ve ortalama akım hızını saptamaktır.
+*   **b) İnfravezikal obstrüksiyon (Doğru Cevaptır):** Tanısı konulamaz. Mesane çıkımından üretra ucuna kadar olan tıkanıklıklardır (örn. prostat büyümesi). Üroflovmetri akımın düşük olduğunu saptar ancak bu düşüklüğün obstrüksiyon kaynaklı olduğunu kesinleştiremez; bunun için mesane içi basıncın da ölçülmesi gerekir.
+*   **c) Uretral darlık:** Tanısı dolaylı olarak konulabilir (işeme paterni ile). Üretral darlığı olan bir hastada üroflovmetri eğrisi tipik çan eğrisi şeklini kaybederek yayvanlaşır ve "plato" çizer. Bu paterne bakılarak darlık şüphesi/tanısı konulabilir. 
+*   **d) İdrarı başlatmada gecikme:** Tanısı konulur. Hastaya idrar yapma komutu verildiği an ile idrar akışının fiilen başladığı an arasındaki süre (hesitancy) cihaz tarafından saniye cinsinden grafikte net olarak ölçülür.
+*   **e) Yetersiz idrar volümü:** Tanısı konulur. Cihaz, hastanın mesanesinden çıkardığı idrarın total hacmini (volüm) mililitre cinsinden doğrudan ölçer. Testin sağlıklı değerlendirilebilmesi için genelde 150 ml üzeri volüm istenir; cihaz bu volümün altında kalındığını kesin olarak saptar.
+
+**Önemli Terimler:**
+*   **Üroflovmetri:** İdrar akım hızını, idrarın başlama süresini, işeme paternini ve işenen total volümü ölçen basit ve non-invaziv bir tarama testidir.
+*   **İnfravezikal Obstrüksiyon (Çıkım Obstrüksiyonu):** Mesane boynundan üretranın dış deliğine kadar olan bölgede, idrarın çıkışını mekanik olarak zorlaştıran anatomik veya fonksiyonel engeldir (Örn: Benign Prostat Hiperplazisi).
+*   **Detrüsör:** Mesane duvarını oluşturan, idrarın depolanması için gevşeyip, boşaltılması için kasılan düz kastır.
+
+**Bilinmesi Gereken Alt Konular (Düşük Akım Hızının Nedenleri ve Ayrımı):**
+Poliklinikte üroflovmetri çektirdiğin bir hastada idrar akım hızı düşük gelirse, aklına iki temel fizyopatolojik mekanizma gelmelidir:
+1.  **Çıkım obstrüksiyonu:** Yolda bir tıkanıklık vardır (Örn: Prostat büyümesi, üretra darlığı).
+2.  **Zayıf detrüsör:** Mesane kasının (detrüsörün) kasılma gücü yetersizdir.
+Bu iki durumun ayrımını yapmak için hastaya **Sistometri (Ürodinami / Basınç-akım çalışması)** yapılır. Mesane içine kateter yerleştirilerek basınç ölçülür. Eğer basınç yüksek ama akım düşükse "obstrüksiyon"; basınç da düşük akım da düşükse "zayıf detrüsör" tanısı konur.
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Üroloji komitesinde hocalar Üroflovmetrinin sınırlarını ve inkontinans (idrar kaçırma) semptomlarını test etmeyi çok severler. Gelecek komitelerde şu sorulara dikkat etmelisin:
+1.  **Üroflovmetrinin Tanı Koyabildiği Durum (Ters Köşe):** Bu sorunun tam tersini sorup "Üroflovmetri ile hangisinin tanısı **koyulabilir**?" (M5-2027-93) derlerse cevabın şüphesiz **"Düşük akım hızı"** olmalıdır.
+2.  **Aşırı Aktif Mesane Bulguları (Banko Soru Tipi):** Aşırı aktif mesane bir semptomlar bütünüdür. "Aşırı aktif mesane bulguları nelerdir?" (M5-2025-70) diye sorulduğunda şu klasiği aramalısın: **Sıkışma hissi (urgency), gündüz sık idrara çıkma (pollaküri), gece sık idrara çıkma (noktüri) ve sıkışma tipi idrar kaçırma (urge inkontinans)**. Şıklarda enfeksiyonu işaret eden "Dizüri" veya sfinkter yetmezliğini gösteren "Stres tipi idrar kaçırma" varsa bunları hemen elemelisin.
+3.  **İnkontinans (İdrar Kaçırma) Patofizyolojisi:** "Hangi tip idrar kaçırmada neden detrüsör aktivitesinin artmış olmasıdır?" sorusu sıklıkla gelir. Detrüsör kasının aniden ve istemsizce kasılması (aktivite artışı) sonucu tuvalete yetişemeden olan kaçırma tipine **"Sıkışma (Urge) ile idrar kaçırma"** dendiğini mutlaka bilmelisin.
+
+Harika! Üroloji ve Enfeksiyon Hastalıkları komitelerinin en temel, anatomik lokalizasyon ve klinik yaklaşım prensiplerini test eden çok klasik bir sorusuyla devam ediyoruz.
+
+İlk olarak sorumuzu orijinal haliyle yazalım:
+
+**72. Aşağıdakilerden hangisi alt üriner sistem enfeksiyonu değildir? (M6-2022-19)**
+a) Pyelonefrit
+b) Üretrit
+c) Prostatit
+d) Sistit
+
+**Doğru Şık:** **A (Pyelonefrit)**
+
+**Sorunun Açıklaması:**
+Sevgili meslektaş adayım, bu soru üriner sistem enfeksiyonlarını anatomik olarak "Alt" ve "Üst" olmak üzere ikiye ayırabilme becerini ölçmektedir. Üriner sistem enfeksiyonlarına yaklaşımda enfeksiyonun lokalizasyonu, hastanın kliniğini ve vereceğimiz tedaviyi doğrudan etkiler. Mesane (idrar kesesi), üretra ve erkeklerde prostat bezi "alt üriner sistemi" oluştururken; böbrekler ve üreterler "üst üriner sistemi" oluşturur. Soru bizden alt üriner sisteme ait olmayan, yani üst üriner sistemi ilgilendiren enfeksiyonu bulmamızı istiyor.
+
+**Şıkların Açıklaması:**
+*   **a) Pyelonefrit (Doğru Cevap):** Böbrek parankiminin ve pelvisinin enfeksiyonudur. Böbrekler üst üriner sistemin bir parçası olduğu için pyelonefrit bir **üst üriner sistem enfeksiyonudur**.
+*   **b) Üretrit:** İdrarı mesaneden dışarı taşıyan tüp olan üretranın inflamasyonu/enfeksiyonudur. Sıklıkla cinsel yolla bulaşan hastalıklar (N. gonorrhoeae, Chlamydia vb.) etken olur. Bir alt üriner sistem enfeksiyonudur.
+*   **c) Prostatit:** Erkeklerde prostat bezinin enfeksiyonudur. Anatomik konumu itibarıyla alt üriner sistem enfeksiyonu kabul edilir.
+*   **d) Sistit:** Mesanenin (idrar torbasının) inflamasyonu ve enfeksiyonudur. En sık karşılaşılan alt üriner sistem enfeksiyonudur.
+
+**Önemli Terimler:**
+*   **Alt Üriner Sistem:** Mesane, üretra ve prostatı kapsayan alt bölümdür.
+*   **Üst Üriner Sistem:** Böbrekler ve üreterleri kapsayan üst bölümdür.
+*   **Pyelonefrit:** Böbrek dokusunun (parankim ve kalikslerin) bakteriyel enfeksiyonudur.
+*   **Dizüri:** İdrar yaparken yanma, sızlama ve ağrı hissedilmesidir.
+
+**Bilinmesi Gereken Alt Konular (Alt ve Üst Üriner Sistem Enfeksiyonu Klinik Farkları):**
+Sadece isimleri değil, klinikte bu iki durumu hastanın şikayetlerinden (semptomlarından) nasıl ayıracağını çok iyi bilmelisin:
+1.  **Alt Üriner Sistem Enfeksiyonu (Sistit) Semptomları:** Ön planda **dizüri** (idrarda yanma), **pollaküri** (sık idrara çıkma) ve **urgency** (acil sıkışma hissi) vardır. Fizik muayenede sadece **suprapubik hassasiyet** (karnın alt bölgesinde ağrı) saptanır. Hastada genellikle *ateş veya sistemik bulgular beklenmez*. 
+2.  **Üst Üriner Sistem Enfeksiyonu (Pyelonefrit) Semptomları:** Enfeksiyon böbreğe ulaştığında bakteriyemi (kana bakteri karışması) riski doğar. Bu yüzden dizüriye ek olarak tabloda kesinlikle **Ateş (>38°C)**, **Üşüme-titreme**, **Bulantı-kusma** ve muayenede **KVAH (Kostovertebral Açı Hassasiyeti - yan/böğür ağrısı)** bulunur. 
+
+**Sınavda Soru Olarak Sorulması Muhtemel Yerler:**
+Üroloji ve Enfeksiyon hastalıkları stajlarında bu ayrım hayat kurtarıcıdır. Gelecek komitelerde şu soru tiplerini kesinlikle beklemelisin:
+1.  **Semptom-Bölge Eşleştirmesi (Ateşin Önemi):** 70. ve 12. sorularda gördüğümüz gibi hocalar bu ayrımı semptomlar üzerinden sormaya bayılır. *"Aşağıdaki semptomlardan hangisi hastada mevcut ise pyelonefriti daha ön planda düşünürsünüz?"* (M5-2026-28) sorusunun cevabı kesinlikle sistemik bir bulgu olan **"Ateş"** olmalıdır. 
+2.  **Alt Üriner Sistemin Öncelikli Semptomu:** *"Aşağıdakilerden hangisi öncelikli olarak alt üriner sistem enfeksiyonunu düşündürür?"* (M5-2023-70) tarzı bir soruda ise oligüri, anüri veya renal kolik gibi şıkları eleyip doğrudan idrar yaparken yanmayı ifade eden **"Dizüri"** şıkkını işaretlemelisin.
+3.  **Fizik Muayene - Tanı İlişkisi:** Vaka sorusunda; *"Suprapubik hassasiyet + Kostavertebral açı hassasiyeti (KVAH) + Ateş"* üçlüsü bir arada veriliyorsa, hastanın sistiti (alt) ilerleyerek böbreklere ulaşmış demektir, cevabın **Pyelonefrit** olmalıdır.
