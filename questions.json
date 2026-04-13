@@ -3370,43 +3370,5 @@
       }
     ],
     "exam_potential": "*   Sentez Fonksiyonu Tuzağı: Komite, \"Hangisi karaciğer fonksiyon/sentez testlerinden biridir?\" diye çok sorar. Şıklardaki ALT, AST ve ALP birer *fonksiyondan ziyade hasar* belirtecidir. Fonksiyon/sentez sorulduğunda daima Albümin veya PTZ aranmalıdır.\n*   Alkolik Hepatitte Enzim Oranı (Banka Soru): Normalde hepatitlerde ALT'nin AST'den daha yüksek olması beklenir (çünkü ALT karaciğere daha spesifiktir). Ancak sınavda alkolik karaciğer hastalığı (alkolik hepatit) sorulursa, mitokondriyal hasara bağlı olarak AST > ALT (AST/ALT oranının 2'nin üzerinde olması) durumu kuraldır.\n*   Kolestatik Otoimmün Hastalık Ayrımı: İkisi de kolestaz bulgusu ve ALP yüksekliği yapan Primer Biliyer Kolanjit ile Primer Sklerozan Kolanjit birbirine çok karıştırılır. Sınavda \"orta yaş kadın ve AMA pozitifliği\" veriliyorsa Primer Biliyer Kolanjit, \"İnflamatuvar bağırsak hastalığı (ülseratif kolit) birlikteliği ve p-ANCA pozitifliği\" veriliyorsa Primer Sklerozan Kolanjit işaretlenmelidir."
-  },
-  {
-    "id": 242,
-    "source": "M5-2024-31",
-    "question": "Aşağıdakilerden hangisi osmotik diyareye neden olmaz?",
-    "options": {
-      "a": "Galaktoz malabsorsiyonu",
-      "b": "Laktoz intoleransı",
-      "c": "Sorbital kullanımı",
-      "d": "Lifli yiyeceklerin tüketilmesi",
-      "e": "S. Aureus enfeksiyonu"
-    },
-    "correct_answer": "e",
-    "explanation": "Bu soru, diyare (ishal) fizyopatolojisinde yer alan mekanizmaları sorgulamaktadır. İshal mekanizmaları temelde osmotik, sekretuvar, inflamatuvar ve motilite bozuklukları olarak dört ana sınıfa ayrılır. Osmotik diyare, bağırsak lümeninde yeterince emilmeyen veya sindirilemeyen, osmotik olarak aktif moleküllerin bulunması ve bu maddelerin bağırsak lümenine su çekmesiyle oluşur. Soru bizden bu mekanizmayla örtüşmeyen, yani farklı bir mekanizmaya sahip olan etkeni bulmamızı istiyor.",
-    "option_analysis": {
-      "a": "a) Galaktoz malabsorsiyonu: Karbonhidrat emilim bozukluklarından biridir. Emilmeyen galaktoz (glikoz-galaktoz malabsorbsiyonu) bağırsak lümeninde osmotik yük oluşturarak su çeker ve osmotik diyareye neden olur.",
-      "b": "b) Laktoz intoleransı: Laktaz enzim eksikliği nedeniyle sindirilemeyen laktoz lümende kalır, osmotik aktif molekül olarak suyu lümene çekerek osmotik diyare yapar.",
-      "c": "c) Sorbital kullanımı: Sorbitol, bağırsaklardan çok az emilen bir şeker alkolüdür (suni tatlandırıcı ve ozmotik laksatif olarak kullanılır). Lümende kalarak suyu tutar ve osmotik diyareye neden olur.",
-      "d": "d) Lifli yiyeceklerin tüketilmesi: Lifler bağırsakta sindirilemeyen karbonhidratlardır. Lümende su tutma kapasiteleri yüksektir. Dışkı hacmini artırırlar ve lümende osmotik kütle etkisi yaratırlar. Doğrudan patolojik bir diyare sebebi olmasalar da etki mekanizmaları osmotik yöndedir.",
-      "e": "e) S. Aureus enfeksiyonu: Doğru cevaptır. *Staphylococcus aureus* gibi bakterilerin ürettiği enterotoksinler, bağırsak epitel hücrelerinden lümene aktif su ve elektrolit sekresyonunu artırır. Bu nedenle S. aureus enfeksiyonu osmotik diyareye değil, sekretuvar diyareye yol açar."
-    },
-    "terms": [
-      {
-        "term": "Osmotik Diyare",
-        "definition": "Bağırsak lümeninde emilmeyen osmotik aktif solütlerin varlığına bağlı olarak lümene su çekilmesiyle oluşan ishal türüdür."
-      },
-      {
-        "term": "Sekretuvar Diyare",
-        "definition": "İntestinal su ve elektrolit sekresyonunun artması veya absorbsiyonun azalması sonucu gelişen ishal tipidir. Genellikle bakteriyel toksinler (*S. aureus, V. cholerae, E. coli* vb.) neden olur."
-      },
-      {
-        "term": "Fekal Osmotik Gap",
-        "definition": "Dışkı osmolalitesi ile plazma osmolalitesi arasındaki farktır. İshalin osmotik mi yoksa sekretuvar mı olduğunu ayırt etmede kullanılır."
-      }
-    ],
-    "subtopics": [],
-    "exam_potential": "*   İki ishal tipini klinik olarak birbirinden ayıran en önemli özellik sınavlarda sıkça sorulur: Osmotik ishal, hastanın aç kalması durumunda azalır veya kesilirken, Sekretuvar ishal açlık durumunda bile kesilmeden devam eder.\n*   Ayrıca diyare testleri ile ilgili sorularda, dışkıdaki ozmotik gap üzerinden sıklıkla tuzak kurulur. Daha önceki sınavlarda da çıkmış bir önerme olan \"Sekretuvar ishallerde gaytada ozmotik gap 100 mOsm/kg'dır\" ifadesi KESİNLİKLE YANLIŞTIR; yüksek ozmotik gap değeri sekretuvar değil, lümende biriken sindirilemeyen maddeleri, yani osmotik ishali işaret eder.\n\n*(Not: Görünüşe göre bir önceki mesajınızda da 24. soruyu talep etmiştiniz, bu yüzden yepyeni notlardan eklediğim klinik ve laboratuvar detaylarıyla soruyu senin için bir kez daha zenginleştirerek analiz ettim. Dilersen 25. sorudan veya farklı bir numaradan devam edebiliriz. Numarayı söylemen yeterli!)*",
-    "duplicate_note": "Bu soru 24. sorunun tekrar eden versiyonudur."
   }
 ]
