@@ -679,7 +679,7 @@ function buildSidebar() {
       item.dataset.id = q.id;
       item.innerHTML = `
         <span class="q-num">${q.id}</span>
-        <span class="q-text">${escHtml(q.question)}</span>
+        <span class="q-text">${escHtmlWithBreaks(q.question)}</span>
         <span class="q-dot"></span>`;
       item.addEventListener('click', () => {
         selectQuestion(q.id);
@@ -844,7 +844,7 @@ function renderCard(q) {
           ${sourceBadge}
           <span class="card-category">${cat}</span>
         </div>
-        <div class="card-question">${escHtml(q.question)}</div>
+        <div class="card-question">${escHtmlWithBreaks(q.question)}</div>
       </div>
     </div>
     ${noteHtml}
@@ -945,6 +945,10 @@ function escHtml(str) {
   return String(str)
     .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
     .replace(/"/g,'&quot;');
+}
+function escHtmlWithBreaks(str) {
+  if (!str) return '';
+  return escHtml(str).replace(/\n/g, '<br>');
 }
 
 function cleanText(str) {
