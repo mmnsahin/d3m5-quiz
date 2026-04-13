@@ -96,7 +96,7 @@
   {
     "id": 4,
     "source": "M5-2027-57",
-    "question": "Konstipasyon oluşum mekanizmalarından hangileri doğrudur?",
+    "question": "Konstipasyon oluşum mekanizmalarından hangileri doğrudur?\n1. Açlık durumunda çekuma ulaşan miktar azalır.\n2. Lifli diyet çekuma ulaşan miktarı azaltır.\n3. Megakolonda kolonun propulsif hareketleri bozulmuştur.\n4. Hipopotasemi kolon hareketlerinin hızlanmasına neden olur.\n5. Rektoanal bölgede nörolojik bozukluklar defekasyon bozukluklarına neden olabilir.",
     "options": {
       "a": "1, 2, 3, 4",
       "b": "1, 2, 3, 5",
@@ -1457,7 +1457,7 @@
   {
     "id": 45,
     "source": "M5-2026-23",
-    "question": "Aşağıda verilen makroskopik bulgulardan hangileri ülseratif kolit ile ilişkilidir?",
+    "question": "Aşağıda verilen makroskopik bulgulardan hangileri ülseratif kolit ile ilişkilidir?\nI. Segmenter striktür\nII. Kaldırım taşı mukoza\nIII. Psödopolipler\nIV. Diffüz kanamalı frajil mukoza",
     "options": {
       "a": "I ve III",
       "b": "III ve IV",
@@ -1815,7 +1815,7 @@
   {
     "id": 55,
     "source": "M6-2025-82",
-    "question": "Eozinofilik özofajitle ilgili aşağıdakilerden hangisi/hangileri doğrudur?",
+    "question": "Eozinofilik özofajitle ilgili aşağıdakilerden hangisi/hangileri doğrudur?\nI. Obez genç ve çocuklarda görülür.\nII. Distal özofagus tutulumu sıktır.\nIII. Patogenezinde IL-5, IL-13 ve eotaksin-3 geni rol oynar.\nIV. Eozinofil sayısı dışında patolojisi reflü özofajiti ile benzerdir.",
     "options": {
       "a": "I ve II",
       "b": "Yalnız I, III",
@@ -1968,7 +1968,7 @@
   {
     "id": 59,
     "source": "M5-2024-23",
-    "question": "Aşağıda gastrointestinal stromal tümörler (GİST) ile ilgili verilen önermelerden doğru olanları içeren şık hangisidir?",
+    "question": "Aşağıda gastrointestinal stromal tümörler (GİST) ile ilgili verilen önermelerden doğru olanları içeren şık hangisidir?\nI. Sıklıkla sırayla ince bağırsak >mide > özofagus > kolonda gelişir\nII. İntestinal, pacemaker görevi gören İnterstisyel Cajal hücrelerinden gelişir\nIII. Tümör boyutu, mitotik aktivite ve lokalizasyon biyolojik davranışı belirleyen parametrelerdir\nIV. Çok büyük kısmı c-kit mutasyonu gösterir",
     "options": {
       "a": "I, II ve III",
       "b": "II ve IV",
@@ -2064,7 +2064,7 @@
   {
     "id": 62,
     "source": "M5-2024-60",
-    "question": "İdiopatik inflamatuar barsak hastalıkları ile ilgili aşağıda sıralanan makroskopik özelliklerden hangisi/hangileri Crohn hastalığı için tipiktir?",
+    "question": "İdiopatik inflamatuar barsak hastalıkları ile ilgili aşağıda sıralanan makroskopik özelliklerden hangisi/hangileri Crohn hastalığı için tipiktir?\nI. Rektumda başlar\nII. Tutulum segmentaldir\nIII. Aftöz, lineer, fissüral ülserler yapar\nIV. İnflamasyon mukozada sınırlıdır\nV. Striktür oluşumu sıktır",
     "options": {
       "a": "II, III ve IV",
       "b": "III, IV ve V",
@@ -2218,7 +2218,7 @@
   {
     "id": 66,
     "source": "M5-2023-39",
-    "question": "Çölyak hastalığında mukozal immun yanıtın basamakları aşağıda karışık sırayla verilmiştir. Doğru sıralamayı içeren şık hangisidir?",
+    "question": "Çölyak hastalığında mukozal immun yanıtın basamakları aşağıda karışık sırayla verilmiştir. Doğru sıralamayı içeren şık hangisidir?\n1. Lamina propriada CD4+ lenfositer aktive olur ve stokin salgılar\n2. Gluten rezidüleri lamina propriada doku transglutaminazı tarafından parçalanır\n3. Epiteldeki lenfositler burada NK hücresi-benzeri karakter kazanır\n4. Glüten DQ2/DQ8 eksprese eden makrofajlar tarafından T hücrelerine prezente edilir\n5. Salgılanan IL15 CD8+ lenfositlerin epitele göçünü sağlar",
     "options": {
       "a": "12345",
       "b": "54321",
@@ -2418,7 +2418,7 @@
   {
     "id": 71,
     "source": "M5-2023-86",
-    "question": "GÖRH ile ilgili hangileri doğrudur?",
+    "question": "GÖRH ile ilgili hangileri doğrudur?\n1. Genetik predispozisyonu vardır\n2. Obez erkeklerde sık görülür\n3. Sfinkterde gevşeme olabilir",
     "options": {
       "a": "Yalnız 1",
       "b": "Yalnız 2 ve 3",
@@ -2568,7 +2568,7 @@
   {
     "id": 75,
     "source": "",
-    "question": "Antiemetik bir ilacın etkinliğine aracılık etme potansiyeli olan reseptör etkileşimlerinden hangisi /hangileri ondansetron için doğrudur?",
+    "question": "Antiemetik bir ilacın etkinliğine aracılık etme potansiyeli olan reseptör etkileşimlerinden hangisi /hangileri ondansetron için doğrudur?\nI. 5-HT3 reseptör blokörüdür\nII. Dopamin D2 reseptör blokörüdür\nIII. Histamin H1 reseptör blokörüdür\nIV. Muskarinik M3 reseptör blokörüdür",
     "options": {
       "a": "I",
       "b": "II",
@@ -2887,7 +2887,7 @@
   {
     "id": 83,
     "source": "",
-    "question": "Aşağıda sıralanan laktasif ilaçlar arasında hangisi/hangileri esas olarak ozmoti k etkisiyle laktasyon oluşturur? (M5-2027-64) (M5-2024-91)X2",
+    "question": "Aşağıda sıralanan laktasif ilaçlar arasında hangisi/hangileri esas olarak ozmoti k etkisiyle laktasyon oluşturur? (M5-2027-64) (M5-2024-91)X2\nI. Magnezyum sülfat\nII. Polietilen glikol\nIII. Sodyumdokuzat\nIV. Sorbitol",
     "options": {
       "a": "II ve III",
       "b": "Yalnız III",
@@ -2959,7 +2959,7 @@
   {
     "id": 85,
     "source": "M5-2026-70",
-    "question": "Aşağıda sıralanan laksatif ilaçlar arasında hangisi/hangileri esas olarak ozmotik etkiyle laksasyon oluşturur?",
+    "question": "Aşağıda sıralanan laksatif ilaçlar arasında hangisi/hangileri esas olarak ozmotik etkiyle laksasyon oluşturur?\nI. Kalsiyum polikarbofil\nII. Polietilen glikol\nIII. Sodyumdokuzat\nIV. Sorbitol",
     "options": {
       "a": "Yalnız I ve II",
       "b": "Yalnız II ve IV",
