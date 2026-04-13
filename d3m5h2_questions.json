@@ -922,7 +922,7 @@
   {
     "id": 26,
     "source": "M5-2026-24",
-    "question": "Aşağıdakilerden hangileri iskemiye bağlı akuttübüler hasar/akuttübüler nekroz ile uyumlu yapısal değişikliklerdendir?",
+    "question": "Aşağıdakilerden hangileri iskemiye bağlı akut tübüler hasar/akut tübüler nekroz ile uyumlu yapısal değişikliklerdendir?\nI. İnterstisyel fibrozis\nII. Proksimal tübüllerde fırçamsı kenar kaybı\nIII. Tübül epitel hücrelerinde lümene dökülme\nIV. Tübül epitel hücrelerinde apopitoz\nV. Tübüler atrofi",
     "options": {
       "a": "II,III, V",
       "b": "I,V",
@@ -1249,7 +1249,7 @@
   {
     "id": 35,
     "source": "M5-2023-20",
-    "question": "Aşağıdakilerden hangileri böbrekte iskemiye bağlı akut tübüler hasarlanmada görülebilecek yapısal değişikliklerdendir?",
+    "question": "Aşağıdakilerden hangileri böbrekte iskemiye bağlı akut tübüler hasarlanmada görülebilecek yapısal değişikliklerdendir?\n1. İnterstisyel fibrozis\n2. Proksimal tübüllerde fırçamsı kenar kaybı\n3. Tübül epitel hücrelerinde lümene dökülme\n4. Tübül epitel hücrelerinde apoptoz\n5. Tübül epitel hücrelerinde nükleer inklüzyonlar",
     "options": {
       "a": "1,2,3",
       "b": "2,3,5",
@@ -1389,7 +1389,7 @@
   {
     "id": 39,
     "source": "M5-2027-10",
-    "question": "Mide asidine karşı direnç sağlar?",
+    "question": "Mide asidine karşı direnç sağlar?\n1. Histamin\n2. Gastrin\n3. Asetilkolin\n4. Prostaglandin",
     "options": {
       "a": "1, 2 ve 3",
       "b": "Yalnız 4",
