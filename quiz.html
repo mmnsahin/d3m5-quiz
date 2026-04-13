@@ -456,7 +456,10 @@
   .nav-btn:disabled:hover { background: var(--surface); color: var(--accent); }
   .nav-pos { font-size: 0.82rem; color: var(--muted); }
 
-  /* ── Mobile ── */
+  /* ── Mobile bottom nav ── */
+  #mobile-nav {
+    display: none;
+  }
   @media (max-width: 768px) {
     #sidebar-toggle { display: flex; align-items: center; justify-content: center; }
 
@@ -469,7 +472,10 @@
     }
     aside.open { transform: translateX(0); }
 
-    main { padding: 16px; }
+    main {
+      padding: 16px;
+      padding-bottom: 80px; /* space for mobile-nav */
+    }
 
     header { padding: 12px 16px; }
     header h1 { font-size: 0.9rem; }
@@ -478,6 +484,46 @@
     #progress-text { display: none; }
 
     .card-question { font-size: 0.96rem; }
+
+    /* Sticky bottom nav — shown on mobile when a question is selected */
+    #mobile-nav {
+      display: flex;
+      position: fixed;
+      bottom: 0; left: 0; right: 0;
+      background: var(--surface);
+      border-top: 1.5px solid var(--border);
+      box-shadow: 0 -2px 12px rgba(0,0,0,0.1);
+      padding: 10px 16px;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      z-index: 80;
+      visibility: hidden;
+    }
+    #mobile-nav.active { visibility: visible; }
+
+    .mob-nav-btn {
+      flex: 1;
+      padding: 10px 0;
+      border-radius: 8px;
+      border: 1.5px solid var(--accent);
+      background: var(--surface);
+      color: var(--accent);
+      font-size: 0.9rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: background 0.15s, color 0.15s;
+      text-align: center;
+    }
+    .mob-nav-btn:active { background: var(--accent); color: #fff; }
+    .mob-nav-btn:disabled { opacity: 0.35; cursor: not-allowed; }
+    .mob-nav-pos {
+      font-size: 0.8rem;
+      color: var(--muted);
+      white-space: nowrap;
+      text-align: center;
+      min-width: 48px;
+    }
   }
 </style>
 </head>
@@ -497,6 +543,13 @@
     <div id="progress-track"><div id="progress-fill" style="width:0%"></div></div>
   </div>
 </header>
+
+<!-- Mobile sticky bottom navigation -->
+<div id="mobile-nav">
+  <button class="mob-nav-btn" id="mob-btn-prev">← Önceki</button>
+  <span class="mob-nav-pos" id="mob-nav-pos"></span>
+  <button class="mob-nav-btn" id="mob-btn-next">Sonraki →</button>
+</div>
 
 <div class="layout">
   <aside id="sidebar">
@@ -852,9 +905,21 @@ function renderCard(q) {
     });
   });
 
-  // Nav
+  // Nav (in-card)
   card.querySelector('#btn-prev')?.addEventListener('click', () => prevId && selectQuestion(prevId));
   card.querySelector('#btn-next')?.addEventListener('click', () => nextId && selectQuestion(nextId));
+
+  // Mobile sticky bottom nav
+  const mobileNav = document.getElementById('mobile-nav');
+  const mobPrev   = document.getElementById('mob-btn-prev');
+  const mobNext   = document.getElementById('mob-btn-next');
+  const mobPos    = document.getElementById('mob-nav-pos');
+  mobileNav.classList.add('active');
+  mobPos.textContent = `${pos+1} / ${allIds.length}`;
+  mobPrev.disabled = prevId === null;
+  mobNext.disabled = nextId === null;
+  mobPrev.onclick = () => prevId && selectQuestion(prevId);
+  mobNext.onclick = () => nextId && selectQuestion(nextId);
 
   // Scroll to top
   document.querySelector('main').scrollTo({ top: 0, behavior: 'smooth' });
