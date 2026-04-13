@@ -610,13 +610,22 @@ toggleBtn.addEventListener('click', () => {
 overlay.addEventListener('click', closeSidebar);
 
 // ── Category map ─────────────────────────────────────────────────────────────
-const CATEGORIES = [
+const CATEGORIES_H2 = [
+  { label: 'Gastroenteroloji',  ids: Array.from({length:22}, (_,i)=>i+1)  },
+  { label: 'Patoloji',          ids: Array.from({length:15}, (_,i)=>i+23) },
+  { label: 'Fizyopatoloji',     ids: Array.from({length:18}, (_,i)=>i+38) },
+  { label: 'Nefroloji',         ids: Array.from({length:9},  (_,i)=>i+56) },
+  { label: 'Üroloji',           ids: Array.from({length:8},  (_,i)=>i+65) },
+  { label: 'Genetik',           ids: Array.from({length:13}, (_,i)=>i+73) },
+];
+const CATEGORIES_H3 = [
   { label: 'Fizyopatoloji',     ids: Array.from({length:29}, (_,i)=>i+1)  },
   { label: 'Patoloji',          ids: Array.from({length:36}, (_,i)=>i+30) },
   { label: 'Gastroenteroloji',  ids: Array.from({length:10}, (_,i)=>i+66) },
   { label: 'Farmakoloji',       ids: Array.from({length:7},  (_,i)=>i+76) },
   { label: 'Enfeksiyon',        ids: Array.from({length:5},  (_,i)=>i+83) },
 ];
+const CATEGORIES = hafta === 'H2' ? CATEGORIES_H2 : CATEGORIES_H3;
 function categoryOf(id) {
   return CATEGORIES.find(c => c.ids.includes(id))?.label ?? 'Diğer';
 }
