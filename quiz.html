@@ -742,7 +742,7 @@ function renderCard(q) {
 
   // Options — each includes a hidden inline-analysis div revealed on answer
   const optionsHtml = Object.entries(q.options || {}).map(([letter, text]) => {
-    const analysis = optAn[letter] ? `<div class="option-inline-analysis">${escHtml(optAn[letter])}</div>` : '';
+    const analysis = optAn[letter] ? `<div class="option-inline-analysis">${escHtmlBoldLabel(optAn[letter])}</div>` : '';
     return `<div class="option" data-letter="${letter}">
       <div style="flex:1">
         <div style="display:flex;align-items:flex-start;gap:12px">
@@ -774,7 +774,7 @@ function renderCard(q) {
     const items = Object.entries(optAn).map(([l, txt]) => `
       <div class="opt-analysis-item${l === correct ? ' is-correct' : ''}">
         <span class="opt-badge">${l.toUpperCase()}</span>
-        <span class="opt-analysis-text">${escHtml(txt)}</span>
+        <span class="opt-analysis-text">${escHtmlBoldLabel(txt)}</span>
       </div>`).join('');
     sections.push({
       icon: '🔍', title: 'Şık Analizi', open: false,
@@ -945,6 +945,12 @@ function escHtml(str) {
   return String(str)
     .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
     .replace(/"/g,'&quot;');
+}
+function escHtmlBoldLabel(str) {
+  if (!str) return '';
+  const idx = str.indexOf(':');
+  if (idx === -1) return escHtml(str);
+  return `<strong>${escHtml(str.slice(0, idx))}:</strong>${escHtml(str.slice(idx + 1))}`;
 }
 function escHtmlWithBreaks(str) {
   if (!str) return '';
