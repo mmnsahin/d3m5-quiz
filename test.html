@@ -876,14 +876,6 @@ function buildResultsScreen(correct, wrong, blank, wrongItems) {
   document.getElementById('results-title').textContent =
     `${currentWeek?.hafta || ''} — Sınav Sonucu`;
 
-  const wrongHtml = wrongItems.length === 0
-    ? `<div style="text-align:center;padding:40px;color:var(--correct);font-size:1rem;font-weight:700">
-        🎉 Hiç yanlış soru yok — tebrikler!
-       </div>`
-    : wrongItems.map(({ q, userAnswer, correctAnswer }) =>
-        buildWrongCard(q, userAnswer, correctAnswer)
-      ).join('');
-
   document.getElementById('results-body').innerHTML = `
     <div class="results-title">Sınav Tamamlandı 🎯</div>
 
@@ -910,27 +902,10 @@ function buildResultsScreen(correct, wrong, blank, wrongItems) {
     <div class="result-actions">
       <button class="retry-btn" id="retry-btn">🔄 Yeni Sınav Başlat</button>
       ${wrongItems.length > 0 ? `<button class="review-btn" id="review-btn">🔍 Yanlışlara Bak</button>` : ''}
-    </div>
-
-    ${wrongItems.length > 0 ? `
-      <div class="wrong-section-title">
-        Yanlış Sorular
-        <span class="wrong-count-badge">${wrongItems.length} soru</span>
-      </div>
-      <div>${wrongHtml}</div>
-    ` : wrongHtml}`;
+    </div>`;
 
   document.getElementById('retry-btn').addEventListener('click', () => showScreen('select'));
   document.getElementById('review-btn')?.addEventListener('click', openReview);
-
-  // Wire accordion toggles in the results review cards
-  document.querySelectorAll('#results-body .acc-trigger').forEach(btn => {
-    btn.addEventListener('click', () => {
-      const body = btn.nextElementSibling;
-      const open = btn.classList.toggle('open');
-      body.classList.toggle('open', open);
-    });
-  });
 }
 
 function buildWrongCard(q, userAnswer, correctAnswer) {
