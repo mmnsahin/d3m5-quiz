@@ -625,7 +625,11 @@ const CATEGORIES_H3 = [
   { label: 'Farmakoloji',       ids: Array.from({length:7},  (_,i)=>i+76) },
   { label: 'Enfeksiyon',        ids: Array.from({length:5},  (_,i)=>i+83) },
 ];
-const CATEGORIES = hafta === 'H2' ? CATEGORIES_H2 : CATEGORIES_H3;
+const CATEGORIES_H1 = [
+  { label: 'Nefroloji',         ids: Array.from({length:54}, (_,i)=>i+1)  },
+  { label: 'Fizyopatoloji',     ids: Array.from({length:57}, (_,i)=>i+55) },
+];
+const CATEGORIES = hafta === 'H2' ? CATEGORIES_H2 : hafta === 'H1' ? CATEGORIES_H1 : CATEGORIES_H3;
 function categoryOf(id) {
   return CATEGORIES.find(c => c.ids.includes(id))?.label ?? 'Diğer';
 }
@@ -807,7 +811,9 @@ function renderCard(q) {
     });
   }
 
-  const subs = (q.subtopics || []).filter(Boolean);
+  const rawSubs = q.subtopics;
+  const subs = Array.isArray(rawSubs) ? rawSubs.filter(Boolean)
+             : (rawSubs ? [{ title: 'Alt Konular', content: String(rawSubs) }] : []);
   if (subs.length) {
     const subsHtml = subs.map(s =>
       typeof s === 'object' && s.title
