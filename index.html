@@ -172,9 +172,67 @@
     font-size: 0.82rem;
     color: var(--muted);
   }
+
+  /* ── UYARI MODAL ── */
+  #warn-modal {
+    display: none; position: fixed; inset: 0;
+    z-index: 1000; align-items: center; justify-content: center;
+  }
+  #warn-modal.open { display: flex; }
+  .warn-overlay {
+    position: absolute; inset: 0;
+    background: rgba(0,0,0,0.45);
+  }
+  .warn-box {
+    position: relative; background: #fff;
+    border-radius: var(--radius); padding: 32px 28px;
+    max-width: 380px; width: 90%;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.22);
+    text-align: center;
+  }
+  .warn-icon { font-size: 2rem; margin-bottom: 12px; }
+  .warn-box h3 {
+    font-size: 1.05rem; font-weight: 700;
+    color: var(--sidebar-bg); margin-bottom: 10px;
+  }
+  .warn-box p {
+    font-size: 0.88rem; color: var(--muted);
+    line-height: 1.65; margin-bottom: 24px;
+  }
+  .warn-btns { display: flex; gap: 10px; justify-content: center; }
+  .warn-cancel {
+    padding: 10px 22px; border: 2px solid var(--border);
+    border-radius: 8px; background: none;
+    font-size: 0.88rem; font-weight: 600;
+    color: var(--muted); cursor: pointer;
+    font-family: inherit; transition: border-color 0.15s;
+  }
+  .warn-cancel:hover { border-color: var(--muted); }
+  .warn-continue {
+    padding: 10px 22px; border: none; border-radius: 8px;
+    background: #6a9fd8; color: #fff;
+    font-size: 0.88rem; font-weight: 700;
+    cursor: pointer; font-family: inherit;
+    transition: background 0.15s;
+  }
+  .warn-continue:hover { background: #4a80c0; }
 </style>
 </head>
 <body>
+
+<!-- ── UYARI MODAL (H1) ── -->
+<div id="warn-modal">
+  <div class="warn-overlay" id="warn-overlay"></div>
+  <div class="warn-box">
+    <div class="warn-icon">⚠️</div>
+    <h3>H1 Henüz Tam Doğru Değil</h3>
+    <p>Şu an H1 sorularında bazı hatalar mevcut, düzeltme çalışmaları devam ediyor.<br>Yine de devam etmek ister misiniz?</p>
+    <div class="warn-btns">
+      <button class="warn-cancel" id="warn-cancel">Geri Dön</button>
+      <button class="warn-continue" id="warn-continue">Yine de Devam Et</button>
+    </div>
+  </div>
+</div>
 
 <header>
   <div class="logo">📚</div>
@@ -185,7 +243,8 @@
 <div class="week-grid">
 
   <a class="week-card" style="--card-color:#6a9fd8"
-     href="quiz.html?file=d3m5h1_questions.json&hafta=H1">
+     href="quiz.html?file=d3m5h1_questions.json&hafta=H1"
+     id="h1-card">
     <span class="week-label">Hafta 1</span>
     <span class="week-title">H1</span>
     <span class="week-badge available">✓ 111 Soru Hazır</span>
@@ -222,5 +281,25 @@
   EvB sınavlarınızda başarılar diler
 </footer>
 
+<script>
+  const h1Card    = document.getElementById('h1-card');
+  const modal     = document.getElementById('warn-modal');
+  const overlay   = document.getElementById('warn-overlay');
+  const btnCancel = document.getElementById('warn-cancel');
+  const btnGo     = document.getElementById('warn-continue');
+
+  h1Card.addEventListener('click', e => {
+    e.preventDefault();
+    modal.classList.add('open');
+  });
+
+  function closeModal() { modal.classList.remove('open'); }
+
+  overlay.addEventListener('click', closeModal);
+  btnCancel.addEventListener('click', closeModal);
+  btnGo.addEventListener('click', () => {
+    window.location.href = h1Card.href;
+  });
+</script>
 </body>
 </html>
