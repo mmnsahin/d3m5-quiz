@@ -131,6 +131,121 @@
     color: #fff; width: fit-content;
   }
 
+  /* ── MULTI-SELECT CARD STATE ── */
+  .week-select-card.selected {
+    border-color: var(--card-color, var(--accent));
+    background: #f0f5ff;
+    box-shadow: 0 0 0 3px rgba(46,74,138,0.14), var(--shadow);
+  }
+  .week-select-card.wcard-disabled {
+    opacity: 0.42; cursor: not-allowed; pointer-events: none;
+  }
+  .wsc-check {
+    position: absolute; top: 10px; right: 10px;
+    width: 22px; height: 22px; border-radius: 50%;
+    background: var(--card-color, var(--accent));
+    color: #fff; font-size: 0.72rem; font-weight: 900;
+    display: flex; align-items: center; justify-content: center;
+    opacity: 0; transform: scale(0.4);
+    transition: opacity 0.18s cubic-bezier(.4,0,.2,1), transform 0.18s cubic-bezier(.4,0,.2,1);
+    pointer-events: none;
+  }
+  .week-select-card.selected .wsc-check { opacity: 1; transform: scale(1); }
+
+  .select-devam-wrap {
+    width: 100%; margin-top: 22px;
+    display: flex; justify-content: flex-end;
+  }
+  .devam-btn {
+    padding: 13px 32px; background: var(--accent); color: #fff;
+    border: none; border-radius: 8px; font-size: 0.95rem; font-weight: 700;
+    cursor: pointer; font-family: inherit;
+    opacity: 0; pointer-events: none;
+    transition: background 0.15s, transform 0.12s, opacity 0.2s;
+    box-shadow: 0 4px 14px rgba(46,74,138,0.25);
+  }
+  .devam-btn.visible { opacity: 1; pointer-events: auto; }
+  .devam-btn:hover { background: #243a7a; transform: translateY(-1px); }
+
+  /* ── CONFIG SCREEN ── */
+  #screen-config { align-items: center; }
+  .config-body {
+    width: 100%; max-width: 540px;
+    padding: 32px 24px 60px;
+    display: flex; flex-direction: column; gap: 20px;
+  }
+  .config-section-title {
+    font-size: 0.72rem; font-weight: 700; letter-spacing: 0.1em;
+    text-transform: uppercase; color: var(--muted);
+    margin-bottom: 4px;
+  }
+  .config-week-rows { display: flex; flex-direction: column; gap: 14px; }
+  .config-week-row {
+    display: flex; align-items: center; gap: 14px;
+    background: var(--surface); border: 1.5px solid var(--border);
+    border-radius: var(--radius); padding: 14px 18px;
+    box-shadow: var(--shadow);
+    border-left: 4px solid var(--row-color, var(--accent));
+  }
+  .config-week-info { flex: 1; min-width: 0; }
+  .config-week-name {
+    font-size: 0.95rem; font-weight: 700; color: var(--sidebar-bg);
+  }
+  .config-week-sub {
+    font-size: 0.74rem; color: var(--muted); margin-top: 2px;
+  }
+  .config-count-wrap { display: flex; flex-direction: column; align-items: flex-end; gap: 4px; }
+  .config-count-input {
+    width: 72px; padding: 8px 10px; border: 1.5px solid var(--border);
+    border-radius: 6px; font-size: 0.92rem; font-family: inherit;
+    text-align: center; outline: none; color: var(--text);
+    background: var(--bg);
+    transition: border-color 0.15s;
+  }
+  .config-count-input:focus { border-color: var(--accent); }
+  .config-count-input.input-error { border-color: #c0392b; background: #fff5f5; }
+  .config-count-max { font-size: 0.7rem; color: var(--muted); }
+  .config-count-err { font-size: 0.7rem; color: #c0392b; display: none; }
+  .config-count-input.input-error + .config-count-max { display: none; }
+  .config-count-input.input-error ~ .config-count-err { display: block; }
+
+  /* Toggle switch */
+  .config-toggle-row {
+    display: flex; align-items: center; justify-content: space-between;
+    background: var(--surface); border: 1.5px solid var(--border);
+    border-radius: var(--radius); padding: 16px 18px;
+    box-shadow: var(--shadow);
+  }
+  .config-toggle-label { font-size: 0.92rem; font-weight: 600; color: var(--text); }
+  .config-toggle-desc { font-size: 0.76rem; color: var(--muted); margin-top: 3px; }
+  .toggle-switch {
+    position: relative; width: 46px; height: 26px; flex-shrink: 0;
+  }
+  .toggle-switch input { opacity: 0; width: 0; height: 0; }
+  .toggle-slider {
+    position: absolute; inset: 0; background: #c8d4e0;
+    border-radius: 26px; cursor: pointer;
+    transition: background 0.2s;
+  }
+  .toggle-slider::before {
+    content: ''; position: absolute;
+    width: 20px; height: 20px; border-radius: 50%;
+    background: #fff; top: 3px; left: 3px;
+    transition: transform 0.2s;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+  }
+  .toggle-switch input:checked + .toggle-slider { background: var(--accent); }
+  .toggle-switch input:checked + .toggle-slider::before { transform: translateX(20px); }
+
+  .config-launch-btn {
+    width: 100%; padding: 14px; background: var(--accent); color: #fff;
+    border: none; border-radius: 8px; font-size: 1rem; font-weight: 700;
+    cursor: pointer; font-family: inherit;
+    box-shadow: 0 4px 16px rgba(46,74,138,0.25);
+    transition: background 0.15s, transform 0.1s;
+  }
+  .config-launch-btn:hover { background: #243a7a; transform: translateY(-1px); }
+
   /* ── QUIZ SCREEN ── */
   #quiz-header-right {
     display: flex; align-items: center; gap: 10px; flex-shrink: 0;
@@ -611,11 +726,27 @@
   <div class="select-body">
     <div class="select-hero">
       <div class="logo">🎯</div>
-      <h2>Hangi Haftayı Test Etmek İstiyorsun?</h2>
-      <p>Sınav modunda çöz — doğru cevaplar sona kadar gizli kalır</p>
+      <h2>Hangi Haftaları Test Etmek İstiyorsun?</h2>
+      <p>Birden fazla hafta seçebilirsin — sınav modunda çöz</p>
     </div>
     <div class="week-select-grid" id="week-select-grid"></div>
+    <div class="select-devam-wrap">
+      <button class="devam-btn" id="devam-btn">Devam →</button>
+    </div>
   </div>
+</div>
+
+<!-- ════════════════════════════════════════════════
+     SCREEN 1.5 — CONFIG
+════════════════════════════════════════════════ -->
+<div id="screen-config" class="screen">
+  <div class="t-header" style="width:100%">
+    <div class="t-header-left">
+      <button class="back-btn" id="config-back-btn">← Geri</button>
+      <h1>Sınav Ayarları</h1>
+    </div>
+  </div>
+  <div class="config-body" id="config-body"></div>
 </div>
 
 <!-- ════════════════════════════════════════════════
@@ -699,26 +830,32 @@ const WEEKS = [
   { hafta: 'H1', file: 'd3m5h1_questions.json', label: 'Hafta 1', count: 111, color: '#6a9fd8', sub: 'Nefroloji · Fizyopatoloji' },
   { hafta: 'H2', file: 'd3m5h2_questions.json', label: 'Hafta 2', count: 85,  color: '#e8854a', sub: 'Gastro · Patoloji · Nefroloji · Genetik' },
   { hafta: 'H3', file: 'questions.json',         label: 'Hafta 3', count: 94,  color: '#2e4a8a', sub: 'Fizyopatoloji · Patoloji · Gastro · Farmakoloji' },
+  { hafta: 'H4', file: 'd3m5h4_questions.json', label: 'Hafta 4', count: 0,   color: '#8b3db8', sub: 'Yakında', disabled: true },
 ];
 
 // ── STATE ─────────────────────────────────────────────────────────────────────
-let allQuestions   = [];
-let userAnswers    = {};   // { questionId: 'a'|'b'|'c'|'d'|'e' }
-let currentIdx     = 0;
-let currentWeek    = null;
-let wrongItemsStore = [];  // [{ q, userAnswer, correctAnswer }]
-let reviewIdx      = 0;
+let allQuestions        = [];
+let userAnswers         = {};   // { questionId: 'a'|'b'|'c'|'d'|'e' }
+let currentIdx          = 0;
+let currentWeek         = null; // kept for session-compat (single-week legacy)
+let wrongItemsStore     = [];   // [{ q, userAnswer, correctAnswer }]
+let reviewIdx           = 0;
+let selectedWeeks       = new Set();              // Set of hafta strings
+let selectedWeekConfigs = [];  // [{ week: WEEKS[i], count: number }]
+let randomize           = false;
 
 // ── SESSION PERSISTENCE ───────────────────────────────────────────────────────
 const SK = 'd3m5_state', SKQ = 'd3m5_questions';
 
 function saveSession(finished = false) {
   try {
-    // Questions stored separately — large, only written once per quiz load
     if (!sessionStorage.getItem(SKQ)) {
       sessionStorage.setItem(SKQ, JSON.stringify(allQuestions));
     }
-    sessionStorage.setItem(SK, JSON.stringify({ currentWeek, userAnswers, currentIdx, finished }));
+    sessionStorage.setItem(SK, JSON.stringify({
+      currentWeek, selectedWeekConfigs, randomize,
+      userAnswers, currentIdx, finished
+    }));
   } catch (e) { /* quota exceeded — silently ignore */ }
 }
 
@@ -727,22 +864,32 @@ function clearSession() {
   sessionStorage.removeItem(SKQ);
 }
 
+function quizTitle() {
+  if (selectedWeekConfigs.length > 0) {
+    return selectedWeekConfigs.map(c => c.week.hafta).join(' · ') + ' Sınavı';
+  }
+  return currentWeek ? currentWeek.hafta + ' Sınavı' : 'Sınav';
+}
+
 function restoreSession() {
-  const raw = sessionStorage.getItem(SK);
+  const raw  = sessionStorage.getItem(SK);
   const rawQ = sessionStorage.getItem(SKQ);
   if (!raw || !rawQ) return false;
   try {
     const s = JSON.parse(raw);
     const q = JSON.parse(rawQ);
-    if (!s.currentWeek || !Array.isArray(q) || !q.length) { clearSession(); return false; }
+    const hasConfig = Array.isArray(s.selectedWeekConfigs) && s.selectedWeekConfigs.length > 0;
+    if (!hasConfig && !s.currentWeek) { clearSession(); return false; }
+    if (!Array.isArray(q) || !q.length) { clearSession(); return false; }
 
-    currentWeek  = s.currentWeek;
-    allQuestions = q;
-    userAnswers  = s.userAnswers || {};
-    currentIdx   = s.currentIdx  || 0;
+    currentWeek         = s.currentWeek || null;
+    selectedWeekConfigs = s.selectedWeekConfigs || [];
+    randomize           = s.randomize || false;
+    allQuestions        = q;
+    userAnswers         = s.userAnswers || {};
+    currentIdx          = s.currentIdx  || 0;
 
     if (s.finished) {
-      // Rebuild derived state
       wrongItemsStore = [];
       let correct = 0, wrong = 0, blank = 0;
       allQuestions.forEach(qItem => {
@@ -755,7 +902,7 @@ function restoreSession() {
       buildResultsScreen(correct, wrong, blank, wrongItemsStore);
       showScreen('results');
     } else {
-      document.getElementById('quiz-title').textContent = `🎯 ${currentWeek.hafta} Sınavı`;
+      document.getElementById('quiz-title').textContent = `🎯 ${quizTitle()}`;
       buildNavGrid();
       goToQuestion(currentIdx);
       updateProgress();
@@ -776,29 +923,119 @@ function showScreen(name) {
 // ── BUILD WEEK SELECTOR ───────────────────────────────────────────────────────
 function buildWeekSelect() {
   const grid = document.getElementById('week-select-grid');
+  grid.innerHTML = '';
   WEEKS.forEach(w => {
     const card = document.createElement('button');
-    card.className = 'week-select-card';
+    card.className = 'week-select-card' + (w.disabled ? ' wcard-disabled' : '');
+    card.dataset.hafta = w.hafta;
     card.style.setProperty('--card-color', w.color);
     card.innerHTML = `
+      <span class="wsc-check">✓</span>
       <span class="wsc-label">${w.label}</span>
       <span class="wsc-title">${w.hafta}</span>
       <span class="wsc-sub">${w.sub}</span>
-      <span class="wsc-start">▶ Başla &nbsp;·&nbsp; ${w.count} soru</span>`;
-    card.addEventListener('click', () => startQuiz(w));
+      ${w.disabled
+        ? `<span class="wsc-start" style="background:#ccc;color:#666">⏳ Yakında</span>`
+        : `<span class="wsc-start">${w.count} soru</span>`}`;
+    if (!w.disabled) {
+      card.addEventListener('click', () => toggleWeekCard(card, w));
+    }
     grid.appendChild(card);
   });
 }
 
-// ── START QUIZ ────────────────────────────────────────────────────────────────
-function startQuiz(week) {
+function toggleWeekCard(card, w) {
+  if (selectedWeeks.has(w.hafta)) {
+    selectedWeeks.delete(w.hafta);
+    card.classList.remove('selected');
+  } else {
+    selectedWeeks.add(w.hafta);
+    card.classList.add('selected');
+  }
+  const btn = document.getElementById('devam-btn');
+  btn.classList.toggle('visible', selectedWeeks.size > 0);
+}
+
+// ── CONFIG SCREEN ─────────────────────────────────────────────────────────────
+function showConfig() {
+  const body = document.getElementById('config-body');
+  const weeks = WEEKS.filter(w => selectedWeeks.has(w.hafta));
+
+  const rowsHtml = weeks.map(w => `
+    <div class="config-week-row" style="--row-color:${w.color}">
+      <div class="config-week-info">
+        <div class="config-week-name">${w.label} — ${w.hafta}</div>
+        <div class="config-week-sub">${w.sub}</div>
+      </div>
+      <div class="config-count-wrap">
+        <input type="number" class="config-count-input"
+          id="count-${w.hafta}" value="${w.count}"
+          min="1" max="${w.count}" data-max="${w.count}">
+        <span class="config-count-max">/ ${w.count} soru</span>
+        <span class="config-count-err">1–${w.count} arası</span>
+      </div>
+    </div>`).join('');
+
+  body.innerHTML = `
+    <div>
+      <div class="config-section-title">Hafta Başına Soru Sayısı</div>
+      <div class="config-week-rows">${rowsHtml}</div>
+    </div>
+    <div class="config-toggle-row">
+      <div>
+        <div class="config-toggle-label">Soruları Karıştır</div>
+        <div class="config-toggle-desc">Haftalar birbirine karışık gelir</div>
+      </div>
+      <label class="toggle-switch">
+        <input type="checkbox" id="shuffle-toggle" ${randomize ? 'checked' : ''}>
+        <span class="toggle-slider"></span>
+      </label>
+    </div>
+    <button class="config-launch-btn" id="launch-btn">🎯 Sınavı Başlat</button>`;
+
+  // Validate number inputs on change
+  weeks.forEach(w => {
+    const inp = document.getElementById(`count-${w.hafta}`);
+    inp.addEventListener('input', () => {
+      const v = parseInt(inp.value, 10);
+      const max = parseInt(inp.dataset.max, 10);
+      inp.classList.toggle('input-error', !v || v < 1 || v > max);
+    });
+  });
+
+  document.getElementById('launch-btn').addEventListener('click', launchQuiz);
+  showScreen('config');
+}
+
+// ── LAUNCH QUIZ (multi-week) ──────────────────────────────────────────────────
+async function launchQuiz() {
+  const weeks = WEEKS.filter(w => selectedWeeks.has(w.hafta));
+  const configs = [];
+  let hasError = false;
+
+  weeks.forEach(w => {
+    const inp = document.getElementById(`count-${w.hafta}`);
+    const v   = parseInt(inp.value, 10);
+    const max = parseInt(inp.dataset.max, 10);
+    if (!v || v < 1 || v > max) {
+      inp.classList.add('input-error'); hasError = true;
+    } else {
+      configs.push({ week: w, count: v });
+    }
+  });
+  if (hasError) return;
+
+  randomize           = document.getElementById('shuffle-toggle').checked;
+  selectedWeekConfigs = configs;
+  currentWeek         = configs.length === 1 ? configs[0].week : null;
+
   clearSession();
-  currentWeek = week;
   allQuestions = [];
   userAnswers  = {};
   currentIdx   = 0;
 
-  document.getElementById('quiz-title').textContent = `🎯 ${week.hafta} Sınavı`;
+  const title = quizTitle();
+  document.getElementById('quiz-title').textContent = `🎯 ${title}`;
   document.getElementById('q-card').innerHTML = `
     <div style="text-align:center;padding:60px 20px;color:var(--muted)">
       <div style="font-size:2rem;margin-bottom:12px">⏳</div>
@@ -806,20 +1043,37 @@ function startQuiz(week) {
     </div>`;
   showScreen('quiz');
 
-  fetch(week.file)
-    .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
-    .then(data => {
-      allQuestions = data.sort((a, b) => a.id - b.id);
-      saveSession(false);
-      buildNavGrid();
-      goToQuestion(0);
-      updateProgress();
-      if (isMobile()) document.getElementById('mob-nav').style.display = 'flex';
-    })
-    .catch(err => {
-      document.getElementById('q-card').innerHTML =
-        `<p style="color:#c0392b;padding:40px 0">Sorular yüklenemedi: ${err}</p>`;
+  try {
+    const results = await Promise.all(
+      configs.map(c =>
+        fetch(c.week.file)
+          .then(r => { if (!r.ok) throw new Error(c.week.hafta + ': ' + r.status); return r.json(); })
+      )
+    );
+
+    let merged = [];
+    results.forEach((data, i) => {
+      const sorted = data.sort((a, b) => a.id - b.id);
+      merged = merged.concat(sorted.slice(0, configs[i].count));
     });
+
+    if (randomize) {
+      for (let i = merged.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [merged[i], merged[j]] = [merged[j], merged[i]];
+      }
+    }
+
+    allQuestions = merged;
+    saveSession(false);
+    buildNavGrid();
+    goToQuestion(0);
+    updateProgress();
+    if (isMobile()) document.getElementById('mob-nav').style.display = 'flex';
+  } catch (err) {
+    document.getElementById('q-card').innerHTML =
+      `<p style="color:#c0392b;padding:40px 0">Sorular yüklenemedi: ${err}</p>`;
+  }
 }
 
 // ── NAV GRID ─────────────────────────────────────────────────────────────────
@@ -988,7 +1242,7 @@ function buildResultsScreen(correct, wrong, blank, wrongItems) {
   const pct   = total ? Math.round(correct / total * 100) : 0;
 
   document.getElementById('results-title').textContent =
-    `${currentWeek?.hafta || ''} — Sınav Sonucu`;
+    `${quizTitle()} — Sonuç`;
 
   document.getElementById('results-body').innerHTML = `
     <div class="results-title">Sınav Tamamlandı 🎯</div>
@@ -1019,14 +1273,20 @@ function buildResultsScreen(correct, wrong, blank, wrongItems) {
       <button class="reset-btn" id="reset-btn">🗑 Sınavı Sıfırla</button>
     </div>`;
 
-  document.getElementById('retry-btn').addEventListener('click', () => { clearSession(); showScreen('select'); });
-  document.getElementById('review-btn')?.addEventListener('click', openReview);
-  document.getElementById('reset-btn')?.addEventListener('click', () => {
+  function resetToSelect() {
     clearSession();
     allQuestions = []; userAnswers = {}; currentIdx = 0;
     currentWeek = null; wrongItemsStore = [];
+    selectedWeeks = new Set(); selectedWeekConfigs = []; randomize = false;
+    // Rebuild cards so selection state is cleared
+    buildWeekSelect();
+    document.getElementById('devam-btn').classList.remove('visible');
     showScreen('select');
-  });
+  }
+
+  document.getElementById('retry-btn').addEventListener('click', resetToSelect);
+  document.getElementById('review-btn')?.addEventListener('click', openReview);
+  document.getElementById('reset-btn')?.addEventListener('click', resetToSelect);
 }
 
 function buildWrongCard(q, userAnswer, correctAnswer) {
@@ -1226,6 +1486,11 @@ document.getElementById('review-sidebar-overlay').addEventListener('click', clos
 
 document.getElementById('review-back-btn').addEventListener('click', () => showScreen('results'));
 
+document.getElementById('devam-btn').addEventListener('click', () => {
+  if (selectedWeeks.size > 0) showConfig();
+});
+document.getElementById('config-back-btn').addEventListener('click', () => showScreen('select'));
+
 // ── NAVIGATION ────────────────────────────────────────────────────────────────
 document.getElementById('quiz-back-btn').addEventListener('click', () => {
   const answered = Object.keys(userAnswers).length;
@@ -1235,11 +1500,21 @@ document.getElementById('quiz-back-btn').addEventListener('click', () => {
   clearSession();
   document.getElementById('mob-nav').style.display = 'none';
   closeNavPanel();
+  allQuestions = []; userAnswers = {}; currentIdx = 0;
+  currentWeek = null;
+  selectedWeeks = new Set(); selectedWeekConfigs = []; randomize = false;
+  buildWeekSelect();
+  document.getElementById('devam-btn').classList.remove('visible');
   showScreen('select');
 });
 
 document.getElementById('results-back-btn').addEventListener('click', () => {
   clearSession();
+  allQuestions = []; userAnswers = {}; currentIdx = 0;
+  currentWeek = null; wrongItemsStore = [];
+  selectedWeeks = new Set(); selectedWeekConfigs = []; randomize = false;
+  buildWeekSelect();
+  document.getElementById('devam-btn').classList.remove('visible');
   showScreen('select');
 });
 
