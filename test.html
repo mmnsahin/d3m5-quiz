@@ -353,52 +353,66 @@
     font-size: 0.72rem; padding: 2px 8px; border-radius: 20px;
   }
 
-  .result-q-card {
-    background: var(--surface); border-radius: var(--radius);
-    padding: 22px; margin-bottom: 14px;
-    box-shadow: var(--shadow); border-left: 4px solid #c0392b;
+  /* ── REVIEW CARD WRAPPER ── */
+  .review-q-wrap {
+    margin-bottom: 20px; border-radius: var(--radius);
+    box-shadow: var(--shadow); overflow: hidden;
+    border: 1.5px solid var(--border); border-left: 4px solid #c0392b;
+    background: var(--surface);
   }
-  .result-q-header {
-    display: flex; align-items: center; gap: 8px;
-    margin-bottom: 12px; flex-wrap: wrap;
-  }
-  .result-q-num {
-    background: var(--accent); color: #fff;
-    font-size: 0.72rem; font-weight: 700;
-    padding: 3px 9px; border-radius: 20px;
-  }
-  .result-q-source {
-    background: #f0f4f8; border: 1px solid #c8d4e0; color: #5a6f88;
-    font-size: 0.68rem; font-weight: 600;
-    padding: 2px 8px; border-radius: 20px; font-family: monospace;
-  }
-  .result-q-text { font-size: 0.9rem; line-height: 1.65; color: var(--text); margin-bottom: 14px; }
+  .review-q-inner { padding: 24px; }
 
-  .result-options { display: flex; flex-direction: column; gap: 7px; }
-  .result-option {
-    display: flex; align-items: flex-start; gap: 10px;
-    padding: 10px 14px; border-radius: 8px;
-    border: 1.5px solid var(--border); background: var(--surface);
-    font-size: 0.86rem; line-height: 1.5;
-  }
-  .result-option.opt-correct { border-color: #b0dfc4; background: var(--correct-bg); }
-  .result-option.opt-wrong   { border-color: #f0b8b0; background: var(--wrong-bg); }
-  .result-opt-letter {
-    flex-shrink: 0; width: 24px; height: 24px; border-radius: 50%;
-    font-size: 0.72rem; font-weight: 700;
-    display: flex; align-items: center; justify-content: center;
-    background: #dde4ed; color: #5a6f88;
-  }
-  .result-option.opt-correct .result-opt-letter { background: var(--correct); color: #fff; }
-  .result-option.opt-wrong   .result-opt-letter { background: #c0392b; color: #fff; }
-  .result-opt-body { flex: 1; }
-  .result-opt-tag {
-    display: inline-block; margin-top: 4px;
-    font-size: 0.68rem; font-weight: 700;
-    padding: 1px 7px; border-radius: 10px;
-  }
-  .result-option.opt-correct .result-opt-tag { background: #d0f0e0; color: var(--correct); border: 1px solid #b0dfc4; }
-  .result-option.opt-wrong   .result-opt-tag { background: #fde0dc; color: #c0392b; border: 1px solid #f0b8b0; }
+  /* ── QUIZ CARD STYLES (mirrored from quiz.html) ── */
+  .card-meta { display:flex; align-items:center; gap:8px; flex-wrap:wrap; margin-bottom:6px; }
+  .card-num { background:var(--accent); color:#fff; font-size:0.75rem; font-weight:700; padding:4px 10px; border-radius:20px; white-space:nowrap; }
+  .card-source { background:#f0f4f8; border:1px solid #c8d4e0; color:#5a6f88; font-size:0.7rem; font-weight:600; padding:3px 9px; border-radius:20px; font-family:monospace; white-space:nowrap; }
+  .card-question { font-size:1.05rem; font-weight:600; line-height:1.55; color:var(--text); margin-top:6px; margin-bottom:20px; }
+
+  .options-grid { display:flex; flex-direction:column; gap:8px; margin-bottom:24px; }
+  .option { display:flex; align-items:flex-start; gap:12px; padding:12px 16px; border-radius:var(--radius); border:1.5px solid var(--border); background:var(--surface); font-size:0.9rem; line-height:1.45; cursor:default; }
+  .option.revealed-correct { border-color:var(--correct); background:var(--correct-bg); }
+  .option.revealed-wrong   { border-color:#c0392b; background:#fdf0ee; }
+  .option-letter { font-weight:700; font-size:0.8rem; min-width:22px; height:22px; border-radius:50%; display:flex; align-items:center; justify-content:center; background:var(--accent-light); color:var(--accent); flex-shrink:0; margin-top:1px; }
+  .option.revealed-correct .option-letter { background:var(--correct); color:#fff; }
+  .option.revealed-wrong   .option-letter { background:#c0392b; color:#fff; }
+  .option-text { flex:1; }
+  .option-inline-analysis { display:none; margin-top:6px; padding:8px 10px; background:rgba(0,0,0,0.04); border-radius:6px; font-size:0.82rem; line-height:1.55; color:#2c3e50; border-left:3px solid #aab; }
+  .option.revealed-correct .option-inline-analysis { border-left-color:var(--correct); background:rgba(26,127,75,0.06); }
+  .option.revealed-wrong   .option-inline-analysis { border-left-color:#c0392b; background:rgba(192,57,43,0.06); }
+  .option.show-analysis .option-inline-analysis { display:block; }
+
+  .no-exp-notice { background:#fff8e6; border:1.5px solid #f0c060; border-radius:var(--radius); padding:14px 18px; font-size:0.88rem; color:#7a5a00; margin-bottom:24px; }
+  .note-box { background:#f5f0ff; border:1.5px solid #c8a8f0; border-radius:var(--radius); padding:12px 16px; font-size:0.85rem; color:#4a2880; margin-bottom:20px; line-height:1.6; }
+  .note-box::before { content:"📝 Not: "; font-weight:700; }
+
+  .accordion { display:flex; flex-direction:column; gap:10px; }
+  .acc-item { border:1.5px solid var(--border); border-radius:var(--radius); background:var(--surface); overflow:hidden; box-shadow:var(--shadow); }
+  .acc-trigger { width:100%; display:flex; align-items:center; justify-content:space-between; padding:14px 18px; background:none; border:none; cursor:pointer; font-size:0.9rem; font-weight:600; color:var(--text); text-align:left; transition:background 0.15s; font-family:inherit; }
+  .acc-trigger:hover { background:var(--accent-light); }
+  .acc-trigger.open { color:var(--accent); background:var(--accent-light); }
+  .acc-icon { font-size:1.1rem; transition:transform 0.2s; color:var(--muted); flex-shrink:0; }
+  .acc-trigger.open .acc-icon { transform:rotate(180deg); color:var(--accent); }
+  .acc-label-icon { margin-right:8px; }
+  .acc-body { display:none; padding:16px 18px; border-top:1.5px solid var(--border); font-size:0.88rem; line-height:1.7; color:#2c3e50; }
+  .acc-body.open { display:block; }
+
+  .opt-analysis-list { display:flex; flex-direction:column; gap:8px; margin-top:4px; }
+  .opt-analysis-item { display:flex; gap:10px; align-items:flex-start; padding:8px 12px; border-radius:6px; background:var(--bg); }
+  .opt-analysis-item.is-correct { background:var(--correct-bg); }
+  .opt-badge { font-weight:700; font-size:0.78rem; min-width:22px; height:22px; border-radius:50%; display:flex; align-items:center; justify-content:center; background:#dde4ed; color:#555; flex-shrink:0; }
+  .opt-analysis-item.is-correct .opt-badge { background:var(--correct); color:#fff; }
+  .opt-analysis-text { font-size:0.85rem; line-height:1.55; }
+
+  .term-list { display:flex; flex-direction:column; gap:10px; margin-top:4px; }
+  .term-item { display:flex; flex-direction:column; gap:2px; }
+  .term-name { font-weight:700; font-size:0.85rem; color:var(--accent); }
+  .term-def  { font-size:0.84rem; line-height:1.6; color:#2c3e50; }
+
+  .subtopic-list { display:flex; flex-direction:column; gap:14px; margin-top:4px; }
+  .subtopic-item { display:flex; flex-direction:column; gap:4px; }
+  .subtopic-title { font-weight:700; font-size:0.85rem; color:#6a3db8; }
+  .subtopic-content { font-size:0.84rem; line-height:1.65; color:#2c3e50; white-space:pre-wrap; }
+  .exam-text { white-space:pre-wrap; font-size:0.86rem; line-height:1.7; color:#2c3e50; }
 
   /* ── MOBILE ── */
   @media (max-width: 768px) {
@@ -819,35 +833,126 @@ function buildResultsScreen(correct, wrong, blank, wrongItems) {
     ` : wrongHtml}`;
 
   document.getElementById('retry-btn').addEventListener('click', () => showScreen('select'));
+
+  // Wire accordion toggles in the results review cards
+  document.querySelectorAll('#results-body .acc-trigger').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const body = btn.nextElementSibling;
+      const open = btn.classList.toggle('open');
+      body.classList.toggle('open', open);
+    });
+  });
 }
 
 function buildWrongCard(q, userAnswer, correctAnswer) {
-  const opts = Object.entries(q.options || {}).filter(([, v]) => v && String(v).trim());
+  const optAn  = q.option_analysis || {};
+  const opts   = Object.entries(q.options || {}).filter(([, v]) => v && String(v).trim());
+  const hasExp = !!q.explanation;
 
-  const optsHtml = opts.map(([letter, text]) => {
-    const isCorrect = letter === correctAnswer;
-    const isWrong   = letter === userAnswer;
-    const cls  = isCorrect ? 'opt-correct' : isWrong ? 'opt-wrong' : '';
-    const tag  = isCorrect
-      ? '<span class="result-opt-tag">✓ Doğru cevap</span>'
-      : isWrong
-        ? '<span class="result-opt-tag">✗ Senin cevabın</span>'
-        : '';
+  // Options — rendered in fully-revealed state (no click needed)
+  const optionsHtml = opts.map(([letter, text]) => {
+    const isCorrect    = letter === correctAnswer;
+    const isUserChoice = letter === userAnswer;
+    let cls = 'option';
+    if (isCorrect)    cls += ' revealed-correct';
+    else if (isUserChoice) cls += ' revealed-wrong';
+    if (isCorrect || isUserChoice) cls += ' show-analysis';
+    const analysis = optAn[letter]
+      ? `<div class="option-inline-analysis">${escHtmlBoldLabel(optAn[letter])}</div>` : '';
     return `
-      <div class="result-option ${cls}">
-        <span class="result-opt-letter">${letter.toUpperCase()}</span>
-        <span class="result-opt-body">${escHtml(text)}${tag}</span>
+      <div class="${cls}">
+        <div style="flex:1">
+          <div style="display:flex;align-items:flex-start;gap:12px">
+            <span class="option-letter">${letter.toUpperCase()}</span>
+            <span class="option-text">${escHtml(text)}</span>
+          </div>
+          ${analysis}
+        </div>
       </div>`;
   }).join('');
 
+  const noteHtml   = q.note ? `<div class="note-box">${escHtml(q.note)}</div>` : '';
+  const noticeHtml = hasExp ? '' :
+    `<div class="no-exp-notice">⚠️ Bu soru için henüz açıklama yüklenmemiş.</div>`;
+
+  // Accordion sections — identical logic to quiz.html
+  const sections = [];
+
+  if (hasExp) {
+    sections.push({
+      icon: '📖', title: 'Soru Açıklaması', open: true,
+      html: `<div style="white-space:pre-wrap;line-height:1.75">${escHtml(cleanText(q.explanation))}</div>`
+    });
+  }
+
+  if (Object.keys(optAn).length) {
+    const items = Object.entries(optAn).map(([l, txt]) => `
+      <div class="opt-analysis-item${l === correctAnswer ? ' is-correct' : ''}">
+        <span class="opt-badge">${l.toUpperCase()}</span>
+        <span class="opt-analysis-text">${escHtmlBoldLabel(txt)}</span>
+      </div>`).join('');
+    sections.push({ icon: '🔍', title: 'Şık Analizi', open: false,
+      html: `<div class="opt-analysis-list">${items}</div>` });
+  }
+
+  const terms = (q.terms || []).filter(Boolean);
+  if (terms.length) {
+    const termsHtml = terms.map(t =>
+      typeof t === 'object' && t.term
+        ? `<div class="term-item">
+             <span class="term-name">${escHtml(t.term)}</span>
+             <span class="term-def">${escHtml(t.definition || '')}</span>
+           </div>`
+        : `<div class="term-item"><span class="term-name">${escHtml(String(t))}</span></div>`
+    ).join('');
+    sections.push({ icon: '🏷️', title: 'Önemli Terimler', open: false,
+      html: `<div class="term-list">${termsHtml}</div>` });
+  }
+
+  // subtopics can be a string (H1) or array
+  const rawSubs = q.subtopics;
+  const subs = Array.isArray(rawSubs) ? rawSubs.filter(Boolean)
+             : (rawSubs ? [{ title: 'Alt Konular', content: String(rawSubs) }] : []);
+  if (subs.length) {
+    const subsHtml = subs.map(s =>
+      typeof s === 'object' && s.title
+        ? `<div class="subtopic-item">
+             <span class="subtopic-title">${escHtml(s.title)}</span>
+             <span class="subtopic-content">${escHtml(cleanText(s.content || ''))}</span>
+           </div>`
+        : `<div class="subtopic-item"><span class="subtopic-title">${escHtml(String(s))}</span></div>`
+    ).join('');
+    sections.push({ icon: '🔗', title: 'Alt Konular', open: false,
+      html: `<div class="subtopic-list">${subsHtml}</div>` });
+  }
+
+  if (q.exam_potential) {
+    sections.push({ icon: '🎯', title: 'Sınav Potansiyeli', open: false,
+      html: `<div class="exam-text">${formatNumberedList(cleanText(q.exam_potential))}</div>` });
+  }
+
+  const accordionHtml = sections.map(s => `
+    <div class="acc-item">
+      <button class="acc-trigger${s.open ? ' open' : ''}">
+        <span><span class="acc-label-icon">${s.icon}</span>${s.title}</span>
+        <span class="acc-icon">▾</span>
+      </button>
+      <div class="acc-body${s.open ? ' open' : ''}">${s.html}</div>
+    </div>`).join('');
+
   return `
-    <div class="result-q-card">
-      <div class="result-q-header">
-        <span class="result-q-num">Soru ${q.id}</span>
-        ${q.source ? `<span class="result-q-source">${escHtml(q.source)}</span>` : ''}
+    <div class="review-q-wrap">
+      <div class="review-q-inner">
+        <div class="card-meta">
+          <span class="card-num">Soru ${q.id}</span>
+          ${q.source ? `<span class="card-source">${escHtml(q.source)}</span>` : ''}
+        </div>
+        <div class="card-question">${escHtmlWithBreaks(q.question)}</div>
+        ${noteHtml}
+        <div class="options-grid">${optionsHtml}</div>
+        ${noticeHtml}
+        ${sections.length ? `<div class="accordion">${accordionHtml}</div>` : ''}
       </div>
-      <div class="result-q-text">${escHtmlWithBreaks(q.question)}</div>
-      <div class="result-options">${optsHtml}</div>
     </div>`;
 }
 
@@ -883,6 +988,25 @@ function escHtml(str) {
 function escHtmlWithBreaks(str) {
   if (str == null) return '';
   return escHtml(str).replace(/\n/g, '<br>');
+}
+function escHtmlBoldLabel(str) {
+  if (!str) return '';
+  const idx = str.indexOf(':');
+  if (idx === -1) return escHtml(str);
+  return `<strong>${escHtml(str.slice(0, idx))}:</strong>${escHtml(str.slice(idx + 1))}`;
+}
+function cleanText(str) {
+  if (!str) return '';
+  return str
+    .replace(/EXTREMELY IMPORTANT[\s\S]*$/i, '')
+    .replace(/\[\d+\]/g, '')
+    .replace(/\bmore_horiz\b/g, '')
+    .trim();
+}
+function formatNumberedList(str) {
+  if (!str) return '';
+  return str.split(/(?=\d+\.\s)/)
+    .map(p => escHtml(p.trim())).filter(p => p).join('<br><br>');
 }
 
 // ── INIT ─────────────────────────────────────────────────────────────────────
