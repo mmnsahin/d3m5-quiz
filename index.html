@@ -139,6 +139,39 @@
     color: var(--muted);
     text-align: center;
   }
+
+  .test-section {
+    margin-top: 32px;
+    text-align: center;
+    width: 100%;
+    max-width: 560px;
+    padding-top: 28px;
+    border-top: 1px solid var(--border);
+  }
+  .test-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--accent);
+    color: #fff;
+    text-decoration: none;
+    padding: 14px 32px;
+    border-radius: var(--radius);
+    font-size: 1rem;
+    font-weight: 700;
+    box-shadow: 0 4px 16px rgba(46,74,138,0.28);
+    transition: background 0.15s, transform 0.15s, box-shadow 0.15s;
+  }
+  .test-cta:hover {
+    background: #243a7a;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(46,74,138,0.38);
+  }
+  .test-desc {
+    margin-top: 10px;
+    font-size: 0.82rem;
+    color: var(--muted);
+  }
 </style>
 </head>
 <body>
@@ -181,8 +214,13 @@
 
 </div>
 
+<div class="test-section">
+  <a href="test.html" class="test-cta">🎯 Kendini Test Et</a>
+  <p class="test-desc">Sınav modunda çöz — cevaplar sona kadar gizli kalır</p>
+</div>
+
 <footer>
-  EvB sınavlarınızda başarılar diler  
+  EvB sınavlarınızda başarılar diler
 </footer>
 
 </body>
