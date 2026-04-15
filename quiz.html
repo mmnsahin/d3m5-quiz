@@ -631,7 +631,8 @@ const CATEGORIES_H1 = [
   { label: 'Nefroloji',         ids: Array.from({length:54}, (_,i)=>i+1)  },
   { label: 'Fizyopatoloji',     ids: Array.from({length:57}, (_,i)=>i+55) },
 ];
-const CATEGORIES = hafta === 'H2' ? CATEGORIES_H2 : hafta === 'H1' ? CATEGORIES_H1 : CATEGORIES_H3;
+const CATEGORIES_H4 = [];
+const CATEGORIES = hafta === 'H2' ? CATEGORIES_H2 : hafta === 'H1' ? CATEGORIES_H1 : hafta === 'H4' ? CATEGORIES_H4 : CATEGORIES_H3;
 function categoryOf(id) {
   return CATEGORIES.find(c => c.ids.includes(id))?.label ?? 'Diğer';
 }
