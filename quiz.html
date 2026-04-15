@@ -963,6 +963,10 @@ function escHtml(str) {
 }
 function escHtmlBoldLabel(str) {
   if (!str) return '';
+  // Handle **bold** normal format
+  const m = str.match(/^\*\*(.+?)\*\*\s*([\s\S]*)$/);
+  if (m) return `<strong>${escHtml(m[1])}</strong> ${escHtml(m[2])}`;
+  // Fallback: bold up to first colon
   const idx = str.indexOf(':');
   if (idx === -1) return escHtml(str);
   return `<strong>${escHtml(str.slice(0, idx))}:</strong>${escHtml(str.slice(idx + 1))}`;
