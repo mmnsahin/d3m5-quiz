@@ -4069,47 +4069,6 @@
     "exam_potential": "Doç. Dr. Hale Gökcan'ın ve Dr. Murat Törüner'in Dispepsiye Klinik Yaklaşım konularından ve çıkmış soru havuzundan şu soru tipleri bankodur:\n\n1.  **AÖS Basıncı Sorusu (M6-2025-13, M5-2024-9):** *\"Aşağıdakilerden hangisi alt özofagus sfinkter basıncını azaltan faktörlerden değildir?\"* sorusu sıkça gelir. Şıklara *Kalsiyum kanal blokörü, Çikolata, Sekretin, Glukagon* koyulur. Basıncı artırarak sfinkteri kasan ve reflüye iyi gelen **Proteinli Gıda** doğru cevap (yanlış olan seçenek) olarak sorulur.\n2.  **Dispepsi Yaklaşım Vakası (M5-2023-65):** Sınavda dispepsi hastası verip ilk ne yapılacağı sorulur. Eğer hastanın yaşı ileri veya alarm bulgusu varsa cevap **Endoskopi**; eğer hasta 20 yaşında genç biriyse ve alarm semptomu yoksa **PPİ** veya **H. Pylori testi** aranmalıdır.\n3.  **Alarm Semptomları Çeldiricisi (M6-2025-8):** *\"Hangisi dispepsi alarm semptomlarından değildir?\"* kurgusunda şıklara daima **Obezite** veya **Yeni başlayan epigastrik şişkinlik** gibi masum/ilişkisiz şıklar konur. Unutma; asıl alarm semptomları yutma güçlüğü (disfaji), kilo kaybı ve anemidir."
   },
   {
-    "id": null,
-    "source": "GIS-H4",
-    "question": "",
-    "options": {
-      "a": "",
-      "b": "",
-      "c": "",
-      "d": "",
-      "e": ""
-    },
-    "correct_answer": "a",
-    "explanation": "Sevgili meslektaşım, bu soru karaciğer biyopsilerinin değerlendirilmesinde kullandığımız uluslararası \"Kronik Hepatit Skorlama Sistemi\"nin iki temel sütununu (Grade ve Stage) ayırt etmeni bekleyen, patolojinin en klasik ve en önemli sorularından biridir.\n\nKaraciğerde viral, otoimmün veya toksik herhangi bir nedenle kronik hepatit geliştiğinde, hastalığın durumunu klinisyene (gastroenteroloğa) raporlamak için patologlar iki parametreye bakar: **Derece (Grade)** ve **Evre (Stage)**. \n*   **Grade (Derece)**, o anda karaciğerde var olan aktif \"nekroinflamatuar\" hasarın, yani hücre ölümü ve iltihabın şiddetini yansıtır. \n*   **Stage (Evre)** ise, bu kronik yıkım ve iltihabın zaman içinde yarattığı kalıcı yapısal bozulmayı, yani **fibrozisin yaygınlığını ve lokalizasyonunu** değerlendirir. Stage, hastalığın siroza doğru ne kadar ilerlediğini (yapısal progresyonunu) gösteren nihai parametredir. Dolayısıyla \"Evre\" ile ilgili doğru ifade, fibrozisi değerlendirdiğidir.",
-    "option_analysis": {
-      "a": "**Doğru cevabımızdır.** Evre (Stage), fibrozisin yaygınlığını ve hastalığın yapısal progresyonunu gösterir.",
-      "b": "Yanlış. İltihabi aktiviteyi değerlendiren parametre Evre (Stage) değil, Derece'dir (Grade).",
-      "c": "Yanlış. Nekroz ve inflamasyonun şiddeti Grade (Derece) ile belirtilir. Stage, bu nekroinflamatuar olayların *sonucunda* gelişen skarı (fibrozisi) gösterir.",
-      "d": "Yanlış. Grade ve Stage skorlama sistemleri hastalığın etiyolojisini (Hepatit B mi, C mi, Otoimmün mü olduğunu) söylemez; sadece var olan hasarın boyutunu mikroskobik olarak derecelendirir.",
-      "e": "Yanlış. Tam tersine, hastalığın progresyonu (ilerlemesi) ile **doğru orantılıdır**. Hastalık kötüleştikçe fibrozis artar, köprüleşme fibrozisi oluşur ve nihayetinde siroza evrilerek \"Evre\" yükselir."
-    },
-    "terms": [
-      {
-        "term": "Stage (Evre)",
-        "definition": "Hastalığın ne kadar süredir devam ettiğinin bir yansıması olarak, dokudaki skar (bağ dokusu/fibrozis) miktarını ve yapısal bozulmayı gösteren histolojik kavramdır."
-      },
-      {
-        "term": "Grade (Derece)",
-        "definition": "Karaciğerdeki hastalığın o anki aktif gücünü; yani lenfosit infiltrasyonunu, hücre hasarını ve nekroinflamasyonu (aktif iltihabı) gösteren histolojik kavramdır."
-      },
-      {
-        "term": "Nekroinflamasyon",
-        "definition": "Karaciğer hücrelerinde (hepatositlerde) hücre ölümü (nekroz/apoptoz) ve buna eşlik eden iltihabi hücre (lenfosit, makrofaj) infiltrasyonudur."
-      },
-      {
-        "term": "Fibrozis",
-        "definition": "Kronik iltihap ve hasar sonucunda normal dokunun yerini, kollajen içerikli bağ dokusunun (skar dokusunun) almasıdır."
-      }
-    ],
-    "subtopics": [],
-    "exam_potential": "Prof. Dr. Berna Savaş'ın Karaciğer Patolojisi notlarına ve geçmiş yıl havuzlarına baktığımızda bu konudan şu kurguların gelmesi kuvvetle muhtemeldir:\n\n1.  **Tam Ters Kurgu (Grade Sorusu):** Sınavda size *\"Nekroinflamatuar hasarın şiddetini değerlendiren histolojik parametre hangisidir?\"* diye sorulursa; bu kez cevabınız Stage değil, kesinlikle **Grade (Derece)** olmalıdır.\n2.  **Stellat Hücresi Vaka/Bilgi Sorusu:** Sınav komitesi mekanizma sormayı çok sever. *\"Disse aralığında yerleşen, A vitamini depolayan ve siroz gelişiminde kollajen sentezleyerek fibrozise yol açan hücre hangisidir?\"* sorusunun banko cevabı **Stellate (İto) hücresi**dir.\n3.  **Apoptoz Cisimciği:** Lobül içindeki inflamasyon sırasında apoptoza uğrayarak büzülen hepatositlerin oluşturduğu pembe eozinofilik cisimciklere ne ad verildiği mikroskopi sorusu olarak gelebilir; cevabı **Councilman cisimciği** olmalıdır.\n4.  **Sirozda Fibrozisin Yayılımı:** Bir başka soruda çeldirici olarak karşınıza çıkabilir. Siroz gelişirken oluşan fibrozis lokal veya segmental değildir; **diffüz (tüm karaciğeri tutan)** bir karaktere sahiptir ve köprüleşme fibrozisi gösterir."
-  },
-  {
     "id": 86,
     "source": "GIS-H4",
     "question": "Aşağıdakilerden hangisi indirekt hiperbilirubinemi de görülmez?",
@@ -4542,43 +4501,6 @@
       }
     ],
     "exam_potential": "Enfeksiyon/Mikrobiyoloji hocalarımızın notlarına ve geçmiş sorulara baktığımızda şu kurgular sınavda sıklıkla karşımıza çıkar:\n\n1.  **Etilen Oksit Kullanımı Sorusu:** Sınav komitesi medikal alet sterilizasyonunu sormayı çok sever. *\"Kırılgan, plastik gereçlerin sterilizasyonu için en uygun yöntem nedir?\"* şeklinde bir soru karşınıza gelirse, cevabınız kesinlikle **Etilen Oksit** olmalıdır.\n2.  **Sterilizasyon Tanımı Çeldiricisi:** Sınavda size dezenfeksiyon ile sterilizasyon arasındaki fark sorulabilir. *\"Tüm mikroorganizmaların, dirençli bakteri sporları da dahil olmak üzere cansız ortamdan tamamen yok edilmesine ne denir?\"* sorusunun cevabı **Sterilizasyon** olmalıdır. Dezenfeksiyon şıkkı güçlü bir çeldiricidir.\n3.  **Alkolün Sınırı:** Etil alkol veya izopropil alkolün iyi bir antiseptik olduğu ancak **sporisidal olmadığı** bilgisi her zaman potansiyel bir sınav tuzak/dikkat sorusudur."
-  },
-  {
-    "id": null,
-    "source": "GIS-H4",
-    "question": "",
-    "options": {
-      "a": "",
-      "b": "",
-      "c": "",
-      "d": "",
-      "e": ""
-    },
-    "correct_answer": "d",
-    "explanation": "Sevgili meslektaşım, bu soru nefroloji ve iç hastalıkları pratiğinde çok sık karşılaştığımız \"Ödemli Hastaya Klinik Yaklaşım\" algoritmasının temelini test eden çok değerli bir sorudur. \n\nYaygın (jeneralize) ödem, interstisyel sıvı hacminin klinik olarak belirginleşecek kadar artmasıdır. Bu artışa neden olan iki majör sistemik patofizyolojik mekanizma vardır: Ya damar içindeki sıvıyı tutan **onkotik basınç azalmıştır** (albümin düşüklüğü) ya da damar içindeki sıvıyı dışarı iten **hidrostatik basınç artmıştır** (kalp yetmezliği, böbrekten sodyum-su tutulumu). \n\nBu iki majör mekanizmayı birbirinden ayırmak için algoritmada bakmamız gereken *ilk ve en kritik* laboratuvar parametresi **Serum Albümin Düzeyi**'dir. Albümin düzeyi 3.5 gr/dl'nin altındaysa onkotik basınç düşüklüğü yapan hastalıkları (Nefrotik sendrom, Siroz, Malnütrisyon); albümin düzeyi normalse hidrostatik basınç artışı yapan hastalıkları (Kalp yetmezliği, Akut nefritik sendrom) düşünürüz.",
-    "option_analysis": {
-      "a": "Karaciğer hücresel hasarını (hepatit) gösterir. Yaygın ödem etyolojisinde siroz düşünülen hastalarda bakılabilir ancak ilk ayrım noktasında değil, albümin düşüklüğü saptandıktan sonraki aşamada istenir.",
-      "b": "Böbrek fonksiyonlarını (GFH) gösterir. Albümin seviyesine bakıldıktan sonra, nefritik ve nefrotik sendrom ayırıcı tanısında bize yol gösterir ancak ilk bakılacak tetkik albümindir.",
-      "c": "Ciddi hipotiroidide (miksödem) dokularda glikozaminoglikan birikimine bağlı gode bırakmayan sert bir ödem görülebilir. Ancak bu klasik yaygın, asitle beraber seyreden yumuşak ödem tablosu için ilk istenecek test değildir.",
-      "d": "Ödem algoritmasının ilk basamağını oluşturan, onkotik basıncı belirleyen en temel testtir.",
-      "e": "Kalp yetersizliğini değerlendirmek için altın standarttır. Ancak albümini normal olan ve hidrostatik basınç artışından (kalp kökenli) şüphelenilen hastalarda algoritmanın ilerleyen basamaklarında istenir."
-    },
-    "terms": [
-      {
-        "term": "Yaygın (Jeneralize) Ödem / Anazarka",
-        "definition": "Sıvının sadece belli bir lokalizasyonda (örn. tek bacakta) değil, tüm vücut interstisyel aralığında yaygın olarak birikmesidir. Şiddetli formuna anazarka denir."
-      },
-      {
-        "term": "Onkotik Basınç",
-        "definition": "Başta albümin olmak üzere plazma proteinlerinin, suyu damar içinde tutma (çekme) gücüdür."
-      },
-      {
-        "term": "Hidrostatik Basınç",
-        "definition": "Kanın damar çeperine yaptığı, sıvıyı interstisyuma (doku aralığına) doğru iten basınçtır."
-      }
-    ],
-    "subtopics": [],
-    "exam_potential": "Prof. Dr. Şule Şengül'ün \"Ödemli Hastaya Klinik Yaklaşım\" ders notlarına ve eski sorulara baktığımızda şu kurguların gelmesi bankodur:\n\n1.  **Ödemin Godet Bırakma Özelliği (M6-2025-70, M5-2024-92):** *\"Hangi hastalıkta oluşan ödem en kolay godet bırakır?\"* kurgusu fix sorudur. Ödemin protein içeriği ne kadar düşükse o kadar kolay çukur (godet) bırakır. Protein içeriği en düşük olan ödem **Nefrotik Sendrom** ödemidir ve en kolay godet bırakan ödemdir. Lenfödemin ise protein içeriği yüksek olduğu için godet bırakmadığı çeldirici olarak mutlaka sorulur.\n2.  **Akut Nefritik Sendrom - Kalp Yetmezliği Ayrımı:** Her iki hastalıkta da albümin normaldir, hidrostatik basınç artmıştır ve konjesyon (raller vb.) vardır. Sınavda bunları ayırt ettiren en önemli muayene bulgusu **Kan Basıncıdır**. Nefritik sendromda kan basıncı yüksekken, kalp yetmezliğinde düşüktür.\n3.  **Tek Taraflı Lokal Ödem Vakası:** Yaygın ödem değil de tek bir bacakta lokal ödem, kızarıklık, ısı artışı ve hassasiyet tarifleniyorsa; algoritmadan çıkarak doğrudan lokal inflamasyonu yani **Selülit** veya derin ven trombozunu işaretlemelisin."
   },
   {
     "id": 97,
