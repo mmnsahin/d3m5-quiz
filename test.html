@@ -237,6 +237,44 @@
   .toggle-switch input:checked + .toggle-slider { background: var(--accent); }
   .toggle-switch input:checked + .toggle-slider::before { transform: translateX(20px); }
 
+  /* Mode segmented control */
+  .config-mode-tabs {
+    display: flex; background: var(--bg); border: 1.5px solid var(--border);
+    border-radius: 8px; padding: 4px; gap: 4px;
+  }
+  .config-mode-tab {
+    flex: 1; padding: 9px 12px; border: none; border-radius: 6px;
+    font-size: 0.88rem; font-weight: 600; font-family: inherit;
+    cursor: pointer; color: var(--muted); background: transparent;
+    transition: background 0.15s, color 0.15s;
+  }
+  .config-mode-tab.active {
+    background: var(--surface); color: var(--accent);
+    box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+  }
+  /* Total count section */
+  .config-total-wrap {
+    background: var(--surface); border: 1.5px solid var(--border);
+    border-radius: var(--radius); padding: 20px 18px;
+    box-shadow: var(--shadow); display: flex; flex-direction: column; gap: 10px;
+  }
+  .config-total-label {
+    font-size: 0.92rem; font-weight: 700; color: var(--sidebar-bg);
+  }
+  .config-total-sub { font-size: 0.76rem; color: var(--muted); }
+  .config-total-input-row { display: flex; align-items: center; gap: 10px; margin-top: 4px; }
+  .config-total-input {
+    width: 90px; padding: 10px 12px; border: 1.5px solid var(--border);
+    border-radius: 6px; font-size: 1rem; font-family: inherit;
+    text-align: center; outline: none; color: var(--text);
+    background: var(--bg); transition: border-color 0.15s;
+  }
+  .config-total-input:focus { border-color: var(--accent); }
+  .config-total-input.input-error { border-color: #c0392b; background: #fff5f5; }
+  .config-total-max { font-size: 0.8rem; color: var(--muted); }
+  .config-total-err { font-size: 0.76rem; color: #c0392b; display: none; }
+  .config-total-input.input-error ~ .config-total-err { display: block; }
+
   .config-launch-btn {
     width: 100%; padding: 14px; background: var(--accent); color: #fff;
     border: none; border-radius: 8px; font-size: 1rem; font-weight: 700;
@@ -843,6 +881,8 @@ let reviewIdx           = 0;
 let selectedWeeks       = new Set();              // Set of hafta strings
 let selectedWeekConfigs = [];  // [{ week: WEEKS[i], count: number }]
 let randomize           = false;
+let configMode          = 'per-week'; // 'per-week' | 'total'
+let totalQuestionCount  = 20;
 
 // ── SESSION PERSISTENCE ───────────────────────────────────────────────────────
 const SK = 'd3m5_state', SKQ = 'd3m5_questions';
@@ -958,8 +998,9 @@ function toggleWeekCard(card, w) {
 
 // ── CONFIG SCREEN ─────────────────────────────────────────────────────────────
 function showConfig() {
-  const body = document.getElementById('config-body');
+  const body  = document.getElementById('config-body');
   const weeks = WEEKS.filter(w => selectedWeeks.has(w.hafta));
+  const poolTotal = weeks.reduce((s, w) => s + w.count, 0);
 
   const rowsHtml = weeks.map(w => `
     <div class="config-week-row" style="--row-color:${w.color}">
@@ -976,15 +1017,38 @@ function showConfig() {
       </div>
     </div>`).join('');
 
+  const safeTotal = Math.min(totalQuestionCount, poolTotal);
+
   body.innerHTML = `
-    <div>
-      <div class="config-section-title">Hafta Başına Soru Sayısı</div>
-      <div class="config-week-rows">${rowsHtml}</div>
+    <div class="config-mode-tabs">
+      <button class="config-mode-tab ${configMode === 'per-week' ? 'active' : ''}" data-mode="per-week">Hafta Bazlı</button>
+      <button class="config-mode-tab ${configMode === 'total' ? 'active' : ''}" data-mode="total">Toplam Soru</button>
     </div>
+
+    <div id="cfg-per-week" style="display:${configMode === 'per-week' ? 'contents' : 'none'}">
+      <div>
+        <div class="config-section-title">Hafta Başına Soru Sayısı</div>
+        <div class="config-week-rows">${rowsHtml}</div>
+      </div>
+    </div>
+
+    <div id="cfg-total" style="display:${configMode === 'total' ? 'contents' : 'none'}">
+      <div class="config-total-wrap">
+        <div class="config-total-label">Sınav Soru Sayısı</div>
+        <div class="config-total-sub">Seçili haftaların tüm havuzundan (${poolTotal} soru) rastgele çekilir</div>
+        <div class="config-total-input-row">
+          <input type="number" class="config-total-input" id="total-count"
+            value="${safeTotal}" min="1" max="${poolTotal}">
+          <span class="config-total-max">/ ${poolTotal} soru</span>
+        </div>
+        <span class="config-total-err">1–${poolTotal} arası bir sayı girin</span>
+      </div>
+    </div>
+
     <div class="config-toggle-row">
       <div>
         <div class="config-toggle-label">Soruları Karıştır</div>
-        <div class="config-toggle-desc">Haftalar birbirine karışık gelir</div>
+        <div class="config-toggle-desc">Sorular rastgele sırayla gelir</div>
       </div>
       <label class="toggle-switch">
         <input type="checkbox" id="shuffle-toggle" ${randomize ? 'checked' : ''}>
@@ -993,39 +1057,78 @@ function showConfig() {
     </div>
     <button class="config-launch-btn" id="launch-btn">🎯 Sınavı Başlat</button>`;
 
-  // Validate number inputs on change
+  // Mode tab switching
+  body.querySelectorAll('.config-mode-tab').forEach(tab => {
+    tab.addEventListener('click', () => {
+      configMode = tab.dataset.mode;
+      body.querySelectorAll('.config-mode-tab').forEach(t => t.classList.toggle('active', t === tab));
+      document.getElementById('cfg-per-week').style.display = configMode === 'per-week' ? 'contents' : 'none';
+      document.getElementById('cfg-total').style.display    = configMode === 'total'    ? 'contents' : 'none';
+    });
+  });
+
+  // Validate per-week inputs
   weeks.forEach(w => {
     const inp = document.getElementById(`count-${w.hafta}`);
+    if (!inp) return;
     inp.addEventListener('input', () => {
-      const v = parseInt(inp.value, 10);
-      const max = parseInt(inp.dataset.max, 10);
+      const v = parseInt(inp.value, 10), max = parseInt(inp.dataset.max, 10);
       inp.classList.toggle('input-error', !v || v < 1 || v > max);
     });
   });
+
+  // Validate total input
+  const totalInp = document.getElementById('total-count');
+  if (totalInp) {
+    totalInp.addEventListener('input', () => {
+      const v = parseInt(totalInp.value, 10);
+      totalInp.classList.toggle('input-error', !v || v < 1 || v > poolTotal);
+    });
+  }
 
   document.getElementById('launch-btn').addEventListener('click', launchQuiz);
   showScreen('config');
 }
 
 // ── LAUNCH QUIZ (multi-week) ──────────────────────────────────────────────────
+function shuffle(arr) {
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
 async function launchQuiz() {
   const weeks = WEEKS.filter(w => selectedWeeks.has(w.hafta));
-  const configs = [];
-  let hasError = false;
+  randomize = document.getElementById('shuffle-toggle').checked;
 
-  weeks.forEach(w => {
-    const inp = document.getElementById(`count-${w.hafta}`);
-    const v   = parseInt(inp.value, 10);
-    const max = parseInt(inp.dataset.max, 10);
-    if (!v || v < 1 || v > max) {
-      inp.classList.add('input-error'); hasError = true;
-    } else {
-      configs.push({ week: w, count: v });
-    }
-  });
-  if (hasError) return;
+  let configs = [];
+  let totalTarget = 0;
 
-  randomize           = document.getElementById('shuffle-toggle').checked;
+  if (configMode === 'per-week') {
+    let hasError = false;
+    weeks.forEach(w => {
+      const inp = document.getElementById(`count-${w.hafta}`);
+      const v   = parseInt(inp.value, 10);
+      const max = parseInt(inp.dataset.max, 10);
+      if (!v || v < 1 || v > max) {
+        inp.classList.add('input-error'); hasError = true;
+      } else {
+        configs.push({ week: w, count: v });
+      }
+    });
+    if (hasError) return;
+  } else {
+    const inp = document.getElementById('total-count');
+    const poolTotal = weeks.reduce((s, w) => s + w.count, 0);
+    const v = parseInt(inp.value, 10);
+    if (!v || v < 1 || v > poolTotal) { inp.classList.add('input-error'); return; }
+    totalQuestionCount = v;
+    totalTarget = v;
+    configs = weeks.map(w => ({ week: w, count: w.count })); // fetch all
+  }
+
   selectedWeekConfigs = configs;
   currentWeek         = configs.length === 1 ? configs[0].week : null;
 
@@ -1052,16 +1155,18 @@ async function launchQuiz() {
     );
 
     let merged = [];
-    results.forEach((data, i) => {
-      const sorted = data.sort((a, b) => a.id - b.id);
-      merged = merged.concat(sorted.slice(0, configs[i].count));
-    });
 
-    if (randomize) {
-      for (let i = merged.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [merged[i], merged[j]] = [merged[j], merged[i]];
-      }
+    if (configMode === 'per-week') {
+      results.forEach((data, i) => {
+        const sorted = data.sort((a, b) => a.id - b.id);
+        merged = merged.concat(sorted.slice(0, configs[i].count));
+      });
+      if (randomize) shuffle(merged);
+    } else {
+      // Combine full pool, shuffle, take totalTarget
+      results.forEach(data => { merged = merged.concat(data); });
+      shuffle(merged);
+      merged = merged.slice(0, totalTarget);
     }
 
     allQuestions = merged;
