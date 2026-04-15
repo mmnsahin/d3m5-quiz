@@ -234,6 +234,20 @@
   </div>
 </div>
 
+<!-- ── UYARI MODAL (H4) ── -->
+<div id="warn-modal-h4">
+  <div class="warn-overlay" id="warn-overlay-h4"></div>
+  <div class="warn-box">
+    <div class="warn-icon">⚠️</div>
+    <h3>H4 — Bilgi</h3>
+    <p>58–64. sorular hatalıdır, düzeltilecektir.<br>Yine de devam etmek ister misiniz?</p>
+    <div class="warn-btns">
+      <button class="warn-cancel" id="warn-cancel-h4">Geri Dön</button>
+      <button class="warn-continue" id="warn-continue-h4">Yine de Devam Et</button>
+    </div>
+  </div>
+</div>
+
 <header>
   <div class="logo">📚</div>
   <h1>D3 · Modül 5 — Çıkmış Sorular</h1>
@@ -265,7 +279,8 @@
   </a>
 
   <a class="week-card" style="--card-color:#8b3db8"
-     href="quiz.html?file=Sorular/H4/h4.json&hafta=H4">
+     href="quiz.html?file=Sorular/H4/h4.json&hafta=H4"
+     id="h4-card">
     <span class="week-label">Hafta 4</span>
     <span class="week-title">H4</span>
     <span class="week-badge">✓ 101 Soru</span>
@@ -299,6 +314,26 @@
   btnCancel.addEventListener('click', closeModal);
   btnGo.addEventListener('click', () => {
     window.location.href = h1Card.href;
+  });
+
+  // H4 modal
+  const h4Card       = document.getElementById('h4-card');
+  const modalH4      = document.getElementById('warn-modal-h4');
+  const overlayH4    = document.getElementById('warn-overlay-h4');
+  const btnCancelH4  = document.getElementById('warn-cancel-h4');
+  const btnGoH4      = document.getElementById('warn-continue-h4');
+
+  h4Card.addEventListener('click', e => {
+    e.preventDefault();
+    modalH4.classList.add('open');
+  });
+
+  function closeModalH4() { modalH4.classList.remove('open'); }
+
+  overlayH4.addEventListener('click', closeModalH4);
+  btnCancelH4.addEventListener('click', closeModalH4);
+  btnGoH4.addEventListener('click', () => {
+    window.location.href = h4Card.href;
   });
 </script>
 </body>
