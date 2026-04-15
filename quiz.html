@@ -525,9 +525,43 @@
       min-width: 48px;
     }
   }
+  /* ── H4 UYARI MODAL ── */
+  #h4-warn-modal { display:none; position:fixed; inset:0; z-index:9999; align-items:center; justify-content:center; }
+  #h4-warn-modal.open { display:flex; }
+  #h4-warn-modal .warn-overlay { position:absolute; inset:0; background:rgba(0,0,0,0.45); }
+  #h4-warn-modal .warn-box {
+    position:relative; background:#fff; border-radius:14px; padding:28px 24px 22px;
+    max-width:360px; width:90%; box-shadow:0 8px 32px rgba(0,0,0,0.18); text-align:center;
+  }
+  #h4-warn-modal .warn-icon { font-size:2rem; margin-bottom:10px; }
+  #h4-warn-modal h3 { font-size:1.05rem; font-weight:700; color:#1a2744; margin-bottom:10px; }
+  #h4-warn-modal p { font-size:0.88rem; color:#4a5568; line-height:1.6; margin-bottom:18px; }
+  #h4-warn-modal .warn-btns { display:flex; gap:10px; justify-content:center; }
+  #h4-warn-modal .warn-cancel {
+    padding:9px 18px; border:1.5px solid #c8d4e0; border-radius:7px;
+    background:#fff; font-size:0.88rem; font-weight:600; cursor:pointer; font-family:inherit; color:#4a5568;
+  }
+  #h4-warn-modal .warn-continue {
+    padding:9px 18px; border:none; border-radius:7px;
+    background:#2e4a8a; color:#fff; font-size:0.88rem; font-weight:600; cursor:pointer; font-family:inherit;
+  }
 </style>
 </head>
 <body>
+
+<!-- H4 Uyarı Modal -->
+<div id="h4-warn-modal">
+  <div class="warn-overlay" id="h4-warn-overlay"></div>
+  <div class="warn-box">
+    <div class="warn-icon">⚠️</div>
+    <h3>H4 — Bilgi</h3>
+    <p>58–64. sorularda soru kayması olmuştur, düzeltilecektir.<br>Yine de devam etmek ister misiniz?</p>
+    <div class="warn-btns">
+      <button class="warn-cancel" id="h4-warn-cancel">← Geri Dön</button>
+      <button class="warn-continue" id="h4-warn-continue">Devam Et</button>
+    </div>
+  </div>
+</div>
 
 <!-- Mobile overlay -->
 <div id="sidebar-overlay"></div>
@@ -577,6 +611,15 @@ const jsonFile = params.get('file') || 'questions.json';
 const hafta    = params.get('hafta') || 'H3';
 document.getElementById('page-title').textContent = `📚 D3 · M5 · ${hafta} — Çıkmış Sorular`;
 document.title = `D3 M5 ${hafta} — Çıkmış Sorular`;
+
+// ── H4 uyarı modal ────────────────────────────────────────────────────────────
+if (hafta === 'H4') {
+  const h4Modal = document.getElementById('h4-warn-modal');
+  h4Modal.classList.add('open');
+  document.getElementById('h4-warn-overlay').addEventListener('click', () => h4Modal.classList.remove('open'));
+  document.getElementById('h4-warn-continue').addEventListener('click', () => h4Modal.classList.remove('open'));
+  document.getElementById('h4-warn-cancel').addEventListener('click', () => { window.location.href = 'index.html'; });
+}
 
 // ── Mobile sidebar toggle ─────────────────────────────────────────────────────
 const sidebar  = document.getElementById('sidebar');
