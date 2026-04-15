@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Yapılan Değişiklikler — D3 M5</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg: #f0f4f8;
+    --surface: #ffffff;
+    --accent: #2e4a8a;
+    --sidebar-bg: #1a2744;
+    --correct: #1a7f4b;
+    --wrong: #c0392b;
+    --warn: #a06000;
+    --text: #1c2b3a;
+    --muted: #7a8fa6;
+    --border: #dde4ed;
+    --radius: 12px;
+    --shadow: 0 2px 12px rgba(0,0,0,0.07);
+  }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    padding: 40px 20px 80px;
+  }
+
+  .page-header {
+    max-width: 640px;
+    margin: 0 auto 36px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+
+  .back-link {
+    font-size: 0.85rem;
+    color: var(--muted);
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.15s;
+  }
+  .back-link:hover { color: var(--accent); }
+
+  .page-title {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: var(--sidebar-bg);
+  }
+
+  .timeline {
+    max-width: 640px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+
+  .entry {
+    background: var(--surface);
+    border: 1.5px solid var(--border);
+    border-radius: var(--radius);
+    padding: 16px 20px;
+    box-shadow: var(--shadow);
+    border-left: 4px solid var(--accent);
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  .entry.fix   { border-left-color: var(--correct); }
+  .entry.warn  { border-left-color: var(--warn); }
+  .entry.add   { border-left-color: var(--accent); }
+  .entry.remove { border-left-color: var(--wrong); }
+
+  .entry-meta {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  .entry-date {
+    font-size: 0.72rem;
+    color: var(--muted);
+    font-weight: 600;
+  }
+
+  .entry-tag {
+    font-size: 0.68rem;
+    font-weight: 700;
+    padding: 2px 8px;
+    border-radius: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+  .entry.fix   .entry-tag { background: #eaf6ef; color: var(--correct); }
+  .entry.warn  .entry-tag { background: #fff8e6; color: var(--warn); }
+  .entry.add   .entry-tag { background: #e8eef8; color: var(--accent); }
+  .entry.remove .entry-tag { background: #fdf0ee; color: var(--wrong); }
+
+  .entry-hafta {
+    font-size: 0.72rem;
+    font-weight: 700;
+    color: var(--muted);
+    background: var(--bg);
+    padding: 2px 8px;
+    border-radius: 10px;
+    border: 1px solid var(--border);
+  }
+
+  .entry-text {
+    font-size: 0.92rem;
+    color: var(--text);
+    line-height: 1.5;
+  }
+</style>
+</head>
+<body>
+
+<div class="page-header">
+  <a href="index.html" class="back-link">← Ana Sayfa</a>
+  <h1 class="page-title">📋 Yapılan Değişiklikler</h1>
+</div>
+
+<div class="timeline">
+
+  <div class="entry warn">
+    <div class="entry-meta">
+      <span class="entry-date">15 Nisan 2025</span>
+      <span class="entry-tag">Uyarı</span>
+      <span class="entry-hafta">H4</span>
+    </div>
+    <div class="entry-text">58–64. sorularda soru kayması olmuştur. H4'e girerken uyarı eklendi. Düzeltme çalışmaları devam etmektedir.</div>
+  </div>
+
+  <div class="entry fix">
+    <div class="entry-meta">
+      <span class="entry-date">15 Nisan 2025</span>
+      <span class="entry-tag">Düzeltme</span>
+      <span class="entry-hafta">H4</span>
+    </div>
+    <div class="entry-text">54. soruda iki doğru cevap (B ve D) mevcuttu. Her iki şık da doğru kabul edilecek şekilde düzeltildi.</div>
+  </div>
+
+  <div class="entry fix">
+    <div class="entry-meta">
+      <span class="entry-date">15 Nisan 2025</span>
+      <span class="entry-tag">Düzeltme</span>
+      <span class="entry-hafta">H4</span>
+    </div>
+    <div class="entry-text">19. ve 23. sorular çift kayıtlıydı. Tekrar eden girişler silindi.</div>
+  </div>
+
+  <div class="entry add">
+    <div class="entry-meta">
+      <span class="entry-date">15 Nisan 2025</span>
+      <span class="entry-tag">Yeni Özellik</span>
+    </div>
+    <div class="entry-text">Kendini Test Et ekranına "Toplam Soru" modu eklendi. Toplam sınav soru sayısı girilince seçili haftaların havuzundan rastgele çekilir.</div>
+  </div>
+
+  <div class="entry add">
+    <div class="entry-meta">
+      <span class="entry-date">15 Nisan 2025</span>
+      <span class="entry-tag">Yeni</span>
+      <span class="entry-hafta">H4</span>
+    </div>
+    <div class="entry-text">H4 (101 soru) siteye eklendi ve aktif hale getirildi.</div>
+  </div>
+
+</div>
+
+</body>
+</html>
