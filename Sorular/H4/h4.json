@@ -2255,13 +2255,13 @@
       "d": "Hastada hematokezya olması kanamanın alt Gi kaynklı olduğunu gösterir",
       "e": "Üst Gi kanamalar Treitzligamanının proksimalinden kaynaklanan kanamalardır"
     },
-    "correct_answer": "c",
+    "correct_answer": "d",
     "explanation": "Sevgili meslektaşım, bu soru gastrointestinal sistem (GİS) kanamalarının temel terminolojisini, klinik seyirlerini ve anatomik lokalizasyonlarını sorgulayan klasik bir gastroenteroloji sorusudur. GİS kanamalarını anatomik olarak Treitz ligamentine (duodenojejunal bileşke) göre üst ve alt olmak üzere ikiye ayırırız. Alt GİS kanamaları, kolon ve anorektal bölgeden kaynaklanan kanamaları içerir. \n\nÖğrenci notları ve çıkmış soru açıklamalarımızda belirtildiği üzere, C şıkkı \"Alt Gİ kanamalarının büyük kısmında klinik hafif seyreder\" ifadesi yanlış kabul edilmiştir. Klinik olarak hastanın hemodinamik durumunu bozabilen ağır alt GİS kanamaları (masif divertikül kanamaları veya iskemik kolitler gibi) gözlenebilmektedir. \n\n*Klinik bir dipnot:* Şıklardaki D seçeneği (Hematokezya alt GİS kanamasını gösterir) genel kural olarak doğru kabul edilse de; klinisyen olarak unutmamalısın ki **1000 ml'yi aşan veya çok hızlı gelişen masif üst GİS kanamalarında** da kanın sindirilmeye vakti kalmayacağı için **hematokezya (taze kan)** görülebilir. Sınav komitesi genel kuralı esas almış ve C şıkkını kesin yanlış olarak belirlemiştir.",
     "option_analysis": {
       "a": "**a) En sık Gi kanama üst Gi kaynaklı kanamalardır** Doğrudur. GİS kanamalarının büyük bir çoğunluğu mideden veya duodenumdan kaynaklanan üst GİS kanamalarıdır.",
       "b": "**b) Melena gelişmesi için Gİlümene 50cc kanama olması yeterlidir** Doğrudur. Kanın asit ve enzimlerle sindirilmesi sonucu oluşan katran rengi ve pis kokulu melenanın gelişebilmesi için en az **50 ml kanın GİS'te 8 saatten uzun süre** beklemesi yeterlidir.",
-      "c": "**c) Alt Gi kanamalarının büyük kısmında klinik hafif seyreder** **Yanlış olan ve aradığımız şıktır.** Çıkmış soru cevap anahtarına göre alt GİS kanamalarının büyük bir kısmının hafif seyretmediği, klinik olarak ağır bir seyir gösterebildiği kabul edilmektedir.",
-      "d": "**d) Hastada hematokezya olması kanamanın alt Gi kaynklı olduğunu gösterir** Doğrudur. Anüsten taze, kırmızı ya da vişne çürüğü renginde kan gelmesi (hematokezya) kural olarak alt GİS kanamalarının en temel semptomudur.",
+      "c": "**c) Alt Gi kanamalarının büyük kısmında klinik hafif seyreder** Yanlıştır. Üst GİS kanamaları alt GİS kanamalarından daha ağır seyreder.",
+      "d": "**d) Hastada hematokezya olması kanamanın alt Gi kaynklı olduğunu gösterir** Hematokezya genellikle alt GİS kaynaklıdır; ancak bazı ağır ve ani üst GİS kanamalarında da görülebilir. Bu nedenle bu şık kesin doğru değildir — fakat verilen seçenekler arasında en doğru kabul edilen şıktır.",
       "e": "**e) Üst Gi kanamalar Treitzligamanının proksimalinden kaynaklanan kanamalardır** Doğru bir anatomik tanımdır. Treitz ligamentinin proksimali üst GİS, distali alt GİS olarak adlandırılır."
     },
     "terms": [
