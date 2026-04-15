@@ -740,8 +740,9 @@ function renderCard(q) {
 
   const cat     = categoryOf(q.id);
   const hasExp  = !!q.explanation;
-  const correct = (q.correct_answer || '').toLowerCase();
-  const optAn   = q.option_analysis || {};
+  const correctSet = new Set((q.correct_answer || '').toLowerCase().split(',').map(s => s.trim()).filter(Boolean));
+  const correct    = [...correctSet].join(','); // kept for display compat
+  const optAn      = q.option_analysis || {};
 
   // Source badge
   const sourceBadge = q.source
@@ -880,15 +881,16 @@ function renderCard(q) {
       answered = true;
       const chosen = opt.dataset.letter;
 
+      const isCorrectChoice = correctSet.has(chosen);
       card.querySelectorAll('.option').forEach(o => {
         o.classList.add('answered');
-        if (o.dataset.letter === correct) {
+        if (correctSet.has(o.dataset.letter)) {
           o.classList.add('revealed-correct');
-        } else if (o.dataset.letter === chosen) {
+        } else if (o.dataset.letter === chosen && !isCorrectChoice) {
           o.classList.add('revealed-wrong');
         }
-        // Show inline analysis for the chosen option and the correct option
-        if (o.dataset.letter === chosen || o.dataset.letter === correct) {
+        // Show inline analysis for the chosen option and all correct options
+        if (o.dataset.letter === chosen || correctSet.has(o.dataset.letter)) {
           o.classList.add('show-analysis');
         }
       });

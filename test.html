@@ -933,10 +933,11 @@ function restoreSession() {
       wrongItemsStore = [];
       let correct = 0, wrong = 0, blank = 0;
       allQuestions.forEach(qItem => {
-        const ua = userAnswers[qItem.id];
-        const ca = (qItem.correct_answer || '').toLowerCase();
+        const ua  = userAnswers[qItem.id];
+        const ca  = (qItem.correct_answer || '').toLowerCase();
+        const cas = new Set(ca.split(',').map(s => s.trim()).filter(Boolean));
         if (!ua || !ca) { blank++; }
-        else if (ua === ca) { correct++; }
+        else if (cas.has(ua)) { correct++; }
         else { wrong++; wrongItemsStore.push({ q: qItem, userAnswer: ua, correctAnswer: ca }); }
       });
       buildResultsScreen(correct, wrong, blank, wrongItemsStore);
@@ -1322,12 +1323,13 @@ function finishExam() {
   const wrongItems = [];
 
   allQuestions.forEach(q => {
-    const ua = userAnswers[q.id];
-    const ca = (q.correct_answer || '').toLowerCase();
+    const ua  = userAnswers[q.id];
+    const ca  = (q.correct_answer || '').toLowerCase();
+    const cas = new Set(ca.split(',').map(s => s.trim()).filter(Boolean));
 
     if (!ua || !ca) {
       blank++;
-    } else if (ua === ca) {
+    } else if (cas.has(ua)) {
       correct++;
     } else {
       wrong++;
@@ -1395,13 +1397,14 @@ function buildResultsScreen(correct, wrong, blank, wrongItems) {
 }
 
 function buildWrongCard(q, userAnswer, correctAnswer) {
-  const optAn  = q.option_analysis || {};
-  const opts   = Object.entries(q.options || {}).filter(([, v]) => v && String(v).trim());
-  const hasExp = !!q.explanation;
+  const optAn    = q.option_analysis || {};
+  const opts     = Object.entries(q.options || {}).filter(([, v]) => v && String(v).trim());
+  const hasExp   = !!q.explanation;
+  const correctSet = new Set((correctAnswer || '').split(',').map(s => s.trim()).filter(Boolean));
 
   // Options — rendered in fully-revealed state (no click needed)
   const optionsHtml = opts.map(([letter, text]) => {
-    const isCorrect    = letter === correctAnswer;
+    const isCorrect    = correctSet.has(letter);
     const isUserChoice = letter === userAnswer;
     let cls = 'option';
     if (isCorrect)    cls += ' revealed-correct';
