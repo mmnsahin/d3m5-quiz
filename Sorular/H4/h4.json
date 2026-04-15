@@ -1041,60 +1041,6 @@
     "exam_potential": "Prof. Dr. Ramazan Erdem Er'in \"Akut GİS Kanamasına Yaklaşım\" dersine ve diğer çıkmışlara baktığımızda bu konudan şu soru kalıplarını kesinlikle beklemelisin:\n\n1.  **Melena ve Hematokezya İstisnaları:** Hematokezya normalde alt GİS kanaması bulgusudur. Ancak sınavda sana; *\"Hastada hematokezya (taze kan) var ve hasta hipotansif (şok tablosunda). Kanama nereden kaynaklanıyor olabilir?\"* diye sorulursa; eğer kanama miktarı 1000 ml'yi aşan **çok hızlı ve masif bir üst GİS kanamasıysa**, kan bağırsakta sindirilmeye vakit bulamayacağı için makattan hematokezya şeklinde (taze kırmızı) çıkabilir. Şıklarda **Üst GİS**'i de düşünmelisin. Melena oluşması için ise GİS lümenine en az **50 cc** kanama olması ve 8 saat beklemesi yeterlidir (M5-2024-98 sorusu). \n2.  **Klinik Vaka - Mallory Weiss Eşleştirmesi:** Sınavda etiyoloji vaka üzerinden sorulur. Eğer öyküde \"Uzun süredir alkol kullanan, **defalarca normal (kansız) kustuğunu/öğürdüğünü, sonrasında şiddetli taze kan kusmaya başladığını**\" tarif eden bir hasta varsa cevap her zaman **Mallory-Weiss Yırtığıdır**.\n3.  **En sık ve En Ölümcül Neden:** Üst GİS kanamalarının en sık nedeni **Peptik Ülser**, en ölümcül (mortalitesi en yüksek) nedeni ise **Özofageal Varis Kanamalarıdır**. Sınavda bu istatistiki bilgi de çok sık sorgulanır."
   },
   {
-    "id": 19,
-    "source": "GIS-H4",
-    "question": "Üst gastrointestinal kanama nedenleri arasında en sık gözlenen, gastroduodenal arterin erozyonuna neden olan, hematemez ve/veya melenaya neden olabilen durum aşağıdakilerden hangisidir? (M5-2026-29) (M6-2025-46) (M5-2023-67) X3",
-    "options": {
-      "a": "Özefajit",
-      "b": "Gastrik ülser",
-      "c": "Duodenal ülser",
-      "d": "Akut gastrit",
-      "e": "Özefagogstrik varisler"
-    },
-    "correct_answer": "c",
-    "explanation": "Sevgili meslektaşım, bu soru üst gastrointestinal sistem (GİS) kanamalarının hem en sık nedenini hem de spesifik bir anatomik komplikasyonunu sorgulayan oldukça klasik bir sorudur. Akut üst GİS kanamalarının açık ara en sık nedeni, vakaların yaklaşık %50'sini oluşturan peptik gastroduodenal ülserlerdir. Buradaki en kritik anatomik ipucu **\"gastroduodenal arterin erozyonu\"**dur. Peptik ülserler en sık onikiparmak bağırsağında (duodenum) görülür ve duodenumun arka duvarının hemen arkasından çok büyük bir arter olan *A. gastroduodenalis* geçer. Arka duvar yerleşimli bir duodenal ülser derinleşerek bu arteri erode ettiğinde (aşındırdığında), doğrudan arteriyel lümene açılarak hastanın hayatını tehdit eden masif hematemez ve melena tablosuna yol açar. Bu nedenle cevap tartışmasız duodenal ülserdir.",
-    "option_analysis": {
-      "a": "**a) Özefajit** Özofagus mukozasının inflamasyonudur. Kanamaya neden olabilir ancak masif gastroduodenal arter erozyonu yapmaz ve en sık üst GİS kanama nedeni değildir.",
-      "b": "**b) Gastrik ülser** Midede yerleşimli peptik ülserlerdir. Üst GİS kanamalarının sık nedenlerinden biridir ancak anatomik yerleşimleri gereği gastroduodenal arteri değil, sıklıkla *Sol Gastrik Arteri (A. gastrica sinistra)* erode ederek kanarlar.",
-      "c": "**c) Duodenal ülser** Doğru cevabımızdır. Üst GİS kanamalarının en sık nedenidir ve arka duvar yerleşimli olanları gastroduodenal arter erozyonu ile masif kanama yapar.",
-      "d": "**d) Akut gastrit** Mide mukozasının yüzeysel eroziv hasarıdır. Akut gastrik mukozal lezyonlar üst GİS kanamalarının %15-30'unu oluştursa da (örn. NSAİİ gastriti, stres ülserleri), bunlar genellikle yüzeysel sızıntı şeklinde kanarlar ve majör bir arteri erode etmeleri beklenmez.",
-      "e": "**e) Özefagogstrik varisler** Portal hipertansiyon ve karaciğer sirozu zemininde gelişen, submukozal venlerin genişlemesi ve yırtılmasıdır. Arteriyel değil, venöz kaynaklı bir kanamadır. Üst GİS kanamalarının %20'sini oluşturur ancak **prognozu (mortalitesi) en kötü** olan kanama nedenidir."
-    },
-    "terms": [
-      {
-        "term": "Hematemez",
-        "definition": "Kan kusulmasıdır, genellikle üst GİS kanamasını gösterir. Kanama odağı duodenum veya öncesindedir (Treitz ligamentinin proksimali). Kan kırmızı renkteyse kanamanın çok yeni olduğunu, midede asitle temas edip beklerse \"kahve telvesi\" görünümünde olduğunu gösterir."
-      },
-      {
-        "term": "Melena",
-        "definition": "Sindirilmiş kanın anüsten atılmasıdır. Dışkı siyah, katran renginde, cıvık ve çok pis kokuludur. Melena oluşması için GİS lümenine en az 50 cc (ml) kanama olması ve bu kanın GİS'te yaklaşık 8 saat beklemesi gerekir."
-      },
-      {
-        "term": "Erozyon",
-        "definition": "Ülserin derinleşerek altındaki kan damarının duvarını aşındırması ve damar bütünlüğünü bozmasıdır."
-      },
-      {
-        "term": "Treitz Ligamenti (Musculus suspensorius duodeni)",
-        "definition": "Duodenum ile jejunum arasındaki anatomik sınırdır. Bu sınırın proksimalinden (üstünden) kaynaklanan kanamalara üst GİS kanaması denir."
-      }
-    ],
-    "subtopics": [
-      {
-        "title": "Mallory-Weiss Yırtıkları (%8)",
-        "content": "Özellikle yoğun alkol kullanımı veya gebelik gibi durumlarda, şiddetli öğürme ve kusmalara bağlı olarak gastroözofageal bileşkede (özofagus alt ucu ve mide proksimali) gelişen uzunlamasına mukozal yırtıklardır."
-      },
-      {
-        "title": "Dieulafoy Lezyonu (%2)",
-        "content": "Mide mukozasında erode olmuş, anormal derecede büyük çaplı submukozal bir arterin fışkırır tarzda kanamasıdır."
-      },
-      {
-        "title": "Varis Kanamaları",
-        "content": "Siroz hastalarında portal ven basıncının artması sonucu gelişir. Hastalarda splenomegali, ikter (sarılık), assit, kaput medusa gibi siroz bulguları fizik muayenede saptanabilir."
-      }
-    ],
-    "exam_potential": "Gastroenteroloji ders notlarına ve geçmiş dönem çıkmışlarına baktığımızda bu konudan şu banko soruları beklemelisiniz:\n\n1.  **Melena Kriteri (M5-2024-98):** Sınavda sıklıkla \"Melena gelişmesi için GİS lümenine ne kadar kanama olması yeterlidir?\" diye sorulur. Cevap kesinlikle **50 cc (ml)** olmalıdır.\n2.  **En Sık Neden vs. En Kötü Prognoz:** \"Üst GİS kanamalarının en sık nedeni nedir?\" denirse cevap **Peptik Ülser**; \"Prognozu (mortalitesi) en kötü olan kanama nedeni nedir?\" denirse cevap **Özofageal ve gastrik varisler** olmalıdır.\n3.  **Klinik Vaka (Mallory-Weiss Eşleştirmesi):** \"Defalarca normal kustuktan veya şiddetli öğürdükten sonra taze kan (hematemez) kusmaya başlayan hasta\" şeklinde bir vaka kurgusu gelirse, cevap doğrudan **Mallory-Weiss Sendromu / Yırtığı** olmalıdır.\n4.  **Kanama Rengi Yorumu:** \"Hematemez olgularında gelen kanın kırmızı olması neyi ifade eder?\" diye sorulursa cevap **\"Kanamanın çok yeni olduğunu\"** şeklinde aranmalıdır."
-  },
-  {
     "id": 21,
     "source": "GIS-H4",
     "question": "Karın organlarının çoğunluğu, bilateral simetrik innervasyona sahiptirler ve ağrıları çoğunlukla orta hatta hissedilir. Kesin olarak lateralize edilebilen bir abdominal ağı, innervasyonları tek taraflı olan aşağıdaki hangi organdan köken alabilir? (M5-2026-49) (M6-2025-62) (M5-2024-80) (M5-2023-69) X4",
@@ -1233,56 +1179,6 @@
     ],
     "subtopics": [],
     "exam_potential": "Prof. Dr. Hale Gökcan'ın ve Prof. Dr. Nuray Yazıhan'ın notlarına baktığımızda, akut ve kronik ishalli hasta yaklaşımından şu tipik sorular bankodur:\n\n1.  **İshal Fizyopatolojik Sınıflandırması:** Çıkmış bir soruda da görüldüğü üzere (M5-2026-100), ishallerin fizyopatolojisine göre sınıflandırılmasında **\"Enfeksiyöz tip ishal\"** diye ayrı bir fizyolojik mekanizma başlığı **yoktur**. Doğru sınıflandırma Osmotik, Sekretuvar, İnflamatuvar ve Motilite bozukluğudur. Enfeksiyöz ajanlar patogeneze göre sekretuvar veya inflamatuvar yollarla ishal yaparlar.\n2.  **Dışkı Makroskopisi/Mikroskopisi (İlk Tetkik):** Sınavda size \"Akut diyare ile başvuran hastada ishalin enfeksiyöz ya da inflamatuvar nedenlerle geliştiğini anlamak için **ilk yapılacak tetkik** nedir?\" diye sorulabilir. Cevap dışkı kültürü değil, **Dışkı Makroskopisi ve Mikroskopisidir** (Dışkıda lökosit/kan aranması).\n3.  **Malabsorpsiyon (Yağ Emilimi) Testi:** Kronik ishal sorusunda, \"Dışkıda günlük ne kadar yağ atılımı steatore (yağlı ishal/malabsorpsiyon) varlığını gösterir?\" diye sorulur. Günlük 100 gram yağ alan bireyde **>6 gram/gün** yağ atılımı steatore (pankreas yetmezliği, çölyak vb.) göstergesidir.\n4.  **Akut İshalde Yatış Endikasyonu (Hayati Bilgi):** Sorudaki A şıkkı sıklıkla vaka sorusu olarak gelir. \"Sulu ishal, şiddetli taşikardi, hipotansiyon ve bilinç bulanıklığı olan hastada en uygun yaklaşım nedir?\" diye sorulduğunda **Hastaneye yatırılarak (IV sıvı ile) tedavi** cevabı en doğru ve hayati seçenektir."
-  },
-  {
-    "id": 23,
-    "source": "GIS-H4",
-    "question": "Diare için aşağıdaki ifadelerden hangisi yanlıştır? (M5-2026-79)",
-    "options": {
-      "a": "Taşikardi, hipotansiyon ve bilinç bulanıklığı olan akut ishal vakaları hastaneye yatırılarak tedavi edilmelidir.",
-      "b": "Süresi 4 haftadan uzun olan ishaller kronik diare olarak tanımlanır.",
-      "c": "Akut ishalle başvuran hastalarda şüpheli gıda alımı ve seyahat öyküsü sorgulanmalıdır.",
-      "d": "Tanıda; ishal süresine ve tipine bakmaksızın tüm hastalara kolonoskopik değerlendirme yapılmalıdır.",
-      "e": "Kronik diaresi olan olgularda kronik hastalıkları, kullandığı ilaçlar ve geçirilmiş cerrahi varlığı sorgulanmalıdır."
-    },
-    "correct_answer": "d",
-    "explanation": "Sevgili meslektaşım, bu soru poliklinik ve acil servis pratiğinde çok sık karşılaştığımız ishalli (diyareli) hastaya klinik yaklaşım prensiplerini sorgulamaktadır. İshalli bir hastada ilk yapılması gereken, ishalin akut mu yoksa kronik mi olduğunu belirlemek ve hastanın hidrasyon (sıvı) durumunu değerlendirmektir. Akut ishaller sıklıkla enfeksiyöz kaynaklıdır ve hastaların büyük bir kısmında kendi kendini sınırlar. Bu nedenle ilk planda ayrıntılı anamnez, fizik muayene (ateş, nabız, tansiyon, turgor-tonus) ve basit dışkı mikroskopisi ile yetinilir. İshal süresine ve tipine bakmaksızın her hastaya kolonoskopi gibi invaziv bir işlem yapılması tıp pratiğinde yeri olmayan, yanlış bir uygulamadır.",
-    "option_analysis": {
-      "a": "**a) Taşikardi, hipotansiyon ve bilinç bulanıklığı olan akut ishal vakaları hastaneye yatırılarak tedavi edilmelidir.** Kesinlikle doğrudur. Akut ishalin en korkulan komplikasyonu dehidratasyondur (sıvı kaybı). Hastada taşikardi ve hipotansiyon şok tablosuna gidişi gösterir; bu hastalar derhal hastaneye yatırılmalı ve intravenöz (IV) sıvı tedavisi başlanmalıdır.",
-      "b": "**b) Süresi 4 haftadan uzun olan ishaller kronik diare olarak tanımlanır.** Doğrudur. Klinikte ishal şikayeti 4 haftadan uzun sürüyorsa buna kronik diyare adını veririz.",
-      "c": "**c) Akut ishalle başvuran hastalarda şüpheli gıda alımı ve seyahat öyküsü sorgulanmalıdır.** Doğrudur. Akut ishallerin en sık sebebi besin zehirlenmeleri ve turist diyaresi gibi enfeksiyöz ajanlardır. Bu yüzden yurt içi/yurt dışı (özellikle Güney Asya) seyahati ve şüpheli gıda tüketimi mutlaka sorulmalıdır.",
-      "d": "**d) Tanıda; ishal süresine ve tipine bakmaksızın tüm hastalara kolonoskopik değerlendirme yapılmalıdır.** Yanlış olan ve bizim aradığımız şıktır. Akut ishallerde öncelik dışkı incelemesi ve sıvı desteğidir. Kolonoskopi genellikle inflamatuvar barsak hastalıklarından şüphelenilen kronik ishallerde veya alarm semptomlarının eşlik ettiği spesifik vakalarda tercih edilir.",
-      "e": "**e) Kronik diaresi olan olgularda kronik hastalıkları, kullandığı ilaçlar ve geçirilmiş cerrahi varlığı sorgulanmalıdır.** Doğrudur. Kronik ishal etiyolojisinde geçirilmiş bağırsak cerrahileri (kısa bağırsak sendromu), gizli laksatif veya antibiyotik kullanımı ve diyabet gibi kronik metabolik/endokrin hastalıklar ön planda yer alır ve detaylıca sorgulanmalıdır."
-    },
-    "terms": [
-      {
-        "term": "Diyare (İshal)",
-        "definition": "Dışkı miktarının (genellikle 100-250 mg/gün'ü aşması), su içeriğinin artması ve dışkılama sıklığının artması tablosudur. Hastanın günlük şekilsiz dışkılamaya başlaması önemli bir diyare göstergesidir."
-      },
-      {
-        "term": "Tenezm",
-        "definition": "Dışkılama sonrasında bağırsağın tam boşalmadığı hissi ve rahatlayamama, sürekli dışkılama isteğinin devam etmesi durumudur."
-      },
-      {
-        "term": "Dehidratasyon",
-        "definition": "Vücuttan fazla sıvı kaybedilmesi. İshal hastalarının fizik muayenesinde mutlaka deri turgoru, dil kuruluğu, taşikardi ve kan basıncı ile değerlendirilmelidir."
-      }
-    ],
-    "subtopics": [
-      {
-        "title": "İshalin Fizyopatolojik Sınıflaması",
-        "content": "İshaller temel olarak 4 mekanizmayla oluşur: **1) Osmotik diyare** (bağırsak lümeninde su tutan maddeler), **2) Sekretuvar diyare** (bağırsaktan sıvı salgılanmasının artması), **3) İnflamatuvar tip ishal** (mukozal hasar ve ülserasyon), **4) Motilite bozukluğuna bağlı ishal**."
-      },
-      {
-        "title": "Steatore (Yağ Malabsorpsiyonu)",
-        "content": "Kronik ishalde dışkıda yağ miktarının kantitatif olarak ölçülmesi önemlidir. Günlük 100g yağ alan bir hastada dışkıyla **>6g/gün yağ atılımı** saptanması steatore (yağ malabsorpsiyonu) göstergesidir ve pankreas yetmezliğini (kronik pankreatit vb.) işaret edebilir."
-      },
-      {
-        "title": "Karbonhidrat Malabsorpsiyonu",
-        "content": "Bakteriyel fermentasyon nedeniyle dışkı pH'ı <5.5-6 düzeyine düşer."
-      }
-    ],
-    "exam_potential": "Prof. Dr. Hale Gökcan'ın ders notlarına ve çıkmış sorulara baktığımızda bu konudan şu soru tipleri banko olarak gelir:\n\n1.  **Fizyopatolojik Sınıflama Çeldiricisi:** Sınavda defalarca sorulduğu üzere \"Fizyopatolojisine göre ishaller 4 sınıfa ayrılır. Hangisi bu sınıflamaya dahil değildir?\" diye sorulur. Şıklara çeldirici olarak **\"Enfeksiyöz tip ishal\"** konur. Unutma; enfeksiyöz tip ishal diye bir fizyopatolojik sınıf yoktur; enfeksiyonlar mekanizmalarına göre sekretuvar veya inflamatuvar yollarla ishal yaparlar.\n2.  **Kabızlıkta Alarm Semptomları Ayrımı:** Bu derste ishalin yanı sıra kabızlık yaklaşımı da işlenir. Sınavda \"Aşağıdakilerden hangisi kabızlık değerlendirmesinde alarm semptomlarından değildir?\" diye sorulur. Alarm semptomları; *rektal kanama, demir eksikliği anemisi, açıklanamayan kilo kaybı ve ileri yaşta yeni başlangıçlı kabızlıktır*. Şıklarda sıklıkla konulan **\"Karın ağrısı\"**, tek başına bir alarm semptomu **değildir**.\n3.  **İshalde Kantitatif Yağ Miktarı (Steatore Kriteri):** Sınavlarda dışkıda ne kadar yağ saptanmasının malabsorpsiyon lehine olduğu çok sık sorulur. Cevap daima **>6 gram/gün** atılım olmalıdır.\n\nHarika, dersimize kaldığımız yerden devam edelim sevgili meslektaşım. Getirdiğin bu soru, acil serviste hayat kurtaran \"karın ağrısına klinik yaklaşım\" ve ağrının karakterine göre ayırıcı tanı yapma becerisini ölçen son derece kıymetli bir sorudur. Çıkmış sorularda üç kez (X3) tekrar ettiğini de düşünürsek, sınav komitesinin bu tabloyu ne kadar önemsediğini görebiliriz. Gelin birlikte analiz edelim."
   },
   {
     "id": 25,
