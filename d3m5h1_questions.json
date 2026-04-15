@@ -10,8 +10,8 @@
       "d": "Milyon nüfus başına 1000",
       "e": ""
     },
-    "correct_answer": "d",
-    "explanation": "Bu soru, Kronik Böbrek Hastalığı'nın (KBH) ülkemizdeki epidemiyolojisini ve son dönem (Evre 5) böbrek yetmezliği yükünü bilip bilmediğini ölçüyor. Böbrek hastalıklarında epidemiyolojik veriler halk sağlığı politikaları ve nefroloji pratiği için çok önemlidir. Derste hocamızın belirttiği verilere göre, Türkiye'de son dönem böbrek hastası (SDBH) sayısı yaklaşık 86.600 civarındadır. Bu sayıyı Türkiye nüfusuna oranladığımızda milyon nüfus başına yaklaşık 1000 hastaya denk gelmektedir.",
+    "correct_answer": "a",
+    "explanation": "Bu soru, Kronik Böbrek Hastalığı'nın (KBH) ülkemizdeki epidemiyolojisini ve son dönem (Evre 5) böbrek yetmezliği yükünü bilip bilmediğini ölçüyor. Notta belirtilen değere göre doğru cevap milyon nüfus başına 1100'dür.",
     "option_analysis": {
       "a": "**a) Milyon nüfus başına 1100**",
       "b": "**b) Milyon nüfus başına 1500**",
@@ -66,7 +66,8 @@
       }
     ],
     "subtopics": "Üremik Semptomlar, Ağrı Karakteristiği, Ödem (gode bırakan, hipoalbüminemi ile ilişkili), Nefrotik vs Nefritik Sendrom ayrımı.",
-    "exam_potential": "Noktüri-poliüri ayrımı, hematürinin glomerüler kaynağı (dismorfik eritrositler, eritrosit silendirleri), Nefrotik vs Nefritik sendrom klinik ayrımı sık sorulmaktadır."
+    "exam_potential": "Noktüri-poliüri ayrımı, hematürinin glomerüler kaynağı (dismorfik eritrositler, eritrosit silendirleri), Nefrotik vs Nefritik sendrom klinik ayrımı sık sorulmaktadır.",
+    "disabled": true
   },
   {
     "id": 3,
