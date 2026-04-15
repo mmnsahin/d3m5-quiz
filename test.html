@@ -1159,13 +1159,13 @@ async function launchQuiz() {
 
     if (configMode === 'per-week') {
       results.forEach((data, i) => {
-        const sorted = data.sort((a, b) => a.id - b.id);
+        const sorted = data.filter(q => !q.disabled).sort((a, b) => a.id - b.id);
         merged = merged.concat(sorted.slice(0, configs[i].count));
       });
       if (randomize) shuffle(merged);
     } else {
       // Combine full pool, shuffle, take totalTarget
-      results.forEach(data => { merged = merged.concat(data); });
+      results.forEach(data => { merged = merged.concat(data.filter(q => !q.disabled)); });
       shuffle(merged);
       merged = merged.slice(0, totalTarget);
     }
